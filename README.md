@@ -1,5 +1,9 @@
 # Round the Lantern
 
+[![Round the Lantern: the South Bishop lantern at night, birds lit in its beams. Click to watch the film on YouTube.](docs/film/poster.jpg)](https://youtu.be/gzMrZszV7GI)
+
+*Round the Lantern* (2:22). Click the still to watch on YouTube.
+
 From 1879 to 1887, keepers at lighthouses and lightships around Britain and Ireland filled in printed schedules for a British Association committee studying bird migration. They wrote down the birds that passed, circled the lantern, struck it or died, with the hour, the wind and the weather, and the committee printed their entries, by name, in nine annual reports. Nobody had turned those reports back into data.
 
 This repository does that, tests how good the keepers were as instruments, and makes two things from it: a short film and an explorer of every night.

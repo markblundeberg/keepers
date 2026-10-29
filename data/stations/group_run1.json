@@ -1,0 +1,2343 @@
+{
+ "stations": [
+  {
+   "id": "berwick",
+   "name": "Berwick",
+   "kind": "lighthouse",
+   "members": [
+    2
+   ],
+   "note": "Only in 1879, first on the list before Longstone; probably the Berwick pier light."
+  },
+  {
+   "id": "longstone",
+   "name": "Longstone",
+   "kind": "lighthouse",
+   "members": [
+    61,
+    62,
+    451
+   ],
+   "note": null
+  },
+  {
+   "id": "inner-farne",
+   "name": "Inner Farne",
+   "kind": "lighthouse",
+   "members": [
+    22,
+    23,
+    24,
+    49,
+    50,
+    441
+   ],
+   "note": "'Farn Islands' (1879) sits in the Inner Farne slot between Longstone and Coquet Island, so it is taken to be Inner Farne."
+  },
+  {
+   "id": "coquet",
+   "name": "Coquet",
+   "kind": "lighthouse",
+   "members": [
+    8,
+    9,
+    411
+   ],
+   "note": null
+  },
+  {
+   "id": "souter",
+   "name": "Souter Point",
+   "kind": "lighthouse",
+   "members": [
+    84
+   ],
+   "note": null
+  },
+  {
+   "id": "tees-lv",
+   "name": "Tees No. 5 Buoy L.V.",
+   "kind": "light-vessel",
+   "members": [
+    0,
+    69,
+    100,
+    102,
+    103,
+    486
+   ],
+   "note": "'Teesmouth' (Lightvessel, No. 5 Buoy), 'No. 5 Buoy, Teesmouth', 'Tees' L.V. and '5 Buoy Tees' are all one vessel. In 1883 and 1884 it is printed ahead of Coquet Island."
+  },
+  {
+   "id": "teesmouth-1880",
+   "name": "Teesmouth (second 1880 entry)",
+   "kind": "other",
+   "members": [
+    104
+   ],
+   "note": "1880 only, no. 44b, printed right after the Teesmouth light-vessel (44a). It has no type and it is not the vessel. It may be a shore light at the Tees mouth. It cannot be South Gare, which was not lit until 1884. Kind unknown."
+  },
+  {
+   "id": "south-gare",
+   "name": "South Gare (Tees Breakwater)",
+   "kind": "lighthouse",
+   "members": [
+    101
+   ],
+   "note": "'Tees Breakwater' L.H., 1885-86."
+  },
+  {
+   "id": "whitby-high",
+   "name": "Whitby High",
+   "kind": "lighthouse",
+   "members": [
+    108,
+    109,
+    110,
+    492
+   ],
+   "note": null
+  },
+  {
+   "id": "flamborough-head",
+   "name": "Flamborough Head",
+   "kind": "lighthouse",
+   "members": [
+    25,
+    26,
+    27,
+    425
+   ],
+   "note": null
+  },
+  {
+   "id": "spurn-point",
+   "name": "Spurn Point",
+   "kind": "lighthouse",
+   "members": [
+    91,
+    95,
+    96,
+    477
+   ],
+   "note": "'Spurn' printed as L.H. (1882-87) is the lighthouse; it is printed just before the Spurn L.V."
+  },
+  {
+   "id": "spurn-lv",
+   "name": "Spurn (Newsand) L.V.",
+   "kind": "light-vessel",
+   "members": [
+    90,
+    92,
+    93,
+    94,
+    478
+   ],
+   "note": "'Spurn' Lightvessel, 6 miles S.S.E. of Spurn Point, is the same vessel as 'Spurn (Newsand)'."
+  },
+  {
+   "id": "bull-lv",
+   "name": "Bull L.V.",
+   "kind": "light-vessel",
+   "members": [
+    3
+   ],
+   "note": "1879 only, mouth of Humber."
+  },
+  {
+   "id": "great-cotes",
+   "name": "Great Cotes",
+   "kind": "other",
+   "members": [
+    32
+   ],
+   "note": "1880 only, no. 48b, with no type. It takes the Bull L.V.'s 1879 place between the Spurn vessel and Outer Dowsing. It might be the Bull vessel under a shore address (Great Coates is near Grimsby), or it might be a Humber shore light. Kept separate; please check."
+  },
+  {
+   "id": "outer-dowsing-lv",
+   "name": "Outer Dowsing L.V.",
+   "kind": "light-vessel",
+   "members": [
+    78,
+    79,
+    464
+   ],
+   "note": null
+  },
+  {
+   "id": "inner-dowsing-lv",
+   "name": "Inner Dowsing L.V.",
+   "kind": "light-vessel",
+   "members": [
+    47,
+    48,
+    440
+   ],
+   "note": null
+  },
+  {
+   "id": "dudgeon-lv",
+   "name": "Dudgeon L.V.",
+   "kind": "light-vessel",
+   "members": [
+    15,
+    16,
+    416
+   ],
+   "note": null
+  },
+  {
+   "id": "lynn-well-lv",
+   "name": "Lynn Well L.V.",
+   "kind": "light-vessel",
+   "members": [
+    60,
+    64,
+    65,
+    450
+   ],
+   "note": "'Llyn Wells' (1882-87) is a misspelling of Lynn Well."
+  },
+  {
+   "id": "hunstanton",
+   "name": "Hunstanton",
+   "kind": "lighthouse",
+   "members": [
+    45,
+    46,
+    438
+   ],
+   "note": null
+  },
+  {
+   "id": "cromer",
+   "name": "Cromer",
+   "kind": "lighthouse",
+   "members": [
+    13,
+    14,
+    415
+   ],
+   "note": null
+  },
+  {
+   "id": "northrepps",
+   "name": "Northrepps",
+   "kind": "other",
+   "members": [
+    75
+   ],
+   "note": "1880 only, no. 55a, printed between Cromer and Leman and Ower (55b), with no type. It is not Cromer, which is a separate row (54) in the same list. Kind and identity unknown."
+  },
+  {
+   "id": "leman-and-ower-lv",
+   "name": "Leman and Ower L.V.",
+   "kind": "light-vessel",
+   "members": [
+    56,
+    57,
+    58,
+    59,
+    449
+   ],
+   "note": "Printed 'L.H.' in 1887, which is a slip: it is still between Winterton and Newarp."
+  },
+  {
+   "id": "happisburgh",
+   "name": "Happisburgh",
+   "kind": "lighthouse",
+   "members": [
+    38,
+    41,
+    43,
+    432
+   ],
+   "note": "Hasborough, Hasbrough or Hasbro' printed as L.H. or Lighthouse. Kept apart from the light-vessel by the printed type."
+  },
+  {
+   "id": "happisburgh-lv",
+   "name": "Happisburgh L.V.",
+   "kind": "light-vessel",
+   "members": [
+    39,
+    40,
+    42,
+    433
+   ],
+   "note": "Hasborough, Hasbrough or Hasbro' printed as L.V. or Lightvessel ('north end Hasborough Sound')."
+  },
+  {
+   "id": "winterton",
+   "name": "Winterton",
+   "kind": "lighthouse",
+   "members": [
+    111,
+    112,
+    493
+   ],
+   "note": null
+  },
+  {
+   "id": "newarp-lv",
+   "name": "Newarp L.V.",
+   "kind": "light-vessel",
+   "members": [
+    67,
+    68,
+    457
+   ],
+   "note": null
+  },
+  {
+   "id": "cockle-lv",
+   "name": "Cockle L.V.",
+   "kind": "light-vessel",
+   "members": [
+    6,
+    7,
+    408
+   ],
+   "note": null
+  },
+  {
+   "id": "corton-lv",
+   "name": "Corton L.V.",
+   "kind": "light-vessel",
+   "members": [
+    11,
+    12,
+    412
+   ],
+   "note": null
+  },
+  {
+   "id": "lowestoft",
+   "name": "Lowestoft",
+   "kind": "lighthouse",
+   "members": [
+    63
+   ],
+   "note": null
+  },
+  {
+   "id": "orfordness",
+   "name": "Orfordness",
+   "kind": "lighthouse",
+   "members": [
+    76,
+    77,
+    463
+   ],
+   "note": null
+  },
+  {
+   "id": "shipwash-lv",
+   "name": "Shipwash L.V.",
+   "kind": "light-vessel",
+   "members": [
+    82,
+    83,
+    471
+   ],
+   "note": null
+  },
+  {
+   "id": "landguard-point",
+   "name": "Landguard Point",
+   "kind": "lighthouse",
+   "members": [
+    54,
+    55,
+    448
+   ],
+   "note": "Printed 'Languard'."
+  },
+  {
+   "id": "cork-lv",
+   "name": "Cork L.V.",
+   "kind": "light-vessel",
+   "members": [
+    10
+   ],
+   "note": null
+  },
+  {
+   "id": "galloper-lv",
+   "name": "Galloper L.V.",
+   "kind": "light-vessel",
+   "members": [
+    28,
+    29,
+    427
+   ],
+   "note": null
+  },
+  {
+   "id": "kentish-knock-lv",
+   "name": "Kentish Knock L.V.",
+   "kind": "light-vessel",
+   "members": [
+    51,
+    52,
+    53,
+    444
+   ],
+   "note": null
+  },
+  {
+   "id": "swin-middle-lv",
+   "name": "Swin Middle L.V.",
+   "kind": "light-vessel",
+   "members": [
+    98,
+    99,
+    483
+   ],
+   "note": null
+  },
+  {
+   "id": "tongue-lv",
+   "name": "Tongue L.V.",
+   "kind": "light-vessel",
+   "members": [
+    105,
+    106,
+    487
+   ],
+   "note": null
+  },
+  {
+   "id": "nore-lv",
+   "name": "Nore L.V.",
+   "kind": "light-vessel",
+   "members": [
+    70,
+    71,
+    458
+   ],
+   "note": null
+  },
+  {
+   "id": "north-foreland",
+   "name": "North Foreland",
+   "kind": "lighthouse",
+   "members": [
+    72,
+    73,
+    459
+   ],
+   "note": null
+  },
+  {
+   "id": "north-sand-head-lv",
+   "name": "North Sand Head (Goodwin) L.V.",
+   "kind": "light-vessel",
+   "members": [
+    30,
+    31,
+    74,
+    429
+   ],
+   "note": "'Goodwin' L.V. and 'North Sand Head' L.V. never appear in the same list. Both come between North Foreland and the Gull, and in the 1885 and 1887 master lists North Sand Head has no. 60, Goodwin's place. So they are taken to be one vessel, the North Sand Head of the Goodwins. Please check."
+  },
+  {
+   "id": "gull-lv",
+   "name": "Gull (Gull Stream) L.V.",
+   "kind": "light-vessel",
+   "members": [
+    33,
+    34,
+    35,
+    430
+   ],
+   "note": null
+  },
+  {
+   "id": "south-sand-head-lv",
+   "name": "South Sand Head L.V.",
+   "kind": "light-vessel",
+   "members": [
+    87,
+    88,
+    89,
+    476
+   ],
+   "note": null
+  },
+  {
+   "id": "east-goodwin-lv",
+   "name": "East Goodwin (East Side) L.V.",
+   "kind": "light-vessel",
+   "members": [
+    19,
+    20,
+    21,
+    423
+   ],
+   "note": null
+  },
+  {
+   "id": "south-foreland",
+   "name": "South Foreland",
+   "kind": "lighthouse",
+   "members": [
+    85,
+    86,
+    475
+   ],
+   "note": null
+  },
+  {
+   "id": "varne-lv",
+   "name": "Varne L.V.",
+   "kind": "light-vessel",
+   "members": [
+    107
+   ],
+   "note": null
+  },
+  {
+   "id": "dungeness",
+   "name": "Dungeness",
+   "kind": "lighthouse",
+   "members": [
+    17,
+    18
+   ],
+   "note": null
+  },
+  {
+   "id": "royal-sovereign-lv",
+   "name": "Royal Sovereign L.V.",
+   "kind": "light-vessel",
+   "members": [
+    81
+   ],
+   "note": null
+  },
+  {
+   "id": "beachy-head",
+   "name": "Beachy Head",
+   "kind": "lighthouse",
+   "members": [
+    1
+   ],
+   "note": null
+  },
+  {
+   "id": "owers-lv",
+   "name": "Owers L.V.",
+   "kind": "light-vessel",
+   "members": [
+    80
+   ],
+   "note": null
+  },
+  {
+   "id": "st-catherines",
+   "name": "St Catherine's",
+   "kind": "lighthouse",
+   "members": [
+    97
+   ],
+   "note": null
+  },
+  {
+   "id": "nab-lv",
+   "name": "Nab L.V.",
+   "kind": "light-vessel",
+   "members": [
+    66
+   ],
+   "note": null
+  },
+  {
+   "id": "casquets",
+   "name": "Casquets",
+   "kind": "lighthouse",
+   "members": [
+    4,
+    5,
+    277,
+    405
+   ],
+   "note": null
+  },
+  {
+   "id": "hanois",
+   "name": "Hanois",
+   "kind": "lighthouse",
+   "members": [
+    36,
+    37,
+    281,
+    431
+   ],
+   "note": null
+  },
+  {
+   "id": "heligoland",
+   "name": "Heligoland",
+   "kind": "lighthouse",
+   "members": [
+    44,
+    282
+   ],
+   "note": "Printed in the 1880 English east list and in the outlying section of the master lists."
+  },
+  {
+   "id": "allonby",
+   "name": "Allonby",
+   "kind": "lighthouse",
+   "members": [
+    114
+   ],
+   "note": "1881 only, no. 121, first on the west coast list, printed as L.H. There is no well-known Allonby lighthouse, so it may be a nearby Solway light under a village name. Please check."
+  },
+  {
+   "id": "st-bees",
+   "name": "St Bees",
+   "kind": "lighthouse",
+   "members": [
+    179,
+    181
+   ],
+   "note": null
+  },
+  {
+   "id": "selker-lv",
+   "name": "Selker L.V.",
+   "kind": "light-vessel",
+   "members": [
+    171
+   ],
+   "note": null
+  },
+  {
+   "id": "morecambe-bay-lv",
+   "name": "Morecambe Bay L.V.",
+   "kind": "light-vessel",
+   "members": [
+    156
+   ],
+   "note": null
+  },
+  {
+   "id": "dee-lv",
+   "name": "Dee L.V.",
+   "kind": "light-vessel",
+   "members": [
+    132,
+    168
+   ],
+   "note": "'River Dee' in 1886-87."
+  },
+  {
+   "id": "point-of-ayr-wales",
+   "name": "Point of Ayr (Flintshire)",
+   "kind": "lighthouse",
+   "members": [
+    113
+   ],
+   "note": "Printed 'Air'. This is the Dee estuary light, not Point of Ayre in the Isle of Man."
+  },
+  {
+   "id": "trwyn-du",
+   "name": "Trwyn Du (Menai / Penmon)",
+   "kind": "lighthouse",
+   "members": [
+    151
+   ],
+   "note": null
+  },
+  {
+   "id": "skerries",
+   "name": "Skerries",
+   "kind": "lighthouse",
+   "members": [
+    174,
+    175
+   ],
+   "note": "'Skerries Rock' in 1886-87."
+  },
+  {
+   "id": "holyhead-breakwater",
+   "name": "Holyhead Breakwater",
+   "kind": "lighthouse",
+   "members": [
+    142
+   ],
+   "note": null
+  },
+  {
+   "id": "north-stack",
+   "name": "North Stack",
+   "kind": "other",
+   "members": [
+    164,
+    165
+   ],
+   "note": "Printed as L.H. in 1880 and as 'Fog Horn Station' in 1881. North Stack was a fog signal station."
+  },
+  {
+   "id": "south-stack",
+   "name": "South Stack",
+   "kind": "lighthouse",
+   "members": [
+    178
+   ],
+   "note": null
+  },
+  {
+   "id": "caernarfon-bay-lv",
+   "name": "Caernarfon Bay L.V.",
+   "kind": "light-vessel",
+   "members": [
+    128,
+    131
+   ],
+   "note": null
+  },
+  {
+   "id": "st-tudwals",
+   "name": "St Tudwal's",
+   "kind": "lighthouse",
+   "members": [
+    180,
+    182,
+    183
+   ],
+   "note": "'St. Judwall' (1880, no. 118, between South Stack and Caernarvon Bay) is a misprint."
+  },
+  {
+   "id": "bardsey",
+   "name": "Bardsey",
+   "kind": "lighthouse",
+   "members": [
+    118,
+    119
+   ],
+   "note": null
+  },
+  {
+   "id": "cardigan-bay-lv",
+   "name": "Cardigan Bay L.V.",
+   "kind": "light-vessel",
+   "members": [
+    130
+   ],
+   "note": null
+  },
+  {
+   "id": "south-bishop",
+   "name": "South Bishop",
+   "kind": "lighthouse",
+   "members": [
+    177
+   ],
+   "note": null
+  },
+  {
+   "id": "smalls",
+   "name": "Smalls",
+   "kind": "lighthouse",
+   "members": [
+    176
+   ],
+   "note": null
+  },
+  {
+   "id": "great-castle-head",
+   "name": "Great Castle Head",
+   "kind": "lighthouse",
+   "members": [
+    138,
+    139
+   ],
+   "note": null
+  },
+  {
+   "id": "st-anns-head-low",
+   "name": "St Ann's Head Low (Milford Low)",
+   "kind": "lighthouse",
+   "members": [
+    154
+   ],
+   "note": "1880-81, its own row."
+  },
+  {
+   "id": "st-anns-head-high",
+   "name": "St Ann's Head High (Milford High)",
+   "kind": "lighthouse",
+   "members": [
+    153
+   ],
+   "note": "1880-81, its own row."
+  },
+  {
+   "id": "st-anns-head",
+   "name": "St Ann's Head (Milford), single row",
+   "kind": "lighthouse",
+   "members": [
+    152,
+    155
+   ],
+   "note": "From 1884 on, 'Milford' (no. 136) and in 1886-87 'Milford (St Ann's)' take the place of the two Milford rows. The list does not say which light this row is, so it is kept apart. If the returns show which light it is, merge it into st-anns-head-high or st-anns-head-low."
+  },
+  {
+   "id": "caldey",
+   "name": "Caldey",
+   "kind": "lighthouse",
+   "members": [
+    129
+   ],
+   "note": null
+  },
+  {
+   "id": "helwick-lv",
+   "name": "Helwick L.V.",
+   "kind": "light-vessel",
+   "members": [
+    141
+   ],
+   "note": null
+  },
+  {
+   "id": "scarweather-lv",
+   "name": "Scarweather L.V.",
+   "kind": "light-vessel",
+   "members": [
+    169
+   ],
+   "note": null
+  },
+  {
+   "id": "nash-point-low",
+   "name": "Nash Point Low (West)",
+   "kind": "lighthouse",
+   "members": [
+    162,
+    163
+   ],
+   "note": "Own row in 1880-81."
+  },
+  {
+   "id": "nash-point-high",
+   "name": "Nash Point High (East)",
+   "kind": "lighthouse",
+   "members": [
+    157,
+    158,
+    159,
+    160,
+    161
+   ],
+   "note": "From 1884 only 'Nash (E.)' is printed, as no. 140. The plain 'Nash' row in the master lists has the same number, so it is put here."
+  },
+  {
+   "id": "breaksea-lv",
+   "name": "Breaksea L.V.",
+   "kind": "light-vessel",
+   "members": [
+    124,
+    125
+   ],
+   "note": "Printed 'L.H.' in 1884-85, which is a slip. The other years print it as L.V."
+  },
+  {
+   "id": "flat-holm",
+   "name": "Flat Holm",
+   "kind": "lighthouse",
+   "members": [
+    136
+   ],
+   "note": null
+  },
+  {
+   "id": "english-and-welsh-grounds-lv",
+   "name": "English and Welsh Grounds L.V.",
+   "kind": "light-vessel",
+   "members": [
+    134
+   ],
+   "note": null
+  },
+  {
+   "id": "east-usk",
+   "name": "East Usk",
+   "kind": "lighthouse",
+   "members": [
+    188
+   ],
+   "note": null
+  },
+  {
+   "id": "avonmouth",
+   "name": "Avonmouth (Avon)",
+   "kind": "lighthouse",
+   "members": [
+    116
+   ],
+   "note": "Printed 'Avon, E. of entrance'."
+  },
+  {
+   "id": "burnham",
+   "name": "Burnham",
+   "kind": "lighthouse",
+   "members": [
+    127
+   ],
+   "note": null
+  },
+  {
+   "id": "bull-point",
+   "name": "Bull Point",
+   "kind": "lighthouse",
+   "members": [
+    126
+   ],
+   "note": null
+  },
+  {
+   "id": "bideford-bar",
+   "name": "Bideford Bar (Instow)",
+   "kind": "lighthouse",
+   "members": [
+    120,
+    121
+   ],
+   "note": null
+  },
+  {
+   "id": "lundy",
+   "name": "Lundy",
+   "kind": "lighthouse",
+   "members": [
+    147,
+    150
+   ],
+   "note": null
+  },
+  {
+   "id": "lundy-fog-signal",
+   "name": "Lundy Fog Gun Station",
+   "kind": "other",
+   "members": [
+    148,
+    149
+   ],
+   "note": "Its own row next to the Lundy light (1880 no. 139, 1881 no. 151)."
+  },
+  {
+   "id": "hartland-point",
+   "name": "Hartland Point",
+   "kind": "lighthouse",
+   "members": [
+    140
+   ],
+   "note": null
+  },
+  {
+   "id": "trevose-head",
+   "name": "Trevose Head",
+   "kind": "lighthouse",
+   "members": [
+    187
+   ],
+   "note": null
+  },
+  {
+   "id": "godrevy",
+   "name": "Godrevy",
+   "kind": "lighthouse",
+   "members": [
+    137
+   ],
+   "note": null
+  },
+  {
+   "id": "longships",
+   "name": "Longships",
+   "kind": "lighthouse",
+   "members": [
+    146
+   ],
+   "note": null
+  },
+  {
+   "id": "sevenstones-lv",
+   "name": "Sevenstones L.V.",
+   "kind": "light-vessel",
+   "members": [
+    172
+   ],
+   "note": null
+  },
+  {
+   "id": "wolf-rock",
+   "name": "Wolf Rock",
+   "kind": "lighthouse",
+   "members": [
+    189,
+    190,
+    191
+   ],
+   "note": null
+  },
+  {
+   "id": "st-agnes-scilly",
+   "name": "St Agnes (Scilly)",
+   "kind": "lighthouse",
+   "members": [
+    170
+   ],
+   "note": "Printed 'Scilly', St Agnes."
+  },
+  {
+   "id": "bishop-rock",
+   "name": "Bishop Rock",
+   "kind": "lighthouse",
+   "members": [
+    122,
+    123
+   ],
+   "note": null
+  },
+  {
+   "id": "lizard",
+   "name": "Lizard",
+   "kind": "lighthouse",
+   "members": [
+    144,
+    145
+   ],
+   "note": null
+  },
+  {
+   "id": "st-anthony-head",
+   "name": "St Anthony Head (Falmouth Harbour)",
+   "kind": "lighthouse",
+   "members": [
+    135
+   ],
+   "note": null
+  },
+  {
+   "id": "eddystone",
+   "name": "Eddystone",
+   "kind": "lighthouse",
+   "members": [
+    133
+   ],
+   "note": null
+  },
+  {
+   "id": "plymouth-breakwater",
+   "name": "Plymouth Breakwater",
+   "kind": "lighthouse",
+   "members": [
+    166
+   ],
+   "note": null
+  },
+  {
+   "id": "start-point-devon",
+   "name": "Start Point (Devon)",
+   "kind": "lighthouse",
+   "members": [
+    184,
+    185
+   ],
+   "note": null
+  },
+  {
+   "id": "portland-bill",
+   "name": "Portland Bill",
+   "kind": "lighthouse",
+   "members": [
+    167
+   ],
+   "note": null
+  },
+  {
+   "id": "shambles-lv",
+   "name": "Shambles L.V.",
+   "kind": "light-vessel",
+   "members": [
+    173
+   ],
+   "note": null
+  },
+  {
+   "id": "anvil-point",
+   "name": "Anvil Point",
+   "kind": "lighthouse",
+   "members": [
+    115
+   ],
+   "note": null
+  },
+  {
+   "id": "hurst-castle",
+   "name": "Hurst Castle",
+   "kind": "lighthouse",
+   "members": [
+    143
+   ],
+   "note": null
+  },
+  {
+   "id": "needles",
+   "name": "The Needles",
+   "kind": "lighthouse",
+   "members": [
+    186
+   ],
+   "note": null
+  },
+  {
+   "id": "bahama-bank-lv",
+   "name": "Bahama Bank L.V.",
+   "kind": "light-vessel",
+   "members": [
+    117,
+    265,
+    266
+   ],
+   "note": "'Bahama Rock' (1882) is a misprint."
+  },
+  {
+   "id": "point-of-ayre-iom",
+   "name": "Point of Ayre (Isle of Man)",
+   "kind": "lighthouse",
+   "members": [
+    274,
+    275,
+    276,
+    375
+   ],
+   "note": null
+  },
+  {
+   "id": "douglas-head",
+   "name": "Douglas Head",
+   "kind": "lighthouse",
+   "members": [
+    269,
+    270,
+    279,
+    345
+   ],
+   "note": null
+  },
+  {
+   "id": "langness",
+   "name": "Langness",
+   "kind": "lighthouse",
+   "members": [
+    271,
+    272,
+    273,
+    357,
+    358
+   ],
+   "note": "'Longness' L.V. (1882, no. 120, last after Bahama Rock) is Langness. The spelling and the L.V. type are slips, probably carried down from the Bahama row above."
+  },
+  {
+   "id": "chicken-rock",
+   "name": "Chicken Rock",
+   "kind": "lighthouse",
+   "members": [
+    267,
+    268,
+    339
+   ],
+   "note": null
+  },
+  {
+   "id": "fastnet",
+   "name": "Fastnet",
+   "kind": "lighthouse",
+   "members": [
+    226,
+    424
+   ],
+   "note": null
+  },
+  {
+   "id": "galley-head",
+   "name": "Galley Head",
+   "kind": "lighthouse",
+   "members": [
+    227,
+    426
+   ],
+   "note": null
+  },
+  {
+   "id": "old-head-of-kinsale",
+   "name": "Old Head of Kinsale",
+   "kind": "lighthouse",
+   "members": [
+    241,
+    242,
+    462
+   ],
+   "note": null
+  },
+  {
+   "id": "mine-head",
+   "name": "Mine Head",
+   "kind": "lighthouse",
+   "members": [
+    240,
+    454
+   ],
+   "note": null
+  },
+  {
+   "id": "ballinacourty",
+   "name": "Ballinacourty (Dungarvan)",
+   "kind": "lighthouse",
+   "members": [
+    219,
+    417
+   ],
+   "note": "Printed 'Dungarvan'. Taken to be the Ballinacourty Point light."
+  },
+  {
+   "id": "hook-head",
+   "name": "Hook Head (Hook Tower)",
+   "kind": "lighthouse",
+   "members": [
+    228
+   ],
+   "note": null
+  },
+  {
+   "id": "coningbeg-lv",
+   "name": "Coningbeg L.V.",
+   "kind": "light-vessel",
+   "members": [
+    215,
+    216,
+    409
+   ],
+   "note": null
+  },
+  {
+   "id": "barrels-lv",
+   "name": "Barrels Rock L.V.",
+   "kind": "light-vessel",
+   "members": [
+    205,
+    206,
+    207,
+    208,
+    397
+   ],
+   "note": null
+  },
+  {
+   "id": "tuskar-rock",
+   "name": "Tuskar Rock",
+   "kind": "lighthouse",
+   "members": [
+    261,
+    262,
+    489
+   ],
+   "note": "The 1883 'Lt.-ship' type is a ditto slip from Barrels Rock."
+  },
+  {
+   "id": "lucifer-shoals-lv",
+   "name": "Lucifer Shoals L.V.",
+   "kind": "light-vessel",
+   "members": [
+    236
+   ],
+   "note": null
+  },
+  {
+   "id": "arklow-south-lv",
+   "name": "Arklow South L.V.",
+   "kind": "light-vessel",
+   "members": [
+    195,
+    196,
+    197,
+    198,
+    392
+   ],
+   "note": null
+  },
+  {
+   "id": "arklow-north-lv",
+   "name": "Arklow North L.V.",
+   "kind": "light-vessel",
+   "members": [
+    192,
+    193,
+    194,
+    391
+   ],
+   "note": null
+  },
+  {
+   "id": "wicklow-head",
+   "name": "Wicklow Head",
+   "kind": "lighthouse",
+   "members": [
+    264
+   ],
+   "note": null
+  },
+  {
+   "id": "kish-bank-lv",
+   "name": "Kish Bank L.V.",
+   "kind": "light-vessel",
+   "members": [
+    232,
+    233,
+    447
+   ],
+   "note": "'Kirk Bank' (1881, no. 10, between Arklow S. and Howth Baily) is a misprint."
+  },
+  {
+   "id": "baily",
+   "name": "Baily (Howth)",
+   "kind": "lighthouse",
+   "members": [
+    229,
+    435
+   ],
+   "note": null
+  },
+  {
+   "id": "rockabill",
+   "name": "Rockabill",
+   "kind": "lighthouse",
+   "members": [
+    249,
+    469
+   ],
+   "note": null
+  },
+  {
+   "id": "south-rock-lv",
+   "name": "South Rock L.V.",
+   "kind": "light-vessel",
+   "members": [
+    256
+   ],
+   "note": null
+  },
+  {
+   "id": "copeland",
+   "name": "Copeland / Mew Island",
+   "kind": "lighthouse",
+   "members": [
+    217,
+    218,
+    410
+   ],
+   "note": "The Copeland light moved from Lighthouse Island to Mew Island in 1884, hence 'Copeland (Mew) Island' in 1885-86. The station keeps its number 13 throughout, so all forms are put together. Split them if you want the two towers apart."
+  },
+  {
+   "id": "maidens-north",
+   "name": "Maidens North",
+   "kind": "lighthouse",
+   "members": [
+    237,
+    238,
+    453
+   ],
+   "note": "Until 1886 there is one 'Maidens' row, no. 14. In 1887 the list has 'Maidens, North' (14) and 'Maidens, South' (14*). The plain row goes with North because it has the same number; the starred number marks the added row. It may in fact stand for the pair. Please check."
+  },
+  {
+   "id": "maidens-south",
+   "name": "Maidens South",
+   "kind": "lighthouse",
+   "members": [
+    239
+   ],
+   "note": "Only in 1887, no. 14*."
+  },
+  {
+   "id": "rathlin-east",
+   "name": "Rathlin (Altacarry)",
+   "kind": "lighthouse",
+   "members": [
+    246,
+    467
+   ],
+   "note": null
+  },
+  {
+   "id": "inishtrahull",
+   "name": "Inishtrahull",
+   "kind": "lighthouse",
+   "members": [
+    230,
+    442
+   ],
+   "note": null
+  },
+  {
+   "id": "dunree-head",
+   "name": "Dunree Head",
+   "kind": "lighthouse",
+   "members": [
+    220,
+    419
+   ],
+   "note": null
+  },
+  {
+   "id": "fanad-head",
+   "name": "Fanad Head (Lough Swilly)",
+   "kind": "lighthouse",
+   "members": [
+    235,
+    452
+   ],
+   "note": "Printed 'Lough Swilly'. Taken to be Fanad Head, the Lough Swilly entrance light. Please check."
+  },
+  {
+   "id": "tory-island",
+   "name": "Tory Island",
+   "kind": "lighthouse",
+   "members": [
+    260,
+    488
+   ],
+   "note": null
+  },
+  {
+   "id": "arranmore",
+   "name": "Arranmore",
+   "kind": "lighthouse",
+   "members": [
+    204,
+    395
+   ],
+   "note": null
+  },
+  {
+   "id": "rathlin-obirne",
+   "name": "Rathlin O'Birne",
+   "kind": "lighthouse",
+   "members": [
+    247,
+    248,
+    468
+   ],
+   "note": null
+  },
+  {
+   "id": "rotten-island",
+   "name": "Rotten Island (Killybegs)",
+   "kind": "lighthouse",
+   "members": [
+    231,
+    445
+   ],
+   "note": "Printed 'Killybegs'. Taken to be the Rotten Island harbour light. Please check."
+  },
+  {
+   "id": "oyster-island",
+   "name": "Oyster Island",
+   "kind": "lighthouse",
+   "members": [
+    243,
+    244,
+    245,
+    465
+   ],
+   "note": "'Oyster Island N.' appears twice for 1881 (two readings, both no. 23). Merged."
+  },
+  {
+   "id": "broadhaven",
+   "name": "Broadhaven",
+   "kind": "lighthouse",
+   "members": [
+    212,
+    402
+   ],
+   "note": null
+  },
+  {
+   "id": "eagle-island-east",
+   "name": "Eagle Island East",
+   "kind": "lighthouse",
+   "members": [
+    222,
+    224,
+    421
+   ],
+   "note": null
+  },
+  {
+   "id": "eagle-island-west",
+   "name": "Eagle Island West",
+   "kind": "lighthouse",
+   "members": [
+    223,
+    225,
+    422
+   ],
+   "note": null
+  },
+  {
+   "id": "blackrock-mayo",
+   "name": "Blackrock (Mayo)",
+   "kind": "lighthouse",
+   "members": [
+    209,
+    210,
+    399
+   ],
+   "note": null
+  },
+  {
+   "id": "blacksod-point",
+   "name": "Blacksod Point",
+   "kind": "lighthouse",
+   "members": [
+    211,
+    400
+   ],
+   "note": null
+  },
+  {
+   "id": "clare-island",
+   "name": "Clare Island",
+   "kind": "lighthouse",
+   "members": [
+    214,
+    407
+   ],
+   "note": null
+  },
+  {
+   "id": "slyne-head-north",
+   "name": "Slyne Head North",
+   "kind": "lighthouse",
+   "members": [
+    252,
+    254,
+    473
+   ],
+   "note": null
+  },
+  {
+   "id": "slyne-head-south",
+   "name": "Slyne Head South",
+   "kind": "lighthouse",
+   "members": [
+    253,
+    255,
+    474
+   ],
+   "note": null
+  },
+  {
+   "id": "eeragh",
+   "name": "Eeragh (Aran North)",
+   "kind": "lighthouse",
+   "members": [
+    199,
+    201,
+    202,
+    393
+   ],
+   "note": "'Arran Island, Is.' (1887, no. 32, between Slyne Head S. and Arran Island S.) is a misprint for 'N.'"
+  },
+  {
+   "id": "inisheer",
+   "name": "Inisheer (Aran South)",
+   "kind": "lighthouse",
+   "members": [
+    200,
+    203,
+    258,
+    394
+   ],
+   "note": "'Straw Island, S.' (1882, no. 34, between Straw Island and Loop Head) is a misprint. No. 34 is Aran South's number in every year, and 1882 has no other Aran South row."
+  },
+  {
+   "id": "straw-island",
+   "name": "Straw Island",
+   "kind": "lighthouse",
+   "members": [
+    257,
+    481
+   ],
+   "note": null
+  },
+  {
+   "id": "loop-head",
+   "name": "Loop Head",
+   "kind": "lighthouse",
+   "members": [
+    234
+   ],
+   "note": null
+  },
+  {
+   "id": "samphire-island",
+   "name": "Samphire Island",
+   "kind": "lighthouse",
+   "members": [
+    250,
+    470
+   ],
+   "note": null
+  },
+  {
+   "id": "inishtearaght",
+   "name": "Inishtearaght",
+   "kind": "lighthouse",
+   "members": [
+    259,
+    485
+   ],
+   "note": null
+  },
+  {
+   "id": "valentia",
+   "name": "Valentia",
+   "kind": "lighthouse",
+   "members": [
+    263,
+    490
+   ],
+   "note": null
+  },
+  {
+   "id": "skellig-michael",
+   "name": "Skelligs",
+   "kind": "lighthouse",
+   "members": [
+    251,
+    472
+   ],
+   "note": null
+  },
+  {
+   "id": "calf-rock",
+   "name": "Calf Rock",
+   "kind": "lighthouse",
+   "members": [
+    213
+   ],
+   "note": "Only in 1881, no. 40. The tower was wrecked in November 1881."
+  },
+  {
+   "id": "dursey-island",
+   "name": "Dursey Island",
+   "kind": "lighthouse",
+   "members": [
+    221,
+    420
+   ],
+   "note": "From 1882, no. 40, in Calf Rock's place. This is probably the replacement light on Dursey for the wrecked Calf Rock. It is kept separate because it is a different light at a different place; merge it with calf-rock if you want the station's run unbroken."
+  },
+  {
+   "id": "iceland",
+   "name": "Iceland",
+   "kind": "other",
+   "members": [
+    283
+   ],
+   "note": "Master lists only, no. 1. Possibly Reykjanes, Iceland's only lighthouse then, but it may be an observer. Kind unknown."
+  },
+  {
+   "id": "iceland-2",
+   "name": "Iceland (second station, 'Do.')",
+   "kind": "other",
+   "members": [
+    278
+   ],
+   "note": "'Do.' under Iceland, no. 2, is a second Iceland station. Its place is not named; check the reports."
+  },
+  {
+   "id": "faroe",
+   "name": "Faroe",
+   "kind": "other",
+   "members": [
+    280
+   ],
+   "note": "Faroe had no lighthouse before 1893, so this is presumably an observer. Kind unknown."
+  },
+  {
+   "id": "stevns",
+   "name": "Stevns Fyr",
+   "kind": "lighthouse",
+   "members": [
+    285
+   ],
+   "note": null
+  },
+  {
+   "id": "malmo",
+   "name": "Malmö",
+   "kind": "lighthouse",
+   "members": [
+    284
+   ],
+   "note": "Kind assumed from the name; check."
+  },
+  {
+   "id": "muckle-flugga",
+   "name": "Muckle Flugga (North Unst)",
+   "kind": "lighthouse",
+   "members": [
+    314,
+    316,
+    317,
+    460
+   ],
+   "note": "'North Uist' (1881-82, Shetland, no. 4, first on the list) is a misprint for North Unst."
+  },
+  {
+   "id": "out-skerries",
+   "name": "Out Skerries (Whalsey Skerries)",
+   "kind": "lighthouse",
+   "members": [
+    329,
+    491
+   ],
+   "note": null
+  },
+  {
+   "id": "bressay",
+   "name": "Bressay",
+   "kind": "lighthouse",
+   "members": [
+    289,
+    290,
+    401
+   ],
+   "note": "Also printed 'Bressay Sound'."
+  },
+  {
+   "id": "sumburgh-head",
+   "name": "Sumburgh Head",
+   "kind": "lighthouse",
+   "members": [
+    325,
+    482
+   ],
+   "note": null
+  },
+  {
+   "id": "fair-isle",
+   "name": "Fair Isle",
+   "kind": "other",
+   "members": [
+    300
+   ],
+   "note": "Numbered 7B (1881-83) and 3b (master lists). Fair Isle had no lighthouse until 1892, so this is an observer. Kind is 'other'."
+  },
+  {
+   "id": "north-ronaldsay",
+   "name": "North Ronaldsay",
+   "kind": "lighthouse",
+   "members": [
+    312,
+    313,
+    315,
+    456
+   ],
+   "note": null
+  },
+  {
+   "id": "start-point-orkney",
+   "name": "Start Point (Orkney)",
+   "kind": "lighthouse",
+   "members": [
+    324,
+    480
+   ],
+   "note": null
+  },
+  {
+   "id": "auskerry",
+   "name": "Auskerry",
+   "kind": "lighthouse",
+   "members": [
+    287,
+    396
+   ],
+   "note": null
+  },
+  {
+   "id": "hoy-low",
+   "name": "Hoy Low (Hoy Sound Low)",
+   "kind": "lighthouse",
+   "members": [
+    305,
+    437
+   ],
+   "note": null
+  },
+  {
+   "id": "hoy-high",
+   "name": "Hoy High (Hoy Sound High)",
+   "kind": "lighthouse",
+   "members": [
+    286,
+    304,
+    436
+   ],
+   "note": "The 1879 ditto line '\"     (High)' under Hoy Sound (Low)."
+  },
+  {
+   "id": "cantick-head",
+   "name": "Cantick Head",
+   "kind": "lighthouse",
+   "members": [
+    292,
+    404
+   ],
+   "note": null
+  },
+  {
+   "id": "pentland-skerries",
+   "name": "Pentland Skerries",
+   "kind": "lighthouse",
+   "members": [
+    319,
+    466
+   ],
+   "note": null
+  },
+  {
+   "id": "dunnet-head",
+   "name": "Dunnet Head",
+   "kind": "lighthouse",
+   "members": [
+    299,
+    418
+   ],
+   "note": null
+  },
+  {
+   "id": "holborn-head",
+   "name": "Holborn Head",
+   "kind": "lighthouse",
+   "members": [
+    303,
+    434
+   ],
+   "note": null
+  },
+  {
+   "id": "noss-head",
+   "name": "Noss Head",
+   "kind": "lighthouse",
+   "members": [
+    318,
+    461
+   ],
+   "note": null
+  },
+  {
+   "id": "tarbat-ness",
+   "name": "Tarbat Ness",
+   "kind": "lighthouse",
+   "members": [
+    326,
+    327,
+    328,
+    484
+   ],
+   "note": "Also printed 'Tarbat Head' (1885) and 'Tarbet Ness'."
+  },
+  {
+   "id": "cromarty",
+   "name": "Cromarty",
+   "kind": "lighthouse",
+   "members": [
+    298,
+    414
+   ],
+   "note": null
+  },
+  {
+   "id": "chanonry-point",
+   "name": "Chanonry Point",
+   "kind": "lighthouse",
+   "members": [
+    295,
+    296,
+    406
+   ],
+   "note": null
+  },
+  {
+   "id": "covesea-skerries",
+   "name": "Covesea Skerries",
+   "kind": "lighthouse",
+   "members": [
+    297,
+    413
+   ],
+   "note": null
+  },
+  {
+   "id": "kinnaird-head",
+   "name": "Kinnaird Head",
+   "kind": "lighthouse",
+   "members": [
+    310,
+    446
+   ],
+   "note": null
+  },
+  {
+   "id": "buchan-ness",
+   "name": "Buchan Ness",
+   "kind": "lighthouse",
+   "members": [
+    291,
+    403
+   ],
+   "note": null
+  },
+  {
+   "id": "girdle-ness",
+   "name": "Girdle Ness",
+   "kind": "lighthouse",
+   "members": [
+    302,
+    428
+   ],
+   "note": null
+  },
+  {
+   "id": "scurdie-ness",
+   "name": "Scurdie Ness (Montrose)",
+   "kind": "lighthouse",
+   "members": [
+    311,
+    455
+   ],
+   "note": "Printed 'Montroseness'."
+  },
+  {
+   "id": "bell-rock",
+   "name": "Bell Rock",
+   "kind": "lighthouse",
+   "members": [
+    288,
+    398
+   ],
+   "note": null
+  },
+  {
+   "id": "north-carr-lv",
+   "name": "North Carr L.V.",
+   "kind": "light-vessel",
+   "members": [
+    293,
+    294
+   ],
+   "note": "Printed 'Carr Rock', Light-ship, no. 26B."
+  },
+  {
+   "id": "isle-of-may",
+   "name": "Isle of May",
+   "kind": "lighthouse",
+   "members": [
+    306,
+    309,
+    443
+   ],
+   "note": null
+  },
+  {
+   "id": "inchkeith",
+   "name": "Inchkeith",
+   "kind": "lighthouse",
+   "members": [
+    307,
+    308,
+    439
+   ],
+   "note": null
+  },
+  {
+   "id": "fidra",
+   "name": "Fidra",
+   "kind": "lighthouse",
+   "members": [
+    301
+   ],
+   "note": null
+  },
+  {
+   "id": "st-abbs-head",
+   "name": "St Abb's Head",
+   "kind": "lighthouse",
+   "members": [
+    320,
+    321,
+    322,
+    323,
+    479
+   ],
+   "note": null
+  },
+  {
+   "id": "cape-wrath",
+   "name": "Cape Wrath",
+   "kind": "lighthouse",
+   "members": [
+    338
+   ],
+   "note": null
+  },
+  {
+   "id": "stoer-head",
+   "name": "Stoer Head (Rhu Stoir)",
+   "kind": "lighthouse",
+   "members": [
+    379
+   ],
+   "note": null
+  },
+  {
+   "id": "butt-of-lewis",
+   "name": "Butt of Lewis",
+   "kind": "lighthouse",
+   "members": [
+    337
+   ],
+   "note": null
+  },
+  {
+   "id": "arnish-point",
+   "name": "Arnish Point (Stornoway)",
+   "kind": "lighthouse",
+   "members": [
+    387,
+    388
+   ],
+   "note": "'Stornoway (2 Lights)' in 1887 is a single row, so it is one station."
+  },
+  {
+   "id": "eilean-glas",
+   "name": "Eilean Glas",
+   "kind": "lighthouse",
+   "members": [
+    349,
+    350,
+    351
+   ],
+   "note": "Printed 'Island Glass', 'Island Ghlais' and 'Island of Ghlais'."
+  },
+  {
+   "id": "monach",
+   "name": "Monach Isles",
+   "kind": "lighthouse",
+   "members": [
+    367,
+    368,
+    369
+   ],
+   "note": null
+  },
+  {
+   "id": "ushenish",
+   "name": "Ushenish",
+   "kind": "lighthouse",
+   "members": [
+    390
+   ],
+   "note": null
+  },
+  {
+   "id": "barra-head",
+   "name": "Barra Head",
+   "kind": "lighthouse",
+   "members": [
+    335
+   ],
+   "note": null
+  },
+  {
+   "id": "rona",
+   "name": "Rona (South Rona)",
+   "kind": "lighthouse",
+   "members": [
+    336,
+    381
+   ],
+   "note": "'Bona' (1881, no. 89, between Barra Head and Kyleakin) is a misprint. Rona itself is missing from 1881."
+  },
+  {
+   "id": "kyleakin",
+   "name": "Kyleakin",
+   "kind": "lighthouse",
+   "members": [
+    355
+   ],
+   "note": null
+  },
+  {
+   "id": "isle-ornsay",
+   "name": "Isle Ornsay",
+   "kind": "lighthouse",
+   "members": [
+    352,
+    353,
+    354
+   ],
+   "note": null
+  },
+  {
+   "id": "ardnamurchan",
+   "name": "Ardnamurchan",
+   "kind": "lighthouse",
+   "members": [
+    331,
+    332,
+    333,
+    334
+   ],
+   "note": null
+  },
+  {
+   "id": "hynish-signal-tower",
+   "name": "Hynish Signal Tower",
+   "kind": "other",
+   "members": [
+    347,
+    348
+   ],
+   "note": "The Skerryvore shore station on Tiree. It has its own row (no. 93) in 1879-84, next to Skerryvore."
+  },
+  {
+   "id": "skerryvore",
+   "name": "Skerryvore",
+   "kind": "lighthouse",
+   "members": [
+    383,
+    384
+   ],
+   "note": "In 1885-87 the two rows are joined as 'Skerryvore and Hynish Signal Tower' (no. 93). The joined row is put with the light, but it stands for both stations. Split it out if you prefer."
+  },
+  {
+   "id": "dubh-artach",
+   "name": "Dubh Artach",
+   "kind": "lighthouse",
+   "members": [
+    344
+   ],
+   "note": null
+  },
+  {
+   "id": "rubha-nan-gall",
+   "name": "Rubha nan Gall (Sound of Mull)",
+   "kind": "lighthouse",
+   "members": [
+    386
+   ],
+   "note": "Printed 'Sound of Mull', Tobermory."
+  },
+  {
+   "id": "corran-point",
+   "name": "Corran Point (Corran Ferry)",
+   "kind": "lighthouse",
+   "members": [
+    340,
+    341
+   ],
+   "note": "'Conan Ferry' (1881, Loch Eil, no. 97) is a misprint."
+  },
+  {
+   "id": "lismore",
+   "name": "Lismore",
+   "kind": "lighthouse",
+   "members": [
+    359,
+    360,
+    361
+   ],
+   "note": null
+  },
+  {
+   "id": "fladda",
+   "name": "Fladda",
+   "kind": "lighthouse",
+   "members": [
+    346
+   ],
+   "note": null
+  },
+  {
+   "id": "rhuvaal",
+   "name": "Rhuvaal (Rubh' a' Mhàil)",
+   "kind": "lighthouse",
+   "members": [
+    380
+   ],
+   "note": null
+  },
+  {
+   "id": "mcarthurs-head",
+   "name": "McArthur's Head",
+   "kind": "lighthouse",
+   "members": [
+    365,
+    366,
+    373
+   ],
+   "note": null
+  },
+  {
+   "id": "skervuile",
+   "name": "Skervuile",
+   "kind": "lighthouse",
+   "members": [
+    385
+   ],
+   "note": null
+  },
+  {
+   "id": "rhinns-of-islay",
+   "name": "Rhinns of Islay",
+   "kind": "lighthouse",
+   "members": [
+    377,
+    378
+   ],
+   "note": "'Rhinns of May' (1887 master list, no. 102, between Skervuile and Lochindaul) is a misprint."
+  },
+  {
+   "id": "loch-indaal",
+   "name": "Loch Indaal",
+   "kind": "lighthouse",
+   "members": [
+    364
+   ],
+   "note": null
+  },
+  {
+   "id": "mull-of-kintyre",
+   "name": "Mull of Kintyre",
+   "kind": "lighthouse",
+   "members": [
+    370,
+    372
+   ],
+   "note": null
+  },
+  {
+   "id": "sanda",
+   "name": "Sanda",
+   "kind": "lighthouse",
+   "members": [
+    382
+   ],
+   "note": null
+  },
+  {
+   "id": "davaar",
+   "name": "Davaar",
+   "kind": "lighthouse",
+   "members": [
+    343
+   ],
+   "note": null
+  },
+  {
+   "id": "pladda",
+   "name": "Pladda",
+   "kind": "lighthouse",
+   "members": [
+    374
+   ],
+   "note": null
+  },
+  {
+   "id": "holy-isle",
+   "name": "Holy Isle (Lamlash)",
+   "kind": "lighthouse",
+   "members": [
+    356
+   ],
+   "note": "Printed 'Lamlash', Arran. Taken to be the Holy Isle light at Lamlash, lit 1877. Please check."
+  },
+  {
+   "id": "turnberry",
+   "name": "Turnberry",
+   "kind": "lighthouse",
+   "members": [
+    389
+   ],
+   "note": null
+  },
+  {
+   "id": "ailsa-craig",
+   "name": "Ailsa Craig",
+   "kind": "lighthouse",
+   "members": [
+    330
+   ],
+   "note": null
+  },
+  {
+   "id": "corsewall",
+   "name": "Corsewall",
+   "kind": "lighthouse",
+   "members": [
+    342
+   ],
+   "note": null
+  },
+  {
+   "id": "loch-ryan",
+   "name": "Loch Ryan (Cairn Point)",
+   "kind": "lighthouse",
+   "members": [
+    363
+   ],
+   "note": null
+  },
+  {
+   "id": "portpatrick",
+   "name": "Portpatrick",
+   "kind": "lighthouse",
+   "members": [
+    376
+   ],
+   "note": null
+  },
+  {
+   "id": "mull-of-galloway",
+   "name": "Mull of Galloway",
+   "kind": "lighthouse",
+   "members": [
+    371
+   ],
+   "note": null
+  },
+  {
+   "id": "little-ross",
+   "name": "Little Ross",
+   "kind": "lighthouse",
+   "members": [
+    362
+   ],
+   "note": null
+  }
+ ],
+ "notes": "All 494 idx values (0-493) are placed, each in exactly one of 214 stations. The 'unknown' region rows (the 1883 and 1884 lists) matched existing stations by name and neighbours.\n\nMost uncertain, please check:\n1. Goodwin L.V. = North Sand Head L.V. The two never appear in the same list and they share a place and a number. Merged.\n2. Great Cotes (1880, 48b), Northrepps (1880, 55a) and the second 1880 'Teesmouth' (44b) are untyped extra rows, each sharing a number with a light-vessel. Each is kept as its own station with kind 'other'. Great Cotes may be the Bull L.V. under a shore address.\n3. Milford: High and Low have their own rows in 1880-81; from 1884 one 'Milford' / 'Milford (St Ann's)' row replaces them. That row is kept as a third group (st-anns-head) because I can't tell which light it is. Nash, by contrast, keeps 'Nash (E.)', so the plain 'Nash' goes with East/High.\n4. The joined 'Skerryvore and Hynish Signal Tower' row (1885-87) is put with Skerryvore; Hynish keeps its 1879-84 rows.\n5. Maidens: the single row up to 1886 goes with 'Maidens, North' (same no. 14); 'Maidens, South' (14*, 1887) is separate.\n6. Calf Rock (1881) and Dursey Island (1882 on, same no. 40) are kept apart as different lights; merge them if you want the station's run unbroken. Copeland is grouped across its 1884 move to Mew Island.\n7. Types printed against the evidence of position and the other years, treated as slips: Leman and Ower 'L.H.' (1887), Breaksea 'L.H.' (1884-85), Langness/'Longness' 'L.V.' (1882), Tuskar 'Lt.-ship' (1883).\n8. Misprints merged: Bona → Rona, Kirk Bank → Kish Bank, North Uist → North Unst, St. Judwall → St Tudwal's, Conan Ferry → Corran Ferry, Rhinns of May → Rhinns of Islay, 'Arran Island, Is.' → Aran North, 'Straw Island, S.' (1882, no. 34) → Aran South, Bahama Rock → Bahama Bank.\n9. Not real lighthouses at the time, kind 'other': Fair Isle (no light before 1892), Faroe, Iceland and the 'Do.' second Iceland station. Lundy Fog Gun Station, North Stack (fog signal) and Hynish Signal Tower are also 'other'.\n10. Names to check: Allonby (1881 L.H., no known light there); 'Lough Swilly' taken as Fanad Head; 'Killybegs' as Rotten Island; 'Dungarvan' as Ballinacourty; 'Lamlash' as Holy Isle; Malmö's kind.\n11. Happisburgh light and light-vessel are split only by the printed type (L.H. vs L.V.). In 1881 and 1883 the vessel and light are printed in different orders, so check the types against the scans if anything looks odd.\n12. Point of Ayr in Flintshire ('Air') and Point of Ayre in the Isle of Man are separate stations. So are Start Point in Orkney and in Devon, and Spurn Point lighthouse and the Spurn (Newsand) L.V.",
+ "_meta": {
+  "run": 1,
+  "cost_usd": 1.0223712
+ }
+}

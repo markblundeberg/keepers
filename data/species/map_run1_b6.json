@@ -1,0 +1,2215 @@
+{
+ "items": [
+  {
+   "n": 2100,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Read as an OCR error for 'Tern' (arrives May 20th to breed). Sterna is used for terns in general; Sandwich (Thalasseus) and Little Tern (Sternula) are in other genera."
+  },
+  {
+   "n": 2101,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Tern, not named to species."
+  },
+  {
+   "n": 2102,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Not named to species."
+  },
+  {
+   "n": 2103,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Sea Swallow = Tern."
+  },
+  {
+   "n": 2104,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "OCR error for 'Terns'."
+  },
+  {
+   "n": 2105,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Refers back to a species named earlier in the text. Check the context."
+  },
+  {
+   "n": 2106,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": "Refers back to other birds. Check the context."
+  },
+  {
+   "n": 2107,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Refers back to a species named earlier in the text. Check the context and resolve per observation."
+  },
+  {
+   "n": 2108,
+   "level": "group",
+   "scientific": null,
+   "english": "small birds",
+   "note": "Refers back to earlier birds (lantern strikes). Check the context for the species."
+  },
+  {
+   "n": 2109,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "OCR error for 'Thrushes'. Taken as Song Thrush under the 'Thrush' alone rule."
+  },
+  {
+   "n": 2110,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "OCR error for 'Thrushes'. Taken as Song Thrush under the 'Thrush' alone rule."
+  },
+  {
+   "n": 2111,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "'Thrush' alone taken as Song Thrush."
+  },
+  {
+   "n": 2112,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "'Thrushes' alone taken as Song Thrush. In big lantern rushes this plural may lump Redwings and other Turdus. Check rush-night records."
+  },
+  {
+   "n": 2113,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "'Tick Terns' at Loch Indaal, Islay is a local name I can't place to species (perhaps Arctic or Common Tern). Check."
+  },
+  {
+   "n": 2114,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": "OCR error for 'Fieldfare'."
+  },
+  {
+   "n": 2115,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": "Probably a garbled '[Aegialitis/Charadrius] hiaticula'. The genus as printed is wrong, but the epithet hiaticula settles the species."
+  },
+  {
+   "n": 2116,
+   "level": "species",
+   "scientific": "Falco tinnunculus",
+   "english": "Common Kestrel",
+   "note": "Epithet only, with F. aesalon (Heligoland lists)."
+  },
+  {
+   "n": 2117,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "Tit not named to species. Long-tailed Tit (Aegithalidae) is also possible."
+  },
+  {
+   "n": 2118,
+   "level": "species",
+   "scientific": "Anthus pratensis",
+   "english": "Meadow Pipit",
+   "note": "Titlark = Meadow Pipit."
+  },
+  {
+   "n": 2119,
+   "level": "species",
+   "scientific": "Anthus pratensis",
+   "english": "Meadow Pipit",
+   "note": "Titlark = Meadow Pipit. Rock Pipit may sometimes be included on rock stations."
+  },
+  {
+   "n": 2120,
+   "level": "species",
+   "scientific": "Anthus pratensis",
+   "english": "Meadow Pipit",
+   "note": "Titlark = Meadow Pipit."
+  },
+  {
+   "n": 2121,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "Titmice not named to species."
+  },
+  {
+   "n": 2122,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "The example says 'species not identified'."
+  },
+  {
+   "n": 2123,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "Doubtful: tits breeding 'on the Rock' at a rock station is unlikely, so the keeper may mean Rock Pipit or Wren. Check the station."
+  },
+  {
+   "n": 2124,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "Not named to species."
+  },
+  {
+   "n": 2125,
+   "level": "species",
+   "scientific": "Phoenicurus ochruros",
+   "english": "Black Redstart",
+   "note": "Ruticilla titys/tithys = Black Redstart (Heligoland list)."
+  },
+  {
+   "n": 2126,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "'Tomtit' usually meant Blue Tit, but regionally also Great or Coal Tit. Left at family level."
+  },
+  {
+   "n": 2127,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "'Tomtit' usually meant Blue Tit. Left at family level."
+  },
+  {
+   "n": 2128,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "Garble of Turdus musicus. In these reports musicus = Song Thrush (iliacus is used for Redwing), even though Linnaeus's musicus was the Redwing."
+  },
+  {
+   "n": 2129,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "Probably an OCR error for the small-caps heading 'TURDIDÆ' (compare 'Turpipz'). The Victorian Turdidae was broader than today's, taking in chats, Robin and redstarts and, in Newton's Yarrell, warblers. Check the heading."
+  },
+  {
+   "n": 2130,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "Epithet only. In Turdus lists = Ring Ouzel. Check the genus in context."
+  },
+  {
+   "n": 2131,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": "Totanus calidris = Redshank."
+  },
+  {
+   "n": 2132,
+   "level": "species",
+   "scientific": "Tringa nebularia",
+   "english": "Common Greenshank",
+   "note": "Totanus glottis = Greenshank."
+  },
+  {
+   "n": 2133,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": "Totanus hypoleucus = Common Sandpiper."
+  },
+  {
+   "n": 2134,
+   "level": "species",
+   "scientific": "Tringa ochropus",
+   "english": "Green Sandpiper",
+   "note": null
+  },
+  {
+   "n": 2135,
+   "level": "genus",
+   "scientific": "Tringa",
+   "english": "shanks",
+   "note": "Victorian Totanus = modern Tringa (shanks), and could also cover Common Sandpiper."
+  },
+  {
+   "n": 2136,
+   "level": "genus",
+   "scientific": "Tringa",
+   "english": "shanks",
+   "note": "Victorian Totanus = modern Tringa."
+  },
+  {
+   "n": 2137,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": null
+  },
+  {
+   "n": 2138,
+   "level": "species",
+   "scientific": "Tringa glareola",
+   "english": "Wood Sandpiper",
+   "note": null
+  },
+  {
+   "n": 2139,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": null
+  },
+  {
+   "n": 2140,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": null
+  },
+  {
+   "n": 2141,
+   "level": "species",
+   "scientific": "Anthus trivialis",
+   "english": "Tree Pipit",
+   "note": "Fragment of 'Tree and Meadow Pipits'."
+  },
+  {
+   "n": 2142,
+   "level": "species",
+   "scientific": "Certhia familiaris",
+   "english": "Eurasian Treecreeper",
+   "note": null
+  },
+  {
+   "n": 2143,
+   "level": "species",
+   "scientific": "Anthus trivialis",
+   "english": "Tree Pipit",
+   "note": null
+  },
+  {
+   "n": 2144,
+   "level": "species",
+   "scientific": "Anthus trivialis",
+   "english": "Tree Pipit",
+   "note": null
+  },
+  {
+   "n": 2145,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 2146,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 2147,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 2148,
+   "level": "genus",
+   "scientific": "Calidris",
+   "english": "calidrid sandpipers",
+   "note": "Victorian Tringa = modern Calidris (Dunlin, Knot, stints), not modern Tringa."
+  },
+  {
+   "n": 2149,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": null
+  },
+  {
+   "n": 2150,
+   "level": "species",
+   "scientific": "Calidris melanotos",
+   "english": "Pectoral Sandpiper",
+   "note": "Tringa maculata = Pectoral Sandpiper (Yarmouth rarity)."
+  },
+  {
+   "n": 2151,
+   "level": "species",
+   "scientific": "Calidris temminckii",
+   "english": "Temminck's Stint",
+   "note": null
+  },
+  {
+   "n": 2152,
+   "level": "genus",
+   "scientific": "Calidris",
+   "english": "calidrid sandpipers",
+   "note": "OCR error for Tringæ. Victorian Tringa = modern Calidris."
+  },
+  {
+   "n": 2153,
+   "level": "genus",
+   "scientific": "Calidris",
+   "english": "calidrid sandpipers",
+   "note": "Victorian Tringa = modern Calidris."
+  },
+  {
+   "n": 2154,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": "Sylvia/Phylloscopus trochilus."
+  },
+  {
+   "n": 2155,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": null
+  },
+  {
+   "n": 2156,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "Genus only, but the Wren is its only European species."
+  },
+  {
+   "n": 2157,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "A family heading whose only British member is the Wren. Check the section is about Wrens."
+  },
+  {
+   "n": 2158,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "OCR error for the heading TROGLODYTINÆ (Wren). Check the section."
+  },
+  {
+   "n": 2159,
+   "level": "species",
+   "scientific": "Aythya fuligula",
+   "english": "Tufted Duck",
+   "note": null
+  },
+  {
+   "n": 2160,
+   "level": "species",
+   "scientific": "Aythya fuligula",
+   "english": "Tufted Duck",
+   "note": null
+  },
+  {
+   "n": 2161,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 2162,
+   "level": "species",
+   "scientific": "Turdus merula",
+   "english": "Common Blackbird",
+   "note": null
+  },
+  {
+   "n": 2163,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "Victorian Turdus musicus = Song Thrush (iliacus = Redwing in the same lists)."
+  },
+  {
+   "n": 2164,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 2165,
+   "level": "species",
+   "scientific": "Turdus viscivorus",
+   "english": "Mistle Thrush",
+   "note": null
+  },
+  {
+   "n": 2166,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "OCR error for Turdidæ. The Victorian family was broader (chats, redstarts, Robin)."
+  },
+  {
+   "n": 2167,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "OCR error for Turdidæ."
+  },
+  {
+   "n": 2168,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "The Victorian Turdidae was broader than today's, taking in chats, redstarts and Robin."
+  },
+  {
+   "n": 2169,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "Turdinæ (thrush subfamily)."
+  },
+  {
+   "n": 2170,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "Turdinæ (thrush subfamily)."
+  },
+  {
+   "n": 2171,
+   "level": "genus",
+   "scientific": "Turdus",
+   "english": "thrushes",
+   "note": null
+  },
+  {
+   "n": 2172,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 2173,
+   "level": "species",
+   "scientific": "Turdus merula",
+   "english": "Common Blackbird",
+   "note": null
+  },
+  {
+   "n": 2174,
+   "level": "species",
+   "scientific": "Turdus migratorius",
+   "english": "American Robin",
+   "note": "A vagrant. Probably Heligoland. Check the locality."
+  },
+  {
+   "n": 2175,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "Victorian Turdus musicus = Song Thrush."
+  },
+  {
+   "n": 2176,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 2177,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 2178,
+   "level": "species",
+   "scientific": "Zoothera aurea",
+   "english": "White's Thrush",
+   "note": "Turdus varius = White's Thrush."
+  },
+  {
+   "n": 2179,
+   "level": "species",
+   "scientific": "Turdus viscivorus",
+   "english": "Mistle Thrush",
+   "note": null
+  },
+  {
+   "n": 2180,
+   "level": "species",
+   "scientific": "Zoothera aurea",
+   "english": "White's Thrush",
+   "note": "Turdus varius. Three single birds in one October is unusual. Check the text (probably Heligoland)."
+  },
+  {
+   "n": 2181,
+   "level": "species",
+   "scientific": "Arenaria interpres",
+   "english": "Ruddy Turnstone",
+   "note": null
+  },
+  {
+   "n": 2182,
+   "level": "species",
+   "scientific": "Arenaria interpres",
+   "english": "Ruddy Turnstone",
+   "note": null
+  },
+  {
+   "n": 2183,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "Probably an OCR error for the small-caps heading TURDIDÆ. Check."
+  },
+  {
+   "n": 2184,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "Probably an OCR error for the small-caps heading TURDIDÆ (16 observations). Check the heading."
+  },
+  {
+   "n": 2185,
+   "level": "species",
+   "scientific": "Streptopelia turtur",
+   "english": "European Turtle Dove",
+   "note": null
+  },
+  {
+   "n": 2186,
+   "level": "species",
+   "scientific": "Streptopelia turtur",
+   "english": "European Turtle Dove",
+   "note": null
+  },
+  {
+   "n": 2187,
+   "level": "species",
+   "scientific": "Streptopelia turtur",
+   "english": "European Turtle Dove",
+   "note": null
+  },
+  {
+   "n": 2188,
+   "level": "species",
+   "scientific": "Streptopelia turtur",
+   "english": "European Turtle Dove",
+   "note": null
+  },
+  {
+   "n": 2189,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": null
+  },
+  {
+   "n": 2190,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": null
+  },
+  {
+   "n": 2191,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": "The example breaks off at 'Twites or …'. Check the alternative name given."
+  },
+  {
+   "n": 2192,
+   "level": "family",
+   "scientific": "Turdidae",
+   "english": "thrushes",
+   "note": "OCR error for Turdidæ."
+  },
+  {
+   "n": 2193,
+   "level": "species",
+   "scientific": "Cepphus grylle",
+   "english": "Black Guillemot",
+   "note": null
+  },
+  {
+   "n": 2194,
+   "level": "species",
+   "scientific": "Cepphus grylle",
+   "english": "Black Guillemot",
+   "note": null
+  },
+  {
+   "n": 2195,
+   "level": "species",
+   "scientific": "Alle alle",
+   "english": "Little Auk",
+   "note": "Uria alle = Little Auk."
+  },
+  {
+   "n": 2196,
+   "level": "species",
+   "scientific": "Uria lomvia",
+   "english": "Thick-billed Murre",
+   "note": "Brünnich's Guillemot in Britain. This dated list ('March 15th, … N.E.; clear') may be from outside Britain. Check the locality."
+  },
+  {
+   "n": 2197,
+   "level": "species",
+   "scientific": "Uria aalge",
+   "english": "Common Murre",
+   "note": "Uria troile = Guillemot (Common Guillemot in Britain)."
+  },
+  {
+   "n": 2198,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "OCR error for 'Larks'. 'Lark' alone taken as Skylark."
+  },
+  {
+   "n": 2199,
+   "level": "species",
+   "scientific": "Prunella modularis",
+   "english": "Dunnock",
+   "note": "OCR error for 'Hedge Sparrows'."
+  },
+  {
+   "n": 2200,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": null
+  },
+  {
+   "n": 2201,
+   "level": "species",
+   "scientific": "Upupa epops",
+   "english": "Eurasian Hoopoe",
+   "note": null
+  },
+  {
+   "n": 2202,
+   "level": "species",
+   "scientific": "Upupa epops",
+   "english": "Eurasian Hoopoe",
+   "note": "Genus only, but Eurasian Hoopoe is the only European species."
+  },
+  {
+   "n": 2203,
+   "level": "species",
+   "scientific": "Delichon urbicum",
+   "english": "Western House Martin",
+   "note": "Chelidon/Hirundo urbica = House Martin (the IOC now splits it as Western House Martin)."
+  },
+  {
+   "n": 2204,
+   "level": "genus",
+   "scientific": "Uria",
+   "english": "murres (guillemots)",
+   "note": "Thousands on breeding cliffs = murres. The Victorian Uria also took in Black Guillemot."
+  },
+  {
+   "n": 2205,
+   "level": "species",
+   "scientific": "Cepphus grylle",
+   "english": "Black Guillemot",
+   "note": null
+  },
+  {
+   "n": 2206,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": "[L]uscinia phoenicurus (garbled) = Redstart."
+  },
+  {
+   "n": 2207,
+   "level": "group",
+   "scientific": null,
+   "english": "winter birds",
+   "note": null
+  },
+  {
+   "n": 2208,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": "Vanellus alone = Lapwing in these lists."
+  },
+  {
+   "n": 2209,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 2210,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 2211,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": null
+  },
+  {
+   "n": 2212,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": null
+  },
+  {
+   "n": 2213,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": "Various immigrants."
+  },
+  {
+   "n": 2214,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": null
+  },
+  {
+   "n": 2215,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": null
+  },
+  {
+   "n": 2216,
+   "level": "species",
+   "scientific": "Melanitta fusca",
+   "english": "Velvet Scoter",
+   "note": null
+  },
+  {
+   "n": 2217,
+   "level": "species",
+   "scientific": "Melanitta fusca",
+   "english": "Velvet Scoter",
+   "note": null
+  },
+  {
+   "n": 2218,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Seen beside three Skuas, so possibly dark-morph skuas (Stercorarius). Check."
+  },
+  {
+   "n": 2219,
+   "level": "group",
+   "scientific": null,
+   "english": "large birds",
+   "note": null
+  },
+  {
+   "n": 2220,
+   "level": "family",
+   "scientific": "Accipitridae",
+   "english": "hawks",
+   "note": "A very large soaring 'Hawk' is probably a buzzard or eagle."
+  },
+  {
+   "n": 2221,
+   "level": "family",
+   "scientific": "Accipitridae",
+   "english": "hawks",
+   "note": "Listed beside Buzzards. Possibly eagles."
+  },
+  {
+   "n": 2222,
+   "level": "group",
+   "scientific": null,
+   "english": "small birds",
+   "note": null
+  },
+  {
+   "n": 2223,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Probably the nominate White Wagtail (M. a. alba) as against Pied."
+  },
+  {
+   "n": 2224,
+   "level": "species",
+   "scientific": "Turdus viscivorus",
+   "english": "Mistle Thrush",
+   "note": null
+  },
+  {
+   "n": 2225,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": "OCR error for Numenius phaeopus."
+  },
+  {
+   "n": 2226,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "Spaced small-caps heading. Check whether the section names the species."
+  },
+  {
+   "n": 2227,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 2228,
+   "level": "genus",
+   "scientific": "Phylloscopus",
+   "english": "leaf warblers",
+   "note": "'W. Warbler' could be Willow or Wood Warbler. Check the context."
+  },
+  {
+   "n": 2229,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "OCR error for the small-caps heading WAGTAIL. Check the section for species."
+  },
+  {
+   "n": 2230,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "Probably an OCR error for the small-caps heading WAGTAIL. Check the section."
+  },
+  {
+   "n": 2231,
+   "level": "group",
+   "scientific": null,
+   "english": "Waders",
+   "note": null
+  },
+  {
+   "n": 2232,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": null
+  },
+  {
+   "n": 2233,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "'Wagtail' alone is often Pied Wagtail in British usage, but other species are possible."
+  },
+  {
+   "n": 2234,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": null
+  },
+  {
+   "n": 2235,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "OCR error for Wagtails."
+  },
+  {
+   "n": 2236,
+   "level": "group",
+   "scientific": null,
+   "english": "warblers",
+   "note": "The example ('light bands on wings, size of rufa', Heligoland) sounds like Yellow-browed Warbler. The other uses are unknown."
+  },
+  {
+   "n": 2237,
+   "level": "group",
+   "scientific": null,
+   "english": "warblers",
+   "note": null
+  },
+  {
+   "n": 2238,
+   "level": "group",
+   "scientific": null,
+   "english": "warblers",
+   "note": null
+  },
+  {
+   "n": 2239,
+   "level": "species",
+   "scientific": "Gallinula chloropus",
+   "english": "Common Moorhen",
+   "note": "Water Hen = Moorhen."
+  },
+  {
+   "n": 2240,
+   "level": "species",
+   "scientific": "Cinclus cinclus",
+   "english": "White-throated Dipper",
+   "note": "Water Ouzel = Dipper."
+  },
+  {
+   "n": 2241,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": null
+  },
+  {
+   "n": 2242,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": null
+  },
+  {
+   "n": 2243,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": "OCR error for 'Water Rail' (leg and wing received)."
+  },
+  {
+   "n": 2244,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Victorian 'Water Wagtail' = Pied Wagtail (M. a. yarrellii). Grey Wagtail is possible."
+  },
+  {
+   "n": 2245,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Victorian 'Water Wagtail' = Pied Wagtail (M. a. yarrellii)."
+  },
+  {
+   "n": 2246,
+   "level": "group",
+   "scientific": null,
+   "english": "water-birds",
+   "note": null
+  },
+  {
+   "n": 2247,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": null
+  },
+  {
+   "n": 2248,
+   "level": "species",
+   "scientific": "Gallinula chloropus",
+   "english": "Common Moorhen",
+   "note": null
+  },
+  {
+   "n": 2249,
+   "level": "species",
+   "scientific": "Gallinula chloropus",
+   "english": "Common Moorhen",
+   "note": null
+  },
+  {
+   "n": 2250,
+   "level": "species",
+   "scientific": "Bombycilla garrulus",
+   "english": "Bohemian Waxwing",
+   "note": null
+  },
+  {
+   "n": 2251,
+   "level": "species",
+   "scientific": "Bombycilla garrulus",
+   "english": "Bohemian Waxwing",
+   "note": null
+  },
+  {
+   "n": 2252,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "OCR error for 'Wren' ('resident on …')."
+  },
+  {
+   "n": 2253,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Garbled text ('Welw Bail, evine dead on rock'). Possibly 'Water Rail, one dead on rock'. Check the scan."
+  },
+  {
+   "n": 2254,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "Quoted 'Wen' is probably a keeper's spelling of Wren or an OCR error. Uncertain. Check."
+  },
+  {
+   "n": 2255,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 2256,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 2257,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "One example reads 'Wheatears or \"Stonechats\"', so keepers sometimes confused the two."
+  },
+  {
+   "n": 2258,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": null
+  },
+  {
+   "n": 2259,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": "Maybird = Whimbrel."
+  },
+  {
+   "n": 2260,
+   "level": "genus",
+   "scientific": "Numenius",
+   "english": "curlews",
+   "note": "A combined heading for two species (Whimbrel and Eurasian Curlew)."
+  },
+  {
+   "n": 2261,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": "'Whimbrel Curlew', in May flocks = Whimbrel."
+  },
+  {
+   "n": 2262,
+   "level": "genus",
+   "scientific": "Numenius",
+   "english": "curlews",
+   "note": "The keeper was unsure between Whimbrel and young Curlew."
+  },
+  {
+   "n": 2263,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": null
+  },
+  {
+   "n": 2264,
+   "level": "species",
+   "scientific": "Saxicola rubetra",
+   "english": "Whinchat",
+   "note": null
+  },
+  {
+   "n": 2265,
+   "level": "genus",
+   "scientific": "Saxicola",
+   "english": "chats",
+   "note": "A combined entry for two species (Whinchat and European Stonechat)."
+  },
+  {
+   "n": 2266,
+   "level": "species",
+   "scientific": "Saxicola rubetra",
+   "english": "Whinchat",
+   "note": "One example reads 'Whinchats (or Blue Janets)'. I can't place 'Blue Janet'. Check."
+  },
+  {
+   "n": 2267,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Fragment of 'White and Pied Wagtails'. Both are M. alba today."
+  },
+  {
+   "n": 2268,
+   "level": "group",
+   "scientific": null,
+   "english": "Whitethroats and Bluethroats",
+   "note": "Two species (Common Whitethroat, Bluethroat). Five dozen Bluethroats would be extraordinary, so check the station and split or query."
+  },
+  {
+   "n": 2269,
+   "level": "species",
+   "scientific": "Plectrophenax nivalis",
+   "english": "Snow Bunting",
+   "note": "'White Buntings' is probably Snow Bunting. Check."
+  },
+  {
+   "n": 2270,
+   "level": "genus",
+   "scientific": "Calidris",
+   "english": "calidrid sandpipers",
+   "note": "Either Sanderling (C. alba) or Dunlin in pale winter plumage."
+  },
+  {
+   "n": 2271,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "Could be a white-winged gull (Glaucous/Iceland) or just a gull. Check."
+  },
+  {
+   "n": 2272,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": null
+  },
+  {
+   "n": 2273,
+   "level": "group",
+   "scientific": null,
+   "english": "hawks",
+   "note": "A 'White Hawk' might be a male Hen Harrier, Gyrfalcon or pale Buzzard. Check."
+  },
+  {
+   "n": 2274,
+   "level": "species",
+   "scientific": "Rissa tridactyla",
+   "english": "Black-legged Kittiwake",
+   "note": "A white (leucistic) Kittiwake, shot. Ivory Gull is possible. Check whether the specimen was identified."
+  },
+  {
+   "n": 2275,
+   "level": "group",
+   "scientific": null,
+   "english": "owls",
+   "note": "Victorian 'White Owl' = Barn Owl (Tyto alba), but the Redcar 'great White Owl' on the sands is likely a Snowy Owl (Bubo scandiacus). Resolve per observation."
+  },
+  {
+   "n": 2276,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "A white kittiwake-like gull at Bell Rock: a leucistic Kittiwake or possibly an Ivory Gull. Check."
+  },
+  {
+   "n": 2277,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "Possibly a Gyrfalcon (white phase). Check."
+  },
+  {
+   "n": 2278,
+   "level": "species",
+   "scientific": "Sturnus vulgaris",
+   "english": "Common Starling",
+   "note": "A leucistic bird."
+  },
+  {
+   "n": 2279,
+   "level": "species",
+   "scientific": "Ciconia ciconia",
+   "english": "White Stork",
+   "note": "The example is from Malmö (Sweden)."
+  },
+  {
+   "n": 2280,
+   "level": "genus",
+   "scientific": "Cygnus",
+   "english": "swans",
+   "note": "Probably Whooper Swans, but not settled."
+  },
+  {
+   "n": 2281,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": null
+  },
+  {
+   "n": 2282,
+   "level": "species",
+   "scientific": "Zoothera aurea",
+   "english": "White's Thrush",
+   "note": "Probably White's Thrush (Heligoland Oct. 3rd, a date shared with the Turdus varius record). An albino thrush is possible. Check."
+  },
+  {
+   "n": 2283,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": null
+  },
+  {
+   "n": 2284,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": null
+  },
+  {
+   "n": 2285,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": null
+  },
+  {
+   "n": 2286,
+   "level": "species",
+   "scientific": "Zoothera aurea",
+   "english": "White's Thrush",
+   "note": null
+  },
+  {
+   "n": 2287,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": "Lesser Whitethroat is possible but not named."
+  },
+  {
+   "n": 2288,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Quoted 'White-backed' could be White-backed Crows (Hooded Crow) or a gull. Check the context."
+  },
+  {
+   "n": 2289,
+   "level": "species",
+   "scientific": "Corvus cornix",
+   "english": "Hooded Crow",
+   "note": "'White-backed Crow' is taken as Hooded Crow (pale grey back)."
+  },
+  {
+   "n": 2290,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "Unclear keeper name, listed with 'Royal Gull'. Possibly Herring Gull. Check."
+  },
+  {
+   "n": 2291,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A variety of an earlier-named species. If it refers to Brent Geese, this is the pale-bellied form (Branta bernicla hrota). Check the context."
+  },
+  {
+   "n": 2292,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A keeper's name, 'White-Breast'. Perhaps Whitethroat. Check whether the committee identified the captured bird."
+  },
+  {
+   "n": 2293,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "White-breasted Blackbird caught on April 18th = probably Ring Ouzel. A part-albino Blackbird is possible."
+  },
+  {
+   "n": 2294,
+   "level": "species",
+   "scientific": "Phalacrocorax carbo",
+   "english": "Great Cormorant",
+   "note": "A very large white-breasted bird = Great Cormorant, probably a juvenile."
+  },
+  {
+   "n": 2295,
+   "level": "species",
+   "scientific": "Anser albifrons",
+   "english": "Greater White-fronted Goose",
+   "note": "From a table entry. Presumably White-fronted Goose. Check the table heading."
+  },
+  {
+   "n": 2296,
+   "level": "species",
+   "scientific": "Anser albifrons",
+   "english": "Greater White-fronted Goose",
+   "note": null
+  },
+  {
+   "n": 2297,
+   "level": "species",
+   "scientific": "Fratercula arctica",
+   "english": "Atlantic Puffin",
+   "note": "An aberrant bird."
+  },
+  {
+   "n": 2298,
+   "level": "species",
+   "scientific": "Luscinia svecica",
+   "english": "Bluethroat",
+   "note": "The white-spotted form (L. s. cyanecula)."
+  },
+  {
+   "n": 2299,
+   "level": "species",
+   "scientific": "Haliaeetus albicilla",
+   "english": "White-tailed Eagle",
+   "note": null
+  },
+  {
+   "n": 2300,
+   "level": "species",
+   "scientific": "Haliaeetus albicilla",
+   "english": "White-tailed Eagle",
+   "note": "The name is quoted from a keeper."
+  },
+  {
+   "n": 2301,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A keeper's name, 'Whitebreast'. Same as 'White-Breast'. Check."
+  },
+  {
+   "n": 2302,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": null
+  },
+  {
+   "n": 2303,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": null
+  },
+  {
+   "n": 2304,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": null
+  },
+  {
+   "n": 2305,
+   "level": "species",
+   "scientific": "Zoothera aurea",
+   "english": "White's Thrush",
+   "note": null
+  },
+  {
+   "n": 2306,
+   "level": "species",
+   "scientific": "Cygnus cygnus",
+   "english": "Whooper Swan",
+   "note": null
+  },
+  {
+   "n": 2307,
+   "level": "species",
+   "scientific": "Cygnus cygnus",
+   "english": "Whooper Swan",
+   "note": null
+  },
+  {
+   "n": 2308,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": null
+  },
+  {
+   "n": 2309,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": null
+  },
+  {
+   "n": 2310,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": null
+  },
+  {
+   "n": 2311,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": null
+  },
+  {
+   "n": 2312,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "An unreadable garble. Check the scan."
+  },
+  {
+   "n": 2313,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "wild ducks",
+   "note": "'Wild Duck' is Yarrell's name for the Mallard, and where it is the committee's species heading it means Mallard. Keepers used it loosely. Check which (117 observations)."
+  },
+  {
+   "n": 2314,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "wild ducks",
+   "note": "Generic keeper usage. It may mean Mallard in places."
+  },
+  {
+   "n": 2315,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "wild ducks or geese",
+   "note": "The keeper was unsure between ducks and Barnacle Geese."
+  },
+  {
+   "n": 2316,
+   "level": "group",
+   "scientific": null,
+   "english": "wildfowl",
+   "note": null
+  },
+  {
+   "n": 2317,
+   "level": "group",
+   "scientific": null,
+   "english": "wild geese",
+   "note": "Geese (Anser/Branta). Not to species."
+  },
+  {
+   "n": 2318,
+   "level": "group",
+   "scientific": null,
+   "english": "wild geese",
+   "note": "OCR error for 'Wild Geese'."
+  },
+  {
+   "n": 2319,
+   "level": "group",
+   "scientific": null,
+   "english": "wild geese",
+   "note": null
+  },
+  {
+   "n": 2320,
+   "level": "genus",
+   "scientific": "Anser",
+   "english": "grey geese",
+   "note": null
+  },
+  {
+   "n": 2321,
+   "level": "genus",
+   "scientific": "Columba",
+   "english": "pigeons",
+   "note": "Probably Rock Dove, Stock Dove or Wood Pigeon."
+  },
+  {
+   "n": 2322,
+   "level": "genus",
+   "scientific": "Columba",
+   "english": "pigeons",
+   "note": "The committee suggests Rock Doves in one example."
+  },
+  {
+   "n": 2323,
+   "level": "genus",
+   "scientific": "Cygnus",
+   "english": "swans",
+   "note": "Victorian 'Wild Swan' often meant Whooper, but Bewick's Swan is possible."
+  },
+  {
+   "n": 2324,
+   "level": "genus",
+   "scientific": "Cygnus",
+   "english": "swans",
+   "note": "Victorian 'Wild Swan' often meant Whooper."
+  },
+  {
+   "n": 2325,
+   "level": "species",
+   "scientific": "Anas platyrhynchos",
+   "english": "Mallard",
+   "note": "'Wild drake' = male Mallard in rural usage. Fairly safe."
+  },
+  {
+   "n": 2326,
+   "level": "group",
+   "scientific": null,
+   "english": "warblers",
+   "note": "Includes Willow Warbler."
+  },
+  {
+   "n": 2327,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 2328,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 2329,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": "A truncated 'Willow Wren'."
+  },
+  {
+   "n": 2330,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": "Willow Wren = Willow Warbler. Keepers' 'Willow Wren' may include Chiffchaff, especially in late autumn."
+  },
+  {
+   "n": 2331,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": "Willow Wren = Willow Warbler."
+  },
+  {
+   "n": 2332,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 2333,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 2334,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A keeper's nickname, 'Willy the Wisp'. I can't identify it. Check the context and any other uses."
+  },
+  {
+   "n": 2335,
+   "level": "species",
+   "scientific": "Oceanites oceanicus",
+   "english": "Wilson's Storm Petrel",
+   "note": "Very rare in British waters at the time. Possibly a misidentified European Storm Petrel. Check the locality (ship at sea?)."
+  },
+  {
+   "n": 2336,
+   "level": "species",
+   "scientific": "Oceanites oceanicus",
+   "english": "Wilson's Storm Petrel",
+   "note": "As above. Check the locality and the identification."
+  },
+  {
+   "n": 2337,
+   "level": "group",
+   "scientific": null,
+   "english": "winter birds",
+   "note": null
+  },
+  {
+   "n": 2338,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A keeper's name, 'Winter Sparrows'. Possibly Tree Sparrow, Snow Bunting or Dunnock. Check."
+  },
+  {
+   "n": 2339,
+   "level": "group",
+   "scientific": null,
+   "english": "winter visitors",
+   "note": null
+  },
+  {
+   "n": 2340,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "wild ducks",
+   "note": "OCR error for 'Wild Duck'."
+  },
+  {
+   "n": 2341,
+   "level": "species",
+   "scientific": "Motacilla citreola",
+   "english": "Citrine Wagtail",
+   "note": "OCR error for 'M. citreola'. A vagrant, probably Heligoland. Check."
+  },
+  {
+   "n": 2342,
+   "level": "species",
+   "scientific": "Lullula arborea",
+   "english": "Woodlark",
+   "note": null
+  },
+  {
+   "n": 2343,
+   "level": "species",
+   "scientific": "Lullula arborea",
+   "english": "Woodlark",
+   "note": "The name is quoted, perhaps doubted. Check."
+  },
+  {
+   "n": 2344,
+   "level": "genus",
+   "scientific": "Phylloscopus",
+   "english": "leaf warblers",
+   "note": "Wood or Willow Warbler, 'probably the latter'."
+  },
+  {
+   "n": 2345,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 2346,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 2347,
+   "level": "species",
+   "scientific": "Tringa glareola",
+   "english": "Wood Sandpiper",
+   "note": null
+  },
+  {
+   "n": 2348,
+   "level": "species",
+   "scientific": "Tringa glareola",
+   "english": "Wood Sandpiper",
+   "note": null
+  },
+  {
+   "n": 2349,
+   "level": "species",
+   "scientific": "Phylloscopus sibilatrix",
+   "english": "Wood Warbler",
+   "note": null
+  },
+  {
+   "n": 2350,
+   "level": "species",
+   "scientific": "Phylloscopus sibilatrix",
+   "english": "Wood Warbler",
+   "note": null
+  },
+  {
+   "n": 2351,
+   "level": "species",
+   "scientific": "Phylloscopus sibilatrix",
+   "english": "Wood Warbler",
+   "note": "Wood Wren = Wood Warbler. The Oct. 27th example is very late for this species. Check the identification."
+  },
+  {
+   "n": 2352,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": null
+  },
+  {
+   "n": 2353,
+   "level": "species",
+   "scientific": "Phylloscopus sibilatrix",
+   "english": "Wood Warbler",
+   "note": null
+  },
+  {
+   "n": 2354,
+   "level": "species",
+   "scientific": "Lanius senator",
+   "english": "Woodchat Shrike",
+   "note": null
+  },
+  {
+   "n": 2355,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": null
+  },
+  {
+   "n": 2356,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": null
+  },
+  {
+   "n": 2357,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": "OCR error."
+  },
+  {
+   "n": 2358,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": "'Woodquest' (OCR 'Woodguests') is a dialect name for the Wood Pigeon."
+  },
+  {
+   "n": 2359,
+   "level": "species",
+   "scientific": "Lullula arborea",
+   "english": "Woodlark",
+   "note": null
+  },
+  {
+   "n": 2360,
+   "level": "family",
+   "scientific": "Picidae",
+   "english": "woodpeckers",
+   "note": "Probably mostly Great Spotted Woodpecker, but not named."
+  },
+  {
+   "n": 2361,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 2362,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": "OCR error in a small-caps heading."
+  },
+  {
+   "n": 2363,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": "OCR error in a small-caps heading."
+  },
+  {
+   "n": 2364,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": "OCR error."
+  },
+  {
+   "n": 2365,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": null
+  },
+  {
+   "n": 2366,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": "Keepers' 'Wrens' at lanterns may include Goldcrests or Willow Wrens. Check large rush counts."
+  },
+  {
+   "n": 2367,
+   "level": "group",
+   "scientific": null,
+   "english": "small birds",
+   "note": "'Wrens of all sorts' = Wrens, Willow Wrens and Golden-crested Wrens."
+  },
+  {
+   "n": 2368,
+   "level": "species",
+   "scientific": "Jynx torquilla",
+   "english": "Eurasian Wryneck",
+   "note": null
+  },
+  {
+   "n": 2369,
+   "level": "species",
+   "scientific": "Jynx torquilla",
+   "english": "Eurasian Wryneck",
+   "note": null
+  },
+  {
+   "n": 2370,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": "OCR error for Widgeon."
+  },
+  {
+   "n": 2371,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "wild ducks",
+   "note": "OCR error for 'Wild Duck'."
+  },
+  {
+   "n": 2372,
+   "level": "species",
+   "scientific": "Xema sabini",
+   "english": "Sabine's Gull",
+   "note": null
+  },
+  {
+   "n": 2373,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "A yellow wagtail-like bird with a black, striped head. Possibly a dark-headed yellow wagtail form or Grey Wagtail. Check."
+  },
+  {
+   "n": 2374,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2375,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2376,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2377,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2378,
+   "level": "genus",
+   "scientific": "Tringa",
+   "english": "shanks",
+   "note": "'Yellowshank' was a Victorian name for Lesser Yellowlegs (T. flavipes), but a keeper's description of a found-dead bird could be Wood Sandpiper or similar. Check whether a specimen was sent."
+  },
+  {
+   "n": 2379,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": "British Yellow Wagtail = M. f. flavissima (M. raii)."
+  },
+  {
+   "n": 2380,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": null
+  },
+  {
+   "n": 2381,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": null
+  },
+  {
+   "n": 2382,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": "Gilbert White's 'Yellow Wren' = Willow Warbler. Wood Warbler is possible."
+  },
+  {
+   "n": 2383,
+   "level": "group",
+   "scientific": null,
+   "english": "hawks",
+   "note": "A raptor I can't identify. Possibly a juvenile falcon or Kestrel."
+  },
+  {
+   "n": 2384,
+   "level": "species",
+   "scientific": "Phylloscopus inornatus",
+   "english": "Yellow-browed Warbler",
+   "note": "'Yellow-barred Warbler' is probably Yellow-browed Warbler (yellowish wing-bars). Check."
+  },
+  {
+   "n": 2385,
+   "level": "species",
+   "scientific": "Phylloscopus inornatus",
+   "english": "Yellow-browed Warbler",
+   "note": null
+  },
+  {
+   "n": 2386,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2387,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2388,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2389,
+   "level": "species",
+   "scientific": "Branta leucopsis",
+   "english": "Barnacle Goose",
+   "note": null
+  },
+  {
+   "n": 2390,
+   "level": "genus",
+   "scientific": "Numenius",
+   "english": "curlews",
+   "note": "'Young Curlew' in May is probably Whimbrel. Keepers confused the two (see 'Whimbrel, or young Curlew')."
+  },
+  {
+   "n": 2391,
+   "level": "genus",
+   "scientific": "Numenius",
+   "english": "curlews",
+   "note": "Possibly Whimbrel."
+  },
+  {
+   "n": 2392,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": null
+  },
+  {
+   "n": 2393,
+   "level": "species",
+   "scientific": "Morus bassanus",
+   "english": "Northern Gannet",
+   "note": null
+  },
+  {
+   "n": 2394,
+   "level": "species",
+   "scientific": "Uria aalge",
+   "english": "Common Murre",
+   "note": "Guillemot = Common Murre."
+  },
+  {
+   "n": 2395,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": null
+  },
+  {
+   "n": 2396,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": null
+  },
+  {
+   "n": 2397,
+   "level": "species",
+   "scientific": "Rissa tridactyla",
+   "english": "Black-legged Kittiwake",
+   "note": null
+  },
+  {
+   "n": 2398,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "'Lark' alone taken as Skylark."
+  },
+  {
+   "n": 2399,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "'Larks' alone taken as Skylark."
+  },
+  {
+   "n": 2400,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 2401,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Pied Wagtail = M. a. yarrellii."
+  },
+  {
+   "n": 2402,
+   "level": "genus",
+   "scientific": "Columba",
+   "english": "pigeons",
+   "note": "Probably Rock Doves at an island station."
+  },
+  {
+   "n": 2403,
+   "level": "species",
+   "scientific": "Hirundo rustica",
+   "english": "Barn Swallow",
+   "note": null
+  },
+  {
+   "n": 2404,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 2405,
+   "level": "species",
+   "scientific": "Falco columbarius",
+   "english": "Merlin",
+   "note": "Falco aesalon = Merlin."
+  },
+  {
+   "n": 2406,
+   "level": "species",
+   "scientific": "Melanitta fusca",
+   "english": "Velvet Scoter",
+   "note": null
+  },
+  {
+   "n": 2407,
+   "level": "species",
+   "scientific": "Melanitta nigra",
+   "english": "Common Scoter",
+   "note": "The example is from Strømø (Faroe)."
+  },
+  {
+   "n": 2408,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 2409,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Quoted '\"Bass\" Gulls' is a keeper's name, possibly for Gannets (Bass Rock birds) or a gull species. Check."
+  },
+  {
+   "n": 2410,
+   "level": "species",
+   "scientific": "Pluvialis squatarola",
+   "english": "Grey Plover",
+   "note": "The quote marks around 'Grey' suggest the committee doubted it. Possibly winter Golden Plover. Check."
+  },
+  {
+   "n": 2411,
+   "level": "species",
+   "scientific": "Anthus pratensis",
+   "english": "Meadow Pipit",
+   "note": "Glossed in the text as Meadow Pipit."
+  },
+  {
+   "n": 2412,
+   "level": "species",
+   "scientific": "Pluvialis squatarola",
+   "english": "Grey Plover",
+   "note": "Quoted 'Grey' (committee doubt). Killed striking, so a specimen may exist. Possibly Golden Plover."
+  },
+  {
+   "n": 2413,
+   "level": "species",
+   "scientific": "Pluvialis squatarola",
+   "english": "Grey Plover",
+   "note": "Quoted 'Grey' (committee doubt). Possibly Golden Plover."
+  },
+  {
+   "n": 2414,
+   "level": "species",
+   "scientific": "Pluvialis squatarola",
+   "english": "Grey Plover",
+   "note": "Quoted 'Grey' (committee doubt). Possibly Golden Plover."
+  }
+ ],
+ "notes": "All 315 names in batch6 (n 2100-2414) are mapped. Things to check:\n(1) Victorian genera mean different birds today. Tringa/Tringæ = modern Calidris (Dunlin, Knot, stints). Totanus/Totani = modern Tringa (shanks), and could also cover Common Sandpiper. Turdus musicus = Song Thrush here, because iliacus is used for Redwing, even though Linnaeus's musicus was the Redwing.\n(2) 'Turdidæ' and its OCR forms (Turdide, Turpipz, Torpip#, Twrdide) are mapped to family Turdidae. The Victorian family was broader (chats, Robin, redstarts, sometimes warblers). I read Turpipz/Torpip# as small-caps OCR of TURDIDÆ; check against the scans.\n(3) 'Thrush'/'Thrushes' (1,248 observations) are mapped to Song Thrush as you said; rush-night plurals may lump other Turdus.\n(4) 'Wild Duck' (117+82 observations) is left at family Anatidae, but where it is the committee's species heading it is Yarrell's Mallard. Only 'Wild-drake' is mapped to Mallard.\n(5) Single-name puzzles needing the source: Titmouses 'build on the Rock'; White Owl (the Redcar 'great White Owl' is likely Snowy Owl, others Barn Owl); White/'Kittiwake variety' gulls (possibly Ivory Gull); Wilson's Petrel (likely misidentified unless at sea); White/Yellow-spotted Hawks; Whitebreast; Willy the Wisp; Winter Sparrows; 'Bass' Gulls; White-backed; white-bellied variety (Brent?); Welw Bail (Water Rail?); Wen (Wren?); Tick Terns; Yellow Shanked Sandpiper; the quoted 'Grey' Plover entries; Oct. 27th Wood Wren; Turdus varius three times in one October.\n(6) 'Young Curlew' and 'Whimbrel, or young Curlew' are left at genus Numenius, because keepers called May Whimbrels 'young Curlews'.\n(7) The U. alle/brunnichii/troile and Œdemia nigra examples may come from foreign (Faroe or Heligoland) lists. Check the locality before using them as British records.\n(8) IOC names used: Western House Martin, Western Yellow Wagtail, Eurasian Whimbrel, Common Murre, Thick-billed Murre, Curruca communis, Zoothera aurea for White's Thrush. Pied and White Wagtail are both mapped to Motacilla alba.",
+ "_meta": {
+  "run": 1,
+  "batch": 6,
+  "cost_usd": 1.0462824
+ }
+}

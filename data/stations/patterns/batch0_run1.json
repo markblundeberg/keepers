@@ -1,0 +1,2461 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "lights": [
+    {
+     "role": "upper",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Lights not visible W. of Seal Carr Ledges"
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Shown only while there are 10 ft. on the bar; same tower as upper light"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 2,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 3,
+   "lights": [
+    {
+     "role": "high",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    },
+    {
+     "role": "low",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 4,
+   "lights": [
+    {
+     "role": "upper",
+     "kind": "flashing",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "A flash every 20 secs.: two bright then one red; each flash plus its following dark totals 20 s"
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Visible only between N.W. by N. ½ N. and N. by W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 5,
+   "lights": [
+    {
+     "role": "upper",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Bright seaward S. ½ W. to N. by E. ½ E.; red thence to N. by E. over Bulmer Bush Rocks"
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Bright S.E. by S. ¾ S. to S. by E.; red thence westward over Bondicar Bush to S. by W. ½ W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 6,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Electric light"
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Bright S. by E. to S. ¾ W.; red thence to S. by W. ¾ W. over Whitburn Stile, Hendon Rocks"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 7,
+   "lights": [
+    {
+     "role": "Fifth buoy",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Leads in with Seal Sand light, in one S.W. ¼ W."
+    },
+    {
+     "role": "Seal Sand",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 8,
+   "lights": [
+    {
+     "role": "Fourth buoy",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "green",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "On East training wall"
+    },
+    {
+     "role": "Fifth buoy",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Leads in with Seal Sand light, in one S.W. ¾ W."
+    },
+    {
+     "role": "Seal Sand",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 9,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "flashing",
+     "group": null,
+     "cycle_s": 10,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Obscured southward of E.S.E. over Redcar Rocks"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 10,
+   "lights": [
+    {
+     "role": "north",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red over and inshore of Scar Rock"
+    },
+    {
+     "role": "south",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "(One 3-flashing light proposed)"
+    }
+   ],
+   "unsure": "Towers 66 and 46 ft. but the entry doesn't say which is the north (red-sector) light; 'south' role is inferred from 'North light' and the S.S.E. line"
+  },
+  {
+   "n": 11,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 90,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Twice white, once red; half-minute between flashes"
+    }
+   ],
+   "unsure": "Took 'half-minute interval' as the time between successive flashes (cycle 90 s); it could instead mean the whole white-white-red sequence repeats every 30 s"
+  },
+  {
+   "n": 12,
+   "lights": [
+    {
+     "role": "high",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red between Sandhaile and Grimsby Pier (S.E. by S. to N.W. by W. ¾ W.)"
+    },
+    {
+     "role": "low",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 13,
+   "lights": [
+    {
+     "role": "high",
+     "kind": "occulting",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 27,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 3,
+       "stated": true
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red between Sandhaile and Grimsby Pier (S.E. by S. to N.W. by W. ¾ W.)"
+    },
+    {
+     "role": "low",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 14,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 15,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 16,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 17,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 18,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "green",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 19,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 20,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 2,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 22,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "Two quick flashes (first bright, second red) occupy the remaining 8 s"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 21,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 22,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 10,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 23,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red over Roaring Middle Sand, W.N.W. to N.W. by W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 24,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_occulting",
+     "group": 2,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 24,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Two quick occultations (with the short light between them) take the remaining 6 s. Red over Roaring Middle Sand, W. by N. ¾ N. to N.W. by W. ¼ W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 25,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 26,
+   "lights": [
+    {
+     "role": "upper",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": "Colour of neither light is stated (probably white)"
+  },
+  {
+   "n": 27,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 2,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 20,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "Two quick flashes take the remaining 10 s"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 28,
+   "lights": [
+    {
+     "role": "light 1",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Leading lights for Hasborough Gat, in one N.W. ½ W., ½ mile apart"
+    },
+    {
+     "role": "light 2",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": "Entry doesn't name the two lights high/low"
+  },
+  {
+   "n": 29,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "occulting",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 25,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 5,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 30,
+   "lights": [
+    {
+     "role": "light 1",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Light-vessel; the two lights horizontal"
+    },
+    {
+     "role": "light 2",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 31,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Masked to S. by E. ½ E., to Scroby Elbow bell buoy"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 32,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 3,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 36,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "Three quick flashes take the remaining 24 s"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 33,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 34,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 35,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "In the red sector the light is fixed red, not revolving"
+    }
+   ],
+   "unsure": "Sector bearings not given; unclear whether the fixed red sector is a separate light or part of the main light"
+  },
+  {
+   "n": 36,
+   "lights": [
+    {
+     "role": "high",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "High light to the South; red from W. by S. to W.S.W. (description truncated)"
+    },
+    {
+     "role": "low",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": "Description truncated; can't tell whether the low light also has a red sector ('br. or red lts.' may apply to both)"
+  },
+  {
+   "n": 37,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 38,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 3,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 14,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "Short, long, short flash in the remaining 16 s, then 14 s eclipse"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 39,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red outside between S.S.E. and S.W. to Beach End buoy, bright to West; red strip N.W. by N. ½ N. to N. by W. ½ W. clearing North Shelf buoy. (Fixed green light on Landguard Fort jetty not counted)"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 40,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 41,
+   "lights": [
+    {
+     "role": "light 1",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Light-vessel; the two lights horizontal"
+    },
+    {
+     "role": "light 2",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 42,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 43,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 44,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 45,
+   "lights": [
+    {
+     "role": "upper",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Vessel sunk July 1877; wreck marked by a light-vessel 1½ cable N.N.E."
+    },
+    {
+     "role": "lower",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 46,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 2,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Red then bright flash in quick succession every ½ min."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 47,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 48,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red strip to E. end of Margate Sand, N. ¾ E. to N. by W. ½ W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 49,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "occulting",
+     "group": null,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 25,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 5,
+       "stated": true
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red strip to East end of Margate Sand, N. by E. to N. by W. ¾ W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 50,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 3,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 36,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "Character line says 'rev. br. lt., 1 min.' but description gives 3 quick flashes then 36 s eclipse; flashes take the remaining 24 s"
+    }
+   ],
+   "unsure": "Character line (revolving) and description (3 flashes) disagree; followed the description"
+  },
+  {
+   "n": 51,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 52,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 53,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 2,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 1.5,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 6,
+       "stated": true
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 5,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 17.5,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 54,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 15,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "green",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 55,
+   "lights": [
+    {
+     "role": "high",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Electric; visible between N.E. by N. and W. by S. ½ S."
+    },
+    {
+     "role": "low",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Electric; visible between N.E. ¾ E. and W. by S. ½ S."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 56,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 20,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 57,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [
+      "red"
+     ],
+     "note": "Red over W. anchorage northward of W., and over E. anchorage West of N.E. by E. ½ E."
+    },
+    {
+     "role": "point",
+     "kind": "flashing",
+     "group": null,
+     "cycle_s": 5,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Tower on extremity of point, 675 ft. S.E. by S. ½ S. from main light"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 58,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 3,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 37,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": "3 flashes within 23 s, then 37 s dark. In summer 1887 to be altered to triple-flashing every 45 secs."
+    }
+   ],
+   "unsure": "Read 'at intervals of 37 secs.' as 37 s of darkness between groups (23 + 37 = 60, matching '1 m.')"
+  },
+  {
+   "n": 59,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 120,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": 15,
+       "stated": true
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": 105,
+       "stated": true
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 60,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 90,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Twice white, once red; half-minute between flashes"
+    }
+   ],
+   "unsure": "Took 'half-minute interval' as the time between successive flashes (cycle 90 s); it could mean the whole sequence repeats every 30 s"
+  },
+  {
+   "n": 61,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 60,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "A flash every ½ min., alternately bright and red"
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 62,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Visible between E. ¾ S. and N.W. ½ W."
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 63,
+   "lights": [
+    {
+     "role": "light 1",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": "Light-vessel"
+    },
+    {
+     "role": "light 2",
+     "kind": "fixed",
+     "group": null,
+     "cycle_s": null,
+     "cycle_stated": false,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": "Entry doesn't say how the two lights are arranged (horizontal or at different heights)"
+  },
+  {
+   "n": 64,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "group_flashing",
+     "group": 3,
+     "cycle_s": 30,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": true,
+       "colour": "white",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  },
+  {
+   "n": 65,
+   "lights": [
+    {
+     "role": "main",
+     "kind": "revolving",
+     "group": null,
+     "cycle_s": 45,
+     "cycle_stated": true,
+     "steps": [
+      {
+       "light": true,
+       "colour": "red",
+       "seconds": null,
+       "stated": false
+      },
+      {
+       "light": false,
+       "colour": null,
+       "seconds": null,
+       "stated": false
+      }
+     ],
+     "sector_colours": [],
+     "note": null
+    }
+   ],
+   "unsure": null
+  }
+ ],
+ "_meta": {
+  "batch": 0,
+  "run": 1,
+  "keys": {
+   "1": "2896c0dced52",
+   "2": "09743a0243d7",
+   "3": "e8f899811e14",
+   "4": "53b1610096b2",
+   "5": "fc33cecb0e28",
+   "6": "40977a460ffc",
+   "7": "ec96ed77a996",
+   "8": "a7b1916b089a",
+   "9": "4247ccaf931c",
+   "10": "1b6ed6f0915e",
+   "11": "628fe4bb18aa",
+   "12": "28a9f5a27cd6",
+   "13": "45f680e51625",
+   "14": "bafe7e21fcfb",
+   "15": "aca8c2852141",
+   "16": "636d142654cc",
+   "17": "b38504c81108",
+   "18": "c22a78be4111",
+   "19": "e3beb19b0b13",
+   "20": "4b767418297a",
+   "21": "eace3ff8235c",
+   "22": "1af6f973c503",
+   "23": "c09c2cf4d928",
+   "24": "0116462ad957",
+   "25": "921df1655016",
+   "26": "6fa8f6998ef9",
+   "27": "d1f35d9d7748",
+   "28": "4a1ca484c798",
+   "29": "5807d81de651",
+   "30": "6d54c4bfac17",
+   "31": "be7348d554fc",
+   "32": "eadfb7f806a8",
+   "33": "7d6a0be6fc0e",
+   "34": "e2b34867566f",
+   "35": "f2cc0cbb2ef4",
+   "36": "70b82cd483dc",
+   "37": "9adb898c8d11",
+   "38": "0bbaa14f435b",
+   "39": "eedef1c99275",
+   "40": "e8dedb225fa8",
+   "41": "42b4b0adbed5",
+   "42": "74e6daf1e0c3",
+   "43": "8e2e25de841c",
+   "44": "044ee732fb82",
+   "45": "f7eb922187ac",
+   "46": "733d0357786f",
+   "47": "46adf3cea360",
+   "48": "55f57fecea41",
+   "49": "702819b2a732",
+   "50": "5d96699ea10b",
+   "51": "01e4acd32c5e",
+   "52": "30b09f08b2d5",
+   "53": "29029ed46190",
+   "54": "1790598b73df",
+   "55": "2490d0d64110",
+   "56": "5cdb928b5109",
+   "57": "2ad564309d52",
+   "58": "1fee3d29c013",
+   "59": "2dabb8126225",
+   "60": "be67992ad4cc",
+   "61": "02202e5d5a39",
+   "62": "a88d37bfd049",
+   "63": "53bca057bf75",
+   "64": "6b4df59ac01b",
+   "65": "c8e2f84e6a8e"
+  },
+  "cost_usd": 0.3811818
+ }
+}

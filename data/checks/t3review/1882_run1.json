@@ -1,0 +1,52 @@
+{
+ "flags": [
+  {
+   "id": "7:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"more resting on 18th\" doesn't say where. The bird earlier was \"close to Isle of May\", probably on the sea, which isn't a place `settled` covers. Either seen or settled fits."
+  },
+  {
+   "id": "39:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"species of birds remaining on the island at this date\" is a winter census of birds living on Rathlin, not birds resting at the station. It could be seen, or settled by analogy with \"remained about the lighthouse\"."
+  },
+  {
+   "id": "57:species",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The transcription puts the Tuskar entry under the heading \"Linnet.\", so \"Linnet\" copies the text exactly. The checker read a \"Tits.\" heading on p. 83 of the print, so the transcription seems to have dropped that heading."
+  },
+  {
+   "id": "58:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "\"four struck and two were killed at Butt of Lewis\": under the rules, struck means hitting the lantern, so the killed birds are birds killed at the light."
+  },
+  {
+   "id": "59:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "No station appears in the chunk (a footnote) or its context (table rows only). The heading \"Stevns Fyr\" is outside both, and the rules say to use null in that case."
+  },
+  {
+   "id": "81:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"night of 12th many round lantern, and night of 13th, 8 p.m. ...\": whether \"many\" carries on to the 13th is a question of how far a count reaches. The extraction did carry round_lantern over, though, so \"many\" would be consistent."
+  },
+  {
+   "id": "89:behaviour",
+   "kind": "extraction",
+   "right_value": "round_lantern",
+   "why": "\"one was seen at lights\": the round_lantern rule includes \"at the lantern or light\", and at_light is already true."
+  }
+ ],
+ "_meta": {
+  "year": 1882,
+  "run": 1,
+  "cost_usd": 0.1732572,
+  "n_flags": 7
+ }
+}

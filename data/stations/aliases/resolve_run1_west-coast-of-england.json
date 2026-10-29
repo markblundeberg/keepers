@@ -1,0 +1,120 @@
+{
+ "items": [
+  {
+   "n": 49,
+   "kind": "station",
+   "ids": [
+    "point-of-ayr-wales"
+   ],
+   "place": null,
+   "note": "Printed 'Air, L.H.' in the 1880–81 lists. This is the Point of Ayr light at the mouth of the Dee, not the Isle of Man Point of Ayre. Dee L.V. only appears from 1884, so it isn't a candidate for 1880–81."
+  },
+  {
+   "n": 193,
+   "kind": "station",
+   "ids": [
+    "caernarfon-bay-lv"
+   ],
+   "place": null,
+   "note": "The only Caernarvon station in the 1880 list is Caernarvon Bay L.V. The report mentions 'Morecambe, Caernarvon, and other stations where there are fog signals', which fits two light-vessels named together."
+  },
+  {
+   "n": 194,
+   "kind": "station",
+   "ids": [
+    "caernarfon-bay-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 593,
+   "kind": "station",
+   "ids": [
+    "holyhead-breakwater"
+   ],
+   "place": null,
+   "note": "Uncertain. North Stack and South Stack are also at Holyhead and are listed in 1880–81. I chose the Breakwater light because it is the only station with 'Holyhead' in its listed name, and 'across the bay' fits the harbour. Check the other observations. If the plain 'Holyhead' sits next to 'N. Stack' or 'S. Stack' entries, or reads like a report from the town, revise it."
+  },
+  {
+   "n": 793,
+   "kind": "station",
+   "ids": [
+    "longships"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 861,
+   "kind": "station",
+   "ids": [
+    "morecambe-bay-lv"
+   ],
+   "place": null,
+   "note": "The only Morecambe station is Morecambe Bay L.V. The report lists it among 'stations where there are fog signals'. One of the 54 observations is a general remark in the report's summary, not a dated record."
+  },
+  {
+   "n": 867,
+   "kind": "station",
+   "ids": [
+    "morecambe-bay-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 880,
+   "kind": "station",
+   "ids": [
+    "north-stack"
+   ],
+   "place": null,
+   "note": "North Stack is the fog signal station, listed in 1880–81. It is a different station from South Stack lighthouse."
+  },
+  {
+   "n": 902,
+   "kind": "station",
+   "ids": [
+    "nash-point-low"
+   ],
+   "place": null,
+   "note": "'W. or low' matches the printed 'Nash (Low or W.) L.H.' The east (high) light is a different station."
+  },
+  {
+   "n": 1061,
+   "kind": "station",
+   "ids": [
+    "south-bishop"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1062,
+   "kind": "station",
+   "ids": [
+    "south-stack"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1193,
+   "kind": "station",
+   "ids": [
+    "st-tudwals"
+   ],
+   "place": null,
+   "note": "A misreading of St Tudwal's. The list prints it the same way, 'St. Judwall, L.H.'"
+  }
+ ],
+ "notes": "I resolved all 12 names to stations. None are places or non-places.\n\nWhat to check:\n(1) n=593 'Holyhead' is the uncertain one. North Stack and South Stack are also at Holyhead and are listed in 1880–81. I picked the Holyhead Breakwater light, but look at the 7 observations in context to rule out North Stack, South Stack, or the town as a place.\n(2) n=193 'Caernarvon' and n=861 'Morecambe' each resolve to the only matching station, which in both cases is a light-vessel. Each also includes a general remark from the summary ('At Morecambe, Caernarvon, and other stations where there are fog signals...'). You may want to keep that remark from being counted as a dated observation.\n(3) n=49: the '(River Dee)' in 'Air (River Dee)' only says where the light is. Don't map it to Dee L.V., which isn't in the lists before 1884.",
+ "_meta": {
+  "run": 1,
+  "coast": "WEST COAST OF ENGLAND",
+  "gen": 0,
+  "cost_usd": 0.5034369999999999,
+  "n_items": 12
+ }
+}

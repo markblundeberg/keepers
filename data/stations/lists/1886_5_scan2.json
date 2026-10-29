@@ -1,0 +1,106 @@
+{
+ "rows": [
+  {
+   "image": "n43.jpg",
+   "printed": "Dungeness L.H. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Dungeness",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "_Nil._",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Royal Sovereign Shoals L.V. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Royal Sovereign Shoals",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "_Nil._",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Beachy Head L.H. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Beachy Head",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "_Nil._",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Owers L.V. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Owers",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "_Nil._",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "St Katherine's L.H., Isle of Wight, _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "St Katherine's",
+   "type": "L.H.",
+   "place": "Isle of Wight",
+   "keepers": [],
+   "character": null,
+   "other": "_Nil._",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Nab L.V. F. Conconi.",
+   "number": null,
+   "marks": null,
+   "name": "Nab",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "F. Conconi."
+   ],
+   "character": null,
+   "other": null,
+   "coast": "South East Coast",
+   "unsure": null
+  }
+ ],
+ "notes": "The whole list is on n43.jpg (printed page 28), just after the lead-in paragraph about the six South East Coast stations. Page n42 holds the East Coast list before it, and n44 is species notes. The list has six stations and matches the lead-in's \"six stations\".\n- There is no printed sub-heading above these rows. I used \"South East Coast\" for coast because the lead-in uses that phrase, and the stations sit under the page's \"EAST COAST OF ENGLAND\" section.\n- No station has a number, mark or light character, and no name is italic.\n- The types are printed in small capitals (\"l.h.\", \"l.v.\"). I wrote them as \"L.H.\" and \"L.V.\".\n- I left out the dot leaders between the name and keeper columns from \"printed\". St Katherine's and Royal Sovereign Shoals have no leaders. In the Dungeness type the second full stop may sit very close to the H, but it reads as \"L.H.\".\n- \"Nil.\" is in italics every time it appears, so it is written \"_Nil._\" in both printed and other.\n- St Katherine's is printed \"St Katherine's\", with no full stop after \"St\". The modern spelling is St Catherine's (Isle of Wight), but I copied it as printed. It is the only row with a locality. Its comma after \"Isle of Wight\" is printed.\n- \"Nab L.V.\" is the only station that sent a return: keeper \"F. Conconi.\". This agrees with the lead-in. The OCR's \"Nabi.\" is garbled; the image clearly reads \"Nab L.V.\".\n- The full stop after each keeper's name is printed as part of the column, so it is kept in keepers (\"F. Conconi.\").",
+ "_meta": {
+  "year": 1886,
+  "list": 5,
+  "run": 2,
+  "images": [
+   "cache/scans/1886/n42.jpg",
+   "cache/scans/1886/n43.jpg",
+   "cache/scans/1886/n44.jpg"
+  ],
+  "ocr_first_line": 2032,
+  "ocr_last_line": 2037,
+  "section": "EAST COAST OF ENGLAND (South East Coast stations)",
+  "kind": "section",
+  "cost_usd": 0.1422196
+ }
+}

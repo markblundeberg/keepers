@@ -1,0 +1,684 @@
+{
+ "rows": [
+  {
+   "line": 5903,
+   "fragments": [
+    "1.  Fastnet, Co. Cork,              x   o    8     James Walsh."
+   ],
+   "number": "1",
+   "marks": null,
+   "name": "Fastnet",
+   "type": null,
+   "place": "Co. Cork",
+   "keepers": [
+    "James Walsh"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore 8",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5904,
+   "fragments": [
+    "2.  Galley Head, Cork,              o   x   --     John Kelly."
+   ],
+   "number": "2",
+   "marks": null,
+   "name": "Galley Head",
+   "type": null,
+   "place": "Cork",
+   "keepers": [
+    "John Kelly"
+   ],
+   "character": null,
+   "other": "Sp. o; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5905,
+   "fragments": [
+    "3.  Old Head, Kinsale, Cork,        o   o   --     _No reply._"
+   ],
+   "number": "3",
+   "marks": null,
+   "name": "Old Head, Kinsale",
+   "type": null,
+   "place": "Cork",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. o; Au. o; miles from shore --; _No reply._",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5906,
+   "fragments": [
+    "4.  Mine Head, Waterford,           o   x   --   { Hugh J. Dugan and",
+    "{   Edward M'Carron."
+   ],
+   "number": "4",
+   "marks": null,
+   "name": "Mine Head",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [
+    "Hugh J. Dugan",
+    "Edward M'Carron"
+   ],
+   "character": null,
+   "other": "Sp. o; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5908,
+   "fragments": [
+    "5.  Dungarvan, Waterford,           x   x   --     Wm. Higginbotham."
+   ],
+   "number": "5",
+   "marks": null,
+   "name": "Dungarvan",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [
+    "Wm. Higginbotham"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5909,
+   "fragments": [
+    "5. *Coningbeg Lt.-ship, Wexford,    x   x   10   { Patrick Cullen and",
+    "{   William Clydesdale."
+   ],
+   "number": "5",
+   "marks": "*",
+   "name": "Coningbeg",
+   "type": "Lt.-ship",
+   "place": "Wexford",
+   "keepers": [
+    "Patrick Cullen",
+    "William Clydesdale"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 10",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5911,
+   "fragments": [
+    "6.  Barrels Rock Lt.-ship, do.,     x   x    4   { Michael Doyle and",
+    "{   Charles H. M'Cabe."
+   ],
+   "number": "6",
+   "marks": null,
+   "name": "Barrels Rock",
+   "type": "Lt.-ship",
+   "place": "do.",
+   "keepers": [
+    "Michael Doyle",
+    "Charles H. M'Cabe"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 4",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5913,
+   "fragments": [
+    "7.  Tuskar Rock,           do.,     x   x    7   { Richard Hamilton",
+    "{   and Patrick D'Arcy."
+   ],
+   "number": "7",
+   "marks": null,
+   "name": "Tuskar Rock",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Richard Hamilton",
+    "Patrick D'Arcy"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 7",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5915,
+   "fragments": [
+    "8.  Arklow Sth. Lt.-ship, Wicklow,  x   x    7   { Patrick Clancy and",
+    "{   Alfred B. Wall."
+   ],
+   "number": "8",
+   "marks": null,
+   "name": "Arklow Sth.",
+   "type": "Lt.-ship",
+   "place": "Wicklow",
+   "keepers": [
+    "Patrick Clancy",
+    "Alfred B. Wall"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 7",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5917,
+   "fragments": [
+    "8. *Arklow North Lt.-ship, do.,     x   x    8     William Daly."
+   ],
+   "number": "8",
+   "marks": "*",
+   "name": "Arklow North",
+   "type": "Lt.-ship",
+   "place": "do.",
+   "keepers": [
+    "William Daly"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 8",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5918,
+   "fragments": [
+    "10.  Kish Bank Lt.-ship, Dublin,     x   x    7   { John Pinston and",
+    "{   Thomas Cooney."
+   ],
+   "number": "10",
+   "marks": null,
+   "name": "Kish Bank",
+   "type": "Lt.-ship",
+   "place": "Dublin",
+   "keepers": [
+    "John Pinston",
+    "Thomas Cooney"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 7",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5920,
+   "fragments": [
+    "11.  Howth Baily, Dublin,            o   o   --     _No reply._"
+   ],
+   "number": "11",
+   "marks": null,
+   "name": "Howth Baily",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. o; Au. o; miles from shore --; _No reply._",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5921,
+   "fragments": [
+    "12.  Rockabill, Dublin,              x   x    5     Joseph Hammond."
+   ],
+   "number": "12",
+   "marks": null,
+   "name": "Rockabill",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [
+    "Joseph Hammond"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5922,
+   "fragments": [
+    "13.  Copeland (Mew) Island, Down,    x   x    3     John O'Donnell."
+   ],
+   "number": "13",
+   "marks": null,
+   "name": "Copeland (Mew) Island",
+   "type": null,
+   "place": "Down",
+   "keepers": [
+    "John O'Donnell"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 3",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5923,
+   "fragments": [
+    "14.  Maidens, Antrim,                x   x    5     Michael Barry."
+   ],
+   "number": "14",
+   "marks": null,
+   "name": "Maidens",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "Michael Barry"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5924,
+   "fragments": [
+    "15.  Rathlin, Antrim,                x   x    6     John A. Murray."
+   ],
+   "number": "15",
+   "marks": null,
+   "name": "Rathlin",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "John A. Murray"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 6",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5925,
+   "fragments": [
+    "16.  Innishtrahull, Donegal,         x   o    6     R. Phelan."
+   ],
+   "number": "16",
+   "marks": null,
+   "name": "Innishtrahull",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "R. Phelan"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore 6",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5926,
+   "fragments": [
+    "17.  Dunree Head, Donegal,           x   o   --     John Stapleton."
+   ],
+   "number": "17",
+   "marks": null,
+   "name": "Dunree Head",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "John Stapleton"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5927,
+   "fragments": [
+    "18.  Lough Swilly, Donegal,         --   x   --     James Keenan."
+   ],
+   "number": "18",
+   "marks": null,
+   "name": "Lough Swilly",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "James Keenan"
+   ],
+   "character": null,
+   "other": "Sp. --; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5928,
+   "fragments": [
+    "19.  Tory Island, Donegal,           x   o    9     Henry Stocker."
+   ],
+   "number": "19",
+   "marks": null,
+   "name": "Tory Island",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Henry Stocker"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5929,
+   "fragments": [
+    "20.  Arranmore, Donegal,             x   x    5     Henry Williams."
+   ],
+   "number": "20",
+   "marks": null,
+   "name": "Arranmore",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Henry Williams"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5930,
+   "fragments": [
+    "21.  Rathlin O'Birne, Donegal,       o   x    2     John Scallan."
+   ],
+   "number": "21",
+   "marks": null,
+   "name": "Rathlin O'Birne",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "John Scallan"
+   ],
+   "character": null,
+   "other": "Sp. o; Au. x; miles from shore 2",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5931,
+   "fragments": [
+    "22.  Killybegs, Donegal,             x   x   --     Joseph Hill."
+   ],
+   "number": "22",
+   "marks": null,
+   "name": "Killybegs",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Joseph Hill"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5932,
+   "fragments": [
+    "23.  Oyster Island, N. Sligo,        o  --    1     _No reply._"
+   ],
+   "number": "23",
+   "marks": null,
+   "name": "Oyster Island",
+   "type": null,
+   "place": "N. Sligo",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. o; Au. --; miles from shore 1; _No reply._",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5933,
+   "fragments": [
+    "24.  Broadhaven, Mayo,               x   x   --     Patrick Keenan."
+   ],
+   "number": "24",
+   "marks": null,
+   "name": "Broadhaven",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Patrick Keenan"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5934,
+   "fragments": [
+    "25.  Eagle Island, E., Mayo,         o   x    2     Daniel Hawkins."
+   ],
+   "number": "25",
+   "marks": null,
+   "name": "Eagle Island, E.",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Daniel Hawkins"
+   ],
+   "character": null,
+   "other": "Sp. o; Au. x; miles from shore 2",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5935,
+   "fragments": [
+    "26.  Eagle Island, W., Mayo,        --  --    2     No schedule sent."
+   ],
+   "number": "26",
+   "marks": null,
+   "name": "Eagle Island, W.",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. --; Au. --; miles from shore 2; No schedule sent.",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5936,
+   "fragments": [
+    "27.  Blackrock, Mayo,                x   x    9   { John Redmond, J.",
+    "{   Young, R. Lyons,",
+    "{   and Edward Rohu."
+   ],
+   "number": "27",
+   "marks": null,
+   "name": "Blackrock",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "John Redmond",
+    "J. Young",
+    "R. Lyons",
+    "Edward Rohu"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5939,
+   "fragments": [
+    "28.  Blacksod Point, Mayo,           x   o   --     Robt. W. Redmond."
+   ],
+   "number": "28",
+   "marks": null,
+   "name": "Blacksod Point",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Robt. W. Redmond"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5940,
+   "fragments": [
+    "29.  Clare Island, Mayo,             x   o    4     G. H. Brownell."
+   ],
+   "number": "29",
+   "marks": null,
+   "name": "Clare Island",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "G. H. Brownell"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore 4",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5941,
+   "fragments": [
+    "30.  Slyne Head, N., Galway,         x   o    3     Robert Tyrell."
+   ],
+   "number": "30",
+   "marks": null,
+   "name": "Slyne Head, N.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Robert Tyrell"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. o; miles from shore 3",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5942,
+   "fragments": [
+    "31.  Slyne Head, S., Galway,        --  --    3     No schedule sent."
+   ],
+   "number": "31",
+   "marks": null,
+   "name": "Slyne Head, S.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. --; Au. --; miles from shore 3; No schedule sent.",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5943,
+   "fragments": [
+    "32.  Arran Island, N., Galway,       x   x    9     Thomas Fortune."
+   ],
+   "number": "32",
+   "marks": null,
+   "name": "Arran Island, N.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Thomas Fortune"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5944,
+   "fragments": [
+    "33.  Straw Island, Galway,           x   x    9     Charles Boyle."
+   ],
+   "number": "33",
+   "marks": null,
+   "name": "Straw Island",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Charles Boyle"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5945,
+   "fragments": [
+    "34.  Arran Island, S., Galway,      --  --    6     No schedule sent."
+   ],
+   "number": "34",
+   "marks": null,
+   "name": "Arran Island, S.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. --; Au. --; miles from shore 6; No schedule sent.",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5946,
+   "fragments": [
+    "37.  Tearaght, Kerry,                x   x    9   { Edward M'Carron",
+    "{   and Francis Ryan."
+   ],
+   "number": "37",
+   "marks": null,
+   "name": "Tearaght",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Edward M'Carron",
+    "Francis Ryan"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5948,
+   "fragments": [
+    "38.  Valentia, Kerry,                x   x   --     Joseph Williams."
+   ],
+   "number": "38",
+   "marks": null,
+   "name": "Valentia",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Joseph Williams"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5949,
+   "fragments": [
+    "39.  Skelligs, Kerry,                x   x    9     Thomas Kerley."
+   ],
+   "number": "39",
+   "marks": null,
+   "name": "Skelligs",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Thomas Kerley"
+   ],
+   "character": null,
+   "other": "Sp. x; Au. x; miles from shore 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5950,
+   "fragments": [
+    "40.  Dursey Island, Cork,           --  --    ½     No schedule sent."
+   ],
+   "number": "40",
+   "marks": null,
+   "name": "Dursey Island",
+   "type": null,
+   "place": "Cork",
+   "keepers": [],
+   "character": null,
+   "other": "Sp. --; Au. --; miles from shore ½; No schedule sent.",
+   "coast": "IRISH COAST"
+  }
+ ],
+ "notes": "39 station rows (lines 5903–5950). There are no sub-headings inside the list, so I set coast to the section title, \"IRISH COAST\", for every row.\n\nHow the columns were read: the four columns after the name are Spring mark, Autumn mark, miles from shore and observers. I put the first three in `other` as \"Sp. …; Au. …; miles from shore …\". \"--\" in the Sp./Au. columns seems to mean no schedule was sent that season. \"--\" in the miles column probably means a shore station. \"½\" (Dursey Island) is printed as a fraction.\n\nChecks against the abbreviations:\n- 35 rows have at least one season with a schedule sent. Without Lough Swilly (Sp. --) that leaves 34 for spring, and without Oyster Island (Au. --) 34 for autumn. Both match \"34 schedules sent out\".\n- I count 27 x in Sp. and 25 x in Au., which matches the stated replies.\n\nThings a reader should know:\n- Numbering: 5 and 8 each appear twice. The second of each, Coningbeg and Arklow North (both Lt.-ship), has \"*\" before its name. The list gives no key for the asterisk. There is no 9, 35 or 36.\n- \"do.\" (ditto) is the printed place for Barrels Rock, Tuskar Rock and Arklow North. I kept it as printed. It stands for Wexford, Wexford and Wicklow.\n- \"Old Head, Kinsale, Cork\": I took \"Old Head, Kinsale\" as the name and \"Cork\" as the place. Only Fastnet has \"Co. Cork\"; the other Cork rows just say \"Cork\".\n- \"Oyster Island, N. Sligo\" has no comma after N., unlike \"Eagle Island, E., Mayo\". So I read \"N. Sligo\" as the place and \"Oyster Island\" as the name.\n- I dropped the comma that separates the name from the place, so \"Eagle Island, E., Mayo,\" gives name \"Eagle Island, E.\" and place \"Mayo\".\n- Braces \"{\": these only group observer names that wrap onto a second line. They don't mark the station, so I left `marks` null for those rows. They are kept in the fragments.\n- \"_No reply._\" (Old Head, Howth Baily, Oyster Island) and \"No schedule sent.\" (Eagle Island W., Slyne Head S., Arran Island S., Dursey Island) appear in the observer column. I put them in `other` and left keepers empty. \"No schedule sent.\" is not in italics.\n- Blackrock's observer \"J. Young\" is split across two lines (\"J.\" / \"Young,\"). I gave it as one keeper.\n- \"Edward M'Carron\" is named at both Mine Head (4) and Tearaght (37). This could be one keeper who moved during the year, or two different men.\n- \"Lough Swilly\" names no particular light. It is probably Fanad Head or Buncrana; the list only gives \"Lough Swilly\".\n- Spellings kept as printed: Innishtrahull (Inishtrahull), Howth Baily (Baily), Arran Island N./S. (Aran / Inisheer), Arranmore, Robert Tyrell, Thomas Kerley, John Pinston, \"Arklow Sth.\" The list gives no characters for any light.",
+ "_meta": {
+  "year": 1885,
+  "list": 6,
+  "run": 1,
+  "source": "sources/gutenberg/1885_pg65840.txt",
+  "first_line": 5903,
+  "last_line": 5950,
+  "section": "IRISH COAST.",
+  "kind": "section",
+  "cost_usd": 0.2143946
+ }
+}

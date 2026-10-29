@@ -1,0 +1,2460 @@
+{
+ "items": [
+  {
+   "n": 350,
+   "level": "species",
+   "scientific": "Coccothraustes coccothraustes",
+   "english": "Hawfinch",
+   "note": "Gätke's list form (Fr./F. coccothraustes)."
+  },
+  {
+   "n": 351,
+   "level": "species",
+   "scientific": "Coccothraustes coccothraustes",
+   "english": "Hawfinch",
+   "note": null
+  },
+  {
+   "n": 352,
+   "level": "species",
+   "scientific": "Turdus merula",
+   "english": "Common Blackbird",
+   "note": null
+  },
+  {
+   "n": 353,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 354,
+   "level": "species",
+   "scientific": "Passer domesticus",
+   "english": "House Sparrow",
+   "note": "'Cock Sparrow' means a male House Sparrow."
+  },
+  {
+   "n": 355,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 356,
+   "level": "species",
+   "scientific": "Streptopelia turtur",
+   "english": "European Turtle Dove",
+   "note": null
+  },
+  {
+   "n": 357,
+   "level": "family",
+   "scientific": "Paridae",
+   "english": "tits",
+   "note": "The observer couldn't decide: Coal Tit (Periparus ater) or Great Tit (Parus major). They are in different genera, so this stays at family."
+  },
+  {
+   "n": 358,
+   "level": "genus",
+   "scientific": "Columba",
+   "english": "pigeons",
+   "note": null
+  },
+  {
+   "n": 359,
+   "level": "species",
+   "scientific": "Columba oenas",
+   "english": "Stock Dove",
+   "note": "'enas' is a misprint or OCR error for oenas. The text says Stock Dove."
+  },
+  {
+   "n": 360,
+   "level": "species",
+   "scientific": "Columba livia",
+   "english": "Rock Dove",
+   "note": null
+  },
+  {
+   "n": 361,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": "The example is copied from the Columba livia record. Check that the extraction attached it to the right observation."
+  },
+  {
+   "n": 362,
+   "level": "family",
+   "scientific": "Gaviidae",
+   "english": "divers (loons)",
+   "note": "British lists of the period used Colymbidae/Colymbus for divers, not grebes. Check the two observations: some authors used Colymbus for grebes."
+  },
+  {
+   "n": 363,
+   "level": "species",
+   "scientific": "Gavia stellata",
+   "english": "Red-throated Loon",
+   "note": "Red-throated Diver in Britain. Colymbus septentrionalis is the old name."
+  },
+  {
+   "n": 364,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": null
+  },
+  {
+   "n": 365,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "This is a fragment, not a name. In the example it is 'Common [Thrush]' (Song Thrush), but the other 5 observations may be split from other compounds (e.g. 'Common and Arctic Terns'). Resolve each one from its context."
+  },
+  {
+   "n": 366,
+   "level": "genus",
+   "scientific": "Passer",
+   "english": "sparrows",
+   "note": "Printed as 'House and Common (?) Sparrows', so these are kept apart from House Sparrow. Perhaps Tree Sparrow. The '(?)' is the editor's."
+  },
+  {
+   "n": 367,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 368,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Two species named together: Common Tern (S. hirundo) and Arctic Tern (S. paradisaea). Could be split into two rows."
+  },
+  {
+   "n": 369,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Black Crow, per your rule. A large flock suggests Rooks or Carrion Crows."
+  },
+  {
+   "n": 370,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": "'Bountine' is a garble of Bunting. 'Common Bunting' was the period name for Corn Bunting."
+  },
+  {
+   "n": 371,
+   "level": "species",
+   "scientific": "Pyrrhula pyrrhula",
+   "english": "Eurasian Bullfinch",
+   "note": null
+  },
+  {
+   "n": 372,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": "'Common Bunting' was the period name for Corn Bunting."
+  },
+  {
+   "n": 373,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": "Check the compact flock of 250 at Sumburgh Head on Nov. 6th: big flocks in Shetland in November could be Snow Buntings."
+  },
+  {
+   "n": 374,
+   "level": "species",
+   "scientific": "Buteo buteo",
+   "english": "Common Buzzard",
+   "note": null
+  },
+  {
+   "n": 375,
+   "level": "species",
+   "scientific": "Buteo buteo",
+   "english": "Common Buzzard",
+   "note": null
+  },
+  {
+   "n": 376,
+   "level": "species",
+   "scientific": "Fulica atra",
+   "english": "Eurasian Coot",
+   "note": null
+  },
+  {
+   "n": 377,
+   "level": "species",
+   "scientific": "Certhia familiaris",
+   "english": "Eurasian Treecreeper",
+   "note": null
+  },
+  {
+   "n": 378,
+   "level": "species",
+   "scientific": "Loxia curvirostra",
+   "english": "Red Crossbill",
+   "note": "Common Crossbill in Britain."
+  },
+  {
+   "n": 379,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Kept apart from Grey-backed (Hooded) Crow and resident all year. Period books used 'Common Crow' for Carrion Crow (C. corone), but keepers may mean Rook."
+  },
+  {
+   "n": 380,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Sixty in April. Probably Rooks or Carrion Crows."
+  },
+  {
+   "n": 381,
+   "level": "species",
+   "scientific": "Numenius arquata",
+   "english": "Eurasian Curlew",
+   "note": null
+  },
+  {
+   "n": 382,
+   "level": "species",
+   "scientific": "Charadrius morinellus",
+   "english": "Eurasian Dotterel",
+   "note": null
+  },
+  {
+   "n": 383,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "ducks",
+   "note": "Possibly Mallard ('Common Wild Duck'), but the example has no context. Check both observations."
+  },
+  {
+   "n": 384,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "'Field Lark' means Skylark."
+  },
+  {
+   "n": 385,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 386,
+   "level": "species",
+   "scientific": "Muscicapa striata",
+   "english": "Spotted Flycatcher",
+   "note": "'Common Flycatcher' was the period name for Spotted Flycatcher."
+  },
+  {
+   "n": 387,
+   "level": "genus",
+   "scientific": "Limosa",
+   "english": "godwits",
+   "note": "'Common Godwit' was used for both Bar-tailed and Black-tailed. Check the context."
+  },
+  {
+   "n": 388,
+   "level": "species",
+   "scientific": "Uria aalge",
+   "english": "Common Murre",
+   "note": "Common Guillemot in Britain."
+  },
+  {
+   "n": 389,
+   "level": "species",
+   "scientific": "Uria aalge",
+   "english": "Common Murre",
+   "note": "Common Guillemot in Britain."
+  },
+  {
+   "n": 390,
+   "level": "species",
+   "scientific": "Larus canus",
+   "english": "Common Gull",
+   "note": "Keepers sometimes write 'common gull' meaning any ordinary gull. Check the context."
+  },
+  {
+   "n": 391,
+   "level": "species",
+   "scientific": "Larus canus",
+   "english": "Common Gull",
+   "note": "Keepers sometimes write 'common gulls' meaning ordinary gulls generally. Check the 16 observations, especially lower-case ones."
+  },
+  {
+   "n": 392,
+   "level": "species",
+   "scientific": "Prunella modularis",
+   "english": "Dunnock",
+   "note": null
+  },
+  {
+   "n": 393,
+   "level": "species",
+   "scientific": "Ardea cinerea",
+   "english": "Grey Heron",
+   "note": null
+  },
+  {
+   "n": 394,
+   "level": "species",
+   "scientific": "Ardea cinerea",
+   "english": "Grey Heron",
+   "note": null
+  },
+  {
+   "n": 395,
+   "level": "species",
+   "scientific": "Garrulus glandarius",
+   "english": "Eurasian Jay",
+   "note": null
+  },
+  {
+   "n": 396,
+   "level": "species",
+   "scientific": "Falco tinnunculus",
+   "english": "Common Kestrel",
+   "note": null
+  },
+  {
+   "n": 397,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "'Common Lark' taken as Skylark."
+  },
+  {
+   "n": 398,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": null
+  },
+  {
+   "n": 399,
+   "level": "species",
+   "scientific": "Delichon urbicum",
+   "english": "Western House Martin",
+   "note": "'Common Martin' means House Martin (British name). The IOC name is Western House Martin."
+  },
+  {
+   "n": 400,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "Mavis means Song Thrush."
+  },
+  {
+   "n": 401,
+   "level": "species",
+   "scientific": "Caprimulgus europaeus",
+   "english": "European Nightjar",
+   "note": null
+  },
+  {
+   "n": 402,
+   "level": "group",
+   "scientific": null,
+   "english": "owls",
+   "note": "'Common Owl' is a keeper's name, possibly Barn Owl. It could also be Long-eared or Short-eared Owl."
+  },
+  {
+   "n": 403,
+   "level": "species",
+   "scientific": "Hydrobates pelagicus",
+   "english": "European Storm Petrel",
+   "note": "Breeding at Auskerry, a known Storm Petrel colony. 'Common Petrel' means Storm Petrel."
+  },
+  {
+   "n": 404,
+   "level": "genus",
+   "scientific": "Columba",
+   "english": "pigeons",
+   "note": "At Bell Rock. Could be a feral or homing pigeon, Rock Dove or Wood Pigeon."
+  },
+  {
+   "n": 405,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": null
+  },
+  {
+   "n": 406,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 407,
+   "level": "species",
+   "scientific": "Coracias garrulus",
+   "english": "European Roller",
+   "note": null
+  },
+  {
+   "n": 408,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": null
+  },
+  {
+   "n": 409,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": null
+  },
+  {
+   "n": 410,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": null
+  },
+  {
+   "n": 411,
+   "level": "species",
+   "scientific": "Melanitta nigra",
+   "english": "Common Scoter",
+   "note": null
+  },
+  {
+   "n": 412,
+   "level": "species",
+   "scientific": "Melanitta nigra",
+   "english": "Common Scoter",
+   "note": null
+  },
+  {
+   "n": 413,
+   "level": "species",
+   "scientific": "Puffinus puffinus",
+   "english": "Manx Shearwater",
+   "note": "'Common Shearwater' taken as Manx Shearwater."
+  },
+  {
+   "n": 414,
+   "level": "species",
+   "scientific": "Tadorna tadorna",
+   "english": "Common Shelduck",
+   "note": "Sheldrake means Shelduck."
+  },
+  {
+   "n": 415,
+   "level": "species",
+   "scientific": "Stercorarius skua",
+   "english": "Great Skua",
+   "note": "In period British usage 'Common Skua' meant Great Skua; it bred on Unst. Check: a keeper might mean Arctic Skua."
+  },
+  {
+   "n": 416,
+   "level": "species",
+   "scientific": "Stercorarius skua",
+   "english": "Great Skua",
+   "note": "'Common Skua' meant Great Skua in period usage. Check the context."
+  },
+  {
+   "n": 417,
+   "level": "species",
+   "scientific": "Stercorarius skua",
+   "english": "Great Skua",
+   "note": "'Common Skua' meant Great Skua in period usage. The lower-case 'common' might mean ordinary skuas: check."
+  },
+  {
+   "n": 418,
+   "level": "species",
+   "scientific": "Gallinago gallinago",
+   "english": "Common Snipe",
+   "note": null
+  },
+  {
+   "n": 419,
+   "level": "species",
+   "scientific": "Actitis hypoleucos",
+   "english": "Common Sandpiper",
+   "note": "'sole piper' is a garble of Sandpiper. A Nov. 1st date is late for this species, so check."
+  },
+  {
+   "n": 420,
+   "level": "species",
+   "scientific": "Passer domesticus",
+   "english": "House Sparrow",
+   "note": null
+  },
+  {
+   "n": 421,
+   "level": "species",
+   "scientific": "Passer domesticus",
+   "english": "House Sparrow",
+   "note": null
+  },
+  {
+   "n": 422,
+   "level": "species",
+   "scientific": "Sturnus vulgaris",
+   "english": "Common Starling",
+   "note": null
+  },
+  {
+   "n": 423,
+   "level": "species",
+   "scientific": "Hirundo rustica",
+   "english": "Barn Swallow",
+   "note": null
+  },
+  {
+   "n": 424,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": null
+  },
+  {
+   "n": 425,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": null
+  },
+  {
+   "n": 426,
+   "level": "species",
+   "scientific": "Anas crecca",
+   "english": "Eurasian Teal",
+   "note": null
+  },
+  {
+   "n": 427,
+   "level": "species",
+   "scientific": "Sterna hirundo",
+   "english": "Common Tern",
+   "note": "Keepers rarely told Common from Arctic Tern. Accept as printed or drop to genus Sterna."
+  },
+  {
+   "n": 428,
+   "level": "species",
+   "scientific": "Sterna hirundo",
+   "english": "Common Tern",
+   "note": "Keepers rarely told Common from Arctic Tern. Accept as printed or drop to genus Sterna."
+  },
+  {
+   "n": 429,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "'Common Thrush' means Song Thrush."
+  },
+  {
+   "n": 430,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "'Common Thrush' means Song Thrush."
+  },
+  {
+   "n": 431,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 432,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": "Check the Feb. 21st Cromer specimen: a winter Whitethroat is very unusual (date or identification error?)."
+  },
+  {
+   "n": 433,
+   "level": "species",
+   "scientific": "Curruca communis",
+   "english": "Common Whitethroat",
+   "note": null
+  },
+  {
+   "n": 434,
+   "level": "species",
+   "scientific": "Anas platyrhynchos",
+   "english": "Mallard",
+   "note": "'Common Wild Duck' means Mallard."
+  },
+  {
+   "n": 435,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": null
+  },
+  {
+   "n": 436,
+   "level": "species",
+   "scientific": "Troglodytes troglodytes",
+   "english": "Eurasian Wren",
+   "note": null
+  },
+  {
+   "n": 437,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": null
+  },
+  {
+   "n": 438,
+   "level": "species",
+   "scientific": "Fulica atra",
+   "english": "Eurasian Coot",
+   "note": null
+  },
+  {
+   "n": 439,
+   "level": "genus",
+   "scientific": "Fringilla",
+   "english": "chaffinches and brambling",
+   "note": "The editor guessed Brambling ('? Fringilla montifringilla'), but 'Copper-finch' is a West Country dialect name for Chaffinch. Check which station recorded it."
+  },
+  {
+   "n": 440,
+   "level": "genus",
+   "scientific": "Fringilla",
+   "english": "chaffinches and brambling",
+   "note": "A dialect name for Chaffinch; the editor elsewhere suggests Brambling. Check."
+  },
+  {
+   "n": 441,
+   "level": "species",
+   "scientific": "Corvus corone",
+   "english": "Carrion Crow",
+   "note": "Corby or corbie is the Scots name for Carrion Crow (sometimes Raven)."
+  },
+  {
+   "n": 442,
+   "level": "species",
+   "scientific": "Phalacrocorax carbo",
+   "english": "Great Cormorant",
+   "note": "Keepers' 'Cormorant' may include Shags. Where shags are likely (rocky western stations), consider genus-level."
+  },
+  {
+   "n": 443,
+   "level": "species",
+   "scientific": "Phalacrocorax carbo",
+   "english": "Great Cormorant",
+   "note": "Keepers' 'Cormorants' may include Shags (128 observations). Check whether the stations are Shag-dominated."
+  },
+  {
+   "n": 444,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 445,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 446,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 447,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 448,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": "'Genk' is taken as an OCR or keeper garble of Crake (cf. 'corncraik'), given the May 1st date. Check the scan."
+  },
+  {
+   "n": 449,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 450,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 451,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 452,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 453,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": "A misspelling of Corncrake."
+  },
+  {
+   "n": 454,
+   "level": "species",
+   "scientific": "Corvus cornix",
+   "english": "Hooded Crow",
+   "note": null
+  },
+  {
+   "n": 455,
+   "level": "species",
+   "scientific": "Corvus cornix",
+   "english": "Hooded Crow",
+   "note": null
+  },
+  {
+   "n": 456,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": null
+  },
+  {
+   "n": 457,
+   "level": "family",
+   "scientific": "Corvidae",
+   "english": "crows and allies",
+   "note": "Corvidæ with the æ lost in OCR."
+  },
+  {
+   "n": 458,
+   "level": "family",
+   "scientific": "Corvidae",
+   "english": "crows and allies",
+   "note": null
+  },
+  {
+   "n": 459,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Gätke's genus entry. In 1880s usage Corvus also covered jackdaw (now Coloeus)."
+  },
+  {
+   "n": 460,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": null
+  },
+  {
+   "n": 461,
+   "level": "species",
+   "scientific": "Coloeus monedula",
+   "english": "Western Jackdaw",
+   "note": null
+  },
+  {
+   "n": 462,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": null
+  },
+  {
+   "n": 463,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Committee and Heligoland entries mean Common Crane (Grus grus). Keepers in Scotland and Ireland used 'Crane' for Grey Heron. Resolve each of the 10 observations by source."
+  },
+  {
+   "n": 464,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "'Cranes' in quotation marks, three to five on June 7th: almost certainly Grey Herons in keepers' dialect. Committee entries may be true Common Cranes. Resolve each observation."
+  },
+  {
+   "n": 465,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A keeper's quoted 'Crané'. Probably Grey Heron (dialect 'Crane'), possibly Common Crane."
+  },
+  {
+   "n": 466,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "A pale gull: probably Glaucous or Iceland Gull, or a pale immature large gull."
+  },
+  {
+   "n": 467,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "Probably white-winged gulls (Glaucous or Iceland), or pale immatures."
+  },
+  {
+   "n": 468,
+   "level": "group",
+   "scientific": null,
+   "english": "owls",
+   "note": "A large cream-coloured owl at Farne on May 13th: Barn Owl or Snowy Owl. Check whether the committee commented."
+  },
+  {
+   "n": 469,
+   "level": "species",
+   "scientific": "Certhia familiaris",
+   "english": "Eurasian Treecreeper",
+   "note": null
+  },
+  {
+   "n": 470,
+   "level": "species",
+   "scientific": "Gulosus aristotelis",
+   "english": "European Shag",
+   "note": "'Crested Cormorant' is the period name for Shag."
+  },
+  {
+   "n": 471,
+   "level": "species",
+   "scientific": "Gulosus aristotelis",
+   "english": "European Shag",
+   "note": "'Crested Cormorant' is the period name for Shag."
+  },
+  {
+   "n": 472,
+   "level": "species",
+   "scientific": "Galerida cristata",
+   "english": "Crested Lark",
+   "note": "The text gives A[lauda] cristata. A British record would be very rare. Check the station."
+  },
+  {
+   "n": 473,
+   "level": "species",
+   "scientific": "Galerida cristata",
+   "english": "Crested Lark",
+   "note": "A keeper's entry the committee seems to doubt. Possibly crest-raising Skylarks. Check."
+  },
+  {
+   "n": 474,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": "'Crested Wren' taken as Golden-crested Wren. It could include Firecrest; genus Regulus is the safer fallback."
+  },
+  {
+   "n": 475,
+   "level": "species",
+   "scientific": "Porzana porzana",
+   "english": "Spotted Crake",
+   "note": null
+  },
+  {
+   "n": 476,
+   "level": "species",
+   "scientific": "Crex crex",
+   "english": "Corn Crake",
+   "note": null
+  },
+  {
+   "n": 477,
+   "level": "species",
+   "scientific": "Loxia curvirostra",
+   "english": "Red Crossbill",
+   "note": "Heligoland entries could involve other crossbills."
+  },
+  {
+   "n": 478,
+   "level": "species",
+   "scientific": "Loxia curvirostra",
+   "english": "Red Crossbill",
+   "note": null
+  },
+  {
+   "n": 479,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": null
+  },
+  {
+   "n": 480,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "'Crowds' is a misprint or OCR error for Crows."
+  },
+  {
+   "n": 481,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Some examples list Crows beside Rooks, so these may be Carrion or Hooded Crows. Kept at genus."
+  },
+  {
+   "n": 482,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "The editor queries Rooks."
+  },
+  {
+   "n": 483,
+   "level": "genus",
+   "scientific": "Corvus",
+   "english": "crows",
+   "note": "Probably Rooks."
+  },
+  {
+   "n": 484,
+   "level": "family",
+   "scientific": "Corvidae",
+   "english": "crows and allies",
+   "note": "Listed apart from Black and Grey Crows. Could be Hooded Crows described differently, Magpies, or pale variants. Check."
+  },
+  {
+   "n": 485,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": null
+  },
+  {
+   "n": 486,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": null
+  },
+  {
+   "n": 487,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": null
+  },
+  {
+   "n": 488,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": "A family heading (CUCULIDÆ) picked up as a name. In these reports it covers only the Cuckoo. Check that the extraction didn't take the heading in place of the species line."
+  },
+  {
+   "n": 489,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": "An OCR garble of the CUCULIDÆ heading. Treated as Cuckoo."
+  },
+  {
+   "n": 490,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": "Gätke's genus entry for Heligoland; Cuckoo is the only regular species there."
+  },
+  {
+   "n": 491,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": null
+  },
+  {
+   "n": 492,
+   "level": "species",
+   "scientific": "Cuculus canorus",
+   "english": "Common Cuckoo",
+   "note": "An OCR garble of the CUCULIDÆ heading."
+  },
+  {
+   "n": 493,
+   "level": "species",
+   "scientific": "Numenius arquata",
+   "english": "Eurasian Curlew",
+   "note": "Keepers' Curlews may include Whimbrels."
+  },
+  {
+   "n": 494,
+   "level": "species",
+   "scientific": "Numenius arquata",
+   "english": "Eurasian Curlew",
+   "note": "Keepers' 'Curlew' may include Whimbrel, especially in late April and May."
+  },
+  {
+   "n": 495,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": "'Maybird' is a dialect name for Whimbrel, and the date is April 20th."
+  },
+  {
+   "n": 496,
+   "level": "group",
+   "scientific": null,
+   "english": "Waders",
+   "note": "Two names joined (Curlew and Stint), 13 observations. Could be split into Eurasian Curlew + Calidris (stints/Dunlin). Check whether the keepers meant one bird ('Curlew Stint' or Curlew Sandpiper)."
+  },
+  {
+   "n": 497,
+   "level": "species",
+   "scientific": "Calidris ferruginea",
+   "english": "Curlew Sandpiper",
+   "note": "Truncated name."
+  },
+  {
+   "n": 498,
+   "level": "species",
+   "scientific": "Calidris ferruginea",
+   "english": "Curlew Sandpiper",
+   "note": null
+  },
+  {
+   "n": 499,
+   "level": "species",
+   "scientific": "Calidris ferruginea",
+   "english": "Curlew Sandpiper",
+   "note": null
+  },
+  {
+   "n": 500,
+   "level": "species",
+   "scientific": "Numenius arquata",
+   "english": "Eurasian Curlew",
+   "note": "May include Whimbrels."
+  },
+  {
+   "n": 501,
+   "level": "species",
+   "scientific": "Curruca curruca",
+   "english": "Lesser Whitethroat",
+   "note": "Gätke's 'curruca' is Sylvia curruca."
+  },
+  {
+   "n": 502,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": "A family heading (CYPSELIDÆ). In British reports it covers only Common Swift."
+  },
+  {
+   "n": 503,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": "An OCR garble of the CYPSELIDÆ heading."
+  },
+  {
+   "n": 504,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": "Gätke's 'cypselus' is the swift. It sits beside Hir. urbica and riparia."
+  },
+  {
+   "n": 505,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": null
+  },
+  {
+   "n": 506,
+   "level": "species",
+   "scientific": "Tachymarptis melba",
+   "english": "Alpine Swift",
+   "note": null
+  },
+  {
+   "n": 507,
+   "level": "species",
+   "scientific": "Apus apus",
+   "english": "Common Swift",
+   "note": "An OCR garble of the CYPSELIDÆ heading."
+  },
+  {
+   "n": 508,
+   "level": "species",
+   "scientific": "Cyanistes caeruleus",
+   "english": "Eurasian Blue Tit",
+   "note": "From 'Parus major and caeruleus'."
+  },
+  {
+   "n": 509,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": null
+  },
+  {
+   "n": 510,
+   "level": "species",
+   "scientific": "Tachybaptus ruficollis",
+   "english": "Little Grebe",
+   "note": null
+  },
+  {
+   "n": 511,
+   "level": "genus",
+   "scientific": "Turdus",
+   "english": "thrushes",
+   "note": "The committee suggests Mistle Thrush. Fieldfare is also plausible for 300 birds."
+  },
+  {
+   "n": 512,
+   "level": "group",
+   "scientific": null,
+   "english": "birds of prey",
+   "note": "An unidentified 'Dark-Brown Hawk'."
+  },
+  {
+   "n": 513,
+   "level": "group",
+   "scientific": null,
+   "english": "owls",
+   "note": "Golden on breast and wings and hunting small birds at night. Possibly Short-eared or Long-eared Owl."
+  },
+  {
+   "n": 514,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "ducks",
+   "note": "Possibly a scoter."
+  },
+  {
+   "n": 515,
+   "level": "group",
+   "scientific": null,
+   "english": "geese",
+   "note": "Nine dark geese at Whitby on May 23rd. Brent Goose is possible."
+  },
+  {
+   "n": 516,
+   "level": "species",
+   "scientific": "Coloeus monedula",
+   "english": "Western Jackdaw",
+   "note": null
+  },
+  {
+   "n": 517,
+   "level": "species",
+   "scientific": "Coloeus monedula",
+   "english": "Western Jackdaw",
+   "note": null
+  },
+  {
+   "n": 518,
+   "level": "species",
+   "scientific": "Oenanthe deserti",
+   "english": "Desert Wheatear",
+   "note": null
+  },
+  {
+   "n": 519,
+   "level": "species",
+   "scientific": "Oenanthe deserti",
+   "english": "Desert Wheatear",
+   "note": null
+  },
+  {
+   "n": 520,
+   "level": "species",
+   "scientific": "Oenanthe deserti",
+   "english": "Desert Wheatear",
+   "note": null
+  },
+  {
+   "n": 521,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Not a name: 'Gulls, Black-headed, Grey, and different species'. It refers to other gulls. Merge into the Gulls record or drop."
+  },
+  {
+   "n": 522,
+   "level": "species",
+   "scientific": "Cinclus cinclus",
+   "english": "White-throated Dipper",
+   "note": null
+  },
+  {
+   "n": 523,
+   "level": "species",
+   "scientific": "Cinclus cinclus",
+   "english": "White-throated Dipper",
+   "note": null
+  },
+  {
+   "n": 524,
+   "level": "species",
+   "scientific": "Cinclus cinclus",
+   "english": "White-throated Dipper",
+   "note": null
+  },
+  {
+   "n": 525,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "'Dirty Allan' is the Scots name for Arctic Skua (British name)."
+  },
+  {
+   "n": 526,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "Dirty Allan means Arctic Skua."
+  },
+  {
+   "n": 527,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "Dirty Allan means Arctic Skua."
+  },
+  {
+   "n": 528,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "Dirty Allan means Arctic Skua."
+  },
+  {
+   "n": 529,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "'Dishwasher' is a dialect name for wagtail, mostly Pied/White Wagtail."
+  },
+  {
+   "n": 530,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "Dishwasher means wagtail."
+  },
+  {
+   "n": 531,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "Dishwasher means wagtail."
+  },
+  {
+   "n": 532,
+   "level": "genus",
+   "scientific": "Motacilla",
+   "english": "wagtails",
+   "note": "Dishwasher means wagtail."
+  },
+  {
+   "n": 533,
+   "level": "family",
+   "scientific": "Gaviidae",
+   "english": "divers (loons)",
+   "note": "Keepers may use 'Divers' for any diving seabird; the committee queries Guillemots in the example. Check all 4."
+  },
+  {
+   "n": 534,
+   "level": "group",
+   "scientific": null,
+   "english": "diving birds",
+   "note": null
+  },
+  {
+   "n": 535,
+   "level": "species",
+   "scientific": "Charadrius morinellus",
+   "english": "Eurasian Dotterel",
+   "note": "Committee entries are true Dotterel. In keepers' entries 'Dotterel' can mean Ringed Plover ('Ring/Sea Dotterel'). Check the keeper-sourced observations."
+  },
+  {
+   "n": 536,
+   "level": "genus",
+   "scientific": "Charadrius",
+   "english": "plovers",
+   "note": "Twelve 'Dotterels' on Dhuheartach, in quotation marks: possibly Ringed Plover. Eurasian Dotterel and Ringed Plover are both Charadrius."
+  },
+  {
+   "n": 537,
+   "level": "species",
+   "scientific": "Gallinago media",
+   "english": "Great Snipe",
+   "note": "'Double Snipe' is a period name for Great Snipe. Keepers may misapply it to large Common Snipe. Check the 5 observations."
+  },
+  {
+   "n": 538,
+   "level": "family",
+   "scientific": "Columbidae",
+   "english": "pigeons and doves",
+   "note": null
+  },
+  {
+   "n": 539,
+   "level": "species",
+   "scientific": "Cepphus grylle",
+   "english": "Black Guillemot",
+   "note": "Listed beside 'Rotges' (Little Auk). In old Arctic usage 'Dovekie' meant Black Guillemot, not Little Auk. Check the source."
+  },
+  {
+   "n": 540,
+   "level": "family",
+   "scientific": "Columbidae",
+   "english": "pigeons and doves",
+   "note": null
+  },
+  {
+   "n": 541,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "ducks",
+   "note": "A male duck of unknown species."
+  },
+  {
+   "n": 542,
+   "level": "species",
+   "scientific": "Mareca penelope",
+   "english": "Eurasian Wigeon",
+   "note": "Check the example: 'three Ducks and one Drake Wigeon' may mean four wigeon."
+  },
+  {
+   "n": 543,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "ducks",
+   "note": null
+  },
+  {
+   "n": 544,
+   "level": "family",
+   "scientific": "Anatidae",
+   "english": "ducks",
+   "note": null
+  },
+  {
+   "n": 545,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": null
+  },
+  {
+   "n": 546,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": null
+  },
+  {
+   "n": 547,
+   "level": "species",
+   "scientific": "Prunella modularis",
+   "english": "Dunnock",
+   "note": null
+  },
+  {
+   "n": 548,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": "'Dunter' is the Shetland/Orkney name for Eider."
+  },
+  {
+   "n": 549,
+   "level": "species",
+   "scientific": "Tringa erythropus",
+   "english": "Spotted Redshank",
+   "note": null
+  },
+  {
+   "n": 550,
+   "level": "species",
+   "scientific": "Emberiza aureola",
+   "english": "Yellow-breasted Bunting",
+   "note": null
+  },
+  {
+   "n": 551,
+   "level": "species",
+   "scientific": "Emberiza cirlus",
+   "english": "Cirl Bunting",
+   "note": null
+  },
+  {
+   "n": 552,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 553,
+   "level": "species",
+   "scientific": "Emberiza hortulana",
+   "english": "Ortolan Bunting",
+   "note": null
+  },
+  {
+   "n": 554,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 555,
+   "level": "species",
+   "scientific": "Plectrophenax nivalis",
+   "english": "Snow Bunting",
+   "note": null
+  },
+  {
+   "n": 556,
+   "level": "species",
+   "scientific": "Emberiza pusilla",
+   "english": "Little Bunting",
+   "note": null
+  },
+  {
+   "n": 557,
+   "level": "species",
+   "scientific": "Emberiza rustica",
+   "english": "Rustic Bunting",
+   "note": null
+  },
+  {
+   "n": 558,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 559,
+   "level": "family",
+   "scientific": "Accipitridae",
+   "english": "eagles",
+   "note": "In western Scotland (Erraid) probably White-tailed Eagle; Golden Eagle is possible."
+  },
+  {
+   "n": 560,
+   "level": "family",
+   "scientific": "Accipitridae",
+   "english": "eagles",
+   "note": "The example says 'all White-tailed' (Haliaeetus albicilla); that observation could be set to species."
+  },
+  {
+   "n": 561,
+   "level": "species",
+   "scientific": "Podiceps nigricollis",
+   "english": "Black-necked Grebe",
+   "note": "'Eared Grebe' was the period British name."
+  },
+  {
+   "n": 562,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A garble, 'Easdriballs', first seen March 19th. Can't read it; check the scan."
+  },
+  {
+   "n": 563,
+   "level": "species",
+   "scientific": "Oenanthe pleschanka",
+   "english": "Pied Wheatear",
+   "note": "'Eastern Pied Chat' is Gätke's name (Saxicola morio)."
+  },
+  {
+   "n": 564,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A garble, 'ecroolansGeese'. Possibly '...Solan Geese' (Gannets) or another goose name. Check the scan."
+  },
+  {
+   "n": 565,
+   "level": "species",
+   "scientific": "Alopochen aegyptiaca",
+   "english": "Egyptian Goose",
+   "note": null
+  },
+  {
+   "n": 566,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": "An OCR garble of Emberiza schoeniclus."
+  },
+  {
+   "n": 567,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 568,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 569,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 570,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 571,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 572,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 573,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": "An OCR garble."
+  },
+  {
+   "n": 574,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 575,
+   "level": "species",
+   "scientific": "Emberiza hortulana",
+   "english": "Ortolan Bunting",
+   "note": null
+  },
+  {
+   "n": 576,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 577,
+   "level": "species",
+   "scientific": "Plectrophenax nivalis",
+   "english": "Snow Bunting",
+   "note": null
+  },
+  {
+   "n": 578,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 579,
+   "level": "genus",
+   "scientific": "Emberiza",
+   "english": "buntings",
+   "note": "Gätke's Emberiza included Snow Bunting (now Plectrophenax)."
+  },
+  {
+   "n": 580,
+   "level": "species",
+   "scientific": "Emberiza citrinella",
+   "english": "Yellowhammer",
+   "note": null
+  },
+  {
+   "n": 581,
+   "level": "species",
+   "scientific": "Emberiza hortulana",
+   "english": "Ortolan Bunting",
+   "note": null
+  },
+  {
+   "n": 582,
+   "level": "species",
+   "scientific": "Emberiza melanocephala",
+   "english": "Black-headed Bunting",
+   "note": null
+  },
+  {
+   "n": 583,
+   "level": "species",
+   "scientific": "Emberiza calandra",
+   "english": "Corn Bunting",
+   "note": null
+  },
+  {
+   "n": 584,
+   "level": "species",
+   "scientific": "Plectrophenax nivalis",
+   "english": "Snow Bunting",
+   "note": null
+  },
+  {
+   "n": 585,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": "Emberiza passerina Pallas is the eastern small form of Reed Bunting (now ssp. passerina). Check it isn't meant for Pallas's Reed Bunting (E. pallasi)."
+  },
+  {
+   "n": 586,
+   "level": "species",
+   "scientific": "Emberiza pusilla",
+   "english": "Little Bunting",
+   "note": null
+  },
+  {
+   "n": 587,
+   "level": "species",
+   "scientific": "Emberiza rustica",
+   "english": "Rustic Bunting",
+   "note": null
+  },
+  {
+   "n": 588,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 589,
+   "level": "family",
+   "scientific": "Emberizidae",
+   "english": "buntings",
+   "note": "Period Emberizidae included Snow Bunting (now Calcariidae)."
+  },
+  {
+   "n": 590,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 591,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 592,
+   "level": "species",
+   "scientific": "Numenius borealis",
+   "english": "Eskimo Curlew",
+   "note": null
+  },
+  {
+   "n": 593,
+   "level": "species",
+   "scientific": "Lanius excubitor",
+   "english": "Great Grey Shrike",
+   "note": "Gätke's 'Lanius major' (the one-barred form) is the same species today."
+  },
+  {
+   "n": 594,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": null
+  },
+  {
+   "n": 595,
+   "level": "species",
+   "scientific": "Coccothraustes coccothraustes",
+   "english": "Hawfinch",
+   "note": null
+  },
+  {
+   "n": 596,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": null
+  },
+  {
+   "n": 597,
+   "level": "species",
+   "scientific": "Passer domesticus",
+   "english": "House Sparrow",
+   "note": null
+  },
+  {
+   "n": 598,
+   "level": "species",
+   "scientific": "Pandion haliaetus",
+   "english": "Western Osprey",
+   "note": "Falco haliaëtus = Osprey."
+  },
+  {
+   "n": 599,
+   "level": "species",
+   "scientific": "Acanthis flammea",
+   "english": "Common Redpoll",
+   "note": "Fringilla linaria = Mealy/Common Redpoll. Check redpoll taxonomy against your IOC version, which may have lumped redpolls."
+  },
+  {
+   "n": 600,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": "F. montium = Twite."
+  },
+  {
+   "n": 601,
+   "level": "species",
+   "scientific": "Accipiter nisus",
+   "english": "Eurasian Sparrowhawk",
+   "note": "Falco nisus = Sparrowhawk."
+  },
+  {
+   "n": 602,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 603,
+   "level": "species",
+   "scientific": "Falco tinnunculus",
+   "english": "Common Kestrel",
+   "note": null
+  },
+  {
+   "n": 604,
+   "level": "species",
+   "scientific": "Falco columbarius",
+   "english": "Merlin",
+   "note": "Falco aesalon = Merlin."
+  },
+  {
+   "n": 605,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "A misprint or OCR error for Falcons. Keepers' 'falcons' may be any raptor."
+  },
+  {
+   "n": 606,
+   "level": "species",
+   "scientific": "Falco columbarius",
+   "english": "Merlin",
+   "note": "Falco caesius (Meyer & Wolf) = Merlin."
+  },
+  {
+   "n": 607,
+   "level": "species",
+   "scientific": "Falco subbuteo",
+   "english": "Eurasian Hobby",
+   "note": null
+  },
+  {
+   "n": 608,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "Keepers' 'falcon' may be any bird of prey."
+  },
+  {
+   "n": 609,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "Queried Peregrine."
+  },
+  {
+   "n": 610,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "'Falcon Hawk' is a keepers' term, probably Peregrine or Kestrel, but it could be any raptor."
+  },
+  {
+   "n": 611,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "A keepers' term. Breeding on an island nearby and present all year suggests Peregrine."
+  },
+  {
+   "n": 612,
+   "level": "group",
+   "scientific": null,
+   "english": "diurnal birds of prey",
+   "note": "Period Falconidae covered all diurnal raptors (now Falconidae, Accipitridae and Pandionidae). A section heading picked up as a name."
+  },
+  {
+   "n": 613,
+   "level": "genus",
+   "scientific": "Falco",
+   "english": "falcons",
+   "note": "Keepers' quoted 'falcons' may be any raptor."
+  },
+  {
+   "n": 614,
+   "level": "group",
+   "scientific": null,
+   "english": "diurnal birds of prey",
+   "note": "An OCR garble of the FALCONIDÆ heading."
+  },
+  {
+   "n": 615,
+   "level": "species",
+   "scientific": "Turdus merula",
+   "english": "Common Blackbird",
+   "note": null
+  },
+  {
+   "n": 616,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": "Check the Nov. 3rd date at Langness: late for Common Redstart, so possibly Black Redstart."
+  },
+  {
+   "n": 617,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "'Field Lark' means Skylark."
+  },
+  {
+   "n": 618,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 619,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 620,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": "Field Lark means Skylark."
+  },
+  {
+   "n": 621,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 622,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 623,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": "'Mountain Thrush' is given as another name for these Fieldfares."
+  },
+  {
+   "n": 624,
+   "level": "species",
+   "scientific": "Alauda arvensis",
+   "english": "Eurasian Skylark",
+   "note": null
+  },
+  {
+   "n": 625,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": "Period finches included sparrows and some buntings."
+  },
+  {
+   "n": 626,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": "Period sense: may include sparrows and buntings."
+  },
+  {
+   "n": 627,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": "Keepers' Firecrests may be Goldcrests."
+  },
+  {
+   "n": 628,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": "A keeper's quoted entry, on a ship. Possibly Goldcrests."
+  },
+  {
+   "n": 629,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": null
+  },
+  {
+   "n": 630,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": null
+  },
+  {
+   "n": 631,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": "Gätke's 'flava' = Motacilla flava (all forms)."
+  },
+  {
+   "n": 632,
+   "level": "species",
+   "scientific": "Prunella modularis",
+   "english": "Dunnock",
+   "note": "'Fledge' is an OCR garble of Hedge Sparrow."
+  },
+  {
+   "n": 633,
+   "level": "family",
+   "scientific": "Muscicapidae",
+   "english": "flycatchers",
+   "note": "Spotted or Pied Flycatcher are in different genera. Keepers' flycatchers may include warblers."
+  },
+  {
+   "n": 634,
+   "level": "family",
+   "scientific": "Muscicapidae",
+   "english": "flycatchers",
+   "note": "Keepers' quoted 'fly-catchers' may include warblers."
+  },
+  {
+   "n": 635,
+   "level": "family",
+   "scientific": "Muscicapidae",
+   "english": "flycatchers",
+   "note": "Spotted or Pied Flycatcher. Keepers' usage may include warblers."
+  },
+  {
+   "n": 636,
+   "level": "group",
+   "scientific": null,
+   "english": "warblers",
+   "note": "The editor glosses this as [Warblers]."
+  },
+  {
+   "n": 637,
+   "level": "family",
+   "scientific": "Muscicapidae",
+   "english": "flycatchers",
+   "note": "Spotted or Pied Flycatcher. Keepers' usage may include warblers."
+  },
+  {
+   "n": 638,
+   "level": "group",
+   "scientific": null,
+   "english": "small birds",
+   "note": "'Foreign Wrens' are small birds the keeper didn't know: perhaps Goldcrests or warblers."
+  },
+  {
+   "n": 639,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": "'Fork-tailed Petrel' was the period name for Leach's Storm Petrel."
+  },
+  {
+   "n": 640,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": "Truncated to 'Fork-tailed [Petrel]' in a table (skin received, Blackrock, Mayo)."
+  },
+  {
+   "n": 641,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": "Truncated name."
+  },
+  {
+   "n": 642,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": null
+  },
+  {
+   "n": 643,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": null
+  },
+  {
+   "n": 644,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": null
+  },
+  {
+   "n": 645,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "An OCR garble ('Fpmetorqitilia ... 1 male'). Probably Jynx torquilla (Eurasian Wryneck); possibly Saxicola torquata (Stonechat). Check the scan."
+  },
+  {
+   "n": 646,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": "'Fr.' is an OCR error for 'Tr.' (Tringa alpina = Dunlin), listed beside Num. arquata."
+  },
+  {
+   "n": 647,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": null
+  },
+  {
+   "n": 648,
+   "level": "species",
+   "scientific": "Chloris chloris",
+   "english": "European Greenfinch",
+   "note": null
+  },
+  {
+   "n": 649,
+   "level": "species",
+   "scientific": "Coccothraustes coccothraustes",
+   "english": "Hawfinch",
+   "note": null
+  },
+  {
+   "n": 650,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": null
+  },
+  {
+   "n": 651,
+   "level": "species",
+   "scientific": "Acanthis flammea",
+   "english": "Common Redpoll",
+   "note": "Check against your IOC version's redpoll taxonomy."
+  },
+  {
+   "n": 652,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 653,
+   "level": "species",
+   "scientific": "Fringilla montifringilla",
+   "english": "Brambling",
+   "note": null
+  },
+  {
+   "n": 654,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": null
+  },
+  {
+   "n": 655,
+   "level": "species",
+   "scientific": "Acanthis cabaret",
+   "english": "Lesser Redpoll",
+   "note": "Fringilla rufescens = Lesser ('English') Redpoll. Check against your IOC version's redpoll taxonomy."
+  },
+  {
+   "n": 656,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "'French Sparrows' is a keepers' dialect name I can't pin down. Perhaps Tree Sparrow. Check the station and any committee comment."
+  },
+  {
+   "n": 657,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": "An OCR error: 'Fring.' for 'Tring.' (Tringa alpina), listed beside Num. arquata."
+  },
+  {
+   "n": 658,
+   "level": "species",
+   "scientific": "Chloris chloris",
+   "english": "European Greenfinch",
+   "note": null
+  },
+  {
+   "n": 659,
+   "level": "genus",
+   "scientific": "Fringilla",
+   "english": "chaffinches and brambling",
+   "note": "Gätke's 'fringilla' may mean finches broadly (family Fringillidae). Check the context."
+  },
+  {
+   "n": 660,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": null
+  },
+  {
+   "n": 661,
+   "level": "species",
+   "scientific": "Chloris chloris",
+   "english": "European Greenfinch",
+   "note": null
+  },
+  {
+   "n": 662,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": null
+  },
+  {
+   "n": 663,
+   "level": "species",
+   "scientific": "Acanthis flammea",
+   "english": "Common Redpoll",
+   "note": null
+  },
+  {
+   "n": 664,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 665,
+   "level": "species",
+   "scientific": "Fringilla montifringilla",
+   "english": "Brambling",
+   "note": null
+  },
+  {
+   "n": 666,
+   "level": "species",
+   "scientific": "Acanthis cabaret",
+   "english": "Lesser Redpoll",
+   "note": "Glossed as 'our English Redpoll'."
+  },
+  {
+   "n": 667,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": "A section heading (FRINGILLIDÆ). Period sense included sparrows and buntings."
+  },
+  {
+   "n": 668,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": null
+  },
+  {
+   "n": 669,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": "A section heading. The example ('one seen all day') probably belongs to a named species under the heading. Check the extraction."
+  },
+  {
+   "n": 670,
+   "level": "family",
+   "scientific": "Fringillidae",
+   "english": "finches",
+   "note": null
+  },
+  {
+   "n": 671,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": null
+  },
+  {
+   "n": 672,
+   "level": "species",
+   "scientific": "Fulmarus glacialis",
+   "english": "Northern Fulmar",
+   "note": null
+  },
+  {
+   "n": 673,
+   "level": "species",
+   "scientific": "Fulmarus glacialis",
+   "english": "Northern Fulmar",
+   "note": null
+  },
+  {
+   "n": 674,
+   "level": "species",
+   "scientific": "Fulmarus glacialis",
+   "english": "Northern Fulmar",
+   "note": null
+  },
+  {
+   "n": 675,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "'Furse Cap' is a keeper's quoted name. Perhaps Stonechat (black-capped, gorse) or Blackcap. Check."
+  },
+  {
+   "n": 676,
+   "level": "genus",
+   "scientific": "Saxicola",
+   "english": "chats",
+   "note": "'Furze-chat' is a dialect name for Whinchat (sometimes Stonechat)."
+  },
+  {
+   "n": 677,
+   "level": "species",
+   "scientific": "Lymnocryptes minimus",
+   "english": "Jack Snipe",
+   "note": "G. gallinula = Gallinago gallinula = Jack Snipe. Check it isn't meant as Gallinula (Moorhen)."
+  },
+  {
+   "n": 678,
+   "level": "species",
+   "scientific": "Gavia immer",
+   "english": "Common Loon",
+   "note": "Great Northern Diver (British name)."
+  },
+  {
+   "n": 679,
+   "level": "species",
+   "scientific": "Gavia immer",
+   "english": "Common Loon",
+   "note": "Great Northern Diver."
+  },
+  {
+   "n": 680,
+   "level": "genus",
+   "scientific": "Pluvialis",
+   "english": "golden and grey plovers",
+   "note": "'G.' could be Golden or Grey."
+  },
+  {
+   "n": 681,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Can't tell what the 'G.' stands for. Breeding 'as usual', so probably Common or Arctic Tern."
+  },
+  {
+   "n": 682,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": "G.C. Wren = Golden-crested Wren."
+  },
+  {
+   "n": 683,
+   "level": "species",
+   "scientific": "Gavia immer",
+   "english": "Common Loon",
+   "note": "G.N.D. = Great Northern Diver."
+  },
+  {
+   "n": 684,
+   "level": "species",
+   "scientific": "Mareca strepera",
+   "english": "Gadwall",
+   "note": null
+  },
+  {
+   "n": 685,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "'Gall' is a misprint for Gull ('a dark species of Gull'), perhaps a skua or an immature."
+  },
+  {
+   "n": 686,
+   "level": "genus",
+   "scientific": "Gallinago",
+   "english": "snipes",
+   "note": "Gätke's genus entry. Could include Jack Snipe (now Lymnocryptes)."
+  },
+  {
+   "n": 687,
+   "level": "species",
+   "scientific": "Gallinago gallinago",
+   "english": "Common Snipe",
+   "note": "Gallinago coelestis = Common Snipe."
+  },
+  {
+   "n": 688,
+   "level": "family",
+   "scientific": "Rallidae",
+   "english": "rails and crakes",
+   "note": "Gätke's 'Gallinula' could mean Moorhen or the small crakes (then in Gallinula). Check: it may instead be gallinula = Jack Snipe."
+  },
+  {
+   "n": 689,
+   "level": "species",
+   "scientific": "Gallinula chloropus",
+   "english": "Common Moorhen",
+   "note": null
+  },
+  {
+   "n": 690,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": "'Game Falcon/Hawk' is a dialect name for Peregrine."
+  },
+  {
+   "n": 691,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": "Game Hawk means Peregrine."
+  },
+  {
+   "n": 692,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": "Game Hawk means Peregrine (coursing a Pigeon)."
+  },
+  {
+   "n": 693,
+   "level": "species",
+   "scientific": "Morus bassanus",
+   "english": "Northern Gannet",
+   "note": null
+  },
+  {
+   "n": 694,
+   "level": "species",
+   "scientific": "Morus bassanus",
+   "english": "Northern Gannet",
+   "note": null
+  },
+  {
+   "n": 695,
+   "level": "species",
+   "scientific": "Morus bassanus",
+   "english": "Northern Gannet",
+   "note": null
+  },
+  {
+   "n": 696,
+   "level": "species",
+   "scientific": "Turdus philomelos",
+   "english": "Song Thrush",
+   "note": "'Garden Thrush' taken as Song Thrush."
+  },
+  {
+   "n": 697,
+   "level": "species",
+   "scientific": "Sylvia borin",
+   "english": "Garden Warbler",
+   "note": null
+  },
+  {
+   "n": 698,
+   "level": "species",
+   "scientific": "Sylvia borin",
+   "english": "Garden Warbler",
+   "note": null
+  },
+  {
+   "n": 699,
+   "level": "species",
+   "scientific": "Spatula querquedula",
+   "english": "Garganey",
+   "note": null
+  }
+ ],
+ "notes": "Batch 1 covers n 350–699, all 350 names. Points to check, highest impact first:\n1. Crane, Cranes, Crané (463–465) are left unknown. In committee and Heligoland entries 'Crane' means Common Crane (Grus grus), but Scottish and Irish keepers used it for Grey Heron (e.g. three to five on June 7th). Resolve each observation by source.\n2. 'Common' (365) is a split fragment. The example is Common [Thrush], but the other 5 observations may come from other compounds. Left unknown.\n3. Cormorant and Cormorants (442–443, 211 observations) are set to Great Cormorant, but keepers likely included Shags. Consider genus-level for shag-heavy stations.\n4. Common Skua (415–417) is set to Great Skua, following period British usage (Unst breeding). Dirty Allan(s) (525–528) is Arctic Skua, IOC name Parasitic Jaeger.\n5. Dovekies (539) is set to Black Guillemot because 'Rotges' (Little Auk) are listed separately. Check the source.\n6. Copperfinch(es) (439–440) are left at genus Fringilla. The editor guessed Brambling, but 'Copperfinch' is a West Country dialect name for Chaffinch.\n7. Heading names extracted as species: CUCULIDÆ and CYPSELIDÆ and their garbles (488–489, 492, 502–503, 507) are set to Cuckoo and Common Swift, since only those occur in Britain. FALCONIDÆ (612, 614) is a group, because the period family covered all diurnal raptors. FRINGILLIDÆ (667–669) is a family. Check that the extraction didn't take a heading in place of the named species line (669 especially).\n8. OCR fixes I applied: 'Fr./Fring. alpina' (646, 657) read as Tringa alpina = Dunlin; 'Fledge Sparrow' = Hedge Sparrow; 'Crowds' = Crows; 'Faicons' = Falcons; 'Gall' = Gull; 'Corn Genk' = Corn Crake (least sure; check the scan); 'sole piper' = Sandpiper.\n9. Garbles left unknown: Easdriballs (562), ecroolansGeese (564), Fpmetorqitilia (645, probably Jynx torquilla = Wryneck, possibly Saxicola torquata), French Sparrows (656), Furse Cap (675), 'different species' (521, a phrase, not a name).\n10. Taxonomy depends on the IOC version you use. I used Curruca for whitethroats, Coloeus for jackdaw, Gulosus for shag, Mareca and Spatula for ducks, Hydrobates for storm petrels, Linaria for linnet and twite, 'Western House Martin', 'Western Osprey', 'Common Firecrest', 'Common Murre', and the loon names. Redpolls (599, 651, 655, 663, 666) are Acanthis flammea / A. cabaret: check against your version, as recent lists lump redpolls.\n11. Smaller doubts: Common Godwit (387) is left at genus Limosa (the name was used for both godwits). Common Crow (379–380) is at genus Corvus (Carrion Crow or Rook). Emberiza passerina (585) is set to Reed Bunting, eastern form; rule out Pallas's Reed Bunting. G. gallinula (677) is Jack Snipe, not Moorhen. 'Gallinula' (688) is set to Rallidae, but could be Jack Snipe. Common Buntings flock of 250 at Sumburgh in November (373) may be Snow Buntings. Common Whitethroat killed Feb. 21st (432) and female Redstart Nov. 3rd (616) are odd dates. Crested Larks (472–473) would be a rare record; check. Dotterels (536) is set to genus Charadrius, as keepers may mean Ringed Plover. Common Gulls (391) may mean ordinary gulls in some entries. Common Sparrows with '(?)' (366) are kept apart from House Sparrow (perhaps Tree Sparrow), so set to genus Passer.\n12. Joined names that could be split into two rows: 'Common and Arctic Terns' (368, at genus Sterna), 'Curlew and Stint' (496, group Waders, 13 observations), 'Cole Tit or a Great Tit' (357, family Paridae).",
+ "_meta": {
+  "run": 2,
+  "batch": 1,
+  "cost_usd": 1.0971790000000001
+ }
+}

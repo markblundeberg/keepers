@@ -1,0 +1,50 @@
+{
+ "findlay1879": {
+  "ia_id": "adescriptionand00unkngoog",
+  "ia_details": "https://archive.org/details/adescriptionand00unkngoog",
+  "page_image_pattern": "https://archive.org/download/adescriptionand00unkngoog/page/n{index}.jpg",
+  "ia_title": "A Description and List of the Lighthouses of the World",
+  "ia_date": "1879",
+  "ia_ocr": {
+   "url": "https://archive.org/download/adescriptionand00unkngoog/adescriptionand00unkngoog_djvu.txt",
+   "path": "sources/lights/findlay1879_djvu.txt",
+   "bytes": 738080,
+   "sha256": "1bb1530a3d15c1a19a85a2d0f337d571c271298a3d429baa94833e3564088c6e"
+  }
+ },
+ "edwards1884": {
+  "ia_id": "edwards-1884-our-seamarks-a-plain-account-of-the-ligh",
+  "ia_details": "https://archive.org/details/edwards-1884-our-seamarks-a-plain-account-of-the-ligh",
+  "page_image_pattern": "https://archive.org/download/edwards-1884-our-seamarks-a-plain-account-of-the-ligh/page/n{index}.jpg",
+  "ia_title": "Our seamarks; a plain account of the lighthouses, lightships, beacons, buoys, and fog-signals maintained on our coasts for the guidance of mariners",
+  "ia_date": "1884",
+  "ia_ocr": {
+   "url": "https://archive.org/download/edwards-1884-our-seamarks-a-plain-account-of-the-ligh/Edwards%201884%20Our_seamarks_a_plain_account_of_the_ligh_djvu.txt",
+   "path": "sources/lights/edwards1884_djvu.txt",
+   "bytes": 261685,
+   "sha256": "8dbb8e5e2644a2628c66106609029cd84be9fcf02fecc74245cb3ba5ca74fc03"
+  },
+  "ia_page_numbers": {
+   "url": "https://archive.org/download/edwards-1884-our-seamarks-a-plain-account-of-the-ligh/Edwards%201884%20Our_seamarks_a_plain_account_of_the_ligh_page_numbers.json",
+   "path": "sources/lights/edwards1884_page_numbers.json",
+   "bytes": 41524,
+   "sha256": "a4e18c7368306f98ecd080f09bfa4b6df4558e8f3508c4c514e79c953fd61aea"
+  }
+ },
+ "findlay1887": {
+  "title": "A Description and List of the Lighthouses of the World, 1887 (27th ed.), Alexander G. Findlay",
+  "source": "Google Books PDF (public domain), downloaded by Mark Lundeberg on 27 Oct 2026; also HathiTrust msu.31293100719271",
+  "path": "sources/lights/findlay1887.pdf",
+  "bytes": 27251293,
+  "sha256": "ff58b93fb656b02c7a91a793936af4d5617e47b480a50e18a5e78594238cc21a",
+  "pages": 363,
+  "in_git": false
+ },
+ "wikidata_extra_2026-10-28": {
+  "path": "sources/lights/wikidata_extra_2026-10-28.json",
+  "what": "Wikidata (CC0) search results with coordinates for stations missing from the lighthouse extract: South Gare, the outlying lights, and observers' places (villages, islands). Fetched 28 Oct 2026 with wbsearchentities + wbgetentities.",
+  "bytes": 6769,
+  "sha256": "c0d4b7b3d9280abed19bae5cd49f1bd597d4ff8de1becff24c9a8c2081069277",
+  "license": "CC0"
+ }
+}

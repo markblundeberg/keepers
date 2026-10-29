@@ -1,0 +1,457 @@
+{
+ "year": 1887,
+ "numbers_compared": 1989,
+ "numbers_agree": 1938,
+ "unaligned_numbers": 17,
+ "disagreements": [
+  {
+   "seg_id": "1887-ENE-0006",
+   "kind": "replace",
+   "gutenberg": [
+    "3"
+   ],
+   "ocr": [
+    "12"
+   ],
+   "gutenberg_context": "flock of Larks to E. (S. by E., 3; snow.)",
+   "ocr_context": "ranges from 0 — to 12. EAST COAST OF ENGLAND. 19 and Chaffinc"
+  },
+  {
+   "seg_id": "1887-ENE-0033",
+   "kind": "replace",
+   "gutenberg": [
+    "3"
+   ],
+   "ocr": [
+    "24"
+   ],
+   "gutenberg_context": "night; eight killed. (W., 3.)",
+   "ocr_context": "50-70, to W. JANUARY 24th—Calloper L.v., a fe"
+  },
+  {
+   "seg_id": "1887-ENE-0039",
+   "kind": "replace",
+   "gutenberg": [
+    "2.30"
+   ],
+   "ocr": [
+    "2.50"
+   ],
+   "gutenberg_context": "few Larks and Redwings, 2.30 A.M., at lantern. (S.W., 4; M",
+   "ocr_context": "few Larks and Redwings, 2.50 AM. at lantern. (8.W., 4; M"
+  },
+  {
+   "seg_id": "1887-ENE-0054",
+   "kind": "replace",
+   "gutenberg": [
+    "0.30"
+   ],
+   "ocr": [
+    "0.50"
+   ],
+   "gutenberg_context": "H., Larks, Starlings, from 0.30 to 3 A.M.; Fiel",
+   "ocr_context": "u., Larks, Starlings, from 0.50 to 3. A.M.; Fiel"
+  },
+  {
+   "seg_id": "1887-ENE-0095",
+   "kind": "unaligned",
+   "gutenberg": [
+    "7"
+   ]
+  },
+  {
+   "seg_id": "1887-ENE-0143",
+   "kind": "unaligned",
+   "gutenberg": [
+    "10"
+   ]
+  },
+  {
+   "seg_id": "1887-ENE-0174",
+   "kind": "delete",
+   "gutenberg": [
+    "2"
+   ],
+   "ocr": [],
+   "gutenberg_context": "six seen, one shot.[2] _Languard_ L.H., one Robi",
+   "ocr_context": "six seen, one shot.} Languard U4., one Robi"
+  },
+  {
+   "seg_id": "1887-ENE-0210",
+   "kind": "replace",
+   "gutenberg": [
+    "11"
+   ],
+   "ocr": [
+    "4"
+   ],
+   "gutenberg_context": "several Whimbrel flying round, 11 A.M.",
+   "ocr_context": "several Whimbrel flying round the island all day. (N.E., 4; misty.) Carnarvon Bay L.v., a *Whitethroat killed at lante"
+  },
+  {
+   "seg_id": "1887-ENE-0232",
+   "kind": "unaligned",
+   "gutenberg": [
+    "9.15",
+    "3"
+   ]
+  },
+  {
+   "seg_id": "1887-ENE-0240",
+   "kind": "unaligned",
+   "gutenberg": [
+    "3"
+   ]
+  },
+  {
+   "seg_id": "1887-ENE-0399",
+   "kind": "replace",
+   "gutenberg": [
+    "4.30"
+   ],
+   "ocr": [
+    "430"
+   ],
+   "gutenberg_context": "noon. Peregrine Falcon, at 4.30 P.M. (N. and N.E.) Grea",
+   "ocr_context": "noon. Peregrine Falcon, at 430 pm. (N. and N.E.) Grea"
+  },
+  {
+   "seg_id": "1887-ENE-0429",
+   "kind": "replace",
+   "gutenberg": [
+    "11"
+   ],
+   "ocr": [
+    "1"
+   ],
+   "gutenberg_context": "V., flocks mixed Crows, 11 A.M. to 4.30 P.M",
+   "ocr_context": "Ly., : flocks mixed Crows, 1] a.m. to 4.30 p.m"
+  },
+  {
+   "seg_id": "1887-ENE-0494",
+   "kind": "replace",
+   "gutenberg": [
+    "1"
+   ],
+   "ocr": [
+    "5",
+    "5"
+   ],
+   "gutenberg_context": "to N. (N.N.W, 1.) _Tetney_, Grey Wagtails. _Cromer_ L.H., Wh",
+   "ocr_context": "to N. (N.N.E., 5.) OctoneE 5th.— Whitby L.u., sixty-five Grey Gales 4 pM. to"
+  },
+  {
+   "seg_id": "1887-ENE-0699",
+   "kind": "replace",
+   "gutenberg": [
+    "9"
+   ],
+   "ocr": [
+    "94"
+   ],
+   "gutenberg_context": "V., about 200 Larks, 9 A.M., S.S.E. to W.",
+   "ocr_context": "v., about 200 Larks, 94M. 55S. to W. (N"
+  },
+  {
+   "seg_id": "1887-ENE-0871",
+   "kind": "replace",
+   "gutenberg": [
+    "10"
+   ],
+   "ocr": [
+    "0"
+   ],
+   "gutenberg_context": "a few Swallows passing, 10 A.M. (W.N.W., 4;",
+   "ocr_context": "a few Swallows passing,i0 A.M. (W.N.W.,4;"
+  },
+  {
+   "seg_id": "1887-ENE-1015",
+   "kind": "replace",
+   "gutenberg": [
+    "5"
+   ],
+   "ocr": [
+    "4"
+   ],
+   "gutenberg_context": "N.W. (N.W., 5.)",
+   "ocr_context": "on lantern. (N.W., 4; 0. M. Pp) DECEMBER"
+  },
+  {
+   "seg_id": "1887-ENW-0019",
+   "kind": "unaligned",
+   "gutenberg": [
+    "5"
+   ]
+  },
+  {
+   "seg_id": "1887-ENW-0024",
+   "kind": "replace",
+   "gutenberg": [
+    "9.30"
+   ],
+   "ocr": [
+    "9.50"
+   ],
+   "gutenberg_context": "flocks of Chaffinches at 9.30 A.M. going S.W. Fifteen",
+   "ocr_context": "flocks of Chaffinches at 9.50 AM. going S.W. Fifteen"
+  },
+  {
+   "seg_id": "1887-ENW-0047",
+   "kind": "replace",
+   "gutenberg": [
+    "10.45"
+   ],
+   "ocr": [
+    "10.40"
+   ],
+   "gutenberg_context": "V., two Thrushes at 10.45 P.M.; one killed.",
+   "ocr_context": "v., two Thrushes at 10.40 p.M.; one killed."
+  },
+  {
+   "seg_id": "1887-ENW-0056",
+   "kind": "replace",
+   "gutenberg": [
+    "12"
+   ],
+   "ocr": [
+    "2"
+   ],
+   "gutenberg_context": "the light from 9 to 12 P.M. (5, S.W.; R., mist",
+   "ocr_context": "the light from 9tol2pmM. (5,8.W.; R., mist"
+  },
+  {
+   "seg_id": "1887-ENW-0061",
+   "kind": "replace",
+   "gutenberg": [
+    "5"
+   ],
+   "ocr": [
+    "54"
+   ],
+   "gutenberg_context": "lantern between 12.30 to 5 A.M. One Blackbird and six",
+   "ocr_context": "lantern between 12.30 to 54.M. One Blackbird and six"
+  },
+  {
+   "seg_id": "1887-ENW-0066",
+   "kind": "replace",
+   "gutenberg": [
+    "3"
+   ],
+   "ocr": [
+    "1"
+   ],
+   "gutenberg_context": "N.E. at 10 A.M. (W., 3; clear.)",
+   "ocr_context": "N.E. at 10 AM. CW. op elear) APRIL. APRIL 1Ist.—WMerionethshire, Wheatear, first seen. “This is the latest date I have noted for the arrival of this"
+  },
+  {
+   "seg_id": "1887-ENW-0082",
+   "kind": "unaligned",
+   "gutenberg": [
+    "8",
+    "3"
+   ]
+  },
+  {
+   "seg_id": "1887-ENW-0091",
+   "kind": "delete",
+   "gutenberg": [
+    "1"
+   ],
+   "ocr": [],
+   "gutenberg_context": "N.E. by E, 1; O. P. V.)",
+   "ocr_context": "caught. SEE. by E., V5 028 Vv.) A"
+  },
+  {
+   "seg_id": "1887-ENW-0096",
+   "kind": "unaligned",
+   "gutenberg": [
+    "4",
+    "6"
+   ]
+  },
+  {
+   "seg_id": "1887-ENW-0129",
+   "kind": "unaligned",
+   "gutenberg": [
+    "2"
+   ]
+  },
+  {
+   "seg_id": "1887-ENW-0142",
+   "kind": "replace",
+   "gutenberg": [
+    "15"
+   ],
+   "ocr": [
+    "215"
+   ],
+   "gutenberg_context": "striking lightly from 10 P.M. (? 15th) to 3 A.M. (N.",
+   "ocr_context": "striking lehtly from 10 pm. (215th) to3 am. (N.N"
+  },
+  {
+   "seg_id": "1887-ENW-0148",
+   "kind": "replace",
+   "gutenberg": [
+    "5"
+   ],
+   "ocr": [
+    "0"
+   ],
+   "gutenberg_context": "W.S.W. at 5 P.M.",
+   "ocr_context": "W.S.W. at 0 P.M. 88 REPORT O"
+  },
+  {
+   "seg_id": "1887-ENW-0201",
+   "kind": "unaligned",
+   "gutenberg": [
+    "4",
+    "6",
+    "2.40",
+    "2",
+    "9.20",
+    "3"
+   ]
+  },
+  {
+   "seg_id": "1887-ENW-0204",
+   "kind": "replace",
+   "gutenberg": [
+    "1"
+   ],
+   "ocr": [
+    "3",
+    "15",
+    "7",
+    "9",
+    "8"
+   ],
+   "gutenberg_context": "10 P.M. (S.E., 1; B. C. M.)",
+   "ocr_context": "at 10 PM) (S.Eod 3 Be) a) Avuaust 15th—JZangness L.H., large number of Swallows from 7to9am. (Light 8.; clear.) Nash (£.) L.u.,two Swifts k"
+  },
+  {
+   "seg_id": "1887-ENW-0209",
+   "kind": "replace",
+   "gutenberg": [
+    "4"
+   ],
+   "ocr": [
+    "16"
+   ],
+   "gutenberg_context": "at 12 P.M. (E., 4; O. M.)",
+   "ocr_context": "EK, 4; 0. M.) | Avucust 16th.—Chickens Rock L.u., six Wheatears, two Larks, and three Meadow Pipits on lantern from 12 till 3 am. (E"
+  },
+  {
+   "seg_id": "1887-ENW-0219",
+   "kind": "replace",
+   "gutenberg": [
+    "12.50"
+   ],
+   "ocr": [
+    "12.5"
+   ],
+   "gutenberg_context": "Flycatchers\" striking glass at 12.50 A.M.; two killed.",
+   "ocr_context": "catchers” striking glass at 12.5 a.m.; two killed."
+  },
+  {
+   "seg_id": "1887-ENW-0283",
+   "kind": "replace",
+   "gutenberg": [
+    "10.30"
+   ],
+   "ocr": [
+    "103"
+   ],
+   "gutenberg_context": "Willow Warblers killed at 10.30 A.M. A large flock of Titla",
+   "ocr_context": "Willow Warblers killed at 103 am A large flock of Titla"
+  },
+  {
+   "seg_id": "1887-ENW-0291",
+   "kind": "replace",
+   "gutenberg": [
+    "2.30"
+   ],
+   "ocr": [
+    "2.50"
+   ],
+   "gutenberg_context": "but not killed, at 2.30 A.M. One Skylark settled on galle",
+   "ocr_context": "but not killed, at 2.50 am. One Skylark settled on galle"
+  },
+  {
+   "seg_id": "1887-ENW-0353",
+   "kind": "replace",
+   "gutenberg": [
+    "10.30"
+   ],
+   "ocr": [
+    "10.304"
+   ],
+   "gutenberg_context": "flying on island at 10.30 A.M. (N.N.W., 3;",
+   "ocr_context": "flying on island at 10.304a.m. (N.N.W.,3;"
+  },
+  {
+   "seg_id": "1887-ENW-0402",
+   "kind": "replace",
+   "gutenberg": [
+    "9.40"
+   ],
+   "ocr": [
+    "940"
+   ],
+   "gutenberg_context": "Crows flying W. at 9.40 A.M. (W.; C.) _Selker_ L.V., La",
+   "ocr_context": "Crows flying W. at 940 am. (W.; c.) Selker Lv., Lar"
+  },
+  {
+   "seg_id": "1887-ENW-0427",
+   "kind": "replace",
+   "gutenberg": [
+    "3.30"
+   ],
+   "ocr": [
+    "3.00"
+   ],
+   "gutenberg_context": "Jackdaws passing inland at 3.30 P.M. (S.W., 4; C. G. U.",
+   "ocr_context": "Jackdaws passing inland at 3.00 PM. (S.W., 4; ¢.G.uU.) L"
+  },
+  {
+   "seg_id": "1887-ENW-0440",
+   "kind": "replace",
+   "gutenberg": [
+    "9"
+   ],
+   "ocr": [
+    "1"
+   ],
+   "gutenberg_context": "passing inland all day.[9] (W. to N.N.W., 6;",
+   "ocr_context": "passing inland all day.1 (W. to NEN: W 2963 1"
+  },
+  {
+   "seg_id": "1887-ENW-0448",
+   "kind": "replace",
+   "gutenberg": [
+    "8"
+   ],
+   "ocr": [
+    "5",
+    "60.5",
+    "4",
+    "2",
+    "7.45"
+   ],
+   "gutenberg_context": "passing inland all day. (S. to S.W., 8; C. Q. R.)",
+   "ocr_context": "passing inland all day. (5: 60.5. Wie 4G: @. RS) NovEMBER 2d.—Selker u.v., five Greenfinches at 7.45 a.m. One Chatfinch flying round ship all night. (6,8. by E.; c. a"
+  },
+  {
+   "seg_id": "1887-ENW-0576",
+   "kind": "replace",
+   "gutenberg": [
+    "7"
+   ],
+   "ocr": [
+    "9",
+    "11"
+   ],
+   "gutenberg_context": "flying to E. (E., 7; C. B. V.)",
+   "ocr_context": "H., Crows passing E. in single numbers from 9 to 11 A.M. NovEMBER 25th.—Ca"
+  }
+ ]
+}

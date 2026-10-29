@@ -1,0 +1,650 @@
+{
+ "rows": [
+  {
+   "image": "n140.jpg",
+   "printed": "1. Fastnet, Co.Cork x x 8 James Walsh.",
+   "number": "1",
+   "marks": null,
+   "name": "Fastnet",
+   "type": null,
+   "place": "Co. Cork",
+   "keepers": [
+    "James Walsh."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 8",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "2. Galley Head, Cork o o – _No replies._",
+   "number": "2",
+   "marks": null,
+   "name": "Galley Head",
+   "type": null,
+   "place": "Cork",
+   "keepers": [],
+   "character": null,
+   "other": "Spring o; Autumn o; Miles from shore –; _No replies._",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "3. Old Head, Kinsale, Cork x x – Martin Kennedy.",
+   "number": "3",
+   "marks": null,
+   "name": "Old Head",
+   "type": null,
+   "place": "Kinsale, Cork",
+   "keepers": [
+    "Martin Kennedy."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "4. Mine Head, Waterford – – – No schedule sent.",
+   "number": "4",
+   "marks": null,
+   "name": "Mine Head",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [],
+   "character": null,
+   "other": "Spring –; Autumn –; Miles from shore –; No schedule sent.",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "5. Dungarvan, Waterford x x – Wm. Higginbotham.",
+   "number": "5",
+   "marks": null,
+   "name": "Dungarvan",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [
+    "Wm. Higginbotham."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "5.*Coningbeg Lt.-ship, Wexford x x 10 {Patrick Cullen and William Clydesdale.",
+   "number": "5*",
+   "marks": "*",
+   "name": "Coningbeg",
+   "type": "Lt.-ship",
+   "place": "Wexford",
+   "keepers": [
+    "Patrick Cullen",
+    "William Clydesdale."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 10",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "6. Barrels Rock Lt.-ship, do. x x 4 Michael Doyle.",
+   "number": "6",
+   "marks": null,
+   "name": "Barrels Rock",
+   "type": "Lt.-ship",
+   "place": "do.",
+   "keepers": [
+    "Michael Doyle."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 4",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "7. Tuskar Rock, do. x x 7 {Richard Hamilton and Patrick D’Arcy.",
+   "number": "7",
+   "marks": null,
+   "name": "Tuskar Rock",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Richard Hamilton",
+    "Patrick D’Arcy."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 7",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "8. ArklowSth.Lt.-ship,Wicklow x x 7 Patrick Clancy.",
+   "number": "8",
+   "marks": null,
+   "name": "Arklow Sth.",
+   "type": "Lt.-ship",
+   "place": "Wicklow",
+   "keepers": [
+    "Patrick Clancy."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 7",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "8.*Arklow North Lt.-ship, do. x x 8 William Daly.",
+   "number": "8*",
+   "marks": "*",
+   "name": "Arklow North",
+   "type": "Lt.-ship",
+   "place": "do.",
+   "keepers": [
+    "William Daly."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 8",
+   "coast": null,
+   "unsure": "the asterisk after '8.' is faintly/brokenly printed, but matches the one at 5.*"
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "10. Kish Bank Lt.-ship, Dublin x o 7 Michael Cunniam.",
+   "number": "10",
+   "marks": null,
+   "name": "Kish Bank",
+   "type": "Lt.-ship",
+   "place": "Dublin",
+   "keepers": [
+    "Michael Cunniam."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 7",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "11. Howth Baily, Dublin o x – William Dunne.",
+   "number": "11",
+   "marks": null,
+   "name": "Howth Baily",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [
+    "William Dunne."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "12. Rockabill, Dublin x x 5 Joseph Hammond.",
+   "number": "12",
+   "marks": null,
+   "name": "Rockabill",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [
+    "Joseph Hammond."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 5",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "13. Copeland Island, Down x o 3 John Walsh.",
+   "number": "13",
+   "marks": null,
+   "name": "Copeland Island",
+   "type": null,
+   "place": "Down",
+   "keepers": [
+    "John Walsh."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 3",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "14. Maidens, Antrim x x 5 Michael Barry.",
+   "number": "14",
+   "marks": null,
+   "name": "Maidens",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "Michael Barry."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 5",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "15. Rathlin, Antrim x x 6 John A. Murray.",
+   "number": "15",
+   "marks": null,
+   "name": "Rathlin",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "John A. Murray."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 6",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "16. Innishtrahull, Donegal x o 6 W. H. James.",
+   "number": "16",
+   "marks": null,
+   "name": "Innishtrahull",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "W. H. James."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 6",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "17. Dunree Head, Donegal x x – John Stapleton.",
+   "number": "17",
+   "marks": null,
+   "name": "Dunree Head",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "John Stapleton."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "18. Lough Swilly, Donegal – – – No schedule sent.",
+   "number": "18",
+   "marks": null,
+   "name": "Lough Swilly",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [],
+   "character": null,
+   "other": "Spring –; Autumn –; Miles from shore –; No schedule sent.",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "19. Tory Island, Donegal x o 9 Thomas Sweeny.",
+   "number": "19",
+   "marks": null,
+   "name": "Tory Island",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Thomas Sweeny."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "20. Arranmore, Donegal x x 5 Henry Williams.",
+   "number": "20",
+   "marks": null,
+   "name": "Arranmore",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Henry Williams."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 5",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "21. Rathlin O’Birne, Donegal x o 2 John Scallan.",
+   "number": "21",
+   "marks": null,
+   "name": "Rathlin O’Birne",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "John Scallan."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 2",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "22. Killybegs, Donegal o x – Joseph Hill.",
+   "number": "22",
+   "marks": null,
+   "name": "Killybegs",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "Joseph Hill."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "23. Oyster Island, N. Sligo x o 1 Joseph Hill.",
+   "number": "23",
+   "marks": null,
+   "name": "Oyster Island",
+   "type": null,
+   "place": "N. Sligo",
+   "keepers": [
+    "Joseph Hill."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore 1",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "24. Broadhaven, Mayo x x – Patrick Keenan.",
+   "number": "24",
+   "marks": null,
+   "name": "Broadhaven",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Patrick Keenan."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "25. Eagle Island, E., Mayo o x 2 Daniel Hawkins.",
+   "number": "25",
+   "marks": null,
+   "name": "Eagle Island, E.",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Daniel Hawkins."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore 2",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "26. Eagle Island, W., Mayo o o 2 _No replies._",
+   "number": "26",
+   "marks": null,
+   "name": "Eagle Island, W.",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [],
+   "character": null,
+   "other": "Spring o; Autumn o; Miles from shore 2; _No replies._",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "27. Blackrock, Mayo x x 9 {JohnRedmond, J. Young and R. Lyons.",
+   "number": "27",
+   "marks": null,
+   "name": "Blackrock",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "John Redmond",
+    "J. Young",
+    "R. Lyons."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "28. Blacksod Point, Mayo o x – Robt. W. Redmond.",
+   "number": "28",
+   "marks": null,
+   "name": "Blacksod Point",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Robt. W. Redmond."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "29. Clare Island, Mayo x x 4 G. H. Brownell.",
+   "number": "29",
+   "marks": null,
+   "name": "Clare Island",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "G. H. Brownell."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 4",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "30. Slyne Head, N., Galway o x 3 Robert Tyrrell.",
+   "number": "30",
+   "marks": null,
+   "name": "Slyne Head, N.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Robert Tyrrell."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore 3",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "31. Slyne Head, S., Galway – – 3 No schedule sent.",
+   "number": "31",
+   "marks": null,
+   "name": "Slyne Head, S.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [],
+   "character": null,
+   "other": "Spring –; Autumn –; Miles from shore 3; No schedule sent.",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "32. Arran Island, N., Galway o x 9 Thomas Fortune.",
+   "number": "32",
+   "marks": null,
+   "name": "Arran Island, N.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Thomas Fortune."
+   ],
+   "character": null,
+   "other": "Spring o; Autumn x; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "33. Straw Island, Galway x x 9 Charles Boyle.",
+   "number": "33",
+   "marks": null,
+   "name": "Straw Island",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Charles Boyle."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "34. Arran Island, S., Galway o o 6 _No replies._",
+   "number": "34",
+   "marks": null,
+   "name": "Arran Island, S.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [],
+   "character": null,
+   "other": "Spring o; Autumn o; Miles from shore 6; _No replies._",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "36. Samphire Island, Kerry – – ½ No schedule sent.",
+   "number": "36",
+   "marks": null,
+   "name": "Samphire Island",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [],
+   "character": null,
+   "other": "Spring –; Autumn –; Miles from shore ½; No schedule sent.",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "37. Tearaght, Kerry x x 9 Edward McCarron.",
+   "number": "37",
+   "marks": null,
+   "name": "Tearaght",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Edward McCarron."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "38. Valentia, Kerry x x – Joseph Williams.",
+   "number": "38",
+   "marks": null,
+   "name": "Valentia",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Joseph Williams."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore –",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "39. Skelligs, Kerry x x 9 Thomas Kerley.",
+   "number": "39",
+   "marks": null,
+   "name": "Skelligs",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Thomas Kerley."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn x; Miles from shore 9",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n140.jpg",
+   "printed": "40. Dursey Island, Cork x o ½ James Keenan.",
+   "number": "40",
+   "marks": null,
+   "name": "Dursey Island",
+   "type": null,
+   "place": "Cork",
+   "keepers": [
+    "James Keenan."
+   ],
+   "character": null,
+   "other": "Spring x; Autumn o; Miles from shore ½",
+   "coast": null,
+   "unsure": null
+  }
+ ],
+ "notes": "The whole list (40 rows, the key, and the footer) is on n140.jpg, which is printed page 129. n139.jpg (p. 128) is the end of the report text, signed by More and Barrington on 19th May, 1885. n141.jpg (p. 130) has the List of Birds noticed. The list sits under the running head \"IRISH COAST.\" and has no sub-headings, so coast is null throughout.\n\nColumns: number; station and county; Spring. and Autumn reply marks (x / o / –); \"Miles from shore.\" (– where none is given); \"Names of Observers\". The 'other' field gives these as \"Spring …; Autumn …; Miles from shore …\". There are no light characters in this list.\n\nChecks: The printed numbering has no 9 (5.* and 8.* are used instead) and no 35. The 4 rows marked \"No schedule sent.\" (4, 18, 31, 36) leave 36 stations, which matches \"36 schedules sent out\". Counting the marks gives 27 x in spring and 26 x in autumn, which matches the footer exactly. So every reply mark has been read correctly. In 'other' I've kept the footer's wording \"replies received\", but the key's x means \"Schedule returned partly or wholly filled\".\n\nWhere the image corrects the OCR:\n- Row 1 is \"Fastnet, Co.Cork\" (the OCR garbled it).\n- Row 7, Tuskar Rock, do. x x 7, \"Richard Hamilton and Patrick D'Arcy\", was badly garbled in the OCR.\n- Row 27's observers are \"John Redmond, J. Young and R. Lyons\".\n- Row 37 is \"Tearaght\", not \"Learaght\".\n- Rows 36 and 40 have ½ mile, not \"i\" or \"4\".\n- Row 32 is \"Thomas Fortune\".\n- Row 13 is 3 miles, not 8.\n- Rows 30 and 31 are 3 miles each, not 8.\n\nTypesetting choices:\n- Leader dots are left out of 'printed'.\n- In the tightly set lines, 'printed' keeps the missing spaces as seen (\"Co.Cork\", \"ArklowSth.Lt.-ship,Wicklow\", \"JohnRedmond\"). The separate fields add normal word spaces (\"Co. Cork\", \"Arklow Sth.\", \"John Redmond\").\n- Rows 5.* and 7 (two observers each) and row 27 (three) are set over two lines, joined by a brace in the observers column. I show the brace as \"{\" in 'printed'. It belongs to the names, not to the station, so marks is null for those rows.\n- \"No replies.\" is in italics (rows 2, 26, 34); \"No schedule sent.\" is in roman type.\n- \"do.\" (ditto) stands for Wexford in rows 6 and 7 and for Wicklow in 8.*. Tuskar Rock (7) is \"do.\" for the county only; it is not a light-ship.\n- Number gives \"5*\" and \"8*\" as you asked; they are printed \"5.*\" and \"8.*\". The asterisk on 8.* is faintly or brokenly printed.\n- Each light-vessel is printed with the type \"Lt.-ship\", not \"L.V.\".\n- In 'name' I kept compass suffixes with the station (\"Eagle Island, E.\", \"Slyne Head, N.\", \"Arran Island, S.\").\n- Row 3 is split as name \"Old Head\", place \"Kinsale, Cork\" (that is, Old Head of Kinsale).\n\nCopied as printed, not corrected:\n- Innishtrahull (usually Inishtrahull).\n- Arranmore (usually Aranmore or Arranmore).\n- Arran Island, N./S., Galway (the Aran Islands).\n- Howth Baily (usually spelt Baily, so this is fine).\n- Valentia.\n- \"Cunniam\" (perhaps Cunningham or Cunnian; unverified).\n- \"Thomas Sweeny\".\n\nThe same \"Joseph Hill.\" is the observer at both Killybegs (22) and Oyster Island, N. Sligo (23). This may be one man, or a printer's repetition. Robt. W. Redmond (Blacksod Point) and John Redmond (Blackrock) are both Mayo stations. Keeper names keep their final full stop as printed, except the first name(s) in a joined pair or list.",
+ "_meta": {
+  "year": 1884,
+  "list": 11,
+  "run": 2,
+  "images": [
+   "cache/scans/1884/n139.jpg",
+   "cache/scans/1884/n140.jpg",
+   "cache/scans/1884/n141.jpg"
+  ],
+  "ocr_first_line": 8060,
+  "ocr_last_line": 8102,
+  "section": "IRISH COAST.",
+  "kind": "section",
+  "cost_usd": 0.3367344
+ }
+}

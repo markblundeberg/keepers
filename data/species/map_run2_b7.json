@@ -1,0 +1,129 @@
+{
+ "items": [
+  {
+   "n": 2450,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "'Grey Gull' is a keepers' name, quoted in the text. It is listed apart from Common Gull and Black-backed Gull. In Victorian usage it usually meant young (brown-grey) large gulls, mostly Herring or Great Black-backed. Kept at genus."
+  },
+  {
+   "n": 2451,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "The quotes mark a local name, so this is probably not true Little Gull (Hydrocoloeus minutus), which would be rare to see 'remaining on the' station. It may be Kittiwake or Black-headed Gull. Given at family level because those candidates are in different genera."
+  },
+  {
+   "n": 2452,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "'Black-backed' alone could be Great or Lesser Black-backed. 'Royal' suggests the big one, Great Black-backed Gull (Larus marinus), but I couldn't confirm 'Royal Gull' as a name for it. Kept at genus."
+  },
+  {
+   "n": 2453,
+   "level": "species",
+   "scientific": "Somateria mollissima",
+   "english": "Common Eider",
+   "note": null
+  },
+  {
+   "n": 2454,
+   "level": "group",
+   "scientific": null,
+   "english": "hawks",
+   "note": "The keepers' 'Hawks' included falcons. Dark grey October birds could be male Sparrowhawk, male Merlin or male Hen Harrier, which spans Accipitridae and Falconidae, so no single family fits."
+  },
+  {
+   "n": 2455,
+   "level": "genus",
+   "scientific": "Gavia",
+   "english": "divers",
+   "note": "Keepers sometimes called grebes or auks 'divers' too. This bare entry gives no context."
+  },
+  {
+   "n": 2456,
+   "level": "group",
+   "scientific": null,
+   "english": "finches (Victorian Fringillidae)",
+   "note": "OCR garble of 'Fringillidae'. In the 1880s that family also took in sparrows and buntings, so it is wider than modern Fringillidae. Given as a group; use family Fringillidae if you'd rather accept the narrower sense."
+  },
+  {
+   "n": 2457,
+   "level": "species",
+   "scientific": "Chloris chloris",
+   "english": "European Greenfinch",
+   "note": "'Green Linnet' was an old name for Greenfinch."
+  },
+  {
+   "n": 2458,
+   "level": "species",
+   "scientific": "Larus canus",
+   "english": "Common Gull",
+   "note": "The text itself glosses it '(or Common Gull)'. Elsewhere 'Grey Meg' could mean young Herring Gulls, so check other uses."
+  },
+  {
+   "n": 2459,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "'Large White ... Gulls that hatched here', listed beside 'Grey-backed' Gulls. Probably a large breeding gull such as Herring or Great Black-backed, but it can't be told which."
+  },
+  {
+   "n": 2460,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "'the larger ones at odd times for the big drum' does not name a bird. It may not be a bird reference at all (a drum? a fog signal?). Check the full passage."
+  },
+  {
+   "n": 2461,
+   "level": "group",
+   "scientific": null,
+   "english": "other migrants",
+   "note": "A loose group meaning birds in general."
+  },
+  {
+   "n": 2462,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "A garbled capitals heading, 'SItviInz.'. Possibly SISKINS or SWIFTS (August singles would fit Swift), but I can't read it with confidence. Check the page image."
+  },
+  {
+   "n": 2463,
+   "level": "species",
+   "scientific": "Plectrophenax nivalis",
+   "english": "Snow Bunting",
+   "note": "OCR error for 'Snow Bunting'."
+  },
+  {
+   "n": 2464,
+   "level": "species",
+   "scientific": "Anthus trivialis",
+   "english": "Tree Pipit",
+   "note": "From 'A. pratensis and trivialis', which means Anthus trivialis."
+  },
+  {
+   "n": 2465,
+   "level": "family",
+   "scientific": "Laridae",
+   "english": "gulls",
+   "note": "'Uncommon Gulls' means unusual gulls, with no species named."
+  },
+  {
+   "n": 2466,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "One white bird in a passing flock of Sparrows. Probably a leucistic or albino House Sparrow, or possibly a Snow Bunting. It can't be told which."
+  }
+ ],
+ "notes": "Things to check: (1) 2460 'larger ones' and 2462 'SItviInz.' need the page image or full passage. (2) 2450, 2451, 2452 come from one sentence of keepers' local gull names. Look at which station it is and whether 'Little Gull' there means Kittiwake or Black-headed Gull, and whether 'Royal Gull' means Great Black-backed. (3) 2458 'Grey Megs' is glossed in the text as Common Gull; check that other uses agree. (4) 2456 Fringillidae: decide whether to keep the Victorian wide sense (group) or the modern family. (5) 2454 'dark grey Hawks' covers both hawk and falcon families, so it is given as a group. (6) 2466 'white bird' is probably an aberrant sparrow.",
+ "_meta": {
+  "run": 2,
+  "batch": 7,
+  "cost_usd": 0.121603
+ }
+}

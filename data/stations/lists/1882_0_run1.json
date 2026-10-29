@@ -1,0 +1,445 @@
+{
+ "rows": [
+  {
+   "line": 245,
+   "fragments": [
+    "    *     *             4. North Uist, Shetland        230 ft."
+   ],
+   "number": "4",
+   "marks": "*     *",
+   "name": "North Uist",
+   "type": null,
+   "place": "Shetland",
+   "keepers": [],
+   "character": null,
+   "other": "230 ft.",
+   "coast": "East Coast of Scotland"
+  },
+  {
+   "line": 246,
+   "fragments": [
+    "          *    *    *   5. Whalsey Skerries, Shetland  145  \"  Nevin Kerr."
+   ],
+   "number": "5",
+   "marks": "*    *    *",
+   "name": "Whalsey Skerries",
+   "type": null,
+   "place": "Shetland",
+   "keepers": [
+    "Nevin Kerr."
+   ],
+   "character": null,
+   "other": "145  \"",
+   "coast": "East Coast of Scotland"
+  },
+  {
+   "line": 247,
+   "fragments": [
+    "                    *   6. Bressay, Shetland           105  \""
+   ],
+   "number": "6",
+   "marks": "*",
+   "name": "Bressay",
+   "type": null,
+   "place": "Shetland",
+   "keepers": [],
+   "character": null,
+   "other": "105  \"",
+   "coast": "East Coast of Scotland"
+  },
+  {
+   "line": 248,
+   "fragments": [
+    "    *     *    *    *   7. Sumburgh Head, Shetland     300  \"  J. Wilson."
+   ],
+   "number": "7",
+   "marks": "*     *    *    *",
+   "name": "Sumburgh Head",
+   "type": null,
+   "place": "Shetland",
+   "keepers": [
+    "J. Wilson."
+   ],
+   "character": null,
+   "other": "300  \"",
+   "coast": "East Coast of Scotland"
+  },
+  {
+   "line": 249,
+   "fragments": [
+    "                        7B. Fair Isle                    ?  \""
+   ],
+   "number": "7B",
+   "marks": null,
+   "name": "Fair Isle",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "?  \"",
+   "coast": "East Coast of Scotland"
+  },
+  {
+   "line": 253,
+   "fragments": [
+    "    *     *    *    *   8. North Ronaldshay            140  \" John Tulloch."
+   ],
+   "number": "8",
+   "marks": "*     *    *    *",
+   "name": "North Ronaldshay",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "John Tulloch."
+   ],
+   "character": null,
+   "other": "140  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 254,
+   "fragments": [
+    "                        9. Start Point                  80  \""
+   ],
+   "number": "9",
+   "marks": null,
+   "name": "Start Point",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "80  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 255,
+   "fragments": [
+    "    *     *    *    *  10. Auskerry                    110  \" J. Macdonald."
+   ],
+   "number": "10",
+   "marks": "*     *    *    *",
+   "name": "Auskerry",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "J. Macdonald."
+   ],
+   "character": null,
+   "other": "110  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 256,
+   "fragments": [
+    "                       11. Hoy Sound (Low)              55  \""
+   ],
+   "number": "11",
+   "marks": null,
+   "name": "Hoy Sound (Low)",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "55  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 257,
+   "fragments": [
+    "                       12. Hoy Sound (High)            115  \""
+   ],
+   "number": "12",
+   "marks": null,
+   "name": "Hoy Sound (High)",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "115  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 258,
+   "fragments": [
+    "                       13. Cantick Head                115  \""
+   ],
+   "number": "13",
+   "marks": null,
+   "name": "Cantick Head",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "115  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 259,
+   "fragments": [
+    "    *     *    *    *  14. Pentland Skerries           170  \" D. MacDonald."
+   ],
+   "number": "14",
+   "marks": "*     *    *    *",
+   "name": "Pentland Skerries",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "D. MacDonald."
+   ],
+   "character": null,
+   "other": "170  \"",
+   "coast": "Orkney"
+  },
+  {
+   "line": 263,
+   "fragments": [
+    "          *    *    *  15. Dunnet Head, Caithness      346  \" D. Laidlaw."
+   ],
+   "number": "15",
+   "marks": "*    *    *",
+   "name": "Dunnet Head",
+   "type": null,
+   "place": "Caithness",
+   "keepers": [
+    "D. Laidlaw."
+   ],
+   "character": null,
+   "other": "346  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 264,
+   "fragments": [
+    "                       16. Holborn Head, Caithness      75  \""
+   ],
+   "number": "16",
+   "marks": null,
+   "name": "Holborn Head",
+   "type": null,
+   "place": "Caithness",
+   "keepers": [],
+   "character": null,
+   "other": "75  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 265,
+   "fragments": [
+    "                       17. Noss Head, Caithness        175  \""
+   ],
+   "number": "17",
+   "marks": null,
+   "name": "Noss Head",
+   "type": null,
+   "place": "Caithness",
+   "keepers": [],
+   "character": null,
+   "other": "175  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 266,
+   "fragments": [
+    "                       18. Tarbat Ness, East Ross      175  \""
+   ],
+   "number": "18",
+   "marks": null,
+   "name": "Tarbat Ness",
+   "type": null,
+   "place": "East Ross",
+   "keepers": [],
+   "character": null,
+   "other": "175  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 267,
+   "fragments": [
+    "               *    *  19. Cromarty, East Cromarty      60  \" R. S. Ritson."
+   ],
+   "number": "19",
+   "marks": "*    *",
+   "name": "Cromarty",
+   "type": null,
+   "place": "East Cromarty",
+   "keepers": [
+    "R. S. Ritson."
+   ],
+   "character": null,
+   "other": "60  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 268,
+   "fragments": [
+    "                    *  20. Chanonry Point, Elgin        40  \" John McGill."
+   ],
+   "number": "20",
+   "marks": "*",
+   "name": "Chanonry Point",
+   "type": null,
+   "place": "Elgin",
+   "keepers": [
+    "John McGill."
+   ],
+   "character": null,
+   "other": "40  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 269,
+   "fragments": [
+    "                       21. Covesea Skerries, Elgin     160  \""
+   ],
+   "number": "21",
+   "marks": null,
+   "name": "Covesea Skerries",
+   "type": null,
+   "place": "Elgin",
+   "keepers": [],
+   "character": null,
+   "other": "160  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 270,
+   "fragments": [
+    "                 (_a_) 22. Kinnaird Head, Aberdeen     120  \" D. M Scott."
+   ],
+   "number": "22",
+   "marks": "(_a_)",
+   "name": "Kinnaird Head",
+   "type": null,
+   "place": "Aberdeen",
+   "keepers": [
+    "D. M Scott."
+   ],
+   "character": null,
+   "other": "120  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 271,
+   "fragments": [
+    "                       23. Buchan Ness, Aberdeen       130  \""
+   ],
+   "number": "23",
+   "marks": null,
+   "name": "Buchan Ness",
+   "type": null,
+   "place": "Aberdeen",
+   "keepers": [],
+   "character": null,
+   "other": "130  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 272,
+   "fragments": [
+    "                       24. Girdleness, Aberdeen        185  \""
+   ],
+   "number": "24",
+   "marks": null,
+   "name": "Girdleness",
+   "type": null,
+   "place": "Aberdeen",
+   "keepers": [],
+   "character": null,
+   "other": "185  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 273,
+   "fragments": [
+    "                       25. Montroseness, Aberdeen      124  \" \"No birds.\""
+   ],
+   "number": "25",
+   "marks": null,
+   "name": "Montroseness",
+   "type": null,
+   "place": "Aberdeen",
+   "keepers": [],
+   "character": null,
+   "other": "124  \" \"No birds.\"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 274,
+   "fragments": [
+    "    *     *    *    *  26. Bell Rock, Fife Coast        93  \" James Jack."
+   ],
+   "number": "26",
+   "marks": "*     *    *    *",
+   "name": "Bell Rock",
+   "type": null,
+   "place": "Fife Coast",
+   "keepers": [
+    "James Jack."
+   ],
+   "character": null,
+   "other": "93  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 275,
+   "fragments": [
+    "    *     *    *    *  27. Isle of May, Firth of Forth 240  \" J. Agnew."
+   ],
+   "number": "27",
+   "marks": "*     *    *    *",
+   "name": "Isle of May",
+   "type": null,
+   "place": "Firth of Forth",
+   "keepers": [
+    "J. Agnew."
+   ],
+   "character": null,
+   "other": "240  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 276,
+   "fragments": [
+    "          *    *    *  28. Inch Keith, Firth of Forth  220  \" R. Grierson."
+   ],
+   "number": "28",
+   "marks": "*    *    *",
+   "name": "Inch Keith",
+   "type": null,
+   "place": "Firth of Forth",
+   "keepers": [
+    "R. Grierson."
+   ],
+   "character": null,
+   "other": "220  \"",
+   "coast": "Mainland"
+  },
+  {
+   "line": 277,
+   "fragments": [
+    "                       29. St. Abb's Head, Berwick     224  \""
+   ],
+   "number": "29",
+   "marks": null,
+   "name": "St. Abb's Head",
+   "type": null,
+   "place": "Berwick",
+   "keepers": [],
+   "character": null,
+   "other": "224  \"",
+   "coast": "Mainland"
+  }
+ ],
+ "notes": "Asterisk years: the column header (line 244, \"1879, '80, '81, '82.\") ends each year at character positions 4, 10, 15 and 20, and every asterisk sits exactly at one of those positions. That makes the year assignments clear. Fragments keep the leading spaces so this can be checked again. Returns by station: 1879/'80 = North Uist. '80/'81/'82 = Whalsey Skerries, Dunnet Head, Inch Keith. '82 only = Bressay, Chanonry Point. '81/'82 = Cromarty. All four years = Sumburgh Head, North Ronaldshay, Auskerry, Pentland Skerries, Bell Rock, Isle of May. The 'marks' field gives the asterisks exactly as printed, internal spacing included. Kinnaird Head has '(_a_)' where its asterisks would go, roughly under '81/'82; the footnote on line 279 says it 'Describes a bird but no schedule.' Which year that applies to can't be read from the layout.\n\nHeadings: the first group sits under 'East Coast of Scotland.' (line 242), then 'Orkney.' and 'Mainland.' The Shetland stations come under the main heading because there is no separate Shetland sub-heading.\n\nHeight column: after the first row ('230 ft.') each height is followed by a ditto mark (\") standing for 'ft.'. I kept it as printed in 'other'. Fair Isle's height is printed as '?'. Montroseness has the remark \"No birds.\" in the keeper column; I put it in 'other' along with its height. No row prints a type (L.H./L.V.) or a light character, so those fields are null throughout.\n\nCopied as printed but probably wrong: 'North Uist, Shetland' is almost certainly a misprint or OCR error for North Unst (Unst, Shetland). North Uist is in the Outer Hebrides. 'D. M Scott.' has no full stop after the M (D. M. Scott? D. McScott?). 'East Cromarty' is an odd place name for Cromarty. Chanonry Point is given as 'Elgin', though it is in Ross-shire. Montroseness is given as 'Aberdeen', though it is in Forfarshire. 'Whalsey' and 'Girdleness'/'Montroseness' are period spellings. Keeper names keep their trailing full stops as printed. Map number '7B.' is given as '7B'.",
+ "_meta": {
+  "year": 1882,
+  "list": 0,
+  "run": 1,
+  "source": "sources/gutenberg/1882_pg65515.txt",
+  "first_line": 245,
+  "last_line": 277,
+  "section": "EAST COAST OF SCOTLAND, &c.",
+  "kind": "section",
+  "cost_usd": 0.13793419999999998
+ }
+}

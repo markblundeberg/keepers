@@ -1,0 +1,114 @@
+id,name,kind,printed_names,regions,years,map_numbers,neighbours_in_a_list
+berwick,Berwick,lighthouse,Berwick.,england_east,1879,,"(first) < > Longstone,"
+longstone,Longstone,lighthouse,"Longstone L.H. ; Longstone,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,30@1885 30@1887 40@1880,"(first) < > Farn, Inner"
+inner-farne,Inner Farne,lighthouse,"Farn Islands ; Farn, Inner, L.H. ; Farne Inner ; Inner Farn L.H. ; Inner Farne L.H.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,31@1885 31@1887 41@1880,Longstone < > Coquet Island
+coquet,Coquet,lighthouse,"Coquet Island L.H. ; Coquet Island,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,32@1885 32@1887 42@1880,"Farn, Inner < > Tees, 5 Buoy"
+souter,Souter Point,lighthouse,Souter Point.,england_east,1879 1880,43@1880,Coquet Island < > Teesmouth
+tees-lv,Tees No. 5 Buoy L.V.,light-vessel,"5 Buoy Tees L.V. ; No. 5 Buoy, Teesmouth L.V. ; Tees L.V. ; Tees, 5 Buoy L.V. ; Teesmouth, Lightvessel;",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,33@1885 33@1887 44_a_@1880,Souter Point < > Teesmouth
+teesmouth-1880,Teesmouth (second 1880 entry),other,Teesmouth,england_east,1880,44_b_@1880,"Teesmouth < > Whitby, High Light"
+south-gare,South Gare (Tees Breakwater),lighthouse,Tees Breakwater L.H.,england_east,1885 1886,,"Tees, 5 Buoy < > Whitby High"
+whitby-high,Whitby High,lighthouse,"Whitby High L.H. ; Whitby, High Light; ; Whitby, High, L.H.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,34@1885 34@1887 45@1880,5 Buoy Tees < > Flamborough Head
+flamborough-head,Flamborough Head,lighthouse,Flamborough Head L.H. ; Flamborough Head; ; Flamborough L.H.,england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,35@1885 35@1887 46@1880,Whitby High < > Spurn
+spurn-point,Spurn Point,lighthouse,Spurn L.H. ; Spurn Point L.H. ; Spurn Point.,england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,36@1885 36@1887 47@1880,Flamborough < > Spurn
+spurn-lv,Spurn (Newsand) L.V.,light-vessel,"Spurn (Newsand) L.V. ; Spurn (Newsand) Lightvessel ; Spurn L.V. ; Spurn, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,37@1885 37@1887 48_a_@1880,Spurn < > Outer Dowsing
+bull-lv,Bull L.V.,light-vessel,"Bull, Lightvessel,",england_east,1879,,"Spurn, < > Outer Dowsing,"
+great-cotes,Great Cotes,other,Great Cotes,england_east,1880,48_b_@1880,Spurn (Newsand) < > Outer Dowsing
+outer-dowsing-lv,Outer Dowsing L.V.,light-vessel,"Outer Dowsing L.V. ; Outer Dowsing, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,40@1885 40@1887 49@1880,Dudgeon < > Llyn Wells
+inner-dowsing-lv,Inner Dowsing L.V.,light-vessel,"Inner Dowsing L.V. ; Inner Dowsing, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,38@1885 38@1887 50@1880,Outer Dowsing < > Dudgeon
+dudgeon-lv,Dudgeon L.V.,light-vessel,"Dudgeon L.V. ; Dudgeon, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,39@1885 39@1887 51@1880,Inner Dowsing < > Llyn Wells
+lynn-well-lv,Lynn Well L.V.,light-vessel,Llyn Wells L.V. ; Lynn Well L.V. ; Lynn Well Lightvessel,england_east unknown,1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,41@1885 41@1887 52@1880,Dudgeon < > Hunstanton
+hunstanton,Hunstanton,lighthouse,"Hunstanton L.H. ; Hunstanton, Lighthouse,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,44@1885 44@1887 53@1880,Hasbro' < > Cromer
+cromer,Cromer,lighthouse,"Cromer L.H. ; Cromer, Lighthouse;",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,45@1885 45@1887 54@1880,Hunstanton < > Hasbro'
+northrepps,Northrepps,other,Northrepps,england_east,1880,55_a_@1880,Cromer < > Leman and Ower
+leman-and-ower-lv,Leman and Ower L.V.,light-vessel,"Leman & Ower L.V. ; Leman and Ower L.H. ; Leman and Ower L.V. ; Leman and Ower, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,43@1885 43@1887 55_b_@1880,Cromer < > Hasbrough
+happisburgh,Happisburgh,lighthouse,"Hasborough, Lighthouse; ; Hasbro' L.H. ; Hasbrough L.H.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,46@1885 46@1887 57@1880,Cromer < > Winterton
+happisburgh-lv,Happisburgh L.V.,light-vessel,Hasborough Lightvessel ; Hasbro' L.V. ; Hasbrough L.V.,england_east unknown,1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,42@1885 42@1887 56@1880,Cromer < > Leman & Ower
+winterton,Winterton,lighthouse,"Winterton L.H. ; Winterton, Lighthouse;",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,47@1885 47@1887 59@1880,Cromer < > Leman and Ower
+newarp-lv,Newarp L.V.,light-vessel,"Newarp L.V. ; Newarp, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,48@1885 48@1887 58@1880,Hasbro' < > Winterton
+cockle-lv,Cockle L.V.,light-vessel,"Cockle L.V. ; Cockle, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,49@1885 49@1887 60@1880,Newarp < > Corton
+corton-lv,Corton L.V.,light-vessel,"Corton L.V. ; Corton, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,50@1885 50@1887 61@1880,Cockle < > Languard Point
+lowestoft,Lowestoft,lighthouse,"Lowestoft, Lighthouse;",england_east,1879 1880,62@1880,"Cockle, < > Corton,"
+orfordness,Orfordness,lighthouse,"Orfordness L.H. ; Orfordness, Lighthouse;",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887m,51@1885 51@1887 63@1880,Cockle < > Corton
+shipwash-lv,Shipwash L.V.,light-vessel,"Shipwash L.V. ; Shipwash, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,53@1885 53@1887 64@1880,Corton < > Galloper
+landguard-point,Landguard Point,lighthouse,"Languard Point L.H. ; Languard Point, Lighthouse,",england_east unknown,1879 1880 1882 1883 1884 1885 1885m 1886 1887 1887m,52@1885 52@1887 66@1880,Corton < > Shipwash
+cork-lv,Cork L.V.,light-vessel,"Cork, Lightvessel,",england_east,1879 1880,65@1880,"Languard Point, < > Galloper,"
+galloper-lv,Galloper L.V.,light-vessel,"Galloper L.V. ; Galloper, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,58@1885 58@1887 67@1880,Kentish Knock < > North Foreland
+kentish-knock-lv,Kentish Knock L.V.,light-vessel,"Kentish Knock ; Kentish Knock L.V. ; Kentish Knock, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,57@1885 57@1887 68@1880,Galloper < > Swin Middle
+swin-middle-lv,Swin Middle L.V.,light-vessel,Swin Middle L.V. ; Swin Middle Lightvessel,england_east unknown,1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,54@1885 54@1887 69@1880,Kentish Knock < > Tongue
+tongue-lv,Tongue L.V.,light-vessel,Tongue L.V. ; Tongue Lightvessel,england_east unknown,1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,56@1885 56@1887 70@1880,Nore < > Kentish Knock
+nore-lv,Nore L.V.,light-vessel,"Nore L.V. ; Nore, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,55@1885 55@1887 71@1880,Swin Middle < > Tongue
+north-foreland,North Foreland,lighthouse,"North Foreland L.H. ; North Foreland, Lighthouse;",england_east unknown,1879 1880 1881 1882 1883 1884 1885m 1887m,59@1885 59@1887 72@1880,Galloper < > North Sand Head
+north-sand-head-lv,North Sand Head (Goodwin) L.V.,light-vessel,"Goodwin L.V. ; Goodwin, Lightvessel, ; North Sand Head L.V.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,60@1885 60@1887 73@1880,North Foreland < > Gull
+gull-lv,Gull (Gull Stream) L.V.,light-vessel,"Gull L.V. ; Gull Lightvessel ; Gull-stream, Lightvessel,",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,61@1885 61@1887 74@1880,Goodwin < > South Sand Head
+south-sand-head-lv,South Sand Head L.V.,light-vessel,"South Sand Head L.V. ; South-sand Head, Lightvessel, ; Southsand Head L.V.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,64@1885 64@1887 75@1880,"East-side, < > South Foreland,"
+east-goodwin-lv,East Goodwin (East Side) L.V.,light-vessel,"East Side L.V. ; East-side, Lightvessel, ; Eastside L.V.",england_east unknown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,62@1885 62@1887 76@1880,"Gull-stream, < > South-sand Head,"
+south-foreland,South Foreland,lighthouse,"South Foreland L.H. ; South Foreland, Lighthouse;",england_east unknown,1879 1880 1881 1882 1883 1884 1885m 1887m,63@1885 63@1887 77@1880,East Side < > Hanois
+varne-lv,Varne L.V.,light-vessel,Varne L.V.,england_east,1884 1885 1885m 1886 1887 1887m,65@1885 65@1887,East Side < > Hanois
+dungeness,Dungeness,lighthouse,Dungeness L.H. ; Dungeness Point;,england_east,1879 1886,,(first) < > Royal Sovereign Shoals
+royal-sovereign-lv,Royal Sovereign L.V.,light-vessel,Royal Sovereign Shoals L.V.,england_east,1886,,Dungeness < > Beachy Head
+beachy-head,Beachy Head,lighthouse,Beachy Head L.H.,england_east,1886,,Royal Sovereign Shoals < > Owers
+owers-lv,Owers L.V.,light-vessel,Owers L.V.,england_east,1886,,Beachy Head < > St Katherine's
+st-catherines,St Catherine's,lighthouse,St Katherine's L.H.,england_east,1886,,Owers < > Nab
+nab-lv,Nab L.V.,light-vessel,Nab L.V.,england_east,1886,,St Katherine's < > (last)
+casquets,Casquets,lighthouse,Casquets L.H. ; Casquets Lighthouse,england_east outlying unknown,1880 1881 1882 1883 1884 1885m 1887m,79@1880,Hanois < > (last)
+hanois,Hanois,lighthouse,Hanois L.H. ; Hanois Lighthouse,england_east outlying unknown,1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,80@1880,Casquets < > (last)
+heligoland,Heligoland,other,Heligoland,england_east outlying,1880 1885m 1887m,78@1880,Dursey Island < > Stevns Fyr
+allonby,Allonby,other,Allonby L.H.,england_west,1881,121@1881,(first) < > St. Bees
+st-bees,St Bees,lighthouse,St Bees L.H. ; St. Bees: L.H.,england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,110@1880 120@1884 120@1885 120@1886 120@1887 122@1881,"(first) < > Morecambe Bay,"
+selker-lv,Selker L.V.,light-vessel,Selker L.V.,england_west,1884 1885 1885m 1886 1887 1887m,121@1884 121@1885 121@1886 121@1887,St Bees < > Morecambe Bay
+morecambe-bay-lv,Morecambe Bay L.V.,light-vessel,"Morecambe Bay, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,111@1880 122@1884 122@1885 122@1886 122@1887 123@1881,Selker < > Dee
+dee-lv,Dee L.V.,light-vessel,Dee L.V. ; River Dee L.V.,england_west,1884 1885 1885m 1886 1887 1887m,123@1884 123@1885 123@1886 123@1887,Morecambe Bay < > Air
+point-of-ayr-wales,Point of Ayr (Flintshire),lighthouse,"Air, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,112@1880 124@1881 124@1884 124@1885 124@1886 124@1887,Dee < > Menai
+trwyn-du,Trwyn Du (Menai / Penmon),lighthouse,"Menai, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,113@1880 125@1881 125@1884 125@1885 125@1886 125@1887,Air < > Skerries
+skerries,Skerries,lighthouse,"Skerries Rock L.H. ; Skerries, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,114@1880 126@1881 126@1884 126@1885 126@1886 126@1887,Menai < > Holyhead Breakwater
+holyhead-breakwater,Holyhead Breakwater,lighthouse,"Holyhead Breakwater, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,115@1880 127@1881 127@1884 127@1885 127@1886 127@1887,Skerries < > North Stack
+north-stack,North Stack,other,"North Stack Fog Horn Station ; North Stack, L.H.",england_west,1880 1881,116@1880 128@1881,"Holyhead Breakwater, < > South Stack,"
+south-stack,South Stack,lighthouse,"South Stack, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,117@1880 128@1884 128@1885 128@1886 128@1887 129@1881,Holyhead Breakwater < > Carnarvon Bay
+caernarfon-bay-lv,Caernarfon Bay L.V.,light-vessel,"Caernarvon Bay, L.V. ; Carnarvon Bay L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,119@1880 129@1884 129@1885 129@1886 129@1887 130@1881,South Stack < > St Tudwal's
+st-tudwals,St Tudwal's,lighthouse,"St Tudwal's L.H. ; St. Judwall, L.H. ; St. Tudwal's L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,118@1880 130@1884 130@1885 130@1886 130@1887 131@1881,Carnarvon Bay < > Bardsey Island
+bardsey,Bardsey,lighthouse,"Bardsey Island L.H. ; Bardsey, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,120@1880 131@1884 131@1885 131@1886 131@1887 132@1881,St Tudwal's < > Cardigan Bay
+cardigan-bay-lv,Cardigan Bay L.V.,light-vessel,"Cardigan Bay, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,121@1880 132@1884 132@1885 132@1886 132@1887 133@1881,Bardsey < > Bull Point
+south-bishop,South Bishop,lighthouse,"South Bishop, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,123@1880 133@1884 133@1885 133@1886 133@1887 135@1881,Bull Point < > Smalls
+smalls,Smalls,lighthouse,"Smalls, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,124@1880 134@1884 134@1885 134@1886 134@1887 136@1881,South Bishop < > Great Castle Head
+great-castle-head,Great Castle Head,lighthouse,"Great Castle Head, L.H. ; Great Castlehead L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,125@1880 135@1884 135@1885 135@1886 135@1887 137@1881,Smalls < > Milford
+st-anns-head-low,St Ann's Head Low (Milford Low),lighthouse,"Milford (Low), L.H.",england_west,1880 1881,126@1880 138@1881,Great Castle Head < > Milford (High)
+st-anns-head-high,St Ann's Head High (Milford High),lighthouse,"Milford (High), L.H.",england_west,1880 1881,127@1880 139@1881,Milford (Low) < > Caldy
+st-anns-head,"St Ann's Head (Milford), single row",lighthouse,Milford (St Ann's) L.H. ; Milford L.H.,england_west,1884 1885 1885m 1886 1887 1887m,136@1884 136@1885 136@1886 136@1887,Great Castle Head < > Caldy
+caldey,Caldey,lighthouse,"Caldy, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,128@1880 137@1884 137@1885 137@1886 137@1887 140@1881,Milford (High) < > Helwick
+helwick-lv,Helwick L.V.,light-vessel,"Helwick, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,129@1880 138@1884 138@1885 138@1886 138@1887 141@1881,Caldy < > Scarweather
+scarweather-lv,Scarweather L.V.,light-vessel,"Scarweather, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,130@1880 139@1884 139@1885 139@1886 139@1887 142@1881,Helwick < > Nash
+nash-point-low,Nash Point Low (West),lighthouse,"Nash (Low or W.) L.H. ; Nash (Lower W.), L.H.",england_west,1880 1881,131@1880 143@1881,"Scarweather, < > Nash (E. or high),"
+nash-point-high,Nash Point High (East),lighthouse,"Nash (E. ), L.H. ; Nash (E. or high), L.H. ; Nash (E.) L.H. ; Nash (High or E.) L.H. ; Nash L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,132@1880 140@1884 140@1885 140@1886 140@1887 144@1881,Scarweather < > Breaksea
+breaksea-lv,Breaksea L.V.,light-vessel,"Breaksea L.H. ; Breaksea, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,133@1880 141@1884 141@1885 141@1886 141@1887 145@1881,"Nash (E. ), < > Flatholm,"
+flat-holm,Flat Holm,lighthouse,"Flatholm, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,134@1880 142@1884 142@1885 142@1886 142@1887 146@1881,Breaksea < > English and Welsh Grounds
+english-and-welsh-grounds-lv,English and Welsh Grounds L.V.,light-vessel,English and Welsh Grounds L.V.,england_west,1884 1885 1885m 1886 1887 1887m,143@1884 143@1885 143@1886 143@1887,Flatholm < > Usk
+west-usk,West Usk,lighthouse,"Usk, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,135@1880 144@1884 144@1885 144@1886 144@1887 147@1881,English and Welsh Grounds < > Avon
+avonmouth,Avonmouth (Avon),lighthouse,"Avon, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,136@1880 145@1884 145@1885 145@1886 145@1887 148@1881,Usk < > Burnham
+burnham,Burnham,lighthouse,"Burnham, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,137@1880 146@1884 146@1885 146@1886 146@1887 149@1881,Avon < > Bideford
+bull-point,Bull Point,lighthouse,"Bull Point, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,122@1880 134@1881 147@1884 147@1885 147@1886 147@1887,Burnham < > Bideford
+bideford-bar,Bideford Bar (Instow),lighthouse,"Bideford Bar L.H. ; Bideford, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,138@1880 148@1884 148@1885 148@1886 148@1887 150@1881,Bull Point < > Lundy
+lundy,Lundy,lighthouse,"Lundy Island L.H. ; Lundy, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,140@1880 149@1884 149@1885 149@1886 149@1887 152@1881,Bideford < > Hartland Point
+lundy-fog-signal,Lundy Fog Gun Station,other,Lundy Fog Gun Station ; Lundy Fog Gun Station.,england_west,1880 1881,139@1880 151@1881,"Bideford, < > Lundy,"
+hartland-point,Hartland Point,lighthouse,"Hartland Point, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,141@1880 150@1884 150@1885 150@1886 150@1887 153@1881,Lundy < > Trevose Head
+trevose-head,Trevose Head,lighthouse,"Trevose Head, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,142@1880 151@1884 151@1885 151@1886 151@1887 154@1881,Hartland Point < > Godrevy
+godrevy,Godrevy,lighthouse,"Godrevy, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,143@1880 152@1884 152@1885 152@1886 152@1887 155@1881,Trevose Head < > Longships
+longships,Longships,lighthouse,"Longships, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,147@1880 153@1884 153@1885 153@1886 153@1887 156@1881,Godrevy < > Sevenstones
+sevenstones-lv,Sevenstones L.V.,light-vessel,"Sevenstones, L.V.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,146@1880 154@1884 154@1885 154@1886 154@1887 157@1881,Longships < > Wolf Rock
+wolf-rock,Wolf Rock,lighthouse,"Wolf Rock L.H. ; Wolf-Rock L.H. ; Wolfrock, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,148@1880 155@1884 155@1885 155@1886 155@1887 158@1881,Sevenstones < > Scilly
+st-agnes-scilly,St Agnes (Scilly),lighthouse,"Scilly, L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,145@1880 156@1884 156@1885 156@1886 156@1887 159@1881,"Bishop Rock, < > Sevenstones,"
+bishop-rock,Bishop Rock,lighthouse,"Bishop Rock, L.H. ; Bishop's Rock L.H.",england_west,1880 1881 1884 1885 1885m 1886 1887 1887m,144@1880 157@1884 157@1885 157@1886 157@1887 160@1881,Scilly < > Lizard
+lizard,Lizard,lighthouse,Lizard L.H. ; Lizard Point L.H.,england_west,1884 1885 1885m 1886 1887 1887m,158@1884 158@1885 158@1886 158@1887,Bishop's Rock < > Falmouth Harbour
+st-anthony-head,St Anthony Head (Falmouth Harbour),lighthouse,Falmouth Harbour L.H.,england_west,1884 1885 1885m 1886 1887 1887m,159@1884 159@1885 159@1886 159@1887,Lizard < > Eddystone
+eddystone,Eddystone,lighthouse,Eddystone L.H.,england_west,1884 1885 1885m 1886 1887 1887m,160@1884 160@1885 160@1886 160@1887,Falmouth Harbour < > Plymouth Breakwater
+plymouth-breakwater,Plymouth Breakwater,lighthouse,Plymouth Breakwater L.H.,england_west,1884 1885 1885m 1886 1887 1887m,161@1884 161@1885 161@1886 161@1887,Eddystone < > Start
+start-point-devon,Start Point (Devon),lighthouse,Start L.H. ; Start Point L.H.,england_west,1884 1885 1885m 1886 1887 1887m,162@1884 162@1885 162@1886 162@1887,Plymouth Breakwater < > (last)
+portland-bill,Portland Bill,lighthouse,Portland Bill L.H.,england_west,1886 1887,163@1886 163@1887,Start Point < > Shambles
+shambles-lv,Shambles L.V.,light-vessel,Shambles L.V.,england_west,1886 1887,164@1886 164@1887,Portland Bill < > Anvil Point
+anvil-point,Anvil Point,lighthouse,Anvil Point L.H.,england_west,1886 1887,165@1886 165@1887,Shambles < > Hurst Castle
+hurst-castle,Hurst Castle,lighthouse,Hurst Castle L.H.,england_west,1886 1887,166@1886 166@1887,Anvil Point < > The Needles
+needles,The Needles,lighthouse,The Needles L.H.,england_west,1886 1887,167@1886 167@1887,Hurst Castle < > (last)
+bahama-bank-lv,Bahama Bank L.V.,light-vessel,"Bahama Bank L.V. ; Bahama Bank, L.V. ; Bahama Rock L.V.",england_west isle_of_man,1880 1881 1882 1884 1885 1885m 1886 1887 1887m,118@1884 119@1880 119@1881 119@1882 119@1884 119@1885 119@1886 119@1887,Chickens Rock < > Langness
+point-of-ayre-iom,Point of Ayre (Isle of Man),lighthouse,"Point of Ayr ; Point of Ayre, ; Point of Ayre. L.H.",isle_of_man scotland_west,1879 1880 1881 1882 1884 1885 1885m 1886 1887 1887m,115@1884 115@1885 115@1886 115@1887 116@1880 116@1881 116@1882,Little Ross < > Douglas Head
+douglas-head,Douglas Head,lighthouse,Douglas Head ; Douglas Head. L.H.,isle_of_man outlying scotland_west,1879 1880 1881 1882 1884 1885 1885m 1886 1887 1887m,116@1884 116@1885 116@1886 116@1887 117@1880 117@1881 117@1882,Point of Ayr < > Chickens Rock
+langness,Langness,lighthouse,"Langness ; Langness Lighthouse, Lighthouse ; Langness, L.H. ; Longness L.V.",isle_of_man scotland_west,1880 1881 1882 1884 1885 1885m 1886 1887 1887m,117@1885 117@1886 117@1887 119@1884 120@1880 120@1881 120@1882,Douglas Head < > Chickens Rock
+chicken-rock,Chicken Rock,lighthouse,"Chickens Rock ; Chickens Rock, L.H.",isle_of_man scotland_west,1879 1880 1881 1882 1884 1885 1885m 1886 1887 1887m,117@1884 118@1880 118@1881 118@1882 118@1885 118@1886 118@1887,Douglas Head < > (last)

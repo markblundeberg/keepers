@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Round the Lantern: the keepers' nights</title>
+<meta name="description" content="Every night of the lighthouse keepers' bird reports, 1879-1887: the lights at their true rhythms, the keepers' entries at their printed hours, their winds beside a modern reanalysis, and the moon.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* The film's world: a night chart in chart inks, the lamps in their own colours, the keepers' words in 19th-century
+   scientific type. One dark world on purpose (it is night); the house's top and bottom lines frame it. */
+:root {
+  color-scheme: dark;
+  --sea: #0a1118; --sea-day: #18242e; --land: #121a1f; --line: #5d6b6c;
+  --ink: #d8d0bf; --ink-dim: #8c8778; --rule: #26323a;
+  --lamp: #ffe7b0; --lamp-red: #ff6b4a; --lamp-green: #74e0a2;
+  --tally: #e8dfcc; --moon: #c9c4b3; --reanalysis: #6f93a8; --link: #9cc3dc;
+  --serif: "Old Standard TT", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+html, body { background: var(--sea); color: var(--ink); margin: 0; }
+body { font-family: var(--serif); font-size: 16px; line-height: 1.5; padding-block: 0 40px;
+       padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--link); }
+.house-top, .house-foot { font-family: var(--sans); font-size: 13px; color: var(--ink-dim); max-width: 1180px; margin: 0 auto; padding: 10px 0; }
+.house-top a, .house-foot a { color: inherit; }
+.wrap { max-width: 1180px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
+h1 { font-weight: 400; font-size: clamp(28px, 4.4vw, 42px); letter-spacing: 0.02em; margin: 8px 0 0; text-wrap: balance; }
+h2 { font-weight: 400; font-size: clamp(21px, 2.6vw, 26px); margin: 22px 0 4px; text-wrap: balance; }
+p { max-width: 72ch; margin: 0.4em 0; }
+.dim { color: var(--ink-dim); }
+.small { font-size: 14px; }
+/* the calendar */
+.calhead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; }
+#cal { width: 100%; display: block; cursor: pointer; touch-action: manipulation; }
+#calTip { min-height: 1.5em; font-size: 15px; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+input[type="date"] { font: 15px var(--serif); color: var(--ink); background: transparent; border: 1px solid var(--line); padding: 3px 8px; color-scheme: dark; }
+/* the night */
+.nighthead { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 18px; border-top: 1px solid var(--rule); padding-top: 14px; }
+.clock { font-size: clamp(17px, 2.2vw, 22px); font-variant-numeric: tabular-nums; color: var(--lamp); }
+.stage { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 18px; align-items: start; }
+@media (max-width: 860px) { .stage { grid-template-columns: minmax(0, 1fr); } }
+.chart { display: grid; gap: 8px; min-width: 0; }
+#map { width: 100%; aspect-ratio: 0.86; display: block; border: 1px solid var(--rule); background: var(--sea); cursor: crosshair; }
+.controls { display: flex; align-items: center; gap: 10px; }
+button { font-family: var(--serif); font-size: 15px; color: var(--ink); background: transparent; border: 1px solid var(--line); padding: 4px 12px; cursor: pointer; min-width: 74px; }
+button:focus-visible, #timeline:focus-visible, #cal:focus-visible, #map:focus-visible { outline: 2px solid var(--lamp); outline-offset: 2px; }
+#timeline { flex: 1; min-width: 0; height: 56px; display: block; cursor: pointer; }
+.side { border-left: 1px solid var(--rule); padding-left: 16px; max-height: 80vh; overflow-y: auto; min-width: 0; }
+@media (max-width: 860px) { .side { border-left: 0; border-top: 1px solid var(--rule); padding: 12px 0 0; max-height: none; } }
+.side h3 { font-size: 13px; font-weight: 400; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-dim); margin: 14px 0 6px; }
+.entry { padding: 7px 0 9px; border-bottom: 1px solid var(--rule); transition: opacity 0.4s; }
+.entry.future { opacity: 0.32; }
+.entry .when { font-size: 13px; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+.st { font-variant: small-caps; letter-spacing: 0.04em; color: var(--lamp); font-size: 15px; cursor: pointer; background: none; border: 0; padding: 0; min-width: 0; font-family: var(--serif); }
+.entry q { display: block; font-style: italic; quotes: none; margin-top: 2px; }
+.entry a, .station a { color: var(--ink-dim); font-size: 12px; text-decoration: none; border-bottom: 1px dotted var(--ink-dim); }
+.wind { font-size: 13px; color: var(--ink-dim); margin-top: 2px; font-variant-numeric: tabular-nums; }
+.wind b { font-weight: 400; color: var(--lamp); }
+.wind i { font-style: normal; color: var(--reanalysis); }
+.station { border: 1px solid var(--rule); padding: 10px 12px; margin: 8px 0 12px; }
+.station h4 { margin: 0; font-weight: 400; font-size: 19px; color: var(--lamp); }
+.station table { border-collapse: collapse; width: 100%; font-size: 13px; margin-top: 6px; }
+.station td, .station th { text-align: left; vertical-align: top; padding: 3px 6px 3px 0; border-bottom: 1px solid var(--rule); }
+.station th { font-weight: 400; color: var(--ink-dim); }
+.station .num { font-variant-numeric: tabular-nums; text-align: right; }
+.close { float: right; min-width: 0; padding: 0 8px; font-size: 14px; }
+/* the findings and the data */
+.findings { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 14px 22px; }
+.finding { border-top: 1px solid var(--rule); padding-top: 8px; }
+.finding .n { font-size: 26px; color: var(--lamp); font-variant-numeric: tabular-nums; }
+.finding p { font-size: 15px; }
+.data li { margin: 4px 0; max-width: 80ch; }
+footer { color: var(--ink-dim); font-size: 13px; display: grid; gap: 6px; max-width: 86ch; border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 10px; }
+footer p { margin: 0; max-width: none; }
+@media (prefers-reduced-motion: reduce) { .entry { transition: none; } }
+</style>
+</head>
+<body>
+<div class="house-top"><a href="https://marklundeberg.com/">Mark Lundeberg</a> › <a href="../">Round the Lantern</a> › the keepers' nights</div>
+<div class="wrap">
+  <h1>The keepers' nights, 1879–1887</h1>
+  <p>From 1879 to 1887, keepers at about two hundred lighthouses and lightships around Britain and Ireland filled in schedules of the birds they saw for a committee of the British Association, which printed their entries by name. Here is every night of those reports. Pick a night on the calendar to see it on the chart: every light at its own rhythm, the keepers' words at the hours they printed, the birds counted dead where they fell.</p>
+
+  <div class="calhead">
+    <h2>Every night</h2>
+    <label class="small dim">or go to <input type="date" id="dateIn" min="1879-04-01" max="1888-02-28"></label>
+  </div>
+  <p class="small dim">Each row is one lunation, from 1879 at the top to 1887 at the bottom; new moon at both edges, full moon in the middle. A cell's brightness is that night's moonlight at midnight. Each white stroke is one station whose keeper recorded birds striking the lantern or killed.</p>
+  <canvas id="cal" tabindex="0" aria-label="Calendar of every night 1879 to 1887; choose a night"></canvas>
+  <div id="calTip" aria-live="polite"></div>
+
+  <div class="nighthead">
+    <h2 id="nightTitle" style="margin:0">A night</h2>
+    <div class="clock" id="clock" aria-live="off"></div>
+  </div>
+  <div class="stage">
+    <div class="chart">
+      <canvas id="map" tabindex="0" aria-label="Chart of the lights on this night; choose a light to see its station"></canvas>
+      <div class="controls">
+        <button id="play" type="button">Pause</button>
+        <canvas id="timeline" tabindex="0" aria-label="The night from noon to noon; drag or use the arrow keys to move through it"></canvas>
+      </div>
+      <p class="small dim" id="mapNote">Every light on that year's lists, flashing its printed character in real seconds while the night runs at 7½ minutes a second. Tallies in fives mark the birds counted dead at a light (a small ring where a keeper wrote "many killed" without a number). Short arrows show the wind as a keeper printed it (lamp colour) and as the 20th Century Reanalysis reconstructs it (blue), each pointing the way the wind blew. Choose a light to see its station.</p>
+    </div>
+    <div class="side" id="side">
+      <div id="stationBox"></div>
+      <h3>The night's entries</h3>
+      <div id="log"></div>
+    </div>
+  </div>
+
+  <h2>How good were the keepers?</h2>
+  <p>Treated as instruments, the keepers can be tested: against a modern reconstruction of the 1880s weather, against the moon's known positions, and against each other. Every test below had its check and its null written down before it was run; the details, including what failed, are in <a href="https://github.com/markblundeberg/keepers/blob/main/notes/TESTS.md">the notes</a>.</p>
+  <div class="findings">
+    <div class="finding"><div class="n">63% against 25%</div><p>The keepers' printed winds fall within 45° of the 20th Century Reanalysis's wind at the same place and time 63% of the time, against 25% when each is paired with the same station's wind on another day. They measured the weather.</p></div>
+    <div class="finding"><div class="n">+17° against +20°</div><p>The light-vessel crews' winds are turned about 17° from true north, against a magnetic declination of about 20° then: they read the ship's compass. The lighthouses are a mixture, some true, some magnetic, a few far off.</p></div>
+    <div class="finding"><div class="n">3.1% against 7.9%</div><p>Counted over every night of each station-month with a strike, birds struck the lantern on 3.1% of nights under a bright moon (more than half lit and up at midnight) and 7.9% of the rest. Within station and month, strike nights are half as often moonlit (odds ratio 0.49).</p></div>
+    <div class="finding"><div class="n">+0.29</div><p>When a station's keeper changed, the amount it reported changed more than when the keeper stayed, beyond season and coast (log ratio +0.29, 95% 0.11–0.47). A station's record is partly a portrait of its keeper. Whether the birds killed follow the keeper is not settled.</p></div>
+    <div class="finding"><div class="n">507 at 16 stations</div><p>The largest night in the record, 21 October 1887: 507 birds recorded killed at 16 stations, 272 of them at the South Bishop off Pembrokeshire between 11 P.M. and 2.30 A.M.</p></div>
+    <div class="finding"><div class="n">no wave</div><p>On the one coast with enough timed records, a rush of birds does not pass from light to light at any speed a bird flies. The great nights come broadside.</p></div>
+  </div>
+
+  <h2>The data</h2>
+  <ul class="data">
+    <li><a href="https://github.com/markblundeberg/keepers/blob/main/data/records.csv">records.csv</a>: 35,945 records, one per bird kind per entry: station, date, time, count, behaviour, wind and weather as printed, each with its quote and a link to its page scan.</li>
+    <li><a href="https://github.com/markblundeberg/keepers/blob/main/data/keepers.csv">keepers.csv</a>: the keepers named on the lists, by station and year (1887's Scottish keepers, printed only in the committee's paragraphs, in <a href="https://github.com/markblundeberg/keepers/blob/main/data/keepers_1887_scotland.csv">keepers_1887_scotland.csv</a>).</li>
+    <li><a href="https://github.com/markblundeberg/keepers/blob/main/data/stations/characters.csv">stations/characters.csv</a>: each light's printed character, year by year, from Findlay's directories (1879, 1887) and Edwards (1884).</li>
+    <li><a href="https://github.com/markblundeberg/keepers/blob/main/data/weather/nights.csv">weather/nights.csv</a> and <a href="https://github.com/markblundeberg/keepers/blob/main/data/weather/winds.csv">weather/winds.csv</a>: every station-night with its moon and reanalysis weather, and every printed wind beside the reanalysis.</li>
+    <li>How it was read and checked: <a href="https://github.com/markblundeberg/keepers/blob/main/notes/EXTRACTION.md">notes/EXTRACTION.md</a>; the whole repository, code included, at <a href="https://github.com/markblundeberg/keepers">github.com/markblundeberg/keepers</a>.</li>
+  </ul>
+
+  <footer>
+    <p>Sources: the British Association's Reports on the Migration of Birds (1879–1887), each entry linked to its page scan on the Internet Archive; light characters from Findlay (1879, 1887) and Edwards (1884); 10 m wind from the NOAA/CIRES/DOE 20th Century Reanalysis v3; the moon from JPL's DE440s ephemeris; coast from Natural Earth.</p>
+    <p id="rule"></p>
+    <p>Recorded: the words, the times, the counts, the winds as printed, the light characters as printed. Reconstructed: durations the light lists don't state (by the rule above), the phases of the lights against one another (unknown; each starts at an arbitrary point of its cycle), sunset and sunrise (computed), the reanalysis wind. Times are Greenwich mean time; Irish keepers' Dublin times are moved 25 minutes.</p>
+  </footer>
+</div>
+<div class="house-foot">Written and built by Mark Lundeberg's Claude agent (Opus 5.5, an AI model made by Anthropic). Mark set the brief, and he answers for the result: corrections go to him. <a href="../making-of.html">How it was made</a>.</div>
+<script src="explorer.js"></script>
+</body>
+</html>

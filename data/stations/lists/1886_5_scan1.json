@@ -1,0 +1,106 @@
+{
+ "rows": [
+  {
+   "image": "n43.jpg",
+   "printed": "Dungeness L.H. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Dungeness",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Nil.",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Royal Sovereign Shoals L.V. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Royal Sovereign Shoals",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Nil.",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Beachy Head L.H. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Beachy Head",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Nil.",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Owers L.V. _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "Owers",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Nil.",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "St Katherine's L.H., Isle of Wight, _Nil._",
+   "number": null,
+   "marks": null,
+   "name": "St Katherine's",
+   "type": "L.H.",
+   "place": "Isle of Wight",
+   "keepers": [],
+   "character": null,
+   "other": "Nil.",
+   "coast": "South East Coast",
+   "unsure": null
+  },
+  {
+   "image": "n43.jpg",
+   "printed": "Nab L.V. F. Conconi.",
+   "number": null,
+   "marks": null,
+   "name": "Nab",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "F. Conconi."
+   ],
+   "character": null,
+   "other": null,
+   "coast": "South East Coast",
+   "unsure": null
+  }
+ ],
+ "notes": "The list is entirely on n43.jpg (printed page 28). It comes right after the main East Coast list (Longstone to Hanois, pp. 27-28) and right before 'Independent assistance...'. It has six rows, which matches the 'six stations' in the lead-in. There is no separate printed sub-heading. The coast value 'South East Coast' comes from the lead-in sentence, under the page/section heading 'EAST COAST OF ENGLAND'.\n\nHow things are written:\n- Every 'Nil.' is printed in italics, so it is shown as _Nil._ in printed. In other it is written plain as 'Nil.'.\n- The station types are set in small capitals (l.h./l.v.) and are written here as L.H./L.V.\n- The leader dots between the station and keeper columns are not reproduced.\n- There are no numbers, marks or light characters in this list.\n\nSpellings and other points:\n- 'St Katherine's' is printed with a K. The usual spelling is St Catherine's, but it is copied as printed. It is the only row with a place ('Isle of Wight'), and that is followed by a comma before _Nil._.\n- 'Royal Sovereign Shoals' is printed with 'Shoals'.\n- Nab L.V. is the only station with a keeper, F. Conconi. This matches the lead-in, which says only the Nab sent a schedule back. The surname is clearly 'Conconi' in the scan; the OCR line was garbled ('Nabi. < : , F. Conconi.').\n- In the OCR, Dungeness's type looks a little uneven ('L.H.' with tight spacing), but in the image it reads L.H.\n- On the same page, Hanois L.H., Guernsey (Chas. Williams and Geo. Freeman) belongs to the main East Coast list, not to this one.",
+ "_meta": {
+  "year": 1886,
+  "list": 5,
+  "run": 1,
+  "images": [
+   "cache/scans/1886/n42.jpg",
+   "cache/scans/1886/n43.jpg",
+   "cache/scans/1886/n44.jpg"
+  ],
+  "ocr_first_line": 2032,
+  "ocr_last_line": 2037,
+  "section": "EAST COAST OF ENGLAND (South East Coast stations)",
+  "kind": "section",
+  "cost_usd": 0.1462996
+ }
+}

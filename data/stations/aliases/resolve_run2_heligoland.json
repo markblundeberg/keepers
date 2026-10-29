@@ -1,0 +1,28 @@
+{
+ "items": [
+  {
+   "n": 542,
+   "kind": "place",
+   "ids": [],
+   "place": "Hanover (Province of Hanover), Prussia, Germany",
+   "note": "Not a station. The text doesn't show whether this is the city or the Prussian province of Hanover (the old kingdom, annexed in 1866). The 'astounding numbers of Crows' wording sounds like a report from the mainland quoted in the Heligoland notes, not something seen on Heligoland. Seven observations carry this name: check that later Heligoland entries didn't pick up 'Hanover' as their location after a single mention."
+  },
+  {
+   "n": 759,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": "In the Heligoland section, 'at Lighthouse' means the Heligoland lighthouse, where birds came to the lantern at night. The only matching entry is 'heligoland' (kind other). It appears in the 1880, 1885m and 1887m lists but not the plain 1885 list, while this item is from 1885. If Heligoland should be treated as a place rather than a station, as your instructions suggest, change this to place 'Heligoland, Germany (British in 1885)'."
+  }
+ ],
+ "notes": "Things to check: (1) Stations versus places for Heligoland. Your instructions give 'Heligoland' as an example of a place, but stations.json has a 'heligoland' entry (kind other; seen 1880, 1885m, 1887m). I mapped 'Lighthouse' to that entry. Decide which one you want and apply it the same way to every Heligoland item. (2) The 1885 year tag. The 'heligoland' entry isn't in the plain 1885 list. Check whether this 1885 Heligoland section is really the 1885m material. (3) Hanover. Seven observations carry this name. Read the source paragraph to see whether one quoted mainland report has been attached to several later entries by mistake. Also decide whether you want the city or the province.",
+ "_meta": {
+  "run": 2,
+  "coast": "HELIGOLAND",
+  "gen": 0,
+  "cost_usd": 0.23562699999999998,
+  "n_items": 2
+ }
+}

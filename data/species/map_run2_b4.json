@@ -1,0 +1,2460 @@
+{
+ "items": [
+  {
+   "n": 1400,
+   "level": "species",
+   "scientific": "Periparus ater",
+   "english": "Coal Tit",
+   "note": null
+  },
+  {
+   "n": 1401,
+   "level": "species",
+   "scientific": "Poecile montanus",
+   "english": "Willow Tit",
+   "note": "Parus borealis de Selys = northern Willow Tit (P. m. borealis), Heligoland. Check."
+  },
+  {
+   "n": 1402,
+   "level": "species",
+   "scientific": "Parus major",
+   "english": "Great Tit",
+   "note": null
+  },
+  {
+   "n": 1403,
+   "level": "species",
+   "scientific": "Passer domesticus",
+   "english": "House Sparrow",
+   "note": null
+  },
+  {
+   "n": 1404,
+   "level": "species",
+   "scientific": "Passer montanus",
+   "english": "Eurasian Tree Sparrow",
+   "note": null
+  },
+  {
+   "n": 1405,
+   "level": "species",
+   "scientific": "Pastor roseus",
+   "english": "Rosy Starling",
+   "note": null
+  },
+  {
+   "n": 1406,
+   "level": "group",
+   "scientific": null,
+   "english": "small waders",
+   "note": "\"Pearls\" is a local name. The text glosses it with a query as Tringa ? minuta (Little Stint, Calidris minuta). It isn't settled, so I've kept it at group level."
+  },
+  {
+   "n": 1407,
+   "level": "species",
+   "scientific": "Calidris melanotos",
+   "english": "Pectoral Sandpiper",
+   "note": "Name in quotes, from a ship's or light-vessel record. A keeper's identification of a Nearctic vagrant: check."
+  },
+  {
+   "n": 1408,
+   "level": "species",
+   "scientific": "Calidris melanotos",
+   "english": "Pectoral Sandpiper",
+   "note": "Tringa maculata Vieill."
+  },
+  {
+   "n": 1409,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": "\"Peeve\" taken as a form of Peewit/Peewee. Uncertain: check."
+  },
+  {
+   "n": 1410,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": "\"Peeves\" taken as a form of Peewit/Peewee. Uncertain: check."
+  },
+  {
+   "n": 1411,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 1412,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 1413,
+   "level": "group",
+   "scientific": null,
+   "english": "cormorants, shags and gannets",
+   "note": "Victorian family heading Pelecanidae covered Cormorant, Shag and Gannet. That is not modern Pelecanidae (pelicans)."
+  },
+  {
+   "n": 1414,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 1415,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 1416,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 1417,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 1418,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": null
+  },
+  {
+   "n": 1419,
+   "level": "species",
+   "scientific": "Falco peregrinus",
+   "english": "Peregrine Falcon",
+   "note": "Gätke list entry."
+  },
+  {
+   "n": 1420,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels",
+   "note": "Probably storm petrels (Hydrobates pelagicus or H. leucorhous) at lanterns, but it could be Fulmar."
+  },
+  {
+   "n": 1421,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels",
+   "note": "Breeding birds killed by a cat. Almost certainly European Storm Petrel (Hydrobates pelagicus)."
+  },
+  {
+   "n": 1422,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels",
+   "note": "Caught against the lantern: probably storm petrels (Hydrobates)."
+  },
+  {
+   "n": 1423,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 1424,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": "Check that no instance is a \"Pewit Gull\" (Black-headed Gull)."
+  },
+  {
+   "n": 1425,
+   "level": "species",
+   "scientific": "Vanellus vanellus",
+   "english": "Northern Lapwing",
+   "note": null
+  },
+  {
+   "n": 1426,
+   "level": "species",
+   "scientific": "Phalaropus lobatus",
+   "english": "Red-necked Phalarope",
+   "note": "Phalaropus cinereus = Red-necked Phalarope."
+  },
+  {
+   "n": 1427,
+   "level": "species",
+   "scientific": "Phasianus colchicus",
+   "english": "Common Pheasant",
+   "note": null
+  },
+  {
+   "n": 1428,
+   "level": "species",
+   "scientific": "Acrocephalus schoenobaenus",
+   "english": "Sedge Warbler",
+   "note": "Sylvia phragmitis."
+  },
+  {
+   "n": 1429,
+   "level": "species",
+   "scientific": "Phylloscopus collybita",
+   "english": "Common Chiffchaff",
+   "note": null
+  },
+  {
+   "n": 1430,
+   "level": "species",
+   "scientific": "Phylloscopus inornatus",
+   "english": "Yellow-browed Warbler",
+   "note": null
+  },
+  {
+   "n": 1431,
+   "level": "family",
+   "scientific": "Phylloscopidae",
+   "english": "leaf warblers",
+   "note": "Victorian subfamily heading. Check whether that section also lists Goldcrests or other warblers."
+  },
+  {
+   "n": 1432,
+   "level": "genus",
+   "scientific": "Phylloscopus",
+   "english": "leaf warblers",
+   "note": "One is \"large, with very conspicuous wing-bar\": possibly a Greenish or Arctic Warbler, not identified."
+  },
+  {
+   "n": 1433,
+   "level": "species",
+   "scientific": "Phylloscopus collybita",
+   "english": "Common Chiffchaff",
+   "note": null
+  },
+  {
+   "n": 1434,
+   "level": "species",
+   "scientific": "Phylloscopus inornatus",
+   "english": "Yellow-browed Warbler",
+   "note": "OCR of superciliosus."
+  },
+  {
+   "n": 1435,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 1436,
+   "level": "species",
+   "scientific": "Numenius phaeopus",
+   "english": "Eurasian Whimbrel",
+   "note": null
+  },
+  {
+   "n": 1437,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": "Gätke list (Ruticilla phoenicurus)."
+  },
+  {
+   "n": 1438,
+   "level": "species",
+   "scientific": "Pica pica",
+   "english": "Eurasian Magpie",
+   "note": "The example (\"many... at the Nash on September 3d\") reads oddly for Magpie. Check that the name is attached to the right sentence."
+  },
+  {
+   "n": 1439,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Pictarnie = Scots for tern (Arctic/Common)."
+  },
+  {
+   "n": 1440,
+   "level": "species",
+   "scientific": "Dendrocopos leucotos",
+   "english": "White-backed Woodpecker",
+   "note": null
+  },
+  {
+   "n": 1441,
+   "level": "species",
+   "scientific": "Dendrocopos major",
+   "english": "Great Spotted Woodpecker",
+   "note": null
+  },
+  {
+   "n": 1442,
+   "level": "species",
+   "scientific": "Pica pica",
+   "english": "Eurasian Magpie",
+   "note": "\"Pie\" = Magpie. But check the page: it may be the end of a hyphenated \"Sea-Pie\" (Eurasian Oystercatcher)."
+  },
+  {
+   "n": 1443,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "\"Pied [Wagtails]\" = Pied Wagtail, M. a. yarrellii."
+  },
+  {
+   "n": 1444,
+   "level": "species",
+   "scientific": "Ficedula hypoleuca",
+   "english": "European Pied Flycatcher",
+   "note": null
+  },
+  {
+   "n": 1445,
+   "level": "species",
+   "scientific": "Ficedula hypoleuca",
+   "english": "European Pied Flycatcher",
+   "note": null
+  },
+  {
+   "n": 1446,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Pied Wagtail = M. a. yarrellii."
+  },
+  {
+   "n": 1447,
+   "level": "species",
+   "scientific": "Motacilla alba",
+   "english": "White Wagtail",
+   "note": "Pied Wagtail = M. a. yarrellii."
+  },
+  {
+   "n": 1448,
+   "level": "family",
+   "scientific": "Columbidae",
+   "english": "pigeons",
+   "note": "Could be Woodpigeon, Stock Dove, Rock Dove, or homing pigeons at sea."
+  },
+  {
+   "n": 1449,
+   "level": "family",
+   "scientific": "Columbidae",
+   "english": "pigeons",
+   "note": "Could be Woodpigeon, Stock Dove, Rock Dove, or homing pigeons at sea."
+  },
+  {
+   "n": 1450,
+   "level": "species",
+   "scientific": "Calidris ferruginea",
+   "english": "Curlew Sandpiper",
+   "note": "Pigmy Curlew = Curlew Sandpiper."
+  },
+  {
+   "n": 1451,
+   "level": "species",
+   "scientific": "Turdus pilaris",
+   "english": "Fieldfare",
+   "note": null
+  },
+  {
+   "n": 1452,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": "OCR: Pinged = Ringed."
+  },
+  {
+   "n": 1453,
+   "level": "genus",
+   "scientific": "Anser",
+   "english": "grey geese",
+   "note": "Pink-footed or Bean Geese. The text says \"probably the former\" (Anser brachyrhynchus)."
+  },
+  {
+   "n": 1454,
+   "level": "species",
+   "scientific": "Anser brachyrhynchus",
+   "english": "Pink-footed Goose",
+   "note": null
+  },
+  {
+   "n": 1455,
+   "level": "species",
+   "scientific": "Fringilla coelebs",
+   "english": "Common Chaffinch",
+   "note": "\"Pink\" = Chaffinch, after its call. Fairly confident."
+  },
+  {
+   "n": 1456,
+   "level": "species",
+   "scientific": "Anas acuta",
+   "english": "Northern Pintail",
+   "note": null
+  },
+  {
+   "n": 1457,
+   "level": "species",
+   "scientific": "Anas acuta",
+   "english": "Northern Pintail",
+   "note": null
+  },
+  {
+   "n": 1458,
+   "level": "species",
+   "scientific": "Anas acuta",
+   "english": "Northern Pintail",
+   "note": "Queried (?) in the source."
+  },
+  {
+   "n": 1459,
+   "level": "group",
+   "scientific": null,
+   "english": "waders",
+   "note": "\"Pipers\" = probably sandpipers (Common Sandpiper or Dunlin)."
+  },
+  {
+   "n": 1460,
+   "level": "genus",
+   "scientific": "Anthus",
+   "english": "pipits",
+   "note": "Mostly Meadow or Rock Pipit."
+  },
+  {
+   "n": 1461,
+   "level": "genus",
+   "scientific": "Anthus",
+   "english": "pipits",
+   "note": "Mostly Meadow or Rock Pipit."
+  },
+  {
+   "n": 1462,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "\"Pirr\" = Northern Isles name for tern (Arctic Tern there). \"Sea Mews\" would mean gulls, but arrival on May 26 and departure in September fit terns. Check."
+  },
+  {
+   "n": 1463,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "Pirr/Skirr = local names for terns."
+  },
+  {
+   "n": 1464,
+   "level": "family",
+   "scientific": "Charadriidae",
+   "english": "plovers",
+   "note": "Keepers' \"Plover\" often means Golden Plover or Lapwing."
+  },
+  {
+   "n": 1465,
+   "level": "group",
+   "scientific": null,
+   "english": "waders",
+   "note": "\"Plover-Knot\": perhaps a Red Knot (in summer plumage) or a Grey Plover. Check."
+  },
+  {
+   "n": 1466,
+   "level": "family",
+   "scientific": "Charadriidae",
+   "english": "plovers",
+   "note": "Often Golden Plover or Lapwing."
+  },
+  {
+   "n": 1467,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": "Plover's Page = Dunlin, as glossed by J. A. H. B."
+  },
+  {
+   "n": 1468,
+   "level": "species",
+   "scientific": "Aythya ferina",
+   "english": "Common Pochard",
+   "note": null
+  },
+  {
+   "n": 1469,
+   "level": "species",
+   "scientific": "Aythya ferina",
+   "english": "Common Pochard",
+   "note": null
+  },
+  {
+   "n": 1470,
+   "level": "species",
+   "scientific": "Tachybaptus ruficollis",
+   "english": "Little Grebe",
+   "note": null
+  },
+  {
+   "n": 1471,
+   "level": "species",
+   "scientific": "Podiceps nigricollis",
+   "english": "Black-necked Grebe",
+   "note": null
+  },
+  {
+   "n": 1472,
+   "level": "species",
+   "scientific": "Stercorarius pomarinus",
+   "english": "Pomarine Jaeger",
+   "note": "British: Pomarine Skua."
+  },
+  {
+   "n": 1473,
+   "level": "species",
+   "scientific": "Stercorarius pomarinus",
+   "english": "Pomarine Jaeger",
+   "note": "British: Pomarine Skua."
+  },
+  {
+   "n": 1474,
+   "level": "species",
+   "scientific": "Stercorarius pomarinus",
+   "english": "Pomarine Jaeger",
+   "note": "British: Pomarine Skua."
+  },
+  {
+   "n": 1475,
+   "level": "species",
+   "scientific": "Stercorarius pomarinus",
+   "english": "Pomarine Jaeger",
+   "note": "British: Pomarine Skua."
+  },
+  {
+   "n": 1476,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "\"Pourrin\" at the Little Fastnet: about sixty alighted in April. Possibly a form of Purre (Dunlin), but I can't settle it."
+  },
+  {
+   "n": 1477,
+   "level": "species",
+   "scientific": "Anthus pratensis",
+   "english": "Meadow Pipit",
+   "note": null
+  },
+  {
+   "n": 1478,
+   "level": "species",
+   "scientific": "Saxicola rubicola",
+   "english": "European Stonechat",
+   "note": null
+  },
+  {
+   "n": 1479,
+   "level": "species",
+   "scientific": "Saxicola maurus",
+   "english": "Siberian Stonechat",
+   "note": "Pratincola indica = eastern stonechat."
+  },
+  {
+   "n": 1480,
+   "level": "species",
+   "scientific": "Ficedula hypoleuca",
+   "english": "European Pied Flycatcher",
+   "note": "OCR of PIED FLYCATCHER."
+  },
+  {
+   "n": 1481,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": "\"pretty birds\": no identification."
+  },
+  {
+   "n": 1482,
+   "level": "species",
+   "scientific": "Fulmarus glacialis",
+   "english": "Northern Fulmar",
+   "note": null
+  },
+  {
+   "n": 1483,
+   "level": "species",
+   "scientific": "Hydrobates leucorhous",
+   "english": "Leach's Storm Petrel",
+   "note": null
+  },
+  {
+   "n": 1484,
+   "level": "species",
+   "scientific": "Hydrobates pelagicus",
+   "english": "European Storm Petrel",
+   "note": null
+  },
+  {
+   "n": 1485,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels and shearwaters",
+   "note": "Victorian Procellariidae also included storm petrels. Lantern kills are probably storm petrels."
+  },
+  {
+   "n": 1486,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels and shearwaters",
+   "note": "Garbled Procellariidae heading (Victorian sense, including storm petrels)."
+  },
+  {
+   "n": 1487,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels and shearwaters",
+   "note": "Victorian Procellariidae, including storm petrels."
+  },
+  {
+   "n": 1488,
+   "level": "group",
+   "scientific": null,
+   "english": "petrels and shearwaters",
+   "note": "Garbled Procellariidae heading."
+  },
+  {
+   "n": 1489,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "\"Puff\": \"four shot in summer plumage\". Possibly an OCR of Ruff (R→P) or a truncated Puffin. Check the page."
+  },
+  {
+   "n": 1490,
+   "level": "species",
+   "scientific": "Fratercula arctica",
+   "english": "Atlantic Puffin",
+   "note": null
+  },
+  {
+   "n": 1491,
+   "level": "species",
+   "scientific": "Fratercula arctica",
+   "english": "Atlantic Puffin",
+   "note": null
+  },
+  {
+   "n": 1492,
+   "level": "family",
+   "scientific": "Alcidae",
+   "english": "auks",
+   "note": "\"Murs\" = guillemots or razorbills."
+  },
+  {
+   "n": 1493,
+   "level": "species",
+   "scientific": "Puffinus puffinus",
+   "english": "Manx Shearwater",
+   "note": null
+  },
+  {
+   "n": 1494,
+   "level": "species",
+   "scientific": "Puffinus puffinus",
+   "english": "Manx Shearwater",
+   "note": "Puffinus arcticus Faber = Manx Shearwater."
+  },
+  {
+   "n": 1495,
+   "level": "species",
+   "scientific": "Fratercula arctica",
+   "english": "Atlantic Puffin",
+   "note": "OCR of Puffins."
+  },
+  {
+   "n": 1496,
+   "level": "species",
+   "scientific": "Ardea purpurea",
+   "english": "Purple Heron",
+   "note": null
+  },
+  {
+   "n": 1497,
+   "level": "species",
+   "scientific": "Calidris maritima",
+   "english": "Purple Sandpiper",
+   "note": "Name broken across a line."
+  },
+  {
+   "n": 1498,
+   "level": "species",
+   "scientific": "Calidris maritima",
+   "english": "Purple Sandpiper",
+   "note": null
+  },
+  {
+   "n": 1499,
+   "level": "species",
+   "scientific": "Calidris maritima",
+   "english": "Purple Sandpiper",
+   "note": null
+  },
+  {
+   "n": 1500,
+   "level": "genus",
+   "scientific": "Sterna",
+   "english": "terns",
+   "note": "\"Purr\", the only sea-bird breeding near the station. Taken as Pirr = tern, but Purre is also an old name for Dunlin. Check."
+  },
+  {
+   "n": 1501,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Gätke list \"Pusilla, one\". If it follows Emberiza it is Little Bunting (Emberiza pusilla). Check the list context."
+  },
+  {
+   "n": 1502,
+   "level": "species",
+   "scientific": "Calidris ferruginea",
+   "english": "Curlew Sandpiper",
+   "note": null
+  },
+  {
+   "n": 1503,
+   "level": "species",
+   "scientific": "Carpodacus erythrinus",
+   "english": "Common Rosefinch",
+   "note": null
+  },
+  {
+   "n": 1504,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "Gätke's queried Pyrrhula rosea (Pallas's Rosefinch, Carpodacus roseus). Not obtained, and the description (yellowish-green, white wing-band) doesn't confirm it."
+  },
+  {
+   "n": 1505,
+   "level": "species",
+   "scientific": "Coturnix coturnix",
+   "english": "Common Quail",
+   "note": null
+  },
+  {
+   "n": 1506,
+   "level": "species",
+   "scientific": "Coturnix coturnix",
+   "english": "Common Quail",
+   "note": null
+  },
+  {
+   "n": 1507,
+   "level": "species",
+   "scientific": "Anas crecca",
+   "english": "Eurasian Teal",
+   "note": "Read as Querquedula crecca (Teal). If it were circia it would be Garganey. Check the print."
+  },
+  {
+   "n": 1508,
+   "level": "species",
+   "scientific": "Mergus serrator",
+   "english": "Red-breasted Merganser",
+   "note": null
+  },
+  {
+   "n": 1509,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": null
+  },
+  {
+   "n": 1510,
+   "level": "species",
+   "scientific": "Corvus corax",
+   "english": "Northern Raven",
+   "note": "Garbled heading RAVEN."
+  },
+  {
+   "n": 1511,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": "Budytes raii = Ray's (Yellow) Wagtail, M. f. flavissima."
+  },
+  {
+   "n": 1512,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": null
+  },
+  {
+   "n": 1513,
+   "level": "family",
+   "scientific": "Rallidae",
+   "english": "rails",
+   "note": "\"Heard at 4 a.m.\": probably Corncrake."
+  },
+  {
+   "n": 1514,
+   "level": "family",
+   "scientific": "Rallidae",
+   "english": "rails",
+   "note": null
+  },
+  {
+   "n": 1515,
+   "level": "genus",
+   "scientific": "Rallus",
+   "english": "rails",
+   "note": "In a Gätke list, presumably Water Rail."
+  },
+  {
+   "n": 1516,
+   "level": "species",
+   "scientific": "Rallus aquaticus",
+   "english": "Water Rail",
+   "note": null
+  },
+  {
+   "n": 1517,
+   "level": "group",
+   "scientific": null,
+   "english": "birds of prey",
+   "note": null
+  },
+  {
+   "n": 1518,
+   "level": "group",
+   "scientific": null,
+   "english": "birds",
+   "note": "\"rare bird\": not identified in the example. Check the surrounding text."
+  },
+  {
+   "n": 1519,
+   "level": "family",
+   "scientific": "Rallidae",
+   "english": "rails",
+   "note": "Garble read as RALLIDÆ (\"One heard\": Corncrake?). Check."
+  },
+  {
+   "n": 1520,
+   "level": "species",
+   "scientific": "Corvus corax",
+   "english": "Northern Raven",
+   "note": null
+  },
+  {
+   "n": 1521,
+   "level": "species",
+   "scientific": "Corvus corax",
+   "english": "Northern Raven",
+   "note": null
+  },
+  {
+   "n": 1522,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": "\"Ray's\" Wagtail = M. f. flavissima."
+  },
+  {
+   "n": 1523,
+   "level": "species",
+   "scientific": "Motacilla flava",
+   "english": "Western Yellow Wagtail",
+   "note": "Ray's Wagtail = M. f. flavissima."
+  },
+  {
+   "n": 1524,
+   "level": "species",
+   "scientific": "Alca torda",
+   "english": "Razorbill",
+   "note": null
+  },
+  {
+   "n": 1525,
+   "level": "species",
+   "scientific": "Alca torda",
+   "english": "Razorbill",
+   "note": null
+  },
+  {
+   "n": 1526,
+   "level": "family",
+   "scientific": "Alcidae",
+   "english": "auks",
+   "note": "Razorbill and (Common) Guillemot together. You might split this into two records."
+  },
+  {
+   "n": 1527,
+   "level": "family",
+   "scientific": "Alcidae",
+   "english": "auks",
+   "note": "Keeper's compound \"Razorbill-puffins\": unclear which."
+  },
+  {
+   "n": 1528,
+   "level": "species",
+   "scientific": "Alca torda",
+   "english": "Razorbill",
+   "note": null
+  },
+  {
+   "n": 1529,
+   "level": "species",
+   "scientific": "Recurvirostra avosetta",
+   "english": "Pied Avocet",
+   "note": null
+  },
+  {
+   "n": 1530,
+   "level": "species",
+   "scientific": "Lanius collurio",
+   "english": "Red-backed Shrike",
+   "note": null
+  },
+  {
+   "n": 1531,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": "Red Linnet = Linnet in breeding plumage."
+  },
+  {
+   "n": 1532,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": "Red Linnet = Linnet in breeding plumage."
+  },
+  {
+   "n": 1533,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1534,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1535,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": null
+  },
+  {
+   "n": 1536,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 1537,
+   "level": "species",
+   "scientific": "Gavia stellata",
+   "english": "Red-throated Loon",
+   "note": "British: Red-throated Diver."
+  },
+  {
+   "n": 1538,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1539,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1540,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1541,
+   "level": "species",
+   "scientific": "Lanius collurio",
+   "english": "Red-backed Shrike",
+   "note": null
+  },
+  {
+   "n": 1542,
+   "level": "species",
+   "scientific": "Ficedula parva",
+   "english": "Red-breasted Flycatcher",
+   "note": null
+  },
+  {
+   "n": 1543,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": "Keeper's name in quotes. Probably Linnet, though a redpoll is possible in December."
+  },
+  {
+   "n": 1544,
+   "level": "species",
+   "scientific": "Mergus serrator",
+   "english": "Red-breasted Merganser",
+   "note": null
+  },
+  {
+   "n": 1545,
+   "level": "genus",
+   "scientific": "Limnodromus",
+   "english": "dowitchers",
+   "note": "Red-breasted Snipe = dowitcher. Shot at Cleethorpes; species not determinable from the name."
+  },
+  {
+   "n": 1546,
+   "level": "genus",
+   "scientific": "Turdus",
+   "english": "thrushes",
+   "note": "Heligoland. Possibly American Robin (T. migratorius) or Red-throated Thrush (T. ruficollis). Check Gätke's text."
+  },
+  {
+   "n": 1547,
+   "level": "species",
+   "scientific": "Pyrrhocorax pyrrhocorax",
+   "english": "Red-billed Chough",
+   "note": null
+  },
+  {
+   "n": 1548,
+   "level": "species",
+   "scientific": "Falco vespertinus",
+   "english": "Red-footed Falcon",
+   "note": null
+  },
+  {
+   "n": 1549,
+   "level": "species",
+   "scientific": "Pyrrhocorax pyrrhocorax",
+   "english": "Red-billed Chough",
+   "note": "Glossed as Choughs in the text."
+  },
+  {
+   "n": 1550,
+   "level": "species",
+   "scientific": "Pyrrhocorax pyrrhocorax",
+   "english": "Red-billed Chough",
+   "note": null
+  },
+  {
+   "n": 1551,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": "Keeper's \"Red-legged Sandpiper\" on deck. Probably Redshank, but Ruff is possible. Check."
+  },
+  {
+   "n": 1552,
+   "level": "species",
+   "scientific": "Podiceps grisegena",
+   "english": "Red-necked Grebe",
+   "note": null
+  },
+  {
+   "n": 1553,
+   "level": "species",
+   "scientific": "Phalaropus lobatus",
+   "english": "Red-necked Phalarope",
+   "note": null
+  },
+  {
+   "n": 1554,
+   "level": "species",
+   "scientific": "Phalaropus lobatus",
+   "english": "Red-necked Phalarope",
+   "note": null
+  },
+  {
+   "n": 1555,
+   "level": "species",
+   "scientific": "Luscinia svecica",
+   "english": "Bluethroat",
+   "note": "Red-spotted = nominate svecica."
+  },
+  {
+   "n": 1556,
+   "level": "species",
+   "scientific": "Gavia stellata",
+   "english": "Red-throated Loon",
+   "note": "British: Red-throated Diver."
+  },
+  {
+   "n": 1557,
+   "level": "species",
+   "scientific": "Gavia stellata",
+   "english": "Red-throated Loon",
+   "note": "British: Red-throated Diver."
+  },
+  {
+   "n": 1558,
+   "level": "species",
+   "scientific": "Anthus cervinus",
+   "english": "Red-throated Pipit",
+   "note": null
+  },
+  {
+   "n": 1559,
+   "level": "species",
+   "scientific": "Agelaius phoeniceus",
+   "english": "Red-winged Blackbird",
+   "note": "Text gives Agelaeus phoeniceus. Probably an escaped cage bird: check before using as a migrant."
+  },
+  {
+   "n": 1560,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1561,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1562,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1563,
+   "level": "genus",
+   "scientific": "Acanthis",
+   "english": "redpolls",
+   "note": "Lesser or Mealy not stated. IOC has recently lumped the redpolls, so check your list version: it may be a single species, Acanthis flammea."
+  },
+  {
+   "n": 1564,
+   "level": "genus",
+   "scientific": "Acanthis",
+   "english": "redpolls",
+   "note": "Lesser or Mealy not stated."
+  },
+  {
+   "n": 1565,
+   "level": "genus",
+   "scientific": "Acanthis",
+   "english": "redpolls",
+   "note": "\"a large Redpoll\": probably a Mealy Redpoll (A. flammea)."
+  },
+  {
+   "n": 1566,
+   "level": "genus",
+   "scientific": "Acanthis",
+   "english": "redpolls",
+   "note": null
+  },
+  {
+   "n": 1567,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": null
+  },
+  {
+   "n": 1568,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers",
+   "note": "\"Redshank or Sandpiper\": the keeper was unsure."
+  },
+  {
+   "n": 1569,
+   "level": "species",
+   "scientific": "Tringa totanus",
+   "english": "Common Redshank",
+   "note": null
+  },
+  {
+   "n": 1570,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 1571,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 1572,
+   "level": "genus",
+   "scientific": "Phoenicurus",
+   "english": "redstarts",
+   "note": "\"Redtails (? Redstarts)\" stayed from June 3rd to July 2nd. The source queries the identification itself."
+  },
+  {
+   "n": 1573,
+   "level": "species",
+   "scientific": "Gavia stellata",
+   "english": "Red-throated Loon",
+   "note": "British: Red-throated Diver."
+  },
+  {
+   "n": 1574,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": "OCR of REDWING."
+  },
+  {
+   "n": 1575,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1576,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1577,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1578,
+   "level": "species",
+   "scientific": "Turdus iliacus",
+   "english": "Redwing",
+   "note": null
+  },
+  {
+   "n": 1579,
+   "level": "group",
+   "scientific": null,
+   "english": "reed birds",
+   "note": "\"Reed Birds\" all day. Perhaps Reed Bunting or reed/sedge warblers; not determinable."
+  },
+  {
+   "n": 1580,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": "Garbled heading."
+  },
+  {
+   "n": 1581,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 1582,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 1583,
+   "level": "species",
+   "scientific": "Acrocephalus scirpaceus",
+   "english": "Common Reed Warbler",
+   "note": "Keepers may have confused this with Sedge Warbler."
+  },
+  {
+   "n": 1584,
+   "level": "species",
+   "scientific": "Acrocephalus scirpaceus",
+   "english": "Common Reed Warbler",
+   "note": "The April 4th record is far too early for Reed Warbler and was queried in the source. Probably a misidentification."
+  },
+  {
+   "n": 1585,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": "Reeve = female Ruff."
+  },
+  {
+   "n": 1586,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": "Reeve = female Ruff."
+  },
+  {
+   "n": 1587,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": null
+  },
+  {
+   "n": 1588,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": "Bare \"regulus\" in a Gätke list, taken as Goldcrest."
+  },
+  {
+   "n": 1589,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": null
+  },
+  {
+   "n": 1590,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": "Regulus fl[avicapillus]."
+  },
+  {
+   "n": 1591,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": null
+  },
+  {
+   "n": 1592,
+   "level": "species",
+   "scientific": "Regulus ignicapilla",
+   "english": "Common Firecrest",
+   "note": null
+  },
+  {
+   "n": 1593,
+   "level": "species",
+   "scientific": "Anthus richardi",
+   "english": "Richard's Pipit",
+   "note": null
+  },
+  {
+   "n": 1594,
+   "level": "species",
+   "scientific": "Anthus richardi",
+   "english": "Richard's Pipit",
+   "note": null
+  },
+  {
+   "n": 1595,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1596,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1597,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1598,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1599,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1600,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1601,
+   "level": "species",
+   "scientific": "Stercorarius parasiticus",
+   "english": "Parasitic Jaeger",
+   "note": "British: Arctic Skua."
+  },
+  {
+   "n": 1602,
+   "level": "species",
+   "scientific": "Anthus richardi",
+   "english": "Richard's Pipit",
+   "note": null
+  },
+  {
+   "n": 1603,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "Garbled heading RING OUZEL."
+  },
+  {
+   "n": 1604,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "Garbled heading. The record is of a \"Blackbird\" with a white throat."
+  },
+  {
+   "n": 1605,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "Garbled heading RING OUZEL."
+  },
+  {
+   "n": 1606,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1607,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 1608,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 1609,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 1610,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 1611,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 1612,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1613,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1614,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 1615,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": "\"Ring-Thrushes\" = Ring Ouzels (keeper's name)."
+  },
+  {
+   "n": 1616,
+   "level": "species",
+   "scientific": "Columba palumbus",
+   "english": "Common Wood Pigeon",
+   "note": null
+  },
+  {
+   "n": 1617,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1618,
+   "level": "species",
+   "scientific": "Turdus torquatus",
+   "english": "Ring Ouzel",
+   "note": null
+  },
+  {
+   "n": 1619,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1620,
+   "level": "species",
+   "scientific": "Charadrius hiaticula",
+   "english": "Common Ringed Plover",
+   "note": null
+  },
+  {
+   "n": 1621,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "\"Ringnecks (?)\". Ringneck is a name for Ringed Plover; Ring-necked Pheasant is also possible. Check the context."
+  },
+  {
+   "n": 1622,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": "Hirundo riparia."
+  },
+  {
+   "n": 1623,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1624,
+   "level": "species",
+   "scientific": "Regulus regulus",
+   "english": "Goldcrest",
+   "note": "\"Robin (Golden-Crested)\": the keeper's name for a Goldcrest, not a Robin."
+  },
+  {
+   "n": 1625,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1626,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1627,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1628,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1629,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": "\"Rock [and Meadow Pipits]\"."
+  },
+  {
+   "n": 1630,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": null
+  },
+  {
+   "n": 1631,
+   "level": "family",
+   "scientific": "Alcidae",
+   "english": "auks",
+   "note": "\"Rock Birds\" leaving Whalsey at the end of August = the breeding auks (guillemots, razorbills). Check."
+  },
+  {
+   "n": 1632,
+   "level": "species",
+   "scientific": "Columba livia",
+   "english": "Rock Dove",
+   "note": null
+  },
+  {
+   "n": 1633,
+   "level": "species",
+   "scientific": "Columba livia",
+   "english": "Rock Dove",
+   "note": null
+  },
+  {
+   "n": 1634,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "OCR garble, \"five Rock he 6 ae\". Possibly Rock Doves or Rock Pipits. Check the page."
+  },
+  {
+   "n": 1635,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": "Rock Lark = Rock Pipit. \"Large flocks\" at Sumburgh may include Meadow Pipits."
+  },
+  {
+   "n": 1636,
+   "level": "species",
+   "scientific": "Linaria flavirostris",
+   "english": "Twite",
+   "note": "Rock Linnet = Twite. Fairly confident."
+  },
+  {
+   "n": 1637,
+   "level": "species",
+   "scientific": "Columba livia",
+   "english": "Rock Dove",
+   "note": null
+  },
+  {
+   "n": 1638,
+   "level": "species",
+   "scientific": "Columba livia",
+   "english": "Rock Dove",
+   "note": null
+  },
+  {
+   "n": 1639,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": null
+  },
+  {
+   "n": 1640,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": null
+  },
+  {
+   "n": 1641,
+   "level": "group",
+   "scientific": null,
+   "english": "waders",
+   "note": "\"Rock Plover\" killed at the light. Perhaps Purple Sandpiper or Turnstone; not settled."
+  },
+  {
+   "n": 1642,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "\"Rock Starling\" perched on the lantern: keeper's name. Starling, Ring Ouzel or something else; not determinable."
+  },
+  {
+   "n": 1643,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": "\"Rock Tit\" = Rock Pipit (cf. Titlark). Fairly confident."
+  },
+  {
+   "n": 1644,
+   "level": "group",
+   "scientific": null,
+   "english": "rock birds",
+   "note": "Listed with Wheatears and Wagtails. Could mean Rock Pipits rather than auks. Check."
+  },
+  {
+   "n": 1645,
+   "level": "species",
+   "scientific": "Coracias garrulus",
+   "english": "European Roller",
+   "note": null
+  },
+  {
+   "n": 1646,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": null
+  },
+  {
+   "n": 1647,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": null
+  },
+  {
+   "n": 1648,
+   "level": "species",
+   "scientific": "Corvus frugilegus",
+   "english": "Rook",
+   "note": "Garbled heading ROOK."
+  },
+  {
+   "n": 1649,
+   "level": "species",
+   "scientific": "Linaria cannabina",
+   "english": "Common Linnet",
+   "note": "Rose Linnet = Linnet in breeding plumage."
+  },
+  {
+   "n": 1650,
+   "level": "species",
+   "scientific": "Pastor roseus",
+   "english": "Rosy Starling",
+   "note": null
+  },
+  {
+   "n": 1651,
+   "level": "species",
+   "scientific": "Pastor roseus",
+   "english": "Rosy Starling",
+   "note": null
+  },
+  {
+   "n": 1652,
+   "level": "species",
+   "scientific": "Sterna dougallii",
+   "english": "Roseate Tern",
+   "note": "Keeper's identification: treat with caution."
+  },
+  {
+   "n": 1653,
+   "level": "species",
+   "scientific": "Sterna dougallii",
+   "english": "Roseate Tern",
+   "note": "Keeper's identification: treat with caution."
+  },
+  {
+   "n": 1654,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": "OCR: ROSIN = ROBIN (13 observations). Check one page."
+  },
+  {
+   "n": 1655,
+   "level": "species",
+   "scientific": "Carpodacus roseus",
+   "english": "Pallas's Rosefinch",
+   "note": "Rosy Bullfinch = Pyrrhula rosea. Check the record (one, young). It may be a Common Rosefinch, or relate to Gätke's queried bird (1504)."
+  },
+  {
+   "n": 1656,
+   "level": "species",
+   "scientific": "Alle alle",
+   "english": "Little Auk",
+   "note": null
+  },
+  {
+   "n": 1657,
+   "level": "species",
+   "scientific": "Alle alle",
+   "english": "Little Auk",
+   "note": null
+  },
+  {
+   "n": 1658,
+   "level": "species",
+   "scientific": "Alle alle",
+   "english": "Little Auk",
+   "note": null
+  },
+  {
+   "n": 1659,
+   "level": "species",
+   "scientific": "Buteo lagopus",
+   "english": "Rough-legged Buzzard",
+   "note": "Some records are queried in the source."
+  },
+  {
+   "n": 1660,
+   "level": "species",
+   "scientific": "Buteo lagopus",
+   "english": "Rough-legged Buzzard",
+   "note": null
+  },
+  {
+   "n": 1661,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "\"Royal\" Gull: keepers' name. Probably Great Black-backed Gull (see 1664)."
+  },
+  {
+   "n": 1662,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "Royal Gull: probably Great Black-backed (Larus marinus)."
+  },
+  {
+   "n": 1663,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "Royal Gull: probably Great Black-backed (Larus marinus)."
+  },
+  {
+   "n": 1664,
+   "level": "genus",
+   "scientific": "Larus",
+   "english": "gulls",
+   "note": "\"Royal or Black-backed Gull\": Great or Lesser Black-backed not stated."
+  },
+  {
+   "n": 1665,
+   "level": "species",
+   "scientific": "Erithacus rubecula",
+   "english": "European Robin",
+   "note": null
+  },
+  {
+   "n": 1666,
+   "level": "species",
+   "scientific": "Saxicola rubetra",
+   "english": "Whinchat",
+   "note": null
+  },
+  {
+   "n": 1667,
+   "level": "species",
+   "scientific": "Saxicola rubicola",
+   "english": "European Stonechat",
+   "note": null
+  },
+  {
+   "n": 1668,
+   "level": "species",
+   "scientific": "Phylloscopus collybita",
+   "english": "Common Chiffchaff",
+   "note": "Sylvia rufa."
+  },
+  {
+   "n": 1669,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": null
+  },
+  {
+   "n": 1670,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": null
+  },
+  {
+   "n": 1671,
+   "level": "species",
+   "scientific": "Calidris pugnax",
+   "english": "Ruff",
+   "note": null
+  },
+  {
+   "n": 1672,
+   "level": "species",
+   "scientific": "Anthus petrosus",
+   "english": "European Rock Pipit",
+   "note": "Gätke's Anthus rupestris = Scandinavian Rock Pipit (A. p. littoralis)."
+  },
+  {
+   "n": 1673,
+   "level": "species",
+   "scientific": "Emberiza rustica",
+   "english": "Rustic Bunting",
+   "note": null
+  },
+  {
+   "n": 1674,
+   "level": "species",
+   "scientific": "Hirundo rustica",
+   "english": "Barn Swallow",
+   "note": null
+  },
+  {
+   "n": 1675,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": null
+  },
+  {
+   "n": 1676,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 1677,
+   "level": "species",
+   "scientific": "Phoenicurus phoenicurus",
+   "english": "Common Redstart",
+   "note": null
+  },
+  {
+   "n": 1678,
+   "level": "species",
+   "scientific": "Phoenicurus ochruros",
+   "english": "Black Redstart",
+   "note": null
+  },
+  {
+   "n": 1679,
+   "level": "species",
+   "scientific": "Curruca curruca",
+   "english": "Lesser Whitethroat",
+   "note": null
+  },
+  {
+   "n": 1680,
+   "level": "species",
+   "scientific": "Sylvia borin",
+   "english": "Garden Warbler",
+   "note": null
+  },
+  {
+   "n": 1681,
+   "level": "species",
+   "scientific": "Acrocephalus schoenobaenus",
+   "english": "Sedge Warbler",
+   "note": null
+  },
+  {
+   "n": 1682,
+   "level": "species",
+   "scientific": "Stercorarius pomarinus",
+   "english": "Pomarine Jaeger",
+   "note": "British: Pomarine Skua."
+  },
+  {
+   "n": 1683,
+   "level": "species",
+   "scientific": "Saxicola rubicola",
+   "english": "European Stonechat",
+   "note": null
+  },
+  {
+   "n": 1684,
+   "level": "species",
+   "scientific": "Phylloscopus collybita",
+   "english": "Common Chiffchaff",
+   "note": null
+  },
+  {
+   "n": 1685,
+   "level": "species",
+   "scientific": "Phoenicurus ochruros",
+   "english": "Black Redstart",
+   "note": null
+  },
+  {
+   "n": 1686,
+   "level": "species",
+   "scientific": "Phylloscopus trochilus",
+   "english": "Willow Warbler",
+   "note": null
+  },
+  {
+   "n": 1687,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 1688,
+   "level": "species",
+   "scientific": "Xema sabini",
+   "english": "Sabine's Gull",
+   "note": null
+  },
+  {
+   "n": 1689,
+   "level": "species",
+   "scientific": "Xema sabini",
+   "english": "Sabine's Gull",
+   "note": null
+  },
+  {
+   "n": 1690,
+   "level": "species",
+   "scientific": "Corvus cornix",
+   "english": "Hooded Crow",
+   "note": "Saddle-backed Crow = Hooded Crow."
+  },
+  {
+   "n": 1691,
+   "level": "group",
+   "scientific": null,
+   "english": "small warblers",
+   "note": "\"Sally-picker\" (Irish): Willow Warbler or Chiffchaff, but it is also used for Sedge Warbler."
+  },
+  {
+   "n": 1692,
+   "level": "group",
+   "scientific": null,
+   "english": "small warblers",
+   "note": "\"Sally-pickers\": Willow Warbler or Chiffchaff, or Sedge Warbler."
+  },
+  {
+   "n": 1693,
+   "level": "group",
+   "scientific": null,
+   "english": "small warblers",
+   "note": "\"Sallypicker (Willow Wren ?)\": the source suggests Willow Warbler."
+  },
+  {
+   "n": 1694,
+   "level": "group",
+   "scientific": null,
+   "english": "small warblers",
+   "note": "\"Sallypickers\": Willow Warbler or Chiffchaff, or Sedge Warbler."
+  },
+  {
+   "n": 1695,
+   "level": "group",
+   "scientific": null,
+   "english": "chats and wheatears",
+   "note": "Garbled heading SAXICOLINÆ."
+  },
+  {
+   "n": 1696,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": "\"Swallows, Martins, and Sand [Martins]\": the name is truncated."
+  },
+  {
+   "n": 1697,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: Ringed Plover (\"Sandy Laverock\"), Common Sandpiper, or Dunlin/Sanderling, depending on region."
+  },
+  {
+   "n": 1698,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: Ringed Plover, Common Sandpiper, or Dunlin/Sanderling. 75 observations, so worth a regional check."
+  },
+  {
+   "n": 1699,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": null
+  },
+  {
+   "n": 1700,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": "November 13th is very late. Check the identification."
+  },
+  {
+   "n": 1701,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": null
+  },
+  {
+   "n": 1702,
+   "level": "group",
+   "scientific": null,
+   "english": "waders",
+   "note": null
+  },
+  {
+   "n": 1703,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: see 1698."
+  },
+  {
+   "n": 1704,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers",
+   "note": null
+  },
+  {
+   "n": 1705,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers",
+   "note": "February records: probably Purple Sandpiper or Dunlin."
+  },
+  {
+   "n": 1706,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: see 1698."
+  },
+  {
+   "n": 1707,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: see 1698."
+  },
+  {
+   "n": 1708,
+   "level": "species",
+   "scientific": "Riparia riparia",
+   "english": "Sand Martin",
+   "note": null
+  },
+  {
+   "n": 1709,
+   "level": "species",
+   "scientific": "Calidris alba",
+   "english": "Sanderling",
+   "note": null
+  },
+  {
+   "n": 1710,
+   "level": "species",
+   "scientific": "Calidris alba",
+   "english": "Sanderling",
+   "note": null
+  },
+  {
+   "n": 1711,
+   "level": "group",
+   "scientific": null,
+   "english": "small shore waders",
+   "note": "Sand Lark: see 1698."
+  },
+  {
+   "n": 1712,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers",
+   "note": "Keepers' \"Sandpiper\" is often Common Sandpiper or Dunlin."
+  },
+  {
+   "n": 1713,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers",
+   "note": "Keepers' \"Sandpiper\" is often Common Sandpiper or Dunlin. December records are likely Purple Sandpiper or Dunlin."
+  },
+  {
+   "n": 1714,
+   "level": "species",
+   "scientific": "Thalasseus sandvicensis",
+   "english": "Sandwich Tern",
+   "note": null
+  },
+  {
+   "n": 1715,
+   "level": "species",
+   "scientific": "Thalasseus sandvicensis",
+   "english": "Sandwich Tern",
+   "note": null
+  },
+  {
+   "n": 1716,
+   "level": "species",
+   "scientific": "Thalasseus sandvicensis",
+   "english": "Sandwich Tern",
+   "note": null
+  },
+  {
+   "n": 1717,
+   "level": "species",
+   "scientific": "Saxicola rubetra",
+   "english": "Whinchat",
+   "note": null
+  },
+  {
+   "n": 1718,
+   "level": "species",
+   "scientific": "Saxicola rubicola",
+   "english": "European Stonechat",
+   "note": null
+  },
+  {
+   "n": 1719,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 1720,
+   "level": "genus",
+   "scientific": "Oenanthe",
+   "english": "wheatears",
+   "note": "Gätke's genus Saxicola = wheatears (stonechats were Pratincola). Mostly Northern Wheatear."
+  },
+  {
+   "n": 1721,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1722,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1723,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1724,
+   "level": "species",
+   "scientific": "Oenanthe deserti",
+   "english": "Desert Wheatear",
+   "note": null
+  },
+  {
+   "n": 1725,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1726,
+   "level": "species",
+   "scientific": "Oenanthe isabellina",
+   "english": "Isabelline Wheatear",
+   "note": "Allonby, Cumberland (first British record, 1887)."
+  },
+  {
+   "n": 1727,
+   "level": "species",
+   "scientific": "Oenanthe leucura",
+   "english": "Black Wheatear",
+   "note": "Sight record only (not shot)."
+  },
+  {
+   "n": 1728,
+   "level": "species",
+   "scientific": "Oenanthe hispanica",
+   "english": "Western Black-eared Wheatear",
+   "note": "Queried (?) in the source."
+  },
+  {
+   "n": 1729,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": null
+  },
+  {
+   "n": 1730,
+   "level": "group",
+   "scientific": null,
+   "english": "chats and wheatears",
+   "note": "Garbled heading SAXICOLINÆ."
+  },
+  {
+   "n": 1731,
+   "level": "group",
+   "scientific": null,
+   "english": "chats and wheatears",
+   "note": "Victorian Saxicolinae: wheatears, chats, and possibly redstarts/robins. Check what the heading covers."
+  },
+  {
+   "n": 1732,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1733,
+   "level": "species",
+   "scientific": "Oenanthe oenanthe",
+   "english": "Northern Wheatear",
+   "note": "OCR of Saxicola oenanthe."
+  },
+  {
+   "n": 1734,
+   "level": "group",
+   "scientific": null,
+   "english": "chats and wheatears",
+   "note": "Garbled heading SAXICOLINÆ."
+  },
+  {
+   "n": 1735,
+   "level": "unknown",
+   "scientific": null,
+   "english": null,
+   "note": "\"Scar Crows\": perhaps Hooded Crow (Irish \"Scald Crow\") or Black Tern (\"Scare-crow\"). Check the station and region."
+  },
+  {
+   "n": 1736,
+   "level": "family",
+   "scientific": "Phalacrocoracidae",
+   "english": "cormorants and shags",
+   "note": "Scart = Cormorant or Shag. They are in different IOC genera (Phalacrocorax and Gulosus), hence family."
+  },
+  {
+   "n": 1737,
+   "level": "family",
+   "scientific": "Phalacrocoracidae",
+   "english": "cormorants and shags",
+   "note": "Scart = Cormorant or Shag."
+  },
+  {
+   "n": 1738,
+   "level": "species",
+   "scientific": "Aythya marila",
+   "english": "Greater Scaup",
+   "note": null
+  },
+  {
+   "n": 1739,
+   "level": "species",
+   "scientific": "Aythya marila",
+   "english": "Greater Scaup",
+   "note": null
+  },
+  {
+   "n": 1740,
+   "level": "species",
+   "scientific": "Aythya marila",
+   "english": "Greater Scaup",
+   "note": null
+  },
+  {
+   "n": 1741,
+   "level": "species",
+   "scientific": "Aythya marila",
+   "english": "Greater Scaup",
+   "note": null
+  },
+  {
+   "n": 1742,
+   "level": "species",
+   "scientific": "Calidris alpina",
+   "english": "Dunlin",
+   "note": "Schinz's Sandpiper = small Dunlin (Tringa schinzii Brehm). Some Victorian writers used the name for White-rumped Sandpiper. Keeper's name: check."
+  },
+  {
+   "n": 1743,
+   "level": "species",
+   "scientific": "Emberiza schoeniclus",
+   "english": "Common Reed Bunting",
+   "note": null
+  },
+  {
+   "n": 1744,
+   "level": "species",
+   "scientific": "Podiceps auritus",
+   "english": "Horned Grebe",
+   "note": "British: Slavonian Grebe."
+  },
+  {
+   "n": 1745,
+   "level": "species",
+   "scientific": "Gallinago media",
+   "english": "Great Snipe",
+   "note": "Scolopax major."
+  },
+  {
+   "n": 1746,
+   "level": "species",
+   "scientific": "Gallinago gallinago",
+   "english": "Common Snipe",
+   "note": null
+  },
+  {
+   "n": 1747,
+   "level": "species",
+   "scientific": "Lymnocryptes minimus",
+   "english": "Jack Snipe",
+   "note": "Scolopax gallinula."
+  },
+  {
+   "n": 1748,
+   "level": "species",
+   "scientific": "Scolopax rusticola",
+   "english": "Eurasian Woodcock",
+   "note": null
+  },
+  {
+   "n": 1749,
+   "level": "family",
+   "scientific": "Scolopacidae",
+   "english": "sandpipers, snipes and allies",
+   "note": "Victorian family heading."
+  }
+ ],
+ "notes": "All 350 names in batch4 (n 1400–1749) are mapped: 259 to a species, 52 to a genus or family, 31 to a loose group and 8 as unknown. None was a non-bird.\n\nWhat to check:\n1. Unknown, needing the page: 1476 Pourrin (possibly Purre = Dunlin); 1489 Puff (Ruff or Puffin?); 1501 Pusilla (Little Bunting if it follows Emberiza); 1504 Gätke's queried Pyrrhula rosea; 1621 Ringnecks; 1634 \\\"Rock he 6 ae\\\"; 1642 Rock Starling; 1735 Scar Crows (Hooded Crow or Black Tern).\n2. Garbles I resolved, worth a glance: 1519 Ratuipm as RALLIDÆ; 1654 Rosin as ROBIN (13 observations); 1452 Pinged Plover as Ringed Plover; 1507 Querquedula \\\"cracca\\\" as crecca (Teal) rather than circia (Garganey).\n3. Local names I assigned with moderate confidence: Peeve(s) as Lapwing (1409–1410); Pinks as Chaffinch (1455); Pirr, Pirrs/Skirs and Purr as terns (1462, 1463, 1500); Rock Linnets as Twite (1636); Rock Tits and Rock Larks as Rock Pipit (1635, 1643); Red-legged Sandpiper as Redshank (1551); Schinz's Sandpiper as Dunlin (1742); Rosy Bullfinch as Pallas's Rosefinch (1655).\n4. Names I left broad because they are ambiguous:\n   - Sand Lark (85 observations across 1697–1711): Ringed Plover, Common Sandpiper or Dunlin, depending on region. This is worth settling by station.\n   - Sally-picker (1691–1694): Willow Warbler or Chiffchaff, or Sedge Warbler.\n   - Royal Gull (53 observations, 1661–1664): left as gulls (Larus), probably Great Black-backed.\n   - Rock Birds (1631, 1644): auks or Rock Pipits.\n5. Victorian family headings don't match modern families, so I gave them as groups: Pelecanidae (cormorants, shags and gannets) and Procellariidae (which then included storm petrels).\n6. Redpolls (1563–1566) are at genus Acanthis. IOC has recently lumped the redpolls, so check your list version: if lumped, these become one species.\n7. Records that look doubtful:\n   - 1559 Red-winged Blackbird: probably an escaped cage bird.\n   - 1584 Reed Warbler on April 4th: too early.\n   - 1700 Sand Martin on November 13th: very late.\n   - 1438 Pica caudata: the example sentence doesn't fit a Magpie.\n   - 1442 Pie: may be a hyphenated \\\"Sea-Pie\\\" (Oystercatcher).\n8. Keepers' compound names that are also good candidates for splitting into two records: 1526 Razorbill and Guillemot, 1453 Pink-footed or Bean Geese, 1568 Redshank or Sandpiper.\n\nEnglish names follow IOC: Jaeger for Skua, Loon for Diver, Horned Grebe for Slavonian. The British forms are in the notes.",
+ "_meta": {
+  "run": 2,
+  "batch": 4,
+  "cost_usd": 1.0570452
+ }
+}

@@ -1,0 +1,495 @@
+idx,region,name,type,places,seen,numbers,neighbours
+0,england_east,5 Buoy Tees,L.V.,,1885m 1887m,33@1885 33@1887,Coquet Island < > Whitby High
+1,england_east,Beachy Head,L.H.,,1886,,Royal Sovereign Shoals < > Owers
+2,england_east,Berwick.,,,1879,,"(first) < > Longstone,"
+3,england_east,"Bull,","Lightvessel,",mouth of Humber,1879,,"Spurn, < > Outer Dowsing,"
+4,england_east,Casquets,Lighthouse,off Alderney,1880,79@1880,Heligoland < > Hanois
+5,england_east,Casquets,L.H.,Alderney,1881 1882 1884,,Hanois < > (last) || South Foreland < > Hanois
+6,england_east,"Cockle,","Lightvessel,",3 miles E. Yarmouth; 3 miles E. Yarmouth;,1879 1880,60@1880,"Newarp, < > Lowestoft, || Winterton < > Corton"
+7,england_east,Cockle,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,49@1885 49@1887,Newarp < > Corton || Newarp < > Orfordness || Winterton < > Corton
+8,england_east,"Coquet Island,",,coast of Northumberland; coast of Northumberland;,1879 1880,42@1880,Farn Islands < > Souter Point. || Farne Inner < > Souter Point
+9,england_east,Coquet Island,L.H.,,1881 1882 1884 1885 1885m 1886 1887 1887m,32@1885 32@1887,"Farn, Inner < > Tees, 5 Buoy || Farn, Inner, < > Tees, 5 Buoy || Inner Farn < > 5 Buoy Tees"
+10,england_east,"Cork,","Lightvessel,",5 miles off mouth of Harwich River,1879 1880,65@1880,"Languard Point, < > Galloper, || Shipwash < > Languard Point"
+11,england_east,"Corton,","Lightvessel,",4 miles E. Lowestoft; 4 miles E. Lowestoft;,1879 1880,61@1880,"Cockle < > Lowestoft || Lowestoft, < > Orfordness,"
+12,england_east,Corton,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,50@1885 50@1887,Cockle < > Languard Point || Cockle < > Orfordness || Orfordness < > Languard Point
+13,england_east,"Cromer,",Lighthouse;,,1879 1880,54@1880,"Hunstanton < > Northrepps || Hunstanton, < > Hasborough,"
+14,england_east,Cromer,L.H.,,1881 1882 1884 1885 1885m 1886 1887 1887m,45@1885 45@1887,Hunstanton < > Hasbro' || Hunstanton < > Leman & Ower || Hunstanton < > Leman and Ower
+15,england_east,"Dudgeon,","Lightvessel,","35 m. E. Skegness, Lincolnshire coast;; 35 miles E. Skegness, Lincolnshire coast",1879 1880,51@1880,"Inner Dowsing < > Lynn Well || Inner Dowsing, < > Leman and Ower,"
+16,england_east,Dudgeon,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,39@1885 39@1887,Inner Dowsing < > Llyn Wells || Inner Dowsing < > Lynn Well || Inner Dowsing < > Outer Dowsing
+17,england_east,Dungeness,L.H.,,1886,,(first) < > Royal Sovereign Shoals
+18,england_east,Dungeness Point;,,,1879,,"South Foreland, < > (last)"
+19,england_east,East Side,L.V.,,1882 1884 1885 1886 1887,,South Sand Head < > South Foreland || South Sand Head < > Varne
+20,england_east,"East-side,","Lightvessel,","Goodwin Sands, 13 miles E. Deal; Goodwin Sands, 13 miles E. of Deal;",1879 1880,76@1880,"Gull-stream, < > South-sand Head, || South-sand Head < > South Foreland"
+21,england_east,Eastside,L.V.,,1881 1885m 1887m,62@1885 62@1887,Gull < > South Foreland || Southsand Head < > South Foreland
+22,england_east,Farn Islands,,,1879,,"Longstone, < > Coquet Island,"
+23,england_east,"Farn, Inner,",L.H.,,1885 1886 1887,,Longstone < > Coquet Island
+24,england_east,Farne Inner,,,1880,41@1880,Longstone < > Coquet Island
+25,england_east,Flamborough,L.H.,,1885 1886 1887,,Whitby High < > Spurn
+26,england_east,Flamborough Head;,,,1879 1880,46@1880,"Whitby, High Light < > Spurn Point || Whitby, High Light; < > Spurn Point."
+27,england_east,Flamborough Head,L.H.,,1881 1882 1884 1885m 1887m,35@1885 35@1887,"Whitby High < > Spurn || Whitby High < > Spurn Point || Whitby, High, < > Spurn Point"
+28,england_east,"Galloper,","Lightvessel,",40 miles S.E. Orfordness; 40 miles S.S.E. of Orfordness;,1879 1880,67@1880,"Cork, < > Kentish Knock, || Languard Point < > Kentish Knock"
+29,england_east,Galloper,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,58@1885 58@1887,Kentish Knock < > North Foreland || Languard Point < > Kentish Knock || Shipwash < > Kentish Knock
+30,england_east,"Goodwin,","Lightvessel,",Goodwin Sands; Goodwin Sands;,1879 1880,73@1880,"North Foreland < > Gull || North Foreland, < > Gull-stream,"
+31,england_east,Goodwin,L.V.,,1881 1884 1885 1886 1887,,Nore < > Gull || North Foreland < > Gull
+32,england_east,Great Cotes,,,1880,48_b_@1880,Spurn (Newsand) < > Outer Dowsing
+33,england_east,Gull,Lightvessel,Goodwin Sands,1880,74@1880,Goodwin < > South-sand Head
+34,england_east,Gull,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,61@1885 61@1887,Goodwin < > South Sand Head || Goodwin < > Southsand Head || North Sand Head < > Eastside
+35,england_east,"Gull-stream,","Lightvessel,",Goodwin Sands;,1879,,"Goodwin, < > East-side,"
+36,england_east,Hanois,Lighthouse,"Hanoveaux Rocks, W. end Guernsey",1880,80@1880,Casquets < > (last)
+37,england_east,Hanois,L.H.,(Guernsey); Guernsey,1881 1882 1884 1885 1886 1887,,Casquets < > (last) || South Foreland < > Casquets || Varne < > (last)
+38,england_east,"Hasborough,",Lighthouse;,,1879 1880,57@1880,"Cromer, < > Winterton, || Hasborough < > Newarp"
+39,england_east,Hasborough,Lightvessel,north end Hasborough Sound,1880,56@1880,Leman and Ower < > Hasborough
+40,england_east,Hasbro',L.V.,,1882 1884 1885 1885m 1886 1887 1887m,42@1885 42@1887,Cromer < > Leman & Ower || Dudgeon < > Hasbro' || Hasbro' < > Newarp
+41,england_east,Hasbro',L.H.,,1882 1884 1885 1885m 1886 1887 1887m,46@1885 46@1887,Cromer < > Winterton || Hasbro' < > Hunstanton || Leman & Ower < > Hasbro'
+42,england_east,Hasbrough,L.V.,,1881,,Leman and Ower < > Hasbrough
+43,england_east,Hasbrough,L.H.,,1881,,Hasbrough < > Newarp
+44,england_east,Heligoland,,,1880,78@1880,South Foreland < > Casquets
+45,england_east,"Hunstanton,","Lighthouse,",,1879 1880,53@1880,"Leman and Ower, < > Cromer, || Lynn Well < > Cromer"
+46,england_east,Hunstanton,L.H.,,1881 1882 1884 1885 1885m 1886 1887 1887m,44@1885 44@1887,Hasbro' < > Cromer || Leman and Ower < > Cromer || Llyn Wells < > Cromer
+47,england_east,"Inner Dowsing,","Lightvessel,","17 miles E. Sutton, on Lincolnshire coast; 17 miles E. Sutton, on Lincolnshire coast;",1879 1880,50@1880,"Outer Dowsing < > Dudgeon || Outer Dowsing, < > Dudgeon,"
+48,england_east,Inner Dowsing,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,38@1885 38@1887,Outer Dowsing < > Dudgeon || Outer Dowsing < > Llyn Wells || Spurn < > Dudgeon
+49,england_east,Inner Farn,L.H.,,1884 1885m 1887m,31@1885 31@1887,Longstone < > Coquet Island || Longstone < > Tees
+50,england_east,Inner Farne,L.H.,,1881 1882,,"Longstone < > Coquet Island || Longstone < > No. 5 Buoy, Teesmouth"
+51,england_east,"Kentish Knock,","Lightvessel,",33 miles N.E. North Foreland; 33 miles N.E. of North Foreland;,1879 1880,68@1880,"Galloper < > Swin Middle || Galloper, < > Nore,"
+52,england_east,Kentish Knock,L.V.,,1881 1884 1885 1885m 1886 1887 1887m,57@1885 57@1887,Galloper < > Swin Middle || Tongue < > Galloper
+53,england_east,Kentish Knock,,,1882,,Galloper < > Swin Middle
+54,england_east,"Languard Point,","Lighthouse,",entrance to Harwich River,1879 1880,66@1880,"Cork < > Galloper || Shipwash, < > Cork,"
+55,england_east,Languard Point,L.H.,,1882 1884 1885 1885m 1886 1887 1887m,52@1885 52@1887,Corton < > Shipwash || Orfordness < > Shipwash || Shipwash < > Galloper
+56,england_east,Leman & Ower,L.V.,,1882 1884,,Cromer < > Hasbro' || Hasbro' < > Hasbro'
+57,england_east,"Leman and Ower,","Lightvessel,",48 miles E.N.E. Cromer; 48 miles E.N.E. of Cromer;,1879 1880,55_b_@1880,"Dudgeon, < > Hunstanton, || Northrepps < > Hasborough"
+58,england_east,Leman and Ower,L.V.,,1881 1885 1885m 1886 1887m,43@1885 43@1887,Cromer < > Hasbrough || Hasbro' < > Hunstanton || Winterton < > Newarp
+59,england_east,Leman and Ower,L.H.,,1887,,Winterton < > Newarp
+60,england_east,Llyn Wells,L.V.,,1882 1884 1885 1885m 1886 1887 1887m,41@1885 41@1887,Dudgeon < > Hunstanton || Inner Dowsing < > Dudgeon || Outer Dowsing < > Hasbro'
+61,england_east,"Longstone,",,on the most easterly of the Farn Islands;; on the most easterly of the Farne Islands,1879 1880,40@1880,(first) < > Farne Inner || Berwick. < > Farn Islands
+62,england_east,Longstone,L.H.,,1881 1882 1884 1885 1885m 1886 1887 1887m,30@1885 30@1887,"(first) < > Farn, Inner || (first) < > Farn, Inner, || (first) < > Inner Farn"
+63,england_east,"Lowestoft,",Lighthouse;,,1879 1880,62@1880,"Cockle, < > Corton, || Corton < > Orfordness"
+64,england_east,Lynn Well,Lightvessel,"off Nook of Longsand, Lynndeeps",1880,52@1880,Dudgeon < > Hunstanton
+65,england_east,Lynn Well,L.V.,,1881,,Dudgeon < > Hunstanton
+66,england_east,Nab,L.V.,,1886,,St Katherine's < > (last)
+67,england_east,"Newarp,","Lightvessel,",12 miles N.E. Winterton; 12 miles N.E. Winterton;,1879 1880,58@1880,"Hasborough < > Winterton || Winterton, < > Cockle,"
+68,england_east,Newarp,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,48@1885 48@1887,Hasbro' < > Winterton || Hasbrough < > Winterton || Leman and Ower < > Cockle
+69,england_east,"No. 5 Buoy, Teesmouth",L.V.,,1881 1882,,"Coquet Island < > Whitby, High, || Inner Farne < > Coquet Island"
+70,england_east,"Nore,","Lightvessel,",entrance to Thames; mouth of Thames;,1879 1880,71@1880,"Kentish Knock, < > North Foreland, || Tongue < > North Foreland"
+71,england_east,Nore,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,55@1885 55@1887,Swin Middle < > Tongue || Tongue < > Goodwin || Tongue < > North Foreland
+72,england_east,"North Foreland,",Lighthouse;,,1879 1880,72@1880,"Nore < > Goodwin || Nore, < > Goodwin,"
+73,england_east,North Foreland,L.H.,,1881 1882 1884 1885m 1887m,59@1885 59@1887,Galloper < > North Sand Head || Nore < > Goodwin || Nore < > North Sand Head
+74,england_east,North Sand Head,L.V.,,1882 1885m 1887m,60@1885 60@1887,North Foreland < > Gull
+75,england_east,Northrepps,,,1880,55_a_@1880,Cromer < > Leman and Ower
+76,england_east,"Orfordness,",Lighthouse;,,1879 1880,63@1880,"Corton, < > Shipwash, || Lowestoft < > Shipwash"
+77,england_east,Orfordness,L.H.,,1881 1882 1884 1885 1885m 1886 1887m,51@1885 51@1887,Cockle < > Corton || Corton < > Languard Point || Corton < > Shipwash
+78,england_east,"Outer Dowsing,","Lightvessel,",53 miles E.S.E. Spurn; 53 miles E.S.E. Spurn;,1879 1880,49@1880,"Bull, < > Inner Dowsing, || Great Cotes < > Inner Dowsing"
+79,england_east,Outer Dowsing,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,40@1885 40@1887,Dudgeon < > Llyn Wells || Spurn (Newsand) < > Inner Dowsing || Spurn < > Inner Dowsing
+80,england_east,Owers,L.V.,,1886,,Beachy Head < > St Katherine's
+81,england_east,Royal Sovereign Shoals,L.V.,,1886,,Dungeness < > Beachy Head
+82,england_east,"Shipwash,","Lightvessel,",8 miles S.S.E. Orfordness; 8 miles S.S.E. of Orfordness;,1879 1880,64@1880,"Orfordness < > Cork || Orfordness, < > Languard Point,"
+83,england_east,Shipwash,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,53@1885 53@1887,Corton < > Galloper || Corton < > Languard Point || Languard Point < > Galloper
+84,england_east,Souter Point.,,,1879 1880,43@1880,"Coquet Island < > Teesmouth || Coquet Island, < > Teesmouth,"
+85,england_east,"South Foreland,",Lighthouse;,,1879 1880,77@1880,"East-side < > Heligoland || South-sand Head, < > Dungeness Point;"
+86,england_east,South Foreland,L.H.,,1881 1882 1884 1885m 1887m,63@1885 63@1887,East Side < > Hanois || Eastside < > Casquets || Eastside < > South Sand Head
+87,england_east,South Sand Head,L.V.,,1882 1884 1885 1885m 1886 1887 1887m,64@1885 64@1887,Gull < > East Side || South Foreland < > Varne
+88,england_east,"South-sand Head,","Lightvessel,",Goodwin Sands; Goodwin Sands;,1879 1880,75@1880,"East-side, < > South Foreland, || Gull < > East-side"
+89,england_east,Southsand Head,L.V.,,1881,,Gull < > Eastside
+90,england_east,"Spurn,","Lightvessel,",six miles S.S.E. of Spurn Point;,1879,,"Spurn Point. < > Bull,"
+91,england_east,Spurn,L.H.,,1882 1884 1885 1886 1887,,Flamborough < > Spurn || Flamborough Head < > Spurn || Flamborough Head < > Spurn (Newsand)
+92,england_east,Spurn,L.V.,,1884 1885 1885m 1886 1887 1887m,37@1885 37@1887,Spurn < > Outer Dowsing || Spurn Point < > Inner Dowsing
+93,england_east,Spurn (Newsand),Lightvessel,6 miles S.S.E. of Spurn Point,1880,48_a_@1880,Spurn Point < > Great Cotes
+94,england_east,Spurn (Newsand),L.V.,,1881 1882,,Spurn < > Outer Dowsing || Spurn Point < > Outer Dowsing
+95,england_east,Spurn Point.,,,1879 1880,47@1880,"Flamborough Head < > Spurn (Newsand) || Flamborough Head; < > Spurn,"
+96,england_east,Spurn Point,L.H.,,1881 1885m 1887m,36@1885 36@1887,Flamborough Head < > Spurn || Flamborough Head < > Spurn (Newsand)
+97,england_east,St Katherine's,L.H.,Isle of Wight,1886,,Owers < > Nab
+98,england_east,Swin Middle,Lightvessel,off Thames,1880,69@1880,Kentish Knock < > Tongue
+99,england_east,Swin Middle,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,54@1885 54@1887,Kentish Knock < > Tongue || Shipwash < > Nore
+100,england_east,Tees,L.V.,,1884,,Inner Farn < > Coquet Island
+101,england_east,Tees Breakwater,L.H.,,1885 1886,,"Tees, 5 Buoy < > Whitby High"
+102,england_east,"Tees, 5 Buoy",L.V.,,1885 1886 1887,,Coquet Island < > Tees Breakwater || Coquet Island < > Whitby High
+103,england_east,"Teesmouth,",Lightvessel;,No. 5 Buoy,1879 1880,44_a_@1880,"Souter Point < > Teesmouth || Souter Point. < > Whitby, High Light;"
+104,england_east,Teesmouth,,,1880,44_b_@1880,"Teesmouth < > Whitby, High Light"
+105,england_east,Tongue,Lightvessel,off Thames,1880,70@1880,Swin Middle < > Nore
+106,england_east,Tongue,L.V.,,1881 1882 1884 1885 1885m 1886 1887 1887m,56@1885 56@1887,Nore < > Kentish Knock || Swin Middle < > Nore
+107,england_east,Varne,L.V.,,1884 1885 1885m 1886 1887 1887m,65@1885 65@1887,East Side < > Hanois || East Side < > South Foreland || South Sand Head < > Cape Wrath
+108,england_east,Whitby High,L.H.,,1882 1884 1885 1885m 1886 1887 1887m,34@1885 34@1887,5 Buoy Tees < > Flamborough Head || Coquet Island < > Flamborough Head || Tees Breakwater < > Flamborough
+109,england_east,"Whitby, High,",L.H.,,1881,,"No. 5 Buoy, Teesmouth < > Flamborough Head"
+110,england_east,"Whitby, High Light;",,,1879 1880,45@1880,"Teesmouth < > Flamborough Head || Teesmouth, < > Flamborough Head;"
+111,england_east,"Winterton,",Lighthouse;,,1879 1880,59@1880,"Hasborough, < > Newarp, || Newarp < > Cockle"
+112,england_east,Winterton,L.H.,,1881 1882 1884 1885 1885m 1886 1887 1887m,47@1885 47@1887,Cromer < > Leman and Ower || Hasbro' < > Newarp || Newarp < > Cockle
+113,england_west,"Air,",L.H.,on the Point,1880 1881 1884 1885 1885m 1886 1887 1887m,112@1880 124@1881 124@1884 124@1885 124@1886 124@1887,"Dee < > Menai || Dee, < > Menai, || Morecambe Bay < > Menai"
+114,england_west,Allonby,L.H.,,1881,121@1881,(first) < > St. Bees
+115,england_west,Anvil Point,L.H.,,1886 1887,165@1886 165@1887,"Shambles < > Hurst Castle || Shambles, < > Hurst Castle,"
+116,england_west,"Avon,",L.H.,E. of entrance,1880 1881 1884 1885 1885m 1886 1887 1887m,136@1880 145@1884 145@1885 145@1886 145@1887 148@1881,"Usk < > Burnham || Usk, < > Burnham, || Usk. < > Burnham,"
+117,england_west,Bahama Bank,L.V.,,1884 1885m 1887m,119@1884 119@1885 119@1887,(first) < > St. Bees || Chickens Rock < > St Bees
+118,england_west,"Bardsey,",L.H.,,1880 1881,120@1880 132@1881,"Caernarvon Bay, < > Cardigan Bay, || St. Tudwal's < > Cardigan Bay"
+119,england_west,Bardsey Island,L.H.,,1884 1885 1885m 1886 1887 1887m,131@1884 131@1885 131@1886 131@1887,"St Tudwal's < > Cardigan Bay || St Tudwal's, < > Cardigan Bay. || St Tudwal's. < > Cardigan Bay,"
+120,england_west,"Bideford,",L.H.,,1880 1881 1885m 1887m,138@1880 148@1885 148@1887 150@1881,"Bull Point < > Lundy || Burnham < > Lundy || Burnham, < > Lundy Fog Gun Station."
+121,england_west,Bideford Bar,L.H.,,1884 1885 1886 1887,148@1884 148@1885 148@1886 148@1887,"Bull Point < > Lundy || Bull Point < > Lundy Island || Bull Point, < > Lundy Island."
+122,england_west,"Bishop Rock,",L.H.,on S. W. Rock. Scilly,1880 1881,144@1880 160@1881,"Godrevy, < > Scilly, || Scilly < > (last)"
+123,england_west,Bishop's Rock,L.H.,,1884 1885 1885m 1886 1887 1887m,157@1884 157@1885 157@1886 157@1887,Scilly < > Lizard || Scilly < > Lizard Point || Scilly. < > Lizard Point.
+124,england_west,"Breaksea,",L.V.,,1880 1881 1885m 1886 1887 1887m,133@1880 141@1885 141@1886 141@1887 145@1881,"Nash (E. ), < > Flatholm, || Nash (E. or high), < > Flatholm, || Nash (E.) < > Flatholm"
+125,england_west,Breaksea,L.H.,,1884 1885,141@1884 141@1885,"Nash (E.) < > Flatholm || Nash (E.), < > Flatholm,"
+126,england_west,"Bull Point,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,122@1880 134@1881 147@1884 147@1885 147@1886 147@1887,"Burnham < > Bideford || Burnham < > Bideford Bar || Burnham, < > Bideford Bar,"
+127,england_west,"Burnham,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,137@1880 146@1884 146@1885 146@1886 146@1887 149@1881,"Avon < > Bideford || Avon < > Bull Point || Avon, < > Bideford,"
+128,england_west,"Caernarvon Bay,",L.V.,,1880 1881,119@1880 130@1881,"South Stack < > St. Tudwal's || St. Judwall, < > Bardsey,"
+129,england_west,"Caldy,",L.H.,S. of Island,1880 1881 1884 1885 1885m 1886 1887 1887m,128@1880 137@1884 137@1885 137@1886 137@1887 140@1881,"Milford (High) < > Helwick || Milford (High), < > Helwick, || Milford (St Ann's) < > Helwick"
+130,england_west,"Cardigan Bay,",L.V.,,1880 1881 1884 1885 1885m 1886 1887 1887m,121@1880 132@1884 132@1885 132@1886 132@1887 133@1881,"Bardsey < > Bull Point || Bardsey Island < > South Bishop || Bardsey Island, < > South Bishop,"
+131,england_west,Carnarvon Bay,L.V.,,1884 1885 1885m 1886 1887 1887m,129@1884 129@1885 129@1886 129@1887,"South Stack < > St Tudwal's || South Stack < > St. Tudwal's || South Stack, < > St Tudwal's,"
+132,england_west,Dee,L.V.,,1884 1885 1885m 1887m,123@1884 123@1885 123@1887,Morecambe Bay < > Air || Morecambe Bay. < > Air.
+133,england_west,Eddystone,L.H.,,1884 1885 1885m 1886 1887 1887m,160@1884 160@1885 160@1886 160@1887,"Falmouth Harbour < > Plymouth Breakwater || Falmouth Harbour. < > Plymouth Breakwater, || Falmouth Harbour. < > Plymouth Breakwater."
+134,england_west,English and Welsh Grounds,L.V.,,1884 1885 1885m 1886 1887 1887m,143@1884 143@1885 143@1886 143@1887,"Flatholm < > Usk || Flatholm, < > Usk, || Flatholm, < > Usk."
+135,england_west,Falmouth Harbour,L.H.,,1884 1885 1885m 1886 1887 1887m,159@1884 159@1885 159@1886 159@1887,"Lizard < > Eddystone || Lizard Point < > Eddystone || Lizard Point. < > Eddystone,"
+136,england_west,"Flatholm,",L.H.,S. point of Island,1880 1881 1884 1885 1885m 1886 1887 1887m,134@1880 142@1884 142@1885 142@1886 142@1887 146@1881,"Breaksea < > English and Welsh Grounds || Breaksea < > Usk || Breaksea, < > English and Welsh Grounds."
+137,england_west,"Godrevy,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,143@1880 152@1884 152@1885 152@1886 152@1887 155@1881,"Trevose Head < > Longships || Trevose Head, < > Bishop Rock, || Trevose Head. < > Longships,"
+138,england_west,"Great Castle Head,",L.H.,,1880 1881 1884 1885 1886 1887,125@1880 135@1884 135@1885 135@1886 135@1887 137@1881,Smalls < > Milford || Smalls < > Milford (Low) || Smalls < > Milford (St Ann's)
+139,england_west,Great Castlehead,L.H.,,1885m 1887m,135@1885 135@1887,Smalls < > Milford
+140,england_west,"Hartland Point,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,141@1880 150@1884 150@1885 150@1886 150@1887 153@1881,Lundy < > Trevose Head || Lundy Island < > Trevose Head || Lundy Island. < > Trevose Head.
+141,england_west,"Helwick,",L.V.,,1880 1881 1884 1885 1885m 1886 1887 1887m,129@1880 138@1884 138@1885 138@1886 138@1887 141@1881,"Caldy < > Scarweather || Caldy, < > Scarweather, || Caldy, < > Scarweather."
+142,england_west,"Holyhead Breakwater,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,115@1880 127@1881 127@1884 127@1885 127@1886 127@1887,Skerries < > North Stack || Skerries < > South Stack || Skerries Rock < > South Stack
+143,england_west,Hurst Castle,L.H.,,1886 1887,166@1886 166@1887,Anvil Point < > The Needles || Anvil Point. < > The Needles.
+144,england_west,Lizard,L.H.,,1884 1885 1885m 1887m,158@1884 158@1885 158@1887,"Bishop's Rock < > Falmouth Harbour || Bishop's Rock, < > Falmouth Harbour."
+145,england_west,Lizard Point,L.H.,,1886 1887,158@1886 158@1887,"Bishop's Rock < > Falmouth Harbour || Bishop's Rock, < > Falmouth Harbour."
+146,england_west,"Longships,",L.H.,on highest rock off Land's End,1880 1881 1884 1885 1885m 1886 1887 1887m,147@1880 153@1884 153@1885 153@1886 153@1887 156@1881,"Godrevy < > Sevenstones || Godrevy, < > Sevenstones, || Sevenstones, < > Wolfrock,"
+147,england_west,"Lundy,",L.H.,1/2 mile from S. end of Island,1880 1881 1884 1885 1885m 1887m,140@1880 149@1884 149@1885 149@1887 152@1881,"Bideford < > Hartland Point || Bideford Bar < > Hartland Point || Bideford Bar, < > Hartland Point."
+148,england_west,Lundy,Fog Gun Station,,1881,151@1881,Bideford < > Lundy
+149,england_west,Lundy Fog Gun Station.,,,1880,139@1880,"Bideford, < > Lundy,"
+150,england_west,Lundy Island,L.H.,,1886 1887,149@1886 149@1887,"Bideford Bar < > Hartland Point || Bideford Bar, < > Hartland Point."
+151,england_west,"Menai,",L.H.,on Trwyn du Point,1880 1881 1884 1885 1885m 1886 1887 1887m,113@1880 125@1881 125@1884 125@1885 125@1886 125@1887,"Air < > Skerries || Air < > Skerries Rock || Air, < > Skerries,"
+152,england_west,Milford,L.H.,,1884 1885 1885m 1887m,136@1884 136@1885 136@1887,"Great Castle Head < > Caldy || Great Castle Head. < > Caldy, || Great Castlehead < > Caldy"
+153,england_west,"Milford (High),",L.H.,,1880 1881,127@1880 139@1881,"Milford (Low) < > Caldy || Milford (Low), < > Caldy,"
+154,england_west,"Milford (Low),",L.H.,,1880 1881,126@1880 138@1881,"Great Castle Head < > Milford (High) || Great Castle Head, < > Milford (High),"
+155,england_west,Milford (St Ann's),L.H.,,1886 1887,136@1886 136@1887,"Great Castle Head < > Caldy || Great Castle Head, < > Caldy,"
+156,england_west,"Morecambe Bay,",L.V.,,1880 1881 1884 1885 1885m 1886 1887 1887m,111@1880 122@1884 122@1885 122@1886 122@1887 123@1881,"Selker < > Dee || Selker < > River Dee || Selker, < > Dee,"
+157,england_west,Nash,L.H.,,1885m 1887m,140@1885 140@1887,Scarweather < > Breaksea
+158,england_west,"Nash (E. ),",L.H.,,1887,140@1887,"Scarweather, < > Breaksea,"
+159,england_west,"Nash (E. or high),",L.H.,,1880,132@1880,"Nash (Lower W.), < > Breaksea,"
+160,england_west,Nash (E.),L.H.,,1884 1885 1886,140@1884 140@1885 140@1886,"Scarweather < > Breaksea || Scarweather. < > Breaksea,"
+161,england_west,Nash (High or E.),L.H.,,1881,144@1881,Nash (Low or W.) < > Breaksea
+162,england_west,Nash (Low or W.),L.H.,,1881,143@1881,Scarweather < > Nash (High or E.)
+163,england_west,"Nash (Lower W.),",L.H.,,1880,131@1880,"Scarweather, < > Nash (E. or high),"
+164,england_west,"North Stack,",L.H.,,1880,116@1880,"Holyhead Breakwater, < > South Stack,"
+165,england_west,North Stack,Fog Horn Station,,1881,128@1881,Holyhead Breakwater < > South Stack
+166,england_west,Plymouth Breakwater,L.H.,,1884 1885 1885m 1886 1887 1887m,161@1884 161@1885 161@1886 161@1887,"Eddystone < > Start || Eddystone < > Start Point || Eddystone, < > Start Point,"
+167,england_west,Portland Bill,L.H.,,1886 1887,163@1886 163@1887,"Start Point < > Shambles || Start Point, < > Shambles,"
+168,england_west,River Dee,L.V.,,1886 1887,123@1886 123@1887,"Morecambe Bay < > Air || Morecambe Bay, < > Air."
+169,england_west,"Scarweather,",L.V.,,1880 1881 1884 1885 1885m 1886 1887 1887m,130@1880 139@1884 139@1885 139@1886 139@1887 142@1881,Helwick < > Nash || Helwick < > Nash (E.) || Helwick < > Nash (Low or W.)
+170,england_west,"Scilly,",L.H.,"St. Agnes, on summit of Island",1880 1881 1884 1885 1885m 1886 1887 1887m,145@1880 156@1884 156@1885 156@1886 156@1887 159@1881,"Bishop Rock, < > Sevenstones, || Wolf Rock < > Bishop's Rock || Wolf Rock, < > Bishop's Rock,"
+171,england_west,Selker,L.V.,,1884 1885 1885m 1886 1887 1887m,121@1884 121@1885 121@1886 121@1887,"St Bees < > Morecambe Bay || St Bees, < > Morecambe Bay, || St Bees, < > Morecambe Bay."
+172,england_west,"Sevenstones,",L.V.,,1880 1881 1884 1885 1885m 1886 1887 1887m,146@1880 154@1884 154@1885 154@1886 154@1887 157@1881,Longships < > Wolf Rock || Longships < > Wolf-Rock || Longships < > Wolfrock
+173,england_west,Shambles,L.V.,,1886 1887,164@1886 164@1887,"Portland Bill < > Anvil Point || Portland Bill, < > Anvil Point."
+174,england_west,"Skerries,",L.H.,Highest Island,1880 1881 1884 1885 1885m 1887m,114@1880 126@1881 126@1884 126@1885 126@1887,"Menai < > Holyhead Breakwater || Menai, < > Holyhead Breakwater,"
+175,england_west,Skerries Rock,L.H.,,1886 1887,126@1886 126@1887,"Menai < > Holyhead Breakwater || Menai, < > Holyhead Breakwater,"
+176,england_west,"Smalls,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,124@1880 134@1884 134@1885 134@1886 134@1887 136@1881,"South Bishop < > Great Castle Head || South Bishop < > Great Castlehead || South Bishop, < > Great Castle Head,"
+177,england_west,"South Bishop,",L.H.,,1880 1881 1884 1885 1885m 1886 1887 1887m,123@1880 133@1884 133@1885 133@1886 133@1887 135@1881,"Bull Point < > Smalls || Bull Point, < > Smalls, || Cardigan Bay < > Smalls"
+178,england_west,"South Stack,",L.H.,on S. Stack rock off N.W. point of Holyhead Island,1880 1881 1884 1885 1885m 1886 1887 1887m,117@1880 128@1884 128@1885 128@1886 128@1887 129@1881,"Holyhead Breakwater < > Carnarvon Bay || Holyhead Breakwater, < > Carnarvon Bay, || North Stack < > Caernarvon Bay"
+179,england_west,St Bees,L.H.,,1885 1885m 1886 1887 1887m,120@1885 120@1886 120@1887,"Bahama Bank < > Selker || Bahama Bank, < > Selker, || Bahama Bank. < > Selker,"
+180,england_west,St Tudwal's,L.H.,,1885 1885m 1886 1887 1887m,130@1885 130@1886 130@1887,"Carnarvon Bay < > Bardsey Island || Carnarvon Bay, < > Bardsey Island,"
+181,england_west,St. Bees:,L.H.,on the Head,1880 1881 1884,110@1880 120@1884 122@1881,"(first) < > Morecambe Bay, || Allonby < > Morecambe Bay || Bahama Bank < > Selker"
+182,england_west,"St. Judwall,",L.H.,,1880,118@1880,"South Stack, < > Caernarvon Bay,"
+183,england_west,St. Tudwal's,L.H.,,1881 1884,130@1884 131@1881,Caernarvon Bay < > Bardsey || Carnarvon Bay < > Bardsey Island
+184,england_west,Start,L.H.,,1885m 1887m,162@1885 162@1887,Plymouth Breakwater < > Fastnet
+185,england_west,Start Point,L.H.,,1884 1885 1886 1887,162@1884 162@1885 162@1886 162@1887,"Plymouth Breakwater < > (last) || Plymouth Breakwater < > Portland Bill || Plymouth Breakwater, < > Portland Bill,"
+186,england_west,The Needles,L.H.,,1886 1887,167@1886 167@1887,"Hurst Castle < > (last) || Hurst Castle, < > (last)"
+187,england_west,"Trevose Head,",L.H.,on N.W. extremity,1880 1881 1884 1885 1885m 1886 1887 1887m,142@1880 151@1884 151@1885 151@1886 151@1887 154@1881,"Hartland Point < > Godrevy || Hartland Point, < > Godrevy, || Hartland Point. < > Godrevy,"
+188,england_west,"Usk,",L.H.,W. side of entrance to river,1880 1881 1884 1885 1885m 1886 1887 1887m,135@1880 144@1884 144@1885 144@1886 144@1887 147@1881,English and Welsh Grounds < > Avon || English and Welsh Grounds. < > Avon. || Flatholm < > Avon
+189,england_west,Wolf Rock,L.H.,,1884 1885 1886 1887,155@1884 155@1885 155@1886 155@1887,"Sevenstones < > Scilly || Sevenstones, < > Scilly."
+190,england_west,Wolf-Rock,L.H.,,1885m 1887m,155@1885 155@1887,Sevenstones < > Scilly
+191,england_west,"Wolfrock,",L.H.,8 miles S.S.W of Land's End,1880 1881,148@1880 158@1881,"Longships, < > (last) || Sevenstones < > Scilly"
+192,ireland,Arklow N.,Lt.-ship,,1885m 1887m,8*@1885 8*@1887,Arklow S. < > Kish Bank
+193,ireland,Arklow North,Lt.-ship,do,1884 1885 1886,8*@1884 8*@1886 8@1885,Arklow Sth. < > Kish Bank || ArklowSth. < > Kish Bank
+194,ireland,Arklow North,LS,do,1887,8*@1887,Arklow Sth. < > Howth Baily
+195,ireland,Arklow S.,Lt.-ship,Wicklow,1881 1882 1885m 1887m,8@1881 8@1882 8@1885 8@1887,"Tuskar < > Arklow N. || Tuskar < > Kirk Bank, || Tuskar < > Wicklow Head"
+196,ireland,Arklow Sth.,Lt.-ship,Wicklow,1885 1886,8@1885 8@1886,Tuskar Rock < > Arklow North
+197,ireland,Arklow Sth.,LS,Wicklow,1887,8@1887,Lucifer Shoals < > Arklow North
+198,ireland,ArklowSth.,Lt.-ship,Wicklow,1884,8@1884,Tuskar Rock < > Arklow North
+199,ireland,Arran Island N.,,do,1881,32@1881,Slyne Head S. < > Arran Island S. || Slyne Head S. < > Straw Island
+200,ireland,Arran Island S.,,do,1881,34@1881,Arran Island N. < > Valentia || Straw Island < > Loop Head
+201,ireland,"Arran Island, Is.",,do,1887,32@1887,"Slyne Head, S. < > Arran Island, S."
+202,ireland,"Arran Island, N.,",,Galway; do,1882 1884 1885 1885m 1886 1887m,32@1882 32@1884 32@1885 32@1886 32@1887,"Slyne Head, S. < > Straw Island || Slyne Head, S., < > Straw Island,"
+203,ireland,"Arran Island, S.",,Galway; do,1884 1885 1885m 1886 1887 1887m,34@1884 34@1885 34@1886 34@1887,"Arran Island, Is. < > Samphire Island || Straw Island < > Samphire Island || Straw Island < > Tearaght"
+204,ireland,Arranmore,,Donegal; do,1881 1882 1884 1885 1885m 1886 1887 1887m,20@1881 20@1882 20@1884 20@1885 20@1886 20@1887,"Tory Island < > Rathlin O'Birne || Tory Island < > Rathlin O’Birne || Tory Island, < > Rathlin O'Birne,"
+205,ireland,Barrels Rock,,do,1881,6@1881,Coningbeg < > Tuskar
+206,ireland,"Barrels Rock,",do.,,1881,6@1881,Coningbeg < > Tuskar
+207,ireland,Barrels Rock,Lt.-ship,do,1882 1884 1885 1885m 1886 1887m,6@1882 6@1884 6@1885 6@1886 6@1887,"Coningbeg < > Tuskar || Coningbeg < > Tuskar Rock || Coningbeg < > Tuskar,"
+208,ireland,Barrels Rock,LS,do,1887,6@1887,Coningbeg < > Tuskar Rock
+209,ireland,Black Rock,,Mayo,1881,27@1881,Eagle Island W. < > Clare Island
+210,ireland,Blackrock,,Mayo; do,1881 1882 1884 1885 1885m 1886 1887 1887m,27@1881 27@1882 27@1884 27@1885 27@1886 27@1887,"Eagle Island W. < > Blacksod Point || Eagle Island, W. < > Blacksod Point || Eagle Island, W. < > Slyne Head, S."
+211,ireland,Blacksod Point,,Mayo; do,1881 1882 1884 1885 1885m 1886 1887m,28@1881 28@1882 28@1884 28@1885 28@1886 28@1887,"Blackrock < > Clare Island || Blackrock, < > Clare Island,"
+212,ireland,Broadhaven,,Mayo,1881 1882 1884 1885 1885m 1886 1887 1887m,24@1881 24@1882 24@1884 24@1885 24@1886 24@1887,"Killybegs < > Eagle Island, W. || Oyster Island < > Eagle Island, E. || Oyster Island N. < > Eagle Island E."
+213,ireland,Calf Rock,,Cork,1881,40@1881,Skelligs < > (last)
+214,ireland,Clare Island,,Mayo; do,1881 1882 1884 1885 1885m 1886 1887m,29@1881 29@1882 29@1884 29@1885 29@1886 29@1887,"Black Rock < > Slyne Head N. || Blacksod Point < > Slyne Head N. || Blacksod Point < > Slyne Head, N."
+215,ireland,Coningbeg,Lt.-ship,Wexford,1881 1882 1884 1885 1885m 1886 1887m,5*@1884 5*@1885 5*@1886 5*@1887 5@1881 5@1882 5@1885,"Dungarvan < > Barrels Rock || Dungarvan, < > Barrels Rock || Mine Head < > Barrels Rock"
+216,ireland,Coningbeg,LS,Wexford,1887,5*@1887,Hook Tower < > Barrels Rock
+217,ireland,Copeland (Mew) Island,,Down,1885 1886,13@1885 13@1886,Rockabill < > Maidens
+218,ireland,Copeland Island,,Down,1881 1882 1884 1885m 1887m,13@1881 13@1882 13@1884 13@1885 13@1887,"Rockabill < > Maidens || Rockabill < > Rathlin || Rockabill, < > Maidens,"
+219,ireland,"Dungarvan,",,Waterford; do,1882 1884 1885 1885m 1886 1887m,5@1882 5@1884 5@1885 5@1886 5@1887,"Mine Head < > Coningbeg || Mine Head < > Coningbeg. || Mine Head, < > Coningbeg"
+220,ireland,Dunree Head,,Donegal; do,1881 1882 1884 1885 1885m 1886 1887 1887m,17@1881 17@1882 17@1884 17@1885 17@1886 17@1887,"Innishtrahull < > Lough Swilly || Innishtrahull < > Tory Island || Innishtrahull, < > Lough Swilly,"
+221,ireland,"Dursey Island,",,Cork,1882 1884 1885 1885m 1886 1887m,40@1882 40@1884 40@1885 40@1886 40@1887,"Skelligs < > (last) || Skelligs < > Heligoland || Skelligs < > Heligoland,"
+222,ireland,Eagle Island E.,,do,1881,25@1881,Broadhaven < > Eagle Island W.
+223,ireland,Eagle Island W.,,do,1881,26@1881,Eagle Island E. < > Black Rock || Eagle Island E. < > Blackrock
+224,ireland,"Eagle Island, E.,",,Mayo; do,1882 1884 1885 1885m 1886 1887m,25@1882 25@1884 25@1885 25@1886 25@1887,"Broadhaven < > Eagle Island, W. || Broadhaven, < > Eagle Island, W.,"
+225,ireland,"Eagle Island, W.,",,Mayo; do,1882 1884 1885 1885m 1886 1887 1887m,26@1882 26@1884 26@1885 26@1886 26@1887,"Broadhaven < > Blackrock || Eagle Island, E. < > Blackrock || Eagle Island, E., < > Blackrock,"
+226,ireland,Fastnet,,Co. Cork,1881 1882 1884 1885 1885m 1886 1887 1887m,1@1881 1@1882 1@1884 1@1885 1@1886 1@1887,"(first) < > Galley Head || (first) < > Galley Head, || (first) < > Old Head, Kinsale"
+227,ireland,Galley Head,,Cork; do,1881 1882 1884 1885 1885m 1886 1887m,2@1881 2@1882 2@1884 2@1885 2@1886 2@1887,"Fastnet < > Old Head || Fastnet < > Old Head, Kinsale || Fastnet, < > Old Head, Kinsale,"
+228,ireland,Hook Tower,,Wexford,1887,5_a_@1887,Mine Head < > Coningbeg
+229,ireland,Howth Baily,,Dublin; do,1881 1882 1884 1885 1885m 1886 1887 1887m,11@1881 11@1882 11@1884 11@1885 11@1886 11@1887,"Arklow North < > Rockabill || Kirk Bank, < > Rockabill || Kish Bank < > Rockabill"
+230,ireland,Innishtrahull,,Donegal,1881 1882 1884 1885 1885m 1886 1887 1887m,16@1881 16@1882 16@1884 16@1885 16@1886 16@1887,"Rathlin < > Dunree Head || Rathlin, < > Dunree Head,"
+231,ireland,Killybegs,,Donegal; do,1881 1882 1884 1885 1885m 1886 1887 1887m,22@1881 22@1882 22@1884 22@1885 22@1886 22@1887,"Rathlin O'Birne < > Broadhaven || Rathlin O'Birne < > Oyster Island || Rathlin O'Birne < > Oyster Island, N."
+232,ireland,"Kirk Bank,",do.,,1881,10@1881,Arklow S. < > Howth Baily
+233,ireland,Kish Bank,Lt.-ship,Dublin,1881 1882 1884 1885 1885m 1886 1887m,10@1881 10@1882 10@1884 10@1885 10@1886 10@1887,Arklow N. < > Howth Baily || Arklow North < > Howth Baily || Wicklow Head < > Howth Baily
+234,ireland,Loop Head,,Clare,1881 1882,35@1881 35@1882,"Arran Island S. < > Samphire Island || Straw Island, S., < > Samphire Island,"
+235,ireland,Lough Swilly,,Donegal; do,1881 1882 1884 1885 1885m 1887m,18@1881 18@1882 18@1884 18@1885 18@1887,"Dunree Head < > Tory Island || Dunree Head, < > Tory Island,"
+236,ireland,Lucifer Shoals,LS,do,1887,7_a_@1887,Tuskar Rock < > Arklow Sth.
+237,ireland,Maidens,,Antrim,1881 1882 1884 1885 1885m 1886 1887m,14@1881 14@1882 14@1884 14@1885 14@1886 14@1887,"Copeland (Mew) Island < > Rathlin || Copeland Island < > Rathlin || Copeland Island, < > Rathlin,"
+238,ireland,"Maidens, North",,do,1887,14@1887,"Maidens, South < > Rathlin"
+239,ireland,"Maidens, South",,Antrim,1887,14*@1887,"South Rock < > Maidens, North"
+240,ireland,Mine Head,,Waterford,1881 1882 1884 1885 1885m 1886 1887 1887m,4@1881 4@1882 4@1884 4@1885 4@1886 4@1887,"Old Head < > Coningbeg || Old Head < > Dungarvan || Old Head, Kinsale < > Coningbeg"
+241,ireland,Old Head,,"Kinsale; Kinsale, Cork",1881 1884 1885m 1886 1887m,3@1881 3@1884 3@1885 3@1886 3@1887,Galley Head < > Mine Head
+242,ireland,"Old Head, Kinsale",,Cork; do,1881 1882 1885 1887,3@1881 3@1882 3@1885 3@1887,"Fastnet < > Mine Head || Galley Head < > Mine Head || Galley Head, < > Mine Head,"
+243,ireland,"Oyster Island,",,N. Sligo,1882 1884 1885 1885m 1886 1887m,23@1882 23@1884 23@1885 23@1886 23@1887,"Killybegs < > Broadhaven || Killybegs, < > Broadhaven,"
+244,ireland,Oyster Island N.,,,1881,23@1881,Rathlin O'Birne < > Broadhaven
+245,ireland,"Oyster Island, N.",,Sligo,1881,23@1881,Killybegs < > Broadhaven
+246,ireland,Rathlin,,Antrim; do,1881 1882 1884 1885 1885m 1886 1887 1887m,15@1881 15@1882 15@1884 15@1885 15@1886 15@1887,"Copeland Island < > Innishtrahull || Maidens < > Innishtrahull || Maidens, < > Innishtrahull,"
+247,ireland,Rathlin O'Birne,,Donegal; do,1881 1882 1884 1885 1885m 1887 1887m,21@1881 21@1882 21@1884 21@1885 21@1887,"Arranmore < > Killybegs || Arranmore < > Oyster Island N. || Arranmore, < > Killybegs,"
+248,ireland,Rathlin O’Birne,,Donegal,1886,21@1886,Arranmore < > Killybegs
+249,ireland,Rockabill,,Dublin; do,1881 1882 1884 1885 1885m 1886 1887 1887m,12@1881 12@1882 12@1884 12@1885 12@1886 12@1887,Howth Baily < > Copeland (Mew) Island || Howth Baily < > Copeland Island || Howth Baily < > South Rock
+250,ireland,Samphire Island,,Kerry,1881 1882 1884 1885m 1886 1887 1887m,36@1881 36@1882 36@1884 36@1885 36@1886 36@1887,"Arran Island, S. < > Tearaght || Loop Head < > Tearaght || Loop Head, < > Tearaght,"
+251,ireland,Skelligs,,Kerry; do,1881 1882 1884 1885 1885m 1886 1887 1887m,39@1881 39@1882 39@1884 39@1885 39@1886 39@1887,Tearaght < > (last) || Valentia < > (last) || Valentia < > Calf Rock
+252,ireland,Slyne Head N.,,Galway,1881,30@1881,Clare Island < > Slyne Head S.
+253,ireland,Slyne Head S.,,do,1881,31@1881,Slyne Head N. < > Arran Island N.
+254,ireland,"Slyne Head, N.,",,Galway,1882 1884 1885 1885m 1886 1887m,30@1882 30@1884 30@1885 30@1886 30@1887,"Clare Island < > Slyne Head, S. || Clare Island, < > Slyne Head, S.,"
+255,ireland,"Slyne Head, S.,",,Galway; do,1882 1884 1885 1885m 1886 1887 1887m,31@1882 31@1884 31@1885 31@1886 31@1887,"Blackrock < > Arran Island, Is. || Slyne Head, N. < > Arran Island, N. || Slyne Head, N., < > Arran Island, N.,"
+256,ireland,South Rock,Lt.-ship,Down,1887,12_b_@1887,"Rockabill < > Maidens, South"
+257,ireland,Straw Island,,Galway; do,1881 1882 1884 1885 1885m 1886 1887m,33@1881 33@1882 33@1884 33@1885 33@1886 33@1887,"Arran Island N. < > Arran Island S. || Arran Island, N. < > Arran Island, S. || Arran Island, N., < > Straw Island, S.,"
+258,ireland,"Straw Island, S.,",,do,1882,34@1882,"Straw Island, < > Loop Head,"
+259,ireland,Tearaght,,Kerry; do,1881 1882 1884 1885 1885m 1886 1887 1887m,37@1881 37@1882 37@1884 37@1885 37@1886 37@1887,"Arran Island, S. < > Valentia || Samphire Island < > Skelligs || Samphire Island < > Valentia"
+260,ireland,Tory Island,,Donegal; do,1881 1882 1884 1885 1885m 1886 1887 1887m,19@1881 19@1882 19@1884 19@1885 19@1886 19@1887,"Dunree Head < > Arranmore || Lough Swilly < > Arranmore || Lough Swilly, < > Arranmore,"
+261,ireland,Tuskar,,do,1881 1882 1885m 1887m,7@1881 7@1882 7@1885 7@1887,"Barrels Rock < > Arklow S. || Barrels Rock, < > Arklow S."
+262,ireland,Tuskar Rock,,do,1884 1885 1886 1887,7@1884 7@1885 7@1886 7@1887,Barrels Rock < > Arklow Sth. || Barrels Rock < > ArklowSth. || Barrels Rock < > Lucifer Shoals
+263,ireland,Valentia,,Kerry; do,1881 1882 1884 1885 1885m 1886 1887m,38@1881 38@1882 38@1884 38@1885 38@1886 38@1887,"Arran Island S. < > Skelligs || Tearaght < > Skelligs || Tearaght, < > Skelligs,"
+264,ireland,Wicklow Head,,do,1881 1882,9@1881 9@1882,Arklow S. < > Kish Bank
+265,isle_of_man,"Bahama Bank,",L.V.,Isle of Man; do,1880 1881 1884 1885 1886 1887,118@1884 119@1880 119@1881 119@1885 119@1886 119@1887,"Chickens Rock < > Langness || Chickens Rock < > St Bees || Chickens Rock, < > Langness Lighthouse,"
+266,isle_of_man,Bahama Rock,L.V.,Isle of Man,1882,119@1882,Chickens Rock < > Longness
+267,isle_of_man,Chickens Rock,,Isle of Man; do,1879 1880 1882 1884 1885m 1887m,117@1884 118@1880 118@1882 118@1885 118@1887,Douglas Head < > (last) || Douglas Head < > Bahama Bank || Douglas Head < > Bahama Rock
+268,isle_of_man,"Chickens Rock,",L.H.,,1885 1886 1887,118@1885 118@1886 118@1887,"Langness < > Bahama Bank || Langness, < > Bahama Bank, || Langness, < > Bahama Bank."
+269,isle_of_man,Douglas Head,,Isle of Man; do,1879 1880 1882 1884,116@1884 117@1880 117@1882,"Point of Ayr < > Chickens Rock || Point of Ayre < > Chickens Rock || Point of Ayre, < > Chickens Rock,"
+270,isle_of_man,Douglas Head.,L.H.,,1885 1886 1887,116@1885 116@1886 116@1887,"Point of Ayre < > Langness || Point of Ayre. < > Langness,"
+271,isle_of_man,Langness,,do,1884 1885m 1887m,117@1885 117@1887 119@1884,Bahama Bank < > (last) || Douglas Head < > Chickens Rock
+272,isle_of_man,"Langness,",L.H.,,1885 1886 1887,117@1885 117@1886 117@1887,"Douglas Head < > Chickens Rock || Douglas Head. < > Chickens Rock,"
+273,isle_of_man,Longness,L.V.,Isle of Man,1882,120@1882,Bahama Rock < > (last)
+274,isle_of_man,Point of Ayr,,Isle of Man,1879 1882,116@1882,Little Ross < > Douglas Head
+275,isle_of_man,"Point of Ayre,",,I. of Man; Isle of Man,1880 1884 1885m 1887m,115@1884 115@1885 115@1887 116@1880,"Little Ross < > Douglas Head || Little Ross, < > Douglas Head,"
+276,isle_of_man,Point of Ayre.,L.H.,,1885 1886 1887,115@1885 115@1886 115@1887,(first) < > Douglas Head || (first) < > Douglas Head.
+277,outlying,Casquets,L.H.,Alderney,1885m 1887m,,Malmo < > Hanois
+278,outlying,Do.,,,1885m 1887m,2@1885 2@1887,Iceland < > Faroe
+279,outlying,Douglas Head,,,1885m 1887m,116@1885 116@1887,Point of Ayre < > Langness
+280,outlying,Faroe,,,1885m 1887m,3@1885 3@1887,Do. < > Fair Isle
+281,outlying,Hanois,L.H.,Guernsey,1885m 1887m,,Casquets < > (last)
+282,outlying,Heligoland,,,1885m 1887m,,Dursey Island < > Stevns Fyr
+283,outlying,Iceland,,,1885m 1887m,1@1885 1@1887,(first) < > Do.
+284,outlying,Malmo,,Sweden,1885m 1887m,,Stevns Fyr < > Casquets
+285,outlying,Stevns Fyr,,Zealand,1885m 1887m,,"Heligoland < > Malmo || Heligoland, < > Malmo"
+286,scotland_east,"""     (High)",,Orkney,1879,,Hoy Sound (Low) < > Cantick Head
+287,scotland_east,Auskerry,,Orkney,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,10@1880 10@1881 10@1882 10@1883 10@1885 10@1886 10@1887,"Start Point < > Hoy Sound (Low) || Start Point, < > Hoy Sound (Low), || Start Point. < > Hoy Sound (Low)."
+288,scotland_east,Bell Rock,,Fife Coast; off Coast of Fife; off Fife Coast,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,26@1880 26@1881 26@1882 26@1883 26@1885 26@1886 26@1887,Montroseness < > Carr Rock || Montroseness < > I. of May || Montroseness < > Isle of May
+289,scotland_east,Bressay.,,Shetland,1880 1881 1882 1883 1885 1886 1887,6@1880 6@1881 6@1882 6@1883 6@1885 6@1886 6@1887,"Whalsey Skerries < > Sumburgh Head || Whalsey Skerries, < > Sumburgh Head, || Whalsey Skerries. < > Sumburgh Head."
+290,scotland_east,Bressay Sound,,Shetland,1879 1885m 1887m,6@1885 6@1887,Whalsey Skerries < > Sumburgh Head
+291,scotland_east,Buchan Ness,,Aberdeen,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,23@1880 23@1881 23@1882 23@1883 23@1885 23@1886 23@1887,"Kinnaird Head < > Girdleness || Kinnaird Head, < > Girdleness || Kinnaird Head, < > Girdleness,"
+292,scotland_east,Cantick Head,,Orkney,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,13@1880 13@1881 13@1882 13@1883 13@1885 13@1886 13@1887,"""     (High) < > Pentland Skerries || Hoy Sound (High) < > Pentland Skerries || Hoy Sound (High), < > Pentland Skerries"
+293,scotland_east,Carr Rock,Light-ship,Fife Coast,1885,26B@1885,Bell Rock < > Isle of May
+294,scotland_east,Carr Rock,Lightship,Fife Coast,1886 1887,26B@1886 26B@1887,"Bell Rock < > Isle of May || Bell Rock, < > Isle of May,"
+295,scotland_east,Chanonry,,Point Elgin,1883,20@1883,Cromarty < > Covesea Skerries
+296,scotland_east,Chanonry Point,,Elgin,1879 1880 1881 1882 1885 1885m 1886 1887 1887m,20@1880 20@1881 20@1882 20@1885 20@1886 20@1887,"Cromarty < > Covesea Skerries || Cromarty, < > Covesea Skerries,"
+297,scotland_east,Covesea Skerries,,Elgin,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,21@1880 21@1881 21@1882 21@1883 21@1885 21@1886 21@1887,"Chanonry < > Kinnaird Head || Chanonry Point < > Kinnaird Head || Chanonry Point, < > Kinnaird Head,"
+298,scotland_east,Cromarty,,E. Cromarty; East Cromarty,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,19@1880 19@1881 19@1882 19@1883 19@1885 19@1886 19@1887,Tarbat Head < > Chanonry Point || Tarbat Ness < > Chanonry || Tarbat Ness < > Chanonry Point
+299,scotland_east,Dunnet Head,,Caithness,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,15@1880 15@1881 15@1882 15@1883 15@1885 15@1886 15@1887,"Pentland Skerries < > Holborn Head || Pentland Skerries, < > Holborn Head, || Pentland Skerries. < > Holborn Head."
+300,scotland_east,Fair Isle,,,1881 1882 1883 1885m 1887m,3_b_@1885 3_b_@1887 7B@1881 7B@1882 7b@1883,Faroe < > N. Unst || Sumburgh Head < > North Ronaldshay
+301,scotland_east,Fidra,,Firth of Forth,1885 1885m 1886 1887 1887m,27B@1885 28B@1886 28B@1887 28_b_@1885 28_b_@1887,"Inchkeith < > St Abb's Head || Inchkeith < > St Abbs Head || Inchkeith, < > St Abb's Head,"
+302,scotland_east,Girdleness,,Aberdeen,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,24@1880 24@1881 24@1882 24@1883 24@1885 24@1886 24@1887,"Buchan Ness < > Montroseness || Buchan Ness, < > Montroseness,"
+303,scotland_east,Holborn Head,,Caithness,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,16@1880 16@1881 16@1882 16@1883 16@1885 16@1886 16@1887,"Dunnet Head < > Noss Head || Dunnet Head, < > Noss Head, || Dunnet Head, < > Noss Head."
+304,scotland_east,Hoy Sound (High).,,,1880 1881 1882 1883 1885 1885m 1886 1887 1887m,12@1880 12@1881 12@1882 12@1883 12@1885 12@1886 12@1887,"Hoy Sound (Low) < > Cantick Head || Hoy Sound (Low), < > Cantick Head, || Hoy Sound (Low). < > Cantick Head."
+305,scotland_east,Hoy Sound (Low),,Orkney,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,11@1880 11@1881 11@1882 11@1883 11@1885 11@1886 11@1887,"Auskerry < > ""     (High) || Auskerry < > Hoy Sound (High) || Auskerry < > Hoy Sound (High),"
+306,scotland_east,I. of May,,Firth of Forth,1883,27@1883,Bell Rock < > Inch Keith
+307,scotland_east,Inch Keith,,F. of Forth; Firth of Forth,1879 1880 1881 1882 1883,28@1880 28@1881 28@1882 28@1883,I. of May < > St. Abbs Head || Isle of May < > St. Abb's Head || Isle of May < > St. Abbs Head
+308,scotland_east,Inchkeith,,Firth of Forth,1885 1885m 1886 1887 1887m,28@1885 28@1886 28@1887,"Fidra < > St Abb's Head || Isle of May < > Fidra || Isle of May, < > Fidra,"
+309,scotland_east,Isle of May,,Firth of Forth,1879 1880 1881 1882 1885 1885m 1886 1887 1887m,27@1880 27@1881 27@1882 27@1885 27@1886 27@1887,"Bell Rock < > Inch Keith || Bell Rock < > Inchkeith || Bell Rock, < > Inch Keith,"
+310,scotland_east,Kinnaird Head,,Aberdeen,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,22@1880 22@1881 22@1882 22@1883 22@1885 22@1886 22@1887,"Covesea Skerries < > Buchan Ness || Covesea Skerries, < > Buchan Ness,"
+311,scotland_east,Montroseness,,Aberdeen; Forfar,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,25@1880 25@1881 25@1882 25@1883 25@1885 25@1886 25@1887,"Girdleness < > Bell Rock || Girdleness < > Bell Rock, || Girdleness, < > Bell Rock,"
+312,scotland_east,N Ronaldshay,,,1887m,8@1887,Sumburgh Head < > Start Point
+313,scotland_east,N. Ronaldshay,,,1885 1885m 1886 1887,8@1885 8@1886 8@1887,"Sumburgh Head < > Start Point || Sumburgh Head, < > Start Point,"
+314,scotland_east,N. Unst,,Shetland,1883 1885 1885m 1886 1887 1887m,4@1883 4@1885 4@1886 4@1887,"(first) < > Whalsey Skerries || (first) < > Whalsey Skerries, || Fair Isle < > Whalsey Skerries"
+315,scotland_east,North Ronaldshay,,Orkney,1879 1880 1881 1882 1883,8@1880 8@1881 8@1882 8@1883,Fair Isle < > Start Point || Sumburgh Head < > Start Point || Sumburgh Head. < > Start Point.
+316,scotland_east,North Uist,,Shetland,1881 1882,4@1881 4@1882,(first) < > Whalsey Skerries
+317,scotland_east,North Unst,,Shetland,1879 1880,4@1880,(first) < > Whalsey Skerries || (first) < > Whalsey Skerries.
+318,scotland_east,Noss Head,,Caithness,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,17@1880 17@1881 17@1882 17@1883 17@1885 17@1886 17@1887,Holborn Head < > Tarbat Head || Holborn Head < > Tarbat Ness || Holborn Head < > Tarbet Ness
+319,scotland_east,Pentland Skerries,,Orkney,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,14@1880 14@1881 14@1882 14@1883 14@1885 14@1886 14@1887,"Cantick Head < > Dunnet Head || Cantick Head, < > Dunnet Head, || Cantick Head. < > Dunnet Head,"
+320,scotland_east,St Abb's Head,,Berwick; Berwickshire,1885 1885m 1886 1887,29@1885 29@1886 29@1887,"Fidra < > (last) || Fidra < > Longstone || Fidra, < > (last)"
+321,scotland_east,St Abbs Head,,,1887m,29@1887,Fidra < > Longstone
+322,scotland_east,"St. Abb's Head,",,Berwick,1880 1881 1882,29@1880 29@1881 29@1882,"Inch Keith < > (last) || Inch Keith, < > (last)"
+323,scotland_east,St. Abbs Head,,Berwick; Berwicks,1879 1883,29@1883,Inch Keith < > (last)
+324,scotland_east,Start Point,,Orkney,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,9@1880 9@1881 9@1882 9@1883 9@1885 9@1886 9@1887,"N Ronaldshay < > Auskerry || N. Ronaldshay < > Auskerry || N. Ronaldshay, < > Auskerry,"
+325,scotland_east,Sumburgh Head,,Shet; Shetland,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,7@1880 7@1881 7@1882 7@1883 7@1885 7@1886 7@1887,Bressay < > Fair Isle || Bressay < > N. Ronaldshay || Bressay Sound < > N Ronaldshay
+326,scotland_east,Tarbat Head,,East Ross,1885,18@1885,Noss Head < > Cromarty
+327,scotland_east,"Tarbat Ness,",,East Ross,1880 1881 1882 1883 1885m 1886 1887 1887m,18@1880 18@1881 18@1882 18@1883 18@1885 18@1886 18@1887,"Noss Head < > Cromarty || Noss Head, < > Cromarty, || Noss Head. < > Cromarty,"
+328,scotland_east,Tarbet Ness,,E. Ross-shire,1879,,Noss Head < > Cromarty
+329,scotland_east,Whalsey Skerries,,Shet; Shetland,1879 1880 1881 1882 1883 1885 1885m 1886 1887 1887m,5@1880 5@1881 5@1882 5@1883 5@1885 5@1886 5@1887,"N. Unst < > Bressay || N. Unst < > Bressay Sound || N. Unst, < > Bressay,"
+330,scotland_west,Ailsa Craig,,,1885 1885m 1886 1887 1887m,109B@1885 109B@1886 109B@1887 109_b_@1885 109_b_@1887,"Turnberry < > Corsewall || Turnberry, < > Corsewall,"
+331,scotland_west,Ardnamurchan,,Pt. Argyle,1882 1884 1885 1885m 1886 1887 1887m,92@1882 92@1884 92@1885 92@1886 92@1887,"Isle Ornsay < > Hynish Signal Tower || Isle Ornsay < > Skerryvore and Hynish Signal Tower || Isle Ornsay, < > Skerryvore and Hynish Signal Tower,"
+332,scotland_west,Ardnamurchan Point,,Argyleshire,1879 1880,92@1880,"Isle Ornsay < > Hynish || Isle Ornsay, < > Hynish Signal Tower,"
+333,scotland_west,Ardnamurchan Pt.,,Argyl,1883,92@1883,Isle Ornsay < > Hynish Signal Tower
+334,scotland_west,"Ardnamurchan, Pt.",,Argyle,1881,92@1881,Isle Ornsay < > Hynish Signal Tower
+335,scotland_west,Barra Head,,Barra,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,88@1880 88@1881 88@1882 88@1883 88@1884 88@1885 88@1886 88@1887,Monach Island < > Rona || Ushenish < > Bona || Ushenish < > Rona
+336,scotland_west,Bona,,Skye,1881,89@1881,Barra Head < > Kyleakin
+337,scotland_west,Butt of Lewis,,Lewis,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,83@1880 83@1881 83@1882 83@1883 83@1884 83@1885 83@1886 83@1887,"Rhu Stoir < > Stornoway || Rhu Stoir, < > Stornoway (2 Lights), || Rhu Stoir, < > Stornoway,"
+338,scotland_west,Cape Wrath,,Sutherland,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,81@1880 81@1881 81@1882 81@1883 81@1884 81@1885 81@1886 81@1887,"(first) < > Rhu Stoir || (first) < > Rhu Stoir, || (first) < > Rhu Stoir."
+339,scotland_west,Chickens Rock,,I. of Man,1881,118@1881,Douglas Head < > Bahama Bank
+340,scotland_west,Conan Ferry,,Loch Eil,1881,97@1881,Sound of Mull < > Lismore Island
+341,scotland_west,Corran Ferry,,Loch Eil,1879 1880 1882 1883 1884 1885 1885m 1886 1887 1887m,96@1885 96@1886 96@1887 97@1880 97@1882 97@1883 97@1884,Sound of Mull < > Lismore || Sound of Mull < > Lismore I. || Sound of Mull < > Lismore Island
+342,scotland_west,Corsewall,,Wigtonshire; Wigtown,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,110@1884 110@1885 110@1886 110@1887 111@1880 111@1881 111@1882 111@1883,"Ailsa Craig < > Loch Ryan || Ailsa Craig, < > Loch Ryan, || Turnberry < > Loch Ryan"
+343,scotland_west,Devaar,,Kintyre; off Kintyre,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,106@1884 106@1885 106@1886 106@1887 107@1880 107@1881 107@1882 107@1883,"Mull of Kintyre < > Pladda || Sanda < > Pladda || Sanda, < > Pladda,"
+344,scotland_west,Dhuheartach,,S. of Ross of Mull; S.W. of Ross of Mull,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,94@1885 94@1886 94@1887 95@1880 95@1881 95@1882 95@1883 95@1884,"Skerryvore < > Sound of Mull || Skerryvore and Hynish Signal Tower < > Sound of Mull || Skerryvore and Hynish Signal Tower, < > Sound of Mull,"
+345,scotland_west,Douglas Head,,I. of Man,1881,117@1881,Point of Ayr < > Chickens Rock
+346,scotland_west,Fladda,,Easdale,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,98@1885 98@1886 98@1887 99@1880 99@1881 99@1882 99@1883 99@1884,Lismore < > Rhuvaal || Lismore I. < > Rhuvaal || Lismore Island < > Rhuvaal
+347,scotland_west,Hynish,,"Skerryvore Signal Tower, Tyree",1879,,Ardnamurchan Point < > Skerryvore
+348,scotland_west,"Hynish Signal Tower,",,Tiree; Tyree,1880 1881 1882 1883 1884,93@1880 93@1881 93@1882 93@1883 93@1884,"Ardnamurchan < > Skerryvore || Ardnamurchan Point, < > Skerryvore, || Ardnamurchan Pt. < > Skerryvore"
+349,scotland_west,Island Ghlais,,,1885 1885m 1886 1887 1887m,85@1885 85@1886 85@1887,"Stornoway (2 Lights), < > Monach Islands, || Stornoway < > Monach Islands || Stornoway < > Monach Isles"
+350,scotland_west,Island Glass,,Harris,1879 1880 1881 1882 1883,85@1880 85@1881 85@1882 85@1883,Stornoway < > Monach Island || Stornoway < > Monach Isles || Stornoway < > Ushenish
+351,scotland_west,Island of Ghlais,,,1884,85@1884,Stornoway < > Monach Isles
+352,scotland_west,Isle of Ornsay,,Skye,1884,91@1884,Kyleakin < > Ardnamurchan
+353,scotland_west,Isle Ornsay,,Skye,1879 1880 1881 1882 1883 1885m 1887 1887m,91@1880 91@1881 91@1882 91@1883 91@1885 91@1887,Kyleakin < > Ardnamurchan || Kyleakin < > Ardnamurchan Point || Kyleakin < > Ardnamurchan Pt.
+354,scotland_west,"Isle Oronsay,",,,1885 1886,91@1885 91@1886,"Kyleakin < > Ardnamurchan || Kyleakin, < > Ardnamurchan,"
+355,scotland_west,Kyleakin,,"Ross; Rosshire; Rosspire; W, Ross; W. Ross",1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,90@1880 90@1881 90@1882 90@1883 90@1884 90@1885 90@1886 90@1887,Bona < > Isle Ornsay || Rona < > Isle Ornsay || Rona < > Isle Oronsay
+356,scotland_west,Lamlash,,Arran,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,108@1884 108@1885 108@1886 108@1887 109@1880 109@1881 109@1882 109@1883,"Pladda < > Turnberry || Pladda, < > Turnberry,"
+357,scotland_west,Langness,,do,1881,120@1881,Bahama Bank < > (last)
+358,scotland_west,"Langness Lighthouse,",Lighthouse,do,1880,120@1880,"Bahama Bank, < > (last)"
+359,scotland_west,Lismore,,Oban,1885 1885m 1886 1887 1887m,97@1885 97@1886 97@1887,"Corran Ferry < > Fladda || Corran Ferry, < > Fladda,"
+360,scotland_west,Lismore I.,,Oban,1884,98@1884,Corran Ferry < > Fladda
+361,scotland_west,Lismore Island,,Oban,1879 1880 1881 1882 1883,98@1880 98@1881 98@1882 98@1883,"Conan Ferry < > Fladda || Corran Ferry < > Fladda || Corran Ferry, < > Fladda,"
+362,scotland_west,Little Ross,,Kircudbright; Kirkcudbright,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,114@1884 114@1885 114@1886 114@1887 115@1880 115@1881 115@1882 115@1883,Mull of Galloway < > (last) || Mull of Galloway < > Point of Ayr || Mull of Galloway < > Point of Ayre
+363,scotland_west,Loch Ryan,,; Wigtown; do,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,111@1884 111@1885 111@1886 111@1887 112@1880 112@1881 112@1882 112@1883,"Corsewall < > Portpatrick || Corsewall, < > Portpatrick,"
+364,scotland_west,Lochindaul,,Islay,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,103@1885 103@1886 103@1887 104@1880 104@1881 104@1882 104@1883 104@1884,"Rhinns of Islay < > Mull of Cantyre || Rhinns of Islay < > Mull of Kintyre || Rhinns of Islay, < > Mull of Cantyre,"
+365,scotland_west,M'Arthur's Head,,Islay,1879 1880 1883 1884 1885 1885m 1887 1887m,100@1885 100@1887 101@1880 101@1883 101@1884,"Rhuvaal < > Skervuile || Rhuvaal, < > Skervuile,"
+366,scotland_west,Mac Arthur's Head,,Islay,1881 1882,101@1881 101@1882,Rhuvaal < > Skervuile
+367,scotland_west,Monach Island,,,1879 1880 1881 1882,86@1880 86@1881 86@1882,Island Glass < > Ushenish || Island Glass. < > Ushenish. || Ushenish < > Barra Head
+368,scotland_west,Monach Islands,,,1886 1887,86@1886 86@1887,"Island Ghlais < > Ushenish || Island Ghlais, < > Ushenish,"
+369,scotland_west,Monach Isles,,,1883 1884 1885 1885m 1887m,86@1883 86@1884 86@1885 86@1887,"Island Ghlais < > Ushenish || Island Ghlais < > Ushenish, || Island Glass < > Ushenish"
+370,scotland_west,Mull of Cantyre,,,1886 1887,104@1886 104@1887,"Lochindaul < > Sanda || Lochindaul, < > Sanda,"
+371,scotland_west,Mull of Galloway,,; Wigtown; do,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,113@1884 113@1885 113@1886 113@1887 114@1880 114@1881 114@1882 114@1883,"Portpatrick < > Little Ross || Portpatrick, < > Little Ross,"
+372,scotland_west,Mull of Kintyre,,,1879 1880 1881 1882 1883 1884 1885 1885m 1887m,104@1885 104@1887 105@1880 105@1881 105@1882 105@1883 105@1884,"Lochindaul < > Devaar || Lochindaul < > Sanda || Lochindaul, < > Sanda,"
+373,scotland_west,M‘Arthur’s Head,,,1886,100@1886,Rhuvaal < > Skervuile
+374,scotland_west,Pladda,,Arran,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,107@1884 107@1885 107@1886 107@1887 108@1880 108@1881 108@1882 108@1883,"Devaar < > Lamlash || Devaar, < > Lamlash,"
+375,scotland_west,Point of Ayr,,I. of Man,1881,116@1881,Little Ross < > Douglas Head
+376,scotland_west,Portpatrick,,; Wigtown; do,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,112@1884 112@1885 112@1886 112@1887 113@1880 113@1881 113@1882 113@1883,"Loch Ryan < > Mull of Galloway || Loch Ryan, < > Mull of Galloway,"
+377,scotland_west,Rhinns of Islay,,Islay,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887,102@1885 102@1886 102@1887 103@1880 103@1881 103@1882 103@1883 103@1884,"Skervuile < > Lochindaul || Skervuile, < > Lochindaul,"
+378,scotland_west,Rhinns of May,,,1887m,102@1887,Skervuile < > Lochindaul
+379,scotland_west,Rhu Stoir,,; Do; W. Cromarty,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,82@1880 82@1881 82@1882 82@1883 82@1884 82@1885 82@1886 82@1887,"Cape Wrath < > Butt of Lewis || Cape Wrath, < > Butt of Lewis, || Cape Wrath. < > Butt of Lewis."
+380,scotland_west,Rhuvaal,,Islay,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,100@1880 100@1881 100@1882 100@1883 100@1884 99@1885 99@1886 99@1887,Fladda < > M'Arthur's Head || Fladda < > Mac Arthur's Head || Fladda < > M‘Arthur’s Head
+381,scotland_west,Rona,,Skye; Sye,1879 1880 1882 1883 1884 1885 1885m 1886 1887 1887m,89@1880 89@1882 89@1883 89@1884 89@1885 89@1886 89@1887,"Barra Head < > Kyleakin || Barra Head, < > Kyleakin, || Barra Head. < > Kyleakin,"
+382,scotland_west,Sanda,,Kintyre Sound,1879 1880 1881 1882 1885 1885m 1886 1887 1887m,105@1885 105@1886 105@1887 106@1880 106@1881 106@1882,"Mull of Cantyre < > Devaar || Mull of Cantyre, < > Devaar, || Mull of Kintyre < > Devaar"
+383,scotland_west,Skerryvore,,off Tiree; off Tyree,1879 1880 1881 1882 1883 1884,94@1880 94@1881 94@1882 94@1883 94@1884,"Hynish < > Dhuheartach || Hynish Signal Tower < > Dhuheartach || Hynish Signal Tower, < > Dhuheartach,"
+384,scotland_west,Skerryvore and Hynish Signal Tower,,Tiree,1885 1885m 1886 1887 1887m,93@1885 93@1886 93@1887,"Ardnamurchan < > Dhuheartach || Ardnamurchan, < > Dhuheartach,"
+385,scotland_west,Skervuile,,Jura,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,101@1885 101@1886 101@1887 102@1880 102@1881 102@1882 102@1883 102@1884,"M'Arthur's Head < > Rhinns of Islay || M'Arthur's Head < > Rhinns of May || M'Arthur's Head, < > Rhinns of Islay,"
+386,scotland_west,Sound of Mull,,Mull; Tobermory,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,95@1885 95@1886 95@1887 96@1880 96@1881 96@1882 96@1883 96@1884,"Dhuheartach < > Conan Ferry || Dhuheartach < > Corran Ferry || Dhuheartach, < > Corran Ferry,"
+387,scotland_west,Stornoway,,Lewis,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887m,84@1880 84@1881 84@1882 84@1883 84@1884 84@1885 84@1886 84@1887,Butt of Lewis < > Island Ghlais || Butt of Lewis < > Island Glass || Butt of Lewis < > Island of Ghlais
+388,scotland_west,"Stornoway (2 Lights),",,,1887,84@1887,"Butt of Lewis, < > Island Ghlais,"
+389,scotland_west,Turnberry,,Ayrshire,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,109@1884 109@1885 109@1886 109@1887 110@1880 110@1881 110@1882 110@1883,"Lamlash < > Ailsa Craig || Lamlash < > Corsewall || Lamlash, < > Ailsa Craig,"
+390,scotland_west,Ushenish,,N. Uist; North Uist,1879 1880 1881 1882 1883 1884 1885 1885m 1886 1887 1887m,87@1880 87@1881 87@1882 87@1883 87@1884 87@1885 87@1886 87@1887,Island Glass < > Monach Island || Monach Island < > Barra Head || Monach Island. < > Barra Head.
+391,unknown,Arklow North,Lt.-ship,do,1883,8*@1883,Arklow Sth. < > Kish Bank
+392,unknown,Arklow Sth.,Lt.-ship,Wicklow,1883,8@1883,Tuskar Rock < > Arklow North
+393,unknown,"Arran Island, N.",,Galway,1883,32@1883,"Slyne Head, S. < > Straw Island"
+394,unknown,"Arran Island, S.",,Galway,1883,34@1883,Straw Island < > Samphire Island
+395,unknown,Arranmore,,Donegal,1883,20@1883,Tory Island < > Rathlin O'Birne
+396,unknown,Auskerry,,,1884,10@1884,Start Point < > Hoy Sound (Low)
+397,unknown,Barrels Rock,Lt.-ship,do,1883,6@1883,Coningbeg < > Tuskar Rock
+398,unknown,Bell Rock,,Fife,1884,26@1884,Montroseness < > Isle of May
+399,unknown,Blackrock,,Mayo,1883,27@1883,"Eagle Island, W. < > Blacksod Point"
+400,unknown,Blacksod Point,,Mayo,1883,28@1883,Blackrock < > Clare Island
+401,unknown,Bressay,,Shetland,1884,6@1884,Whalsey Skerries < > Sumburgh Head
+402,unknown,Broadhaven,,Mayo,1883,24@1883,"Oyster Island < > Eagle Island, E."
+403,unknown,Buchan Ness,,Aberdeen,1884,23@1884,Kinnaird Head < > Girdleness
+404,unknown,Cantick Head,,,1884,13@1884,Hoy Sound (High) < > Pentland Skerries
+405,unknown,Casquets,L.H.,Alderney,1883,,South Foreland < > Hanois
+406,unknown,Chanonry Point,,Elgin,1884,20@1884,Cromarty < > Covesea Skerries
+407,unknown,Clare Island,,Mayo,1883,29@1883,"Blacksod Point < > Slyne Head, N."
+408,unknown,Cockle,L.V.,,1883,,Winterton < > Orfordness
+409,unknown,Coningbeg,Lt.-ship,Wexford,1883,5*@1883,Dungarvan < > Barrels Rock
+410,unknown,Copeland Island,,Down,1883,13@1883,Rockabill < > Maidens
+411,unknown,Coquet Island,L.H.,,1883,,Tees < > Whitby High
+412,unknown,Corton,L.V.,,1883,,Orfordness < > Shipwash
+413,unknown,Covesea Skerries,,Elgin,1884,21@1884,Chanonry Point < > Kinnaird Head
+414,unknown,Cromarty,,East Cromarty,1884,19@1884,Tarbat Ness < > Chanonry Point
+415,unknown,Cromer,L.H.,,1883,,Hunstanton < > Leman and Ower
+416,unknown,Dudgeon,L.V.,,1883,,Inner Dowsing < > Llyn Wells
+417,unknown,Dungarvan,,Waterford,1883,5@1883,Mine Head < > Coningbeg
+418,unknown,Dunnet Head,,,1884,15@1884,Pentland Skerries < > Holborn Head
+419,unknown,Dunree Head,,Donegal,1883,17@1883,Innishtrahull < > Lough Swilly
+420,unknown,Dursey Island,,Cork,1883,40@1883,Skelligs < > (last)
+421,unknown,"Eagle Island, E.",,Mayo,1883,25@1883,"Broadhaven < > Eagle Island, W."
+422,unknown,"Eagle Island, W.",,Mayo,1883,26@1883,"Eagle Island, E. < > Blackrock"
+423,unknown,Eastside,L.V.,,1883,,South Sand Head < > South Foreland
+424,unknown,Fastnet,,Co. Cork,1883,1@1883,(first) < > Galley Head
+425,unknown,Flamborough Head,L.H.,,1883,,Whitby High < > Spurn
+426,unknown,Galley Head,,Cork,1883,2@1883,"Fastnet < > Old Head, Kinsale"
+427,unknown,Galloper,L.V.,,1883,,Languard Point < > Kentish Knock
+428,unknown,Girdleness,,Aberdeen,1884,24@1884,Buchan Ness < > Montroseness
+429,unknown,Goodwin,L.V.,,1883,,North Foreland < > Gull
+430,unknown,Gull,L.V.,,1883,,Goodwin < > South Sand Head
+431,unknown,Hanois,L.H.,Guernsey,1883,,Casquets < > (last)
+432,unknown,Hasbro',L.H.,,1883,,Leman and Ower < > Hasbro'
+433,unknown,Hasbro',L.V.,,1883,,Hasbro' < > Newarp
+434,unknown,Holborn Head,,Caithness,1884,16@1884,Dunnet Head < > Noss Head
+435,unknown,Howth Baily,,Dublin,1883,11@1883,Kish Bank < > Rockabill
+436,unknown,Hoy Sound (High),,,1884,12@1884,Hoy Sound (Low) < > Cantick Head
+437,unknown,Hoy Sound (Low),,,1884,11@1884,Auskerry < > Hoy Sound (High)
+438,unknown,Hunstanton,L.H.,,1883,,Llyn Wells < > Cromer
+439,unknown,Inch Keith,,Firth of Forth,1884,28@1884,Isle of May < > St. Abbs Head
+440,unknown,Inner Dowsing,L.V.,,1883,,Outer Dowsing < > Dudgeon
+441,unknown,Inner Farn,L.H.,,1883,,Longstone < > Tees
+442,unknown,Innishtrahull,,Donegal,1883,16@1883,Rathlin < > Dunree Head
+443,unknown,Isle of May,,Firth of Forth,1884,27@1884,Bell Rock < > Inch Keith
+444,unknown,Kentish Knock,L.V.,,1883,,Galloper < > Swin Middle
+445,unknown,Killybegs,,Donegal,1883,22@1883,Rathlin O'Birne < > Oyster Island
+446,unknown,Kinnaird Head,,Aberdeen,1884,22@1884,Covesea Skerries < > Buchan Ness
+447,unknown,Kish Bank,Lt.-ship,Dublin,1883,10@1883,Arklow North < > Howth Baily
+448,unknown,Languard Point,L.H.,,1883,,Shipwash < > Galloper
+449,unknown,Leman and Ower,L.V.,,1883,,Cromer < > Hasbro'
+450,unknown,Llyn Wells,L.V.,,1883,,Dudgeon < > Hunstanton
+451,unknown,Longstone,L.H.,,1883,,(first) < > Inner Farn
+452,unknown,Lough Swilly,,Donegal,1883,18@1883,Dunree Head < > Tory Island
+453,unknown,Maidens,,Antrim,1883,14@1883,Copeland Island < > Rathlin
+454,unknown,Mine Head,,Waterford,1883,4@1883,"Old Head, Kinsale < > Dungarvan"
+455,unknown,Montroseness,,Forfar,1884,25@1884,Girdleness < > Bell Rock
+456,unknown,N. Ronaldshay,,,1884,8@1884,Sumburgh Head < > Start Point
+457,unknown,Newarp,L.V.,,1883,,Hasbro' < > Winterton
+458,unknown,Nore,L.V.,,1883,,Tongue < > North Foreland
+459,unknown,North Foreland,L.H.,,1883,,Nore < > Goodwin
+460,unknown,North Unst,,Shetland,1884,4@1884,(first) < > Whalsey Skerries
+461,unknown,Noss Head,,Caithness,1884,17@1884,Holborn Head < > Tarbat Ness
+462,unknown,"Old Head, Kinsale",,Cork,1883,3@1883,Galley Head < > Mine Head
+463,unknown,Orfordness,L.H.,,1883,,Cockle < > Corton
+464,unknown,Outer Dowsing,L.V.,,1883,,Spurn (Newsand) < > Inner Dowsing
+465,unknown,Oyster Island,,N. Sligo,1883,23@1883,Killybegs < > Broadhaven
+466,unknown,Pentland Skerries,,,1884,14@1884,Cantick Head < > Dunnet Head
+467,unknown,Rathlin,,Antrim,1883,15@1883,Maidens < > Innishtrahull
+468,unknown,Rathlin O'Birne,,Donegal,1883,21@1883,Arranmore < > Killybegs
+469,unknown,Rockabill,,Dublin,1883,12@1883,Howth Baily < > Copeland Island
+470,unknown,Samphire Island,,Kerry,1883,36@1883,"Arran Island, S. < > Tearaght"
+471,unknown,Shipwash,L.V.,,1883,,Corton < > Languard Point
+472,unknown,Skelligs,,Kerry,1883,39@1883,Valentia < > Dursey Island
+473,unknown,"Slyne Head, N.",,Galway,1883,30@1883,"Clare Island < > Slyne Head, S."
+474,unknown,"Slyne Head, S.",,Galway,1883,31@1883,"Slyne Head, N. < > Arran Island, N."
+475,unknown,South Foreland,L.H.,,1883,,Eastside < > Casquets
+476,unknown,South Sand Head,L.V.,,1883,,Gull < > Eastside
+477,unknown,Spurn,L.H.,,1883,,Flamborough Head < > Spurn (Newsand)
+478,unknown,Spurn (Newsand),L.V.,,1883,,Spurn < > Outer Dowsing
+479,unknown,St. Abbs Head,,Berwick,1884,29@1884,Inch Keith < > (last)
+480,unknown,Start Point,,,1884,9@1884,N. Ronaldshay < > Auskerry
+481,unknown,Straw Island,,Galway,1883,33@1883,"Arran Island, N. < > Arran Island, S."
+482,unknown,Sumburgh Head,,Shetland,1884,7@1884,Bressay < > N. Ronaldshay
+483,unknown,Swin Middle,L.V.,,1883,,Kentish Knock < > Tongue
+484,unknown,Tarbat Ness,,East Ross,1884,18@1884,Noss Head < > Cromarty
+485,unknown,Tearaght,,Kerry,1883,37@1883,Samphire Island < > Valentia
+486,unknown,Tees,L.V.,,1883,,Inner Farn < > Coquet Island
+487,unknown,Tongue,L.V.,,1883,,Swin Middle < > Nore
+488,unknown,Tory Island,,Donegal,1883,19@1883,Lough Swilly < > Arranmore
+489,unknown,Tuskar Rock,Lt.-ship,do,1883,7@1883,Barrels Rock < > Arklow Sth.
+490,unknown,Valentia,,Kerry,1883,38@1883,Tearaght < > Skelligs
+491,unknown,Whalsey Skerries,,Shetland,1884,5@1884,North Unst < > Bressay
+492,unknown,Whitby High,L.H.,,1883,,Coquet Island < > Flamborough Head
+493,unknown,Winterton,L.H.,,1883,,Newarp < > Cockle

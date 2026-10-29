@@ -1,0 +1,597 @@
+{
+ "matches": [
+  {
+   "id": "muckle-flugga",
+   "row": 311,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints it as NORTH UNST, 'on Muckle Flugga'.",
+   "row_id": "p66r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "out-skerries",
+   "row": 310,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "WHALSEY SKERRIES, on Bound Skerry.",
+   "row_id": "p66r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bressay",
+   "row": 309,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "sumburgh-head",
+   "row": 308,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "fair-isle",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "An observer's station, not a light. Findlay 1887 has no Fair Isle entry (the Fair Isle lights came later).",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "north-ronaldsay",
+   "row": 307,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "NORTH RONALDSHA.",
+   "row_id": "p66r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "start-point-orkney",
+   "row": 306,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "START POINT 'on East point of Sanda Island, Ronaldsha Firth', in the Orkney run between Auskerry and North Ronaldsha. This is not the Devon Start Point.",
+   "row_id": "p66r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "auskerry",
+   "row": 305,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p65r26",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hoy-low",
+   "row": 303,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "One row, 'HOY SOUND, Gremsa Id.', covers both Hoy lights: item 1 is the high light (stone tower, 108 ft) and item 2 is the low light (fixed bright). The row is shared with hoy-high.",
+   "row_id": "p65r23",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hoy-high",
+   "row": 303,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Shares row 303 with hoy-low; the high light is item 1.",
+   "row_id": "p65r23",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cantick-head",
+   "row": 302,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "CANTICK.",
+   "row_id": "p65r22",
+   "extra_row_ids": []
+  },
+  {
+   "id": "pentland-skerries",
+   "row": 299,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Both towers are in one row.",
+   "row_id": "p65r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dunnet-head",
+   "row": 300,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p65r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "holborn-head",
+   "row": 301,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Little Holburn Head'.",
+   "row_id": "p65r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "noss-head",
+   "row": 298,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p65r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "tarbat-ness",
+   "row": 294,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "TARBET NESS.",
+   "row_id": "p65r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cromarty",
+   "row": 293,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Cromarty Point.",
+   "row_id": "p65r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "chanonry-point",
+   "row": 292,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p65r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "covesea-skerries",
+   "row": 289,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p65r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "kinnaird-head",
+   "row": 282,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p64r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "buchan-ness",
+   "row": 278,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "BUCHANNESS.",
+   "row_id": "p64r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "girdle-ness",
+   "row": 276,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "GIRDLENESS. Its two fixed lights are in one tower and one row. This is not row 277 (Aberdeen harbour lights).",
+   "row_id": "p64r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "scurdie-ness",
+   "row": 273,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "MONTROSE NESS, whose description begins 'Scurdy Ness'. This is not row 274 (Montrose Harbour leading lights).",
+   "row_id": "p64r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bell-rock",
+   "row": 265,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p63r27",
+   "extra_row_ids": []
+  },
+  {
+   "id": "north-carr-lv",
+   "row": 263,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "'North Carr Rocks: Lightvessel proposed with fixed bright light', 1887. Findlay has an entry with a position (56 17.5, 2 33), but it describes a vessel not yet placed. The reports list the Carr Rock lightship from 1885. Decide whether to use this row or null.",
+   "row_id": "p63r25",
+   "extra_row_ids": []
+  },
+  {
+   "id": "isle-of-may",
+   "row": 264,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The main 4-flash light and the low fixed light are in one row.",
+   "row_id": "p63r26",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inchkeith",
+   "row": 247,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p62r24",
+   "extra_row_ids": []
+  },
+  {
+   "id": "fidra",
+   "row": 245,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "FIDRA ISLAND, established 1885, which agrees with the reports starting in 1885.",
+   "row_id": "p62r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-abbs-head",
+   "row": 243,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p62r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cape-wrath",
+   "row": 312,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "stoer-head",
+   "row": 313,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "RU STOER.",
+   "row_id": "p66r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "butt-of-lewis",
+   "row": 317,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "arnish-point",
+   "row": 318,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The Stornoway row: item 1 is the Arnish Point tower (rev. ½ min.). Items 2 and 3 are the beacon's reflected light and a red light, which explains 'Stornoway (2 Lights)' in the reports. All of these are in one row.",
+   "row_id": "p66r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "eilean-glas",
+   "row": 320,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "GLASS ISLAND, 'on East point of Scalpay, Harris Isles', established 1789.",
+   "row_id": "p66r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "monach-isles",
+   "row": 319,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "ushenish",
+   "row": 321,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "barra-head",
+   "row": 322,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rona",
+   "row": 314,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "SOUTH RONA. 'Bona' in the reports is a misprint.",
+   "row_id": "p66r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "kyleakin",
+   "row": 315,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Kyle Akin, Loch Alsh'.",
+   "row_id": "p66r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "isle-ornsay",
+   "row": 316,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Oronsay Island', N.W. part of Sleat Sound, 57 8.7, 5 46.8.",
+   "row_id": "p66r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "ardnamurchan",
+   "row": 325,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r24",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hynish-signal-tower",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The Skerryvore shore signal station, not a light. From 1885 the reports print it together with Skerryvore.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "skerryvore",
+   "row": 323,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p66r22",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dubh-artach",
+   "row": 324,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "DUBH ARTACH ROCKS.",
+   "row_id": "p66r23",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rubha-nan-gall",
+   "row": 326,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Sound of Mull', on Runa Gal Rock.",
+   "row_id": "p67r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "corran-point",
+   "row": 328,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints it as 'Loch Eil', with the tower 'on Corran Point'.",
+   "row_id": "p67r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lismore",
+   "row": 327,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p67r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "fladda",
+   "row": 330,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Phladda Island', N. end of Scarba Sound (Sound of Luing), 56 14.8, 5 40.8. Not to be confused with PLADDA (row 343).",
+   "row_id": "p67r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rhuvaal",
+   "row": 333,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "RUDHA MHAIL, N. point of Islay.",
+   "row_id": "p67r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "mcarthurs-head",
+   "row": 334,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "M‘ARTHUR HEAD.",
+   "row_id": "p67r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "skervuile",
+   "row": 332,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Sgeir Maoile or Iron Rock', S. entrance to Sound of Jura.",
+   "row_id": "p67r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rhinns-of-islay",
+   "row": 335,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "RHYNNS OF ISLAY, on Oversay.",
+   "row_id": "p67r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "loch-indaal",
+   "row": 336,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Lochandail', on Dun Point.",
+   "row_id": "p67r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "mull-of-kintyre",
+   "row": 338,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "MULL OF CANTYRE.",
+   "row_id": "p67r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "sanda",
+   "row": 339,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "SANDA ISLAND (Kintyre). This is not the Orkney Sanday of Start Point.",
+   "row_id": "p67r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "davaar",
+   "row": 340,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "DAVAR ISLAND.",
+   "row_id": "p67r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "pladda",
+   "row": 343,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "PLADDA ISLAND, off Arran. Both towers are in one row.",
+   "row_id": "p67r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "holy-isle",
+   "row": 344,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "'Lamlash Harbour', with the lighthouse 'on S.W. end of Holy Island'.",
+   "row_id": "p67r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "turnberry",
+   "row": 354,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Turnberry Point.",
+   "row_id": "p68r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "ailsa-craig",
+   "row": 355,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay gives established 1886, but the reports list the station from 1885. Check this.",
+   "row_id": "p68r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "corsewall",
+   "row": 358,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p68r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "loch-ryan",
+   "row": 356,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "On Cairn Ryan Point. This is not row 357 (Stranraer pier lights).",
+   "row_id": "p68r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "portpatrick",
+   "row": 359,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p68r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "mull-of-galloway",
+   "row": 360,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p68r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "little-ross",
+   "row": 361,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "LITTLE ROSS ISLAND.",
+   "row_id": "p68r22",
+   "extra_row_ids": []
+  }
+ ],
+ "notes": "I matched 62 of the 65 stations to a row, 61 with high confidence. Two stations get null: Fair Isle (an observer's station; Findlay 1887 has no light there) and Hynish Signal Tower (Skerryvore's shore station, not a light). North Carr L.V. is the one doubtful match (medium).\n\nThings to check:\n1) North Carr L.V. → row 263. Findlay 1887 only says 'Lightvessel proposed with fixed bright light', yet the reports list the Carr Rock lightship from 1885. Your rule says null for a light-vessel not yet placed. I gave the row because it is a real entry with a position, but its character is only the proposed one. Choose between using it and null, and check when the vessel was actually placed.\n2) Ailsa Craig: Findlay gives established 1886, but the reports list it from 1885 (map 109B@1885). Check whether the 1885 report really includes it or whether the year was assigned wrongly.\n3) Hoy Low and Hoy High both get row 303, a single entry with two items. Item 1 is the high light (fixed bright or red, 108 ft tower) and item 2 is the low light (fixed bright). When you take each light's character, take the right item.\n4) Some single rows hold several lights. Arnish Point → 318 (Stornoway): use item 1 only. Isle of May → 264 (main and low light), Pentland Skerries → 299, Girdle Ness → 276 and Pladda → 343 (two lights each). No Scottish station has its lights split over separate rows, so extra_rows is empty everywhere.\n5) Easy-to-confuse names. Fladda is row 330 ('Phladda Island'); Pladda is row 343. Sanda (Kintyre) is row 339; Start Point (Orkney, on Sanday) is row 306. Montrose Ness (row 273) is Scurdie Ness, not Montrose Harbour (row 274). Loch Ryan is row 356, not Stranraer (row 357).\n6) Names that differ from the reports: Findlay prints Corran as 'Loch Eil', Holy Isle as 'Lamlash Harbour', Skervuile as 'Sgeir Maoile or Iron Rock', Rhuvaal as 'RUDHA MHAIL', Eilean Glas as 'GLASS ISLAND', Out Skerries as 'WHALSEY SKERRIES' and Muckle Flugga as 'NORTH UNST'. In each case the descriptions and positions confirm the match.\n7) Findlay lists the Orkney and Shetland lights in the opposite direction to the reports (Auskerry → Start Point → North Ronaldsha → Sumburgh → Bressay → Whalsey → North Unst). Several west-coast runs are also in a different order. I matched these by position and description, not by order.",
+ "_meta": {
+  "edition": "findlay1887",
+  "country": "SCOTLAND",
+  "run": 1,
+  "cost_usd": 0.3727146,
+  "converted": "row -> row_id added 28 Oct 2026, after the merge fix (tools/merge_lights.py: pairing by order, rows with only a description kept); row indexes refer to the pre-fix CSV"
+ }
+}

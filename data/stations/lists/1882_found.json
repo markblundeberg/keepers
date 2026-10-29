@@ -1,0 +1,64 @@
+{
+ "lists": [
+  {
+   "section": "EAST COAST OF SCOTLAND, &c.",
+   "kind": "section",
+   "first_line": 245,
+   "last_line": 277,
+   "lead_quote": "Here follows the usual list of stations issued with each Report on the same plan as before, the dates of years upon which the various stations have sent in Reports being shown by asterisks.",
+   "legend_quotes": [
+    "Here follows the usual list of stations issued with each Report on the same plan as before, the dates of years upon which the various stations have sent in Reports being shown by asterisks.",
+    "(_a_) Describes a bird but no schedule."
+   ],
+   "printed_count_quote": "The ordinary papers, &c., were sent to thirty stations on the East Coast of Scotland, Faroe, and Iceland, as was done in 1881.",
+   "rows_counted": 27,
+   "columns": "asterisks for returns 1879/'80/'81/'82; map no. and station, county; height in ft.; keeper's name (or remark)"
+  },
+  {
+   "section": "EAST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 1161,
+   "last_line": 1197,
+   "lead_quote": "The east coast stations are as follows, those making returns being marked with a star (*):--",
+   "legend_quotes": [
+    "The east coast stations are as follows, those making returns being marked with a star (*):--",
+    "† For nature of light, and position and description of station, see report for 1880."
+   ],
+   "printed_count_quote": "Printed forms of enquiry and letters of instruction were sent to thirty-six lighthouses and light-vessels on the East Coast of England, and two stations on the Channel Islands,--thirty-eight altogether, against thirty-six in 1881,--and returns have been received from thirty, a result which is very encouraging.",
+   "rows_counted": 37,
+   "columns": "star for returns; station name with L.H./L.V.; keepers' names (blank where no return); no map numbers"
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 2275,
+   "last_line": 2322,
+   "lead_quote": "Here follows the usual list of stations, with asterisks which point out the annual returns from the beginning of the scheme, from each station.",
+   "legend_quotes": [
+    "Here follows the usual list of stations, with asterisks which point out the annual returns from the beginning of the scheme, from each station.",
+    "The last five stations are now placed at the head of the W. of England stations under Mr. P. Kermode."
+   ],
+   "printed_count_quote": "Schedules, &c., were sent to forty stations, the same number as in previous years.",
+   "rows_counted": 40,
+   "columns": "asterisks for returns 1879/'80/'81/'82; map no. and station, place; height in ft.; keeper's name"
+  },
+  {
+   "section": "IRISH COAST.",
+   "kind": "section",
+   "first_line": 3022,
+   "last_line": 3069,
+   "lead_quote": "List of Light-stations.",
+   "legend_quotes": [
+    "Sp. = Spring; Au. = Autumn; o = No reply; x = Schedule returned partly or wholly filled."
+   ],
+   "printed_count_quote": "In the spring of 1882 forty schedules were forwarded to the light-keepers, and in the autumn forty-one.",
+   "rows_counted": 41,
+   "columns": "no. and station, county; spring/autumn return marks (o/x); miles from shore; names of observers"
+  }
+ ],
+ "_meta": {
+  "year": 1882,
+  "source": "sources/gutenberg/1882_pg65515.txt",
+  "cost_usd": 0.435979
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "items": [
+  {
+   "n": 542,
+   "kind": "place",
+   "ids": [],
+   "place": "Hanover, Lower Saxony, Germany",
+   "note": "Gätke's Heligoland section for 1885 cites inland reports, and the example (\"astounding numbers of 'Crows'\") reads like one of them. In 1885 'Hanover' could mean the city or the Prussian Province of Hanover, which takes in most of the North Sea coast opposite Heligoland. If the context speaks of the country or coast rather than the town, record the place as 'Province of Hanover, Prussia (now Lower Saxony), Germany'."
+  },
+  {
+   "n": 759,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": "The words are 'at Lighthouse' in Gätke's Heligoland notes, so they mean the Heligoland lighthouse, where Gätke made his night watches. stations.json has one Heligoland entry, id 'heligoland' (kind 'other', seen 1880, 1885m and 1887m but not 1885). Your instructions give 'Heligoland' as an example of a place, which conflicts with that entry. If Heligoland is meant to be a place and not a station, change this to kind 'place', place 'Heligoland Lighthouse, Heligoland, Germany'."
+  }
+ ],
+ "notes": "Things to check: (1) Heligoland: stations.json has a station 'heligoland', but your instructions use 'Heligoland' as an example of a place. Decide which it is; the answer for item 759 depends on it. (2) The 'heligoland' station is not marked as seen in 1885 (only in 1885m), and both items come from the 1885 section. Check whether the 1885 station list includes it. (3) Item 542, Hanover: look at the 7 observations to see whether it means the city or the Province of Hanover. Also confirm these are reports Gätke received from elsewhere, not things seen on Heligoland itself.",
+ "_meta": {
+  "run": 1,
+  "coast": "HELIGOLAND",
+  "gen": 0,
+  "cost_usd": 0.5069703999999999,
+  "n_items": 2
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "_about": "Pattern readings where the two runs differ after normalising (group 1 = none for single flashes; a colour cycle read from a different start is the same cycle; a sectored light's main colour is the one named first in its character line). Decided on the source text, 28 Oct 2026.",
+ "77": {
+  "take": "run2",
+  "why": "The second revolving light is shown only during fogs (Findlay 1887: 'During fogs a smaller bright revolving light ... is shown'); not part of the light as normally seen. Noted on the light."
+ },
+ "95": {
+  "take": "run2",
+  "why": "'One bright or red light' with no kind word: Findlay 1879 leaves 'fixed' unsaid for such lights; fixed, kind assumed."
+ },
+ "124": {
+  "take": "run2",
+  "why": "As 95: two lights, fixed, kind assumed; main colour by the rule (bright named first)."
+ },
+ "186": {
+  "take": "run1",
+  "why": "Dubh Artach: 'fixed or occulting' -- fixed over most of the horizon, occulting (visible 10 and 30 secs. alternately at intervals of 10 secs.) only towards Iona and the Torranan Rocks. Drawn fixed; the occulting sector is noted."
+ },
+ "204": {
+  "take": "run1",
+  "why": "Revolving 1 min., bright and red alternately: the colour cycle repeats every 120 s."
+ },
+ "231": {
+  "take": "run1",
+  "why": "'A group of 4 flashes ... in every min., occupying about 22 secs.': the dark of 38 s follows by arithmetic."
+ },
+ "187": {
+  "take": "run1",
+  "why": "Rubha nan Gall, 'One fixed light' with no colour in the character line: bright towards Mull Sound (the channel it marks), red to seaward northward, green towards the rocks. Main colour white; red and green are sectors."
+ }
+}

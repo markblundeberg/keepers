@@ -1,0 +1,470 @@
+{
+ "sections": [
+  {
+   "coast": "(none)",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 1,
+   "last_line": 31,
+   "head_examples": [
+    "The Project Gutenberg eBook of Report on the Migration of Birds",
+    "*** START OF THE PROJECT GUTENBERG EBOOK"
+   ],
+   "observations": "none",
+   "note": "Gutenberg header, up to and including the START marker."
+  },
+  {
+   "coast": "(none)",
+   "title": null,
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 32,
+   "last_line": 129,
+   "head_examples": [
+    "PREFACE.",
+    "CONTENTS.",
+    "THIRD REPORT:"
+   ],
+   "observations": "none",
+   "note": "Title page (32-70), Preface (74-94: who arranged which coast), Contents (99-112), half-title 'THIRD REPORT: ON THE MIGRATION OF BIRDS IN THE SPRING AND AUTUMN OF 1881.' (117-125)."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "Iceland and Faroe",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 130,
+   "last_line": 153,
+   "head_examples": [
+    "EAST COAST OF SCOTLAND.",
+    "Iceland and Faroe.--Schedules, &c., were, as before, forwarded to",
+    "Of _Saxicolinæ_ there is one record on May 13th"
+   ],
+   "observations": "primary",
+   "note": "The coast heading is at line 130. The sub-heading 'Iceland and Faroe.--' starts line 133 and runs straight into the text. Lines 138-148 are the only Faroe records in the report (dated, one place each, run together in one paragraph, a family per sentence: 'Of _Hirundinidæ_, one seen at Thorshavn...'), plus one ship record ('Arcturus', off Orkney). Lines 150-152 give the Faroe winds."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 154,
+   "last_line": 179,
+   "head_examples": [
+    "The usual papers were sent to twenty-six stations, as before.",
+    "Twelve stations on the East Coast of Scotland returned filled-in",
+    "The stations are as follows, commencing in the north."
+   ],
+   "observations": "none",
+   "note": "Says how the list works: asterisk columns mark the years (1879, '80, '81) a station sent returns; the numbers are the same as in the 2nd Report; Fair Isle is added as '7B'."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "East Coast of Scotland",
+   "season": "both",
+   "layout": "station_list",
+   "first_line": 180,
+   "last_line": 218,
+   "head_examples": [
+    "*    *         4. North Uist, Shetland",
+    "*    *    *    7. Sumburgh Head, Shetland",
+    "7B. Fair Isle"
+   ],
+   "observations": "none",
+   "note": "Group sub-headings sit on their own lines: 'Orkney.' (190) and 'Mainland.' (201). The column header '1879, '80, '81.' is at 182. Each row: up to three asterisk columns, then number, name and county, height (ditto marks '\"' for ft.), and keeper. Numbering starts at 4. Line 183 prints 'North Uist' for North Unst. Line 187 has '?  \" --Lawrence.' (height unknown, keeper's surname only). Rows with no keeper are stations that sent no returns."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 219,
+   "last_line": 258,
+   "head_examples": [
+    "Notes received from other sources will appear, as before, after the",
+    "Owing to Mr. T. Anderson having been almost entirely sailing to and fro",
+    "The following short notes on weather are compiled from the 'Times'"
+   ],
+   "observations": "none",
+   "note": "Method notes, the missing Mid-Atlantic returns, and one long weather paragraph (239-257) with dated winds, not birds."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 259,
+   "last_line": 278,
+   "head_examples": [
+    "_Notes._--Prevailing winds at the time of the rush of _Falconidæ_ were",
+    "The only addition to the list of stations is Fair Isle, No. 7 b.",
+    "In all spring records the numbers of stations begin at the most"
+   ],
+   "observations": "summary",
+   "note": "Lines 259-269 give Sparrowhawk records at 'XIV.', i.e. station 14, Pentland Skerries, by Roman numeral (Aug. 19th, 23rd, 24th); the Falconidæ entry (507-508) retells them. Lines 273-277 explain station order (spring entries run south to north, autumn north to south) and the 'maximum station'."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "both",
+   "layout": "species",
+   "first_line": 279,
+   "last_line": 693,
+   "head_examples": [
+    "Turdidæ.--Autumn: Records at Sumburgh Head, Pentland Skerries,",
+    "Saxicolinæ.--Spring: Bell Rock, and Whalsey Skerries. Wheatears.",
+    "Anatidæ.--Wild Geese. Spring: Records at Whalsey Skerries, Auskerry,"
+   ],
+   "observations": "primary",
+   "note": "This coast has no station-by-station entries: these family paragraphs are the only telling of the station returns. Entries are by FAMILY ('Turdidæ.--', 'Sylviinæ.--', ... 'Alcidæ.--'), not by species. Spring and autumn share one paragraph: the 'Spring:' part comes first and the autumn part starts mid-line with '--Autumn:' (e.g. line 309). Several families hold more than one species, run on without a break, each starting mid-line as 'Name.--Spring:' or 'Name.--Autumn:'. For example Anatidæ: 'Swans.--Spring:' 558, 'Eider Ducks.--Spring:' 566, 'Sheldrake.--Autumn:' 576, 'Teal.--' 582. Charadriadæ: 'Oystercatcher.--' 603, 'Lapwing.--' 607, 'Ringed Plover.--' 612. Scolopacidæ: 'Woodcock.--' 620, 'Snipe.--' 623, '\"Sandpipers.\"--' 629. Laridæ: 'Iceland Gull.--' 650, 'Storm Petrels.--' 653. Stations are named in prose, with no markup and no numbers (except 'station 27', 'station 26' at 289-290). The Turdidæ entry carries a long note on the Isle of May rush of Sept. 22nd (287-303), which later entries refer back to. Records from other sources sit inside entries: Lerwick/Dumfries 416-420, Loch Leven 584-588, Aberuthven 594-597, 'Field' 518. Lines 403-405 are in square brackets. The Alcidæ paragraph turns mid-line at 671 ('Besides the 75 identified species, or thereby,') into Isle of May records of unidentified birds (to 692). Line 287 prints 'Bell Pock' for Bell Rock."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "General Remarks",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 694,
+   "last_line": 702,
+   "head_examples": [
+    "General Remarks.",
+    "I have embodied all remarks on both coasts at the end of the Report on"
+   ],
+   "observations": "none",
+   "note": "Only a cross-reference: the remarks for both Scottish coasts come after the West Coast of Scotland (2215 onward)."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 703,
+   "last_line": 735,
+   "head_examples": [
+    "EAST COAST OF ENGLAND.",
+    "Printed forms of enquiry and letters of instruction were sent to",
+    "The east coast stations are as follows, those making returns being"
+   ],
+   "observations": "none",
+   "note": "Lines 733-734 hold the dagger footnote ('† For nature of light, and position and description of station, see previous Reports.'), which belongs to the 'Longstone L.H.†' row on line 736."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "both",
+   "layout": "station_list",
+   "first_line": 736,
+   "last_line": 775,
+   "head_examples": [
+    "Longstone L.H.†",
+    "*Inner Farne L.H.               Thomas H. Cutting.",
+    "*Gull L.V.                     { Francis Harvey and"
+   ],
+   "observations": "none",
+   "note": "No numbers and no heights. A leading '*' marks a station that sent returns. Keeper names are in a right-hand column; rows without a keeper sent no returns. Two keepers share a brace over two lines: Gull L.V. (766-767) and Southsand Head L.V. (768-769). Line 757 '   *Corton L.V.' is indented one space more than the others."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "SEPARATE REPORT ON EACH SPECIES",
+   "season": "both",
+   "layout": "species",
+   "first_line": 776,
+   "last_line": 1627,
+   "head_examples": [
+    "Song Thrush, _Turdus musicus_, Linn.--Spring migration observed at",
+    "Wagtails, _Motacillidæ_.--March 8th, at Whitby, many Pied Wagtails, 9",
+    "Terns, Sterninæ.--At the Farne Islands, in 1881, the Sandwich Terns"
+   ],
+   "observations": "primary",
+   "note": "Sub-heading at line 776. One paragraph per species, headed 'English name, _Latin_, Authority.--'. Some heads wrap onto the next line (866-867, 1475) or name several species ('Whitethroat, _Sylvia rufa_ (Bodd.); Lesser Whitethroat, ...' 883-885). Some lack the underscores (921 'Blue Titmouse, Parus cæruleus, Linn.--'). Some have a query ('Flycatcher, _Muscicapa ?_--' 967; 'Wild Goose, _Anser ?_--' 1285; 'Swan, _Cygnus ?_--' 1300). Family heads appear near the end ('Terns, Sterninæ.--', 'Gulls, Larinæ.--', 'Skuas, Stercorariinæ.--', 'Petrels, Procellariidæ.--', 'Alcidæ.--', 'Colymbidæ.--', 'Podicipitidæ.--'). Entries mix lighthouse and light-vessel records (named 'Cromer L.H.', 'Dudgeon L.V.', '5 Buoy Tees L.V.') with records from independent observers given only here: Heligoland (Gätke), Spurn, Teesmouth (Redcar), N.E. Lincolnshire, Northrepps, and the 'Zool.' and 'Field' journals. Some entries carry spring 1882 notes at the end."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "General Remarks",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 1628,
+   "last_line": 1805,
+   "head_examples": [
+    "General Remarks.",
+    "The results of the observations taken along the East Coast of England",
+    "Short-eared Owls, Golden Crested Wrens, and Woodcocks arrive with great"
+   ],
+   "observations": "summary",
+   "note": "Cordeaux's season summary. It restates dates and rushes from the species entries (Hooded Crows Oct. 17th-19th, Mealy Redpoles Oct. 24th, the Ospreys, the list of rarities)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 1806,
+   "last_line": 1824,
+   "head_examples": [
+    "WEST COAST OF SCOTLAND.",
+    "Schedules, &c., were sent to thirty-eight stations, the same number as",
+    "The dates upon which the various stations have sent us returns are"
+   ],
+   "observations": "none",
+   "note": "Says 'Stations added have the dates preceding the names' (i.e. '1880,' at 1880-1882)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "West Coast of Scotland",
+   "season": "both",
+   "layout": "station_list",
+   "first_line": 1825,
+   "last_line": 1883,
+   "head_examples": [
+    "*    *     *   81. Cape Wrath, Sutherland",
+    "{93. Hynish Signal Tower, Tiree}",
+    "119. 1880, Bahama Bank, Isle of"
+   ],
+   "observations": "none",
+   "note": "Numbered 81-120. Group sub-headings sit on their own lines: 'Mainland.' (1827), 'Outer Hebrides.' (1834), 'Mainland, Skye, and Inner Hebrides.' (1847). Column header '1879, '80, '81.' at 1829. Several rows wrap. Butt of Lewis has two keepers in braces (1836-1837). Monach Island has two heights in braces (1841-1842). Hynish and Skerryvore (93/94) share one brace, height and keeper (1853-1854). Dhuheartach (1855-1856) and Bahama Bank (1880-1881) wrap, and Bahama Bank's keeper is on the continuation line. Line 1852 'Ardnamurchan' prints '180 ft.' where other rows use a ditto mark."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 1884,
+   "last_line": 1887,
+   "head_examples": [
+    "It will be seen upon comparing this last with the previous years of"
+   ],
+   "observations": "none",
+   "note": null
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "both",
+   "layout": "species",
+   "first_line": 1888,
+   "last_line": 2213,
+   "head_examples": [
+    "Turdidæ.--Song Thrush. Spring: Only one record at Stornoway, where a",
+    "Saxicolinæ.--Wheatear. Spring records only from Butt of Lewis, Rhuvaal,",
+    "Hooded Crow. Spring: March 4th, at Rhuvaal; Dhuheartach, June 7th."
+   ],
+   "observations": "primary",
+   "note": "As on the east coast, paragraphs are by FAMILY ('Family.--Species. Spring: ... Autumn: ...'), with no station-by-station entries. Later species in a family run on mid-line with no dash: 'Blackbird. No' 1896, 'Martin. Generally' 1999, 'House Sparrows.' 2010, 'Yellow Bunting.' 2018, 'Raven.' 2051, 'Green' Plover 2145. Under Scolopacidæ: 'Snipe.' 2157, 'Woodcock.' 2159, 'Whimbrel?' 2161, 'Redshank.' 2162, 'Sandpiper.' 2165. Under Anatidæ: 'Eider Duck.' 2121, 'Wild Duck.' 2124, 'Sheldrake.' 2127, 'Wigeon.' 2128, 'Wild Swans.' 2131. Under Larinæ: 'Skua.' 2181, 'Iceland Gull.' 2186. Two paragraphs have no family prefix: 'Hooded Crow.' (2048) and 'Great Northern Divers.--' (2210). 'Pelicanidæ.--' (2076) and 'Pelecanidæ.--' (2195) are both used. Footnotes sit between paragraphs as '[Footnote N: ...]' (1936-1937, 2031-2033, 2071-2074, 2102-2104, 2189) and are marked in the text as '[1]' etc. The text has OCR errors: 'Bushes' for Rushes (1988, 2007) and 'Pushes' (2155). Records from other sources sit inside entries (Mr. Service at 1929, 1907-1909, 2012-2013, 2019-2020)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "General Remarks",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 2214,
+   "last_line": 2395,
+   "head_examples": [
+    "General Remarks.",
+    "In 1879 there was scarcity of birds at many important stations, such as",
+    "[Footnote 6: Mr. R. Service contributes the following:--"
+   ],
+   "observations": "summary",
+   "note": "Covers BOTH Scottish coasts (East Coast refers here). Footnotes 6-8 sit in the run of paragraphs (2285-2304, 2359). Footnote 6 quotes R. Service's Solway observations, which are not given elsewhere. Lines 2236-2238 and 2329-2336 retell remarks by the keeper Mr. Tulloch (North Ronaldshay, formerly of Pentland Skerries)."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 2396,
+   "last_line": 2432,
+   "head_examples": [
+    "WEST COAST OF ENGLAND.",
+    "Schedules, &c., were forwarded to forty lighthouses and light-vessels",
+    "To Mr. Thompson we are indebted for a report from a new station,"
+   ],
+   "observations": "none",
+   "note": "Names keepers in the prose (Mr. Bowen of Caernarvon L.V., disabled; Mr. Richards, retired from Nash W.; Mr. Baker of Milford). Station numbers start at 121."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": null,
+   "season": "both",
+   "layout": "station_list",
+   "first_line": 2433,
+   "last_line": 2495,
+   "head_examples": [
+    "121.  *Allonby, L.H. C. Donald Thompson.",
+    "128.   North Stack, Fog Horn Station. John Harvey, gunner.",
+    "143.   Nash (Low or W.), L.H.--Wilson."
+   ],
+   "observations": "none",
+   "note": "Numbered 121-160. An '*' after the number marks a station that sent returns. Each row runs: name, type (L.H./L.V.), then sometimes the light's character and height, then the keeper(s) at the end ('P. K.' = principal keeper; 'mate'; 'gunner'). Many rows wrap onto indented continuation lines, and Nash (High) runs over 2466-2472. Light characters are given for Milford Low/High, Nash High, Bideford, Lundy, Trevose Head, Longships and Scilly. Line 2460 '(These two are looked upon as one station).' is a non-station line inside the list. Here, unlike on the other coasts, rows without returns still give a keeper."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 2496,
+   "last_line": 2511,
+   "head_examples": [
+    "In the above list particulars of colour and height of lights, &c., are",
+    "Altogether about sixty-two species have been noticed on this"
+   ],
+   "observations": "none",
+   "note": "Says spring notes are not given as a separate report; they appear inside the species entries."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": "SEPARATE REPORT ON EACH SPECIES",
+   "season": "both",
+   "layout": "species",
+   "first_line": 2512,
+   "last_line": 3060,
+   "head_examples": [
+    "Song Thrush, _Tardus musicus_, Linn.; Fieldfare, Turdus pilaris,",
+    "Redwing, _Turdus iliacus_, Linn.--Separately noticed at Godrevy only,",
+    "Dotterel.--At Bideford, in September, hundreds."
+   ],
+   "observations": "primary",
+   "note": "Sub-heading at line 2512. Many entries split into 'Spring:' and 'Autumn:' mid-paragraph. In this report 'Spring' covers Jan.-May 1881, and Jan.-Feb. 1882 records appear under autumn. Several heads name two or more species and wrap onto a second line before the '--' (2514-2515, 2559-2560, 2659-2660, 2663, 2778-2779, 2840-2841, 2939-2940, 2949, 2981-2982). Dateless or odd heads: 'Wagtail, _Motacilla (?)_.--', 'Dotterel.--', 'Gull, _Larus_.--', 'Birds unknown.--' (3053). The Goldcrest/Chiffchaff entry turns mid-line at 2570 ('Taking the whole family of the Turdidæ,') into a summary of the Turdidæ and the compiler's queries to keepers (to 2597). Queries to keepers in parentheses appear throughout. Keepers are quoted by name (W. Lewis, P. K. at 2557)."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": "Additional Remarks",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 3061,
+   "last_line": 3104,
+   "head_examples": [
+    "Additional Remarks.",
+    "Holyhead, Menai, and St. Bees are reported as unfavourable stations",
+    "From the same station Mr. Garret, P.K., writes:--\"These birds (Sea"
+   ],
+   "observations": "primary",
+   "note": "Keepers' general remarks station by station, given only here: Bull Point (Mr. Knott), Great Castle Head (Mr. Spicer), Longships (Mr. Jones), Burnham, Skerries fog-horn (H. Knott 3082-3093; Mr. Garret, P.K. 3095-3103). They are not dated records."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND",
+   "title": "Additional Remarks",
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 3105,
+   "last_line": 3191,
+   "head_examples": [
+    "It is easy to believe that the hideous sound of a fog-horn, till",
+    "The prevailing winds on this coast were:--From August to Sept. 17th,",
+    "The best filled returns have this year been received from Morecambe"
+   ],
+   "observations": "summary",
+   "note": "Kermode's own summary (winds, timing compared with 1880, direction of flight). Short keeper quotes sit inside it: Nash E., Mr. Nicholas, on Gulls and Crows before a gale (3126-3130; the Oct. 13th sighting is also in the Gull entry at 3005); Skerries, Mr. Knott (3182-3184)."
+  },
+  {
+   "coast": "IRISH COAST: AUTUMN",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 3192,
+   "last_line": 3259,
+   "head_examples": [
+    "IRISH COAST: AUTUMN.",
+    "Printed schedules were forwarded to forty light stations around the",
+    "Alexander G. More."
+   ],
+   "observations": "none",
+   "note": "Introduction, signed at 3256-3257 (More; Barrington). It describes the two tables, the keepers' remarks, and the day-by-day arrangement."
+  },
+  {
+   "coast": "IRISH COAST: AUTUMN",
+   "title": "Names of Stations to which Schedules were sent in the Autumn of 1881",
+   "season": "autumn",
+   "layout": "station_list",
+   "first_line": 3260,
+   "last_line": 3309,
+   "head_examples": [
+    "1. Fastnet, Co. Cork",
+    "9. Wicklow Head, do             No reply.",
+    "40. Calf Rock, Cork"
+   ],
+   "observations": "summary",
+   "note": "Numbered 1-40, with no keepers' names (those are in the General Remarks, 3417 onward). The column header runs over 3262-3265: birds striking lantern, no. of daily entries, no. of species in entries, height of lantern above sea-level, miles from shore. 'do.' repeats the county. Some rows read 'No reply.' or 'Do.' (= No reply) across the columns. Tuskar's 'large / numbers' wraps over 3273-3274. Calf Rock reads 'Destroyed in storm, Nov. 1881.' The counts are tallies of the schedules."
+  },
+  {
+   "coast": "IRISH COAST: AUTUMN",
+   "title": "Table showing Date on which Entries were made in Schedules, with No. of Station making same",
+   "season": "autumn",
+   "layout": "table",
+   "first_line": 3310,
+   "last_line": 3416,
+   "head_examples": [
+    "Table showing Date on which Entries were made in Schedules, with No. of",
+    "1. Fastnet",
+    "1st    15"
+   ],
+   "observations": "none",
+   "note": "Lines 3313-3344 list station numbers and names ('10. Kirk Bank' is a misprint for Kish Bank). Then come a day-by-month grid for Sept.-Nov. (3346-3379) and one for Dec.-Jan. (3381-3414); the cells are station numbers. Misprints: '82' for 32 (3351, 3368), '80' for 30 (3384), '3' for 13 (3362, Sept. 14th). It is an index to the diary, not records."
+  },
+  {
+   "coast": "IRISH COAST: AUTUMN",
+   "title": "General Remarks of Light-Keepers",
+   "season": "autumn",
+   "layout": "station",
+   "first_line": 3417,
+   "last_line": 3667,
+   "head_examples": [
+    "1. _Fastnet._--\"Very few birds came on or passed the rock this winter.",
+    "6. _Barrels Rock Light-ship._--General remarks none, but a full",
+    "40. _Calf Rock._ No reply. Destroyed by storm in Nov., 1881."
+   ],
+   "observations": "primary",
+   "note": "One entry per station, numbered 1-40 as in the list: 'N. _Name._--'. Entry 40 has no '--' after the name. Station names differ from the list ('Light-ship' spelled out; '_Rathlin Island._'; '_The Maidens._'; '_Black Rock (Mayo)._'). Each entry ends with the keeper's name after '--' ('--John Tottenham.'), so this is the Irish roll of keepers. 'No reply.' entries (9, 14, 18, 22, 28, 33, 35-37, 40) have no keeper. Most remarks are quoted. Entry 3 (Old Head) retells two diary entries in '(_i. e._ ...)'."
+  },
+  {
+   "coast": "IRISH COAST: AUTUMN",
+   "title": "Daily Entries in Schedules, Sept., 1881, to Jan., 1882",
+   "season": "autumn",
+   "layout": "diary",
+   "first_line": 3668,
+   "last_line": 4212,
+   "head_examples": [
+    "1_st._--Rathlin Island, eighty Swallows, 10 a.m., wind light S.E.,",
+    "6_th._--No entry.",
+    "SEPTEMBER."
+   ],
+   "observations": "primary",
+   "note": "Month headings sit on their own lines: SEPTEMBER. 3673, OCTOBER. 3831, NOVEMBER. 4030, DECEMBER. 4152. Days are written 'N_st._--', 'N_nd._--', 'N_rd._--', 'N_th._--' with no month. Within a day several stations run on in one paragraph, separated only by '. ' before a plain, unmarked station name ('...going E. Slyne Head South, continuous...'). Station spellings vary: 'Arklow South Lt.-ship', 'Barrels Rock Lt.-ship', 'Howth Daily' (3703, misprint for Howth Baily). Some entries span dates ('Rockabill, Oct. 18th to 26th' 3928; 'Copeland Island, Sept. 22nd to 26th' 3791; 'also on Sept. 13th' 3736). The text BREAKS OFF after Dec. 15th (4210): the Dec. 17th-31st and January entries indexed in the table are missing. Line 3892 has an extra blank line."
+  },
+  {
+   "coast": "(none)",
+   "title": "Transcriber Note",
+   "season": "none",
+   "layout": "other",
+   "first_line": 4213,
+   "last_line": 4224,
+   "head_examples": [
+    "*       *       *       *       *",
+    "Transcriber Note",
+    "*** END OF THE PROJECT GUTENBERG EBOOK"
+   ],
+   "observations": "none",
+   "note": "The note says split station tables were rejoined and that '--' was inserted for the missing August date under Wood Pigeon (line 2873)."
+  },
+  {
+   "coast": "(none)",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 4225,
+   "last_line": 4575,
+   "head_examples": [
+    "Updated editions will replace the previous one",
+    "START: FULL LICENSE",
+    "THE FULL PROJECT GUTENBERG™ LICENSE"
+   ],
+   "observations": "none",
+   "note": "Project Gutenberg licence to the end of the file."
+  }
+ ],
+ "notes": "The whole file (1-4575) is covered in 33 consecutive sections, with no gaps or overlaps. The coast headings are at lines 130, 703, 1806, 2396 and 3192. Neither Scottish coast has entries by station or by date: their observations are only the family paragraphs (279-693 and 1888-2213), so those are marked primary. Both English coasts have species reports under 'SEPARATE REPORT ON EACH SPECIES.' (776, 2512). Ireland is autumn only: an introduction, a station table, a table of entry dates, keepers' remarks by station, then a day-by-day diary. The diary stops at Dec. 15th, although the date table and the title promise entries to January 1882. There are keepers' names in all five station lists except Ireland's; Irish keepers are named at the end of each entry in 'General Remarks of Light-Keepers' (3417-3667). The West Coast of England list (2433-2494) also prints light characters and heights for several stations. Misprints worth knowing: 'North Uist' for North Unst (183), 'Kirk Bank' for Kish (3323), 'Howth Daily' (3703), and 'Bushes'/'Pushes' for Rushes in the West Coast of Scotland families.",
+ "_meta": {
+  "year": 1881,
+  "source": "sources/gutenberg/1881_pg65471.txt",
+  "cost_usd": 1.606566
+ }
+}

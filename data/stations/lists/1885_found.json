@@ -1,0 +1,103 @@
+{
+ "lists": [
+  {
+   "section": "LIST OF STATIONS.",
+   "kind": "master",
+   "first_line": 141,
+   "last_line": 257,
+   "lead_quote": "LIST OF STATIONS.",
+   "legend_quotes": [],
+   "printed_count_quote": null,
+   "rows_counted": 195,
+   "columns": "map number and station name, printed two columns side by side, grouped by coast (Iceland/Faroe/Fair Isle, Scotland E, England E, Scotland W, Isle of Man, England W, Ireland, Outlying Stations)"
+  },
+  {
+   "section": "EAST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 539,
+   "last_line": 572,
+   "lead_quote": "EAST OF SCOTLAND.",
+   "legend_quotes": [
+    "The present year's returns will be indicated by asterisks.",
+    "† New Stations, 1885-86.",
+    "We do not repeat the explanation of migration values of the the stations here for the Scotch Coast, that being done in our last Report (_q.v._ p. 10)."
+   ],
+   "printed_count_quote": "The usual schedules were sent to twenty-seven stations.",
+   "rows_counted": 28,
+   "columns": "returns in 6 years; * returns in 1885; map no. and station, county; value (Roman); height in feet"
+  },
+  {
+   "section": "EAST COAST OF SCOTLAND.",
+   "kind": "other",
+   "first_line": 1391,
+   "last_line": 1396,
+   "lead_quote": "The stations returning in order of heaviest schedules and number of entries, as follows:--",
+   "legend_quotes": [
+    "† Some woodcock.",
+    "The records of VIII., X., and XV. refer entirely to Woodcock.",
+    "Table VI. gives relative faunal value of each station in each month."
+   ],
+   "printed_count_quote": null,
+   "rows_counted": 6,
+   "columns": "station by Roman map numeral; Scolopacidae entries per month July-Jan; total (Table VI)"
+  },
+  {
+   "section": "EAST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 1518,
+   "last_line": 1553,
+   "lead_quote": "The East Coast stations included in this report are:--",
+   "legend_quotes": [],
+   "printed_count_quote": "Schedules were sent to forty-five stations, lighthouses, and light-vessels, and returns have been received from forty-two.",
+   "rows_counted": 36,
+   "columns": "station (L.H./L.V.); keepers' names or _Nil._"
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 3980,
+   "last_line": 4020,
+   "lead_quote": "Here follows the list of stations:--",
+   "legend_quotes": [
+    "Note: The names of the Reporters are given under \"Diary from the Stations.\""
+   ],
+   "printed_count_quote": "Schedules, etc., were sent to thirty-four stations, not including the Isle of Man (five more), the schedules of which are passed on to Mr Eagle Clarke for incorporation with the West Coast of England. Of the thirty-four we have received returns from seventeen.",
+   "rows_counted": 35,
+   "columns": "returns in 6 years; * returns in 1885; map no. and station; value (Roman); height in feet"
+  },
+  {
+   "section": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN.",
+   "kind": "section",
+   "first_line": 4640,
+   "last_line": 4704,
+   "lead_quote": "The following is an enumeration of the stations included in this section of the Report, those making returns being marked by an asterisk:--",
+   "legend_quotes": [
+    "The following is an enumeration of the stations included in this section of the Report, those making returns being marked by an asterisk:--"
+   ],
+   "printed_count_quote": "Schedules were sent to the forty-eight lighthouses and light-vessels on the West Coast of England and Wales, and the Isle of Man, and returns have been received from twenty-nine.",
+   "rows_counted": 48,
+   "columns": "* returned; no. on map; L.H./L.V.; station; keepers' names"
+  },
+  {
+   "section": "IRISH COAST.",
+   "kind": "section",
+   "first_line": 5903,
+   "last_line": 5950,
+   "lead_quote": "List of Light-Stations.",
+   "legend_quotes": [
+    "o = No reply.",
+    "x = Schedule returned partly or wholly filled,",
+    "Sp. = Spring, 34 schedules sent out; replies received, 27.",
+    "Au. = Autumn, 34 schedules sent out; replies received, 25."
+   ],
+   "printed_count_quote": "Sp. = Spring, 34 schedules sent out; replies received, 27.",
+   "rows_counted": 39,
+   "columns": "map no.; station and county; spring and autumn return marks (x/o/--); miles from shore; names of observers"
+  }
+ ],
+ "_meta": {
+  "year": 1885,
+  "source": "sources/gutenberg/1885_pg65840.txt",
+  "cost_usd": 0.5271511999999999
+ }
+}

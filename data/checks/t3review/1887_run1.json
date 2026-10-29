@@ -1,0 +1,70 @@
+{
+ "flags": [
+  {
+   "id": "3:wind",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "Text has \"(E.S.E, 4, to E.N.E., 7; …)\": the wind shift is split by the force, so no unbroken string \"E.S.E. to E.N.E.\" can be copied. Taking only the first wind is allowed. Separately, the missing stop after \"E.S.E\" copies the text and is a Gutenberg slip (print has \"E.S.E.,\")."
+  },
+  {
+   "id": "3:force",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The text matches the print here: \"4, to E.N.E., 7\". Whether force covers the whole shift (\"4 … 7\" isn't one unbroken string) or just the first value, \"4\", is a judgement call."
+  },
+  {
+   "id": "19:date_iso",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "Text reads \"_May._--6th, at Butt of Lewis\", and the record copies it exactly. The checker reads 26th in the print. Check the scan: the checker didn't also flag `date` \"6th\", which hints they may have misread."
+  },
+  {
+   "id": "27:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The flocks were \"going N.E.\", so passing is right for the eighty. \"The second flock rested about ten minutes on island\" calls for a separate settled observation (one per behaviour), not a change to this one. Check whether that settled observation was extracted."
+  },
+  {
+   "id": "27:direction",
+   "kind": "extraction",
+   "right_value": "from the westward",
+   "why": "The text gives a direction for these flocks: \"eighty in the second. They came from the westward.\" (and earlier \"going N.E.\"), so null is wrong. The quote needs extending."
+  },
+  {
+   "id": "42:species",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The heading \"Skylark (Alauda arvensis)\" isn't in the chunk or the context. The context's entries for this section name the birds \"Larks\" (\"Larks at lantern\"), which can be copied from context."
+  },
+  {
+   "id": "75:species",
+   "kind": "extraction",
+   "right_value": "Blackbirds; Thrushes; Larks; Redwings; Fieldfares; Robin (one obs each, count \"a few\", count_shared true)",
+   "why": "\"Blackbirds, Thrushes, Larks, Redwings, Fieldfares, and one Robin at lantern…; a few killed\": the continuing clause shares its birds (as in Example 1), so species shouldn't be null."
+  },
+  {
+   "id": "88:time",
+   "kind": "extraction",
+   "right_value": "9 to 11 P.M.",
+   "why": "\"…striking, 9 to 11 P.M. (156 Larks, twelve Starlings, twenty-four Chaffinches killed.)\": the bracket gives the toll of that same striking, so it shares the time."
+  },
+  {
+   "id": "95:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"from 7 P.M. to 3 A.M. (9th).\" ends a sentence. \"Caught eighteen Thrushes…\" starts a new one, so how far the time reaches is open."
+  },
+  {
+   "id": "96:time",
+   "kind": "extraction",
+   "right_value": "between 9 and 11 P.M.",
+   "why": "\"A few birds at lantern between 9 and 11 P.M.; eighteen killed--… one Redwing\": the same clause continues after a semicolon, so it shares the time, as in Example 1."
+  }
+ ],
+ "_meta": {
+  "year": 1887,
+  "run": 1,
+  "cost_usd": 0.2768992,
+  "n_flags": 10
+ }
+}

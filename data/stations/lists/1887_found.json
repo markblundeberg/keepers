@@ -1,0 +1,82 @@
+{
+ "lists": [
+  {
+   "section": "LIST OF STATIONS. (front matter, under the map \"MAP OF THE British Islands SHOWING THE POSITIONS OF THE LIGHTHOUSES & LIGHT VESSELS STATIONS TO WHICH SCHEDULES ARE SENT BY THE COMMITTEE.\")",
+   "kind": "master",
+   "first_line": 134,
+   "last_line": 251,
+   "lead_quote": "LIST OF STATIONS.",
+   "legend_quotes": [],
+   "printed_count_quote": null,
+   "rows_counted": 195,
+   "columns": "Map number and station name (L.H./L.V. after English names), printed two columns side by side, grouped by coast. Counts: N. outliers 1–3b (4), Scotland E. (27, incl. 28b), England E. (36), Scotland W. (35, incl. 109b), Isle of Man (4), England W. (44), Ireland (40, own numbering 1–40 with 5*, 8*; no 9 or 35), Outlying Stations (5, unnumbered, lines 247–251). Numbers 66–80 are not used."
+  },
+  {
+   "section": "EAST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 286,
+   "last_line": 321,
+   "lead_quote": "We repeat the List of Stations with Returns up to date.",
+   "legend_quotes": [],
+   "printed_count_quote": null,
+   "rows_counted": 28,
+   "columns": "Subheaded \"EAST OF SCOTLAND.\" Schedules filled in 1887; returns in 9 years incl. 1887; * = actual returns in 1887; map no. and station (with county); light 'Values' (Roman numerals); height in feet. Grouped Shetland/Orkney/Mainland; includes 26B Carr Rock Lightship and 28B Fidra. No keepers' names: line 276 says \"Note: The names of the Reporters are given under \"Diary from the Stations.\"\""
+  },
+  {
+   "section": "EAST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 986,
+   "last_line": 1019,
+   "lead_quote": "East Coast stations included in this report are:--",
+   "legend_quotes": [],
+   "printed_count_quote": "Schedules were issued to thirty-four stations, lighthouses, and light-vessels on the East Coast of England, and returns have been received from thirty-one.",
+   "rows_counted": 34,
+   "columns": "Station (with L.H./L.V.) and keepers' names; _Nil._ (no return) for Spurn L.V., Hasbro' L.H., Tongue L.V. (34 − 3 = 31, which agrees with the print). No map numbers. Includes Goodwin L.V. and Hanois L.H., Guernsey."
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 2807,
+   "last_line": 2846,
+   "lead_quote": "LIST OF STATIONS.",
+   "legend_quotes": [],
+   "printed_count_quote": null,
+   "rows_counted": 35,
+   "columns": "Same layout as East Scotland: schedules filled in 1887; returns in 9 years incl. 1887; * = returned in 1887; map no. 81–114 (+109B Ailsa Craig) and station; Values; Feet. Line 2798 says \"The names of the Reporters are given under \"Diary from the Stations.\"\""
+  },
+  {
+   "section": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN.",
+   "kind": "section",
+   "first_line": 3357,
+   "last_line": 3426,
+   "lead_quote": "The following is an enumeration of the stations included in this section of the Report:--",
+   "legend_quotes": [
+    "Schedules and letters of instruction, with stamped envelopes for wings, were sent to the fifty-three under-mentioned lighthouses and light-vessels on the West and South-West Coasts of England, the Coasts of Wales, and the Isle of Man, and returns have been received from the thirty-four stations marked with an asterisk."
+   ],
+   "printed_count_quote": "Schedules and letters of instruction, with stamped envelopes for wings, were sent to the fifty-three under-mentioned lighthouses and light-vessels on the West and South-West Coasts of England, the Coasts of Wales, and the Isle of Man, and returns have been received from the thirty-four stations marked with an asterisk.",
+   "rows_counted": 53,
+   "columns": "* = return received; 'No. on Map.' 115–167; L.H./L.V.; station; observers' names. Grouped Isle of Man / N. W. England / North Wales / South Wales / Bristol Channel / South-Western England. 53 rows agrees with the print, but 39 rows carry *, not 34. 130 St Tudwal's has names but no *; 144 Usk has * but no names."
+  },
+  {
+   "section": "IRISH COAST.",
+   "kind": "section",
+   "first_line": 5195,
+   "last_line": 5234,
+   "lead_quote": "List of Light Stations.",
+   "legend_quotes": [
+    "SF =  Schedules Filled.  LW = Legs, Wings,   etc., Received.",
+    "LS = Light-ship  MS = Miles from Shore.",
+    "o  = No reply. x = Schedules returned partly or wholly filled.",
+    "Sp = Spring, replies received, 23. Au = Autumn, replies received, 28."
+   ],
+   "printed_count_quote": "The schedules number seventy-five, from thirty-one stations.",
+   "rows_counted": 31,
+   "columns": "Map no. (Irish numbering, incl. 5_a_, 5.*, 7_a_, 8.*, 12_b_, 14.*), station and county; SF; LW; remarks on schedule; Sp/Au (x/o); MS; names of observers. Lead-in is the column heading; the 'Abbreviations:' block is at lines 5187–5190. The note at lines 5236–5244 names the stations left out and the four new ones."
+  }
+ ],
+ "_meta": {
+  "year": 1887,
+  "source": "sources/gutenberg/1887_pg66152.txt",
+  "cost_usd": 0.557648
+ }
+}

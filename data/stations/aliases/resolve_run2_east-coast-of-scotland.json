@@ -1,0 +1,802 @@
+{
+ "items": [
+  {
+   "n": 46,
+   "kind": "place",
+   "ids": [],
+   "place": "Aberuthven, Perthshire",
+   "note": "A wood at Aberuthven, near Auchterarder."
+  },
+  {
+   "n": 51,
+   "kind": "place",
+   "ids": [],
+   "place": "Allan Water, Stirlingshire",
+   "note": "OCR 'Waiter' for 'Water'. It is the river (Strathallan / Bridge of Allan), not a town."
+  },
+  {
+   "n": 97,
+   "kind": "place",
+   "ids": [],
+   "place": "Baltasound, Unst, Shetland",
+   "note": "A village on Unst. Not the North Unst (Muckle Flugga) light."
+  },
+  {
+   "n": 115,
+   "kind": "place",
+   "ids": [],
+   "place": "West Grange, near Kincardine-on-Forth, Perthshire (now Fife)",
+   "note": "Bath Hill Wood on the West Grange estate. The text places it near Alloa."
+  },
+  {
+   "n": 121,
+   "kind": "station",
+   "ids": [
+    "bell-rock"
+   ],
+   "place": null,
+   "note": "Read as an OCR garble of 'Bell Rock' (P for R, c for k). A night record (13th to 14th) fits a lantern station."
+  },
+  {
+   "n": 122,
+   "kind": "place",
+   "ids": [],
+   "place": "Berwickshire, Scotland",
+   "note": null
+  },
+  {
+   "n": 144,
+   "kind": "place",
+   "ids": [],
+   "place": "Blacksboat, Strathspey, Moray (Banffshire)",
+   "note": "Blacksboat ferry or railway station on the Spey near Ballindalloch. The 'station' here is the railway station, not a lighthouse."
+  },
+  {
+   "n": 147,
+   "kind": "place",
+   "ids": [],
+   "place": "Blackburn, near Chirnside, Berwickshire",
+   "note": null
+  },
+  {
+   "n": 168,
+   "kind": "place",
+   "ids": [],
+   "place": "Bridge of Allan, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 174,
+   "kind": "place",
+   "ids": [],
+   "place": "Brucklay Castle, New Deer, Aberdeenshire",
+   "note": null
+  },
+  {
+   "n": 243,
+   "kind": "place",
+   "ids": [],
+   "place": "Cockburnspath, Berwickshire",
+   "note": "The example reads 'on coast on Cockburn's-path', meaning the coast near Cockburnspath."
+  },
+  {
+   "n": 272,
+   "kind": "place",
+   "ids": [],
+   "place": "Cromarty Firth, Ross and Cromarty",
+   "note": "The firth as a whole ('and elsewhere on the East Coast'), not the Cromarty lighthouse."
+  },
+  {
+   "n": 281,
+   "kind": "place",
+   "ids": [],
+   "place": "Cullen, Banffshire",
+   "note": null
+  },
+  {
+   "n": 286,
+   "kind": "place",
+   "ids": [],
+   "place": "Dalkeith (Dalkeith Palace gardens), Midlothian",
+   "note": null
+  },
+  {
+   "n": 304,
+   "kind": "place",
+   "ids": [],
+   "place": "Doune, Perthshire (now Stirling)",
+   "note": "'same county': check which county the previous sentence names. Doune was in Perthshire, but the context may be Stirlingshire."
+  },
+  {
+   "n": 308,
+   "kind": "place",
+   "ids": [],
+   "place": "Drumtochty Castle, Kincardineshire",
+   "note": null
+  },
+  {
+   "n": 315,
+   "kind": "place",
+   "ids": [],
+   "place": "Dumfries, Dumfriesshire",
+   "note": null
+  },
+  {
+   "n": 318,
+   "kind": "place",
+   "ids": [],
+   "place": "Dundee, Forfarshire (Angus)",
+   "note": null
+  },
+  {
+   "n": 323,
+   "kind": "station",
+   "ids": [
+    "dunnet-head"
+   ],
+   "place": null,
+   "note": "'Dunnet' alone, used among station dates ('latest at Dunnet on 14th'), most likely means the Dunnet Head light. Check all 5 observations, since the village of Dunnet is also possible."
+  },
+  {
+   "n": 328,
+   "kind": "place",
+   "ids": [],
+   "place": "Dwarwick Head, Dunnet Bay, Caithness",
+   "note": "Hyphen from a line break. This describes a stretch of coast (gull colonies), not a station."
+  },
+  {
+   "n": 368,
+   "kind": "place",
+   "ids": [],
+   "place": "Edinburgh, Midlothian",
+   "note": null
+  },
+  {
+   "n": 430,
+   "kind": "station",
+   "ids": [
+    "fidra"
+   ],
+   "place": null,
+   "note": "XXVIII. B. is Fidra's map number."
+  },
+  {
+   "n": 431,
+   "kind": "place",
+   "ids": [],
+   "place": "Fife, Scotland",
+   "note": null
+  },
+  {
+   "n": 433,
+   "kind": "place",
+   "ids": [],
+   "place": "Firth of Forth, Scotland",
+   "note": "11 observations. Some may be the Forth stations (Isle of May, Inchkeith) reported jointly, so check whether any should be 'stations'."
+  },
+  {
+   "n": 462,
+   "kind": "place",
+   "ids": [],
+   "place": "Forfarshire (Angus), Scotland",
+   "note": "The county is meant ('localities in Forfar, Perth, and Stirlingshire'), not the town."
+  },
+  {
+   "n": 478,
+   "kind": "place",
+   "ids": [],
+   "place": "Glen Quaich, Perthshire",
+   "note": null
+  },
+  {
+   "n": 480,
+   "kind": "place",
+   "ids": [],
+   "place": "Glenbervie, near Larbert, Stirlingshire",
+   "note": "'Glenboerie' is unidentified as printed. Read as Glenbervie (Larbert), which is near Harvie-Brown's Dunipace. Glenboig is in Lanarkshire, so less likely."
+  },
+  {
+   "n": 482,
+   "kind": "place",
+   "ids": [],
+   "place": "Glendoune House, Girvan, Ayrshire",
+   "note": "A west-coast place printed in the East Scotland section."
+  },
+  {
+   "n": 544,
+   "kind": "place",
+   "ids": [],
+   "place": "Harris, Outer Hebrides (Inverness-shire)",
+   "note": null
+  },
+  {
+   "n": 581,
+   "kind": "place",
+   "ids": [],
+   "place": "Hermaness Hill, Unst, Shetland",
+   "note": "'Hermann's Hill' read as Hermaness, the hill above Muckle Flugga. This may come from the North Unst keeper's return, but it names the hill, not the light."
+  },
+  {
+   "n": 582,
+   "kind": "place",
+   "ids": [],
+   "place": "Hermaness Hill, Unst, Shetland",
+   "note": "Same as n 581."
+  },
+  {
+   "n": 586,
+   "kind": "place",
+   "ids": [],
+   "place": "Higgins Neuk, near Airth, Stirlingshire",
+   "note": "The date printed is 1875, an old record."
+  },
+  {
+   "n": 589,
+   "kind": "place",
+   "ids": [],
+   "place": "Haroldswick, Unst, Shetland",
+   "note": "Misspelling of Haroldswick."
+  },
+  {
+   "n": 602,
+   "kind": "stations",
+   "ids": [
+    "hoy-low",
+    "hoy-high"
+   ],
+   "place": null,
+   "note": "'vicinity of Hoy Sound' probably comes from the Hoy Sound keepers' returns, which cover two lights (High and Low). If the source is a general remark, it should be a place: Hoy Sound, Orkney."
+  },
+  {
+   "n": 627,
+   "kind": "place",
+   "ids": [],
+   "place": "Hvítanes, Streymoy, Faroe Islands",
+   "note": "'Hvidenov, near Thorshavn': most likely Hvítanes (Danish Hvidenæs). Faroe is a station only in 1885m and 1887m."
+  },
+  {
+   "n": 628,
+   "kind": "station",
+   "ids": [
+    "fidra"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 646,
+   "kind": "place",
+   "ids": [],
+   "place": "Rùm, Inner Hebrides (Inverness-shire)",
+   "note": "'near Island of Rum': the sighting may have been at sea."
+  },
+  {
+   "n": 650,
+   "kind": "station",
+   "ids": [
+    "isle-of-may"
+   ],
+   "place": null,
+   "note": "OCR garble ('Isle ii May')."
+  },
+  {
+   "n": 660,
+   "kind": "place",
+   "ids": [],
+   "place": "Kelso, Roxburghshire",
+   "note": null
+  },
+  {
+   "n": 673,
+   "kind": "place",
+   "ids": [],
+   "place": "Kincardine-on-Forth, Perthshire (now Fife)",
+   "note": "Could also mean Kincardineshire. Kincardine-on-Forth is preferred because the section's Forth/Stirlingshire observers are close by. Check the context."
+  },
+  {
+   "n": 687,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkjubøur, Streymoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 690,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkwall, Orkney",
+   "note": "Old record (1859)."
+  },
+  {
+   "n": 752,
+   "kind": "place",
+   "ids": [],
+   "place": "Lerwick, Shetland",
+   "note": "The town. Bressay light (printed also as 'Bressay Sound') faces Lerwick, so some of the 5 observations may be the Bressay keeper's. Check each."
+  },
+  {
+   "n": 756,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Lewis, Outer Hebrides",
+   "note": "'Lewes' is a misspelling of Lewis (Harvie-Brown in the Hebrides), not Lewes in Sussex."
+  },
+  {
+   "n": 778,
+   "kind": "place",
+   "ids": [],
+   "place": "Loch Leven, Kinross-shire",
+   "note": null
+  },
+  {
+   "n": 780,
+   "kind": "place",
+   "ids": [],
+   "place": "Loch Tay, Perthshire",
+   "note": null
+  },
+  {
+   "n": 781,
+   "kind": "place",
+   "ids": [],
+   "place": "Loch of Cliff, Unst, Shetland",
+   "note": "6 observations. Possibly reported by the North Unst keeper, but it names the loch."
+  },
+  {
+   "n": 848,
+   "kind": "place",
+   "ids": [],
+   "place": "Midlothian, Scotland",
+   "note": null
+  },
+  {
+   "n": 859,
+   "kind": "place",
+   "ids": [],
+   "place": "Longside parish, Aberdeenshire ('Monyruy')",
+   "note": "'Monyruy' is not identified. Possibly Mains of Mony/Moneyrue near Longside. Check the spelling against the 1886 report."
+  },
+  {
+   "n": 860,
+   "kind": "place",
+   "ids": [],
+   "place": "Moray Firth, Scotland",
+   "note": null
+  },
+  {
+   "n": 874,
+   "kind": "station",
+   "ids": [
+    "auskerry"
+   ],
+   "place": null,
+   "note": "'N.' is probably a garbled map numeral (IX.?) printed before the station name."
+  },
+  {
+   "n": 876,
+   "kind": "station",
+   "ids": [
+    "north-ronaldsay"
+   ],
+   "place": null,
+   "note": "OCR garble of 'N. Ronaldshay'."
+  },
+  {
+   "n": 877,
+   "kind": "place",
+   "ids": [],
+   "place": "North Rona, Outer Hebrides (Ross and Cromarty)",
+   "note": "The remote island North Rona (bird shot June 1886). Not the Rona station, which is South Rona near Skye."
+  },
+  {
+   "n": 878,
+   "kind": "station",
+   "ids": [
+    "north-ronaldsay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 879,
+   "kind": "station",
+   "ids": [
+    "north-ronaldsay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 941,
+   "kind": "station",
+   "ids": [
+    "north-ronaldsay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 956,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland, England",
+   "note": null
+  },
+  {
+   "n": 961,
+   "kind": "station",
+   "ids": [
+    "noss-head"
+   ],
+   "place": null,
+   "note": "'at Noss' in a dated list probably means the Noss Head light (Caithness), but the Isle of Noss in Shetland is possible. Check."
+  },
+  {
+   "n": 962,
+   "kind": "place",
+   "ids": [],
+   "place": "Nólsoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 963,
+   "kind": "place",
+   "ids": [],
+   "place": "Oldcambus, Berwickshire",
+   "note": null
+  },
+  {
+   "n": 967,
+   "kind": "place",
+   "ids": [],
+   "place": "Orkney, Scotland",
+   "note": "The islands as a whole, not one station."
+  },
+  {
+   "n": 985,
+   "kind": "place",
+   "ids": [],
+   "place": "Pease Dean, Cockburnspath, Berwickshire",
+   "note": null
+  },
+  {
+   "n": 988,
+   "kind": "place",
+   "ids": [],
+   "place": "Penmanshiel, Berwickshire",
+   "note": null
+  },
+  {
+   "n": 991,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 992,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 996,
+   "kind": "place",
+   "ids": [],
+   "place": "Pentland Firth, Caithness/Orkney",
+   "note": null
+  },
+  {
+   "n": 997,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "OCR 'Skerrves'."
+  },
+  {
+   "n": 1000,
+   "kind": "place",
+   "ids": [],
+   "place": "Perthshire, Scotland",
+   "note": "The county is meant, not the city."
+  },
+  {
+   "n": 1056,
+   "kind": "place",
+   "ids": [],
+   "place": "Rothesay, Isle of Bute (Buteshire)",
+   "note": "A west-coast place printed in the East section."
+  },
+  {
+   "n": 1135,
+   "kind": "place",
+   "ids": [],
+   "place": "Solway Firth district, Dumfriesshire and Kirkcudbrightshire",
+   "note": null
+  },
+  {
+   "n": 1141,
+   "kind": "place",
+   "ids": [],
+   "place": "South Ronaldsay, Orkney",
+   "note": "The Pentland Skerries keeper heard the bird while visiting South Ronaldsay, so this is not the station."
+  },
+  {
+   "n": 1190,
+   "kind": "place",
+   "ids": [],
+   "place": "St Andrews, Fife",
+   "note": null
+  },
+  {
+   "n": 1206,
+   "kind": "station",
+   "ids": [
+    "start-point-orkney"
+   ],
+   "place": null,
+   "note": "The Sanday light, not Start Point in Devon (the east Scotland coast decides it)."
+  },
+  {
+   "n": 1224,
+   "kind": "place",
+   "ids": [],
+   "place": "Stirlingshire, Scotland",
+   "note": null
+  },
+  {
+   "n": 1226,
+   "kind": "place",
+   "ids": [],
+   "place": "Stirlingshire shore of the Firth of Forth, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1233,
+   "kind": "place",
+   "ids": [],
+   "place": "Suðuroy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 1237,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1238,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1239,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": "'Sumburgh' alone. Assumed to be the light because a timed sighting (10 a.m.) reads like a keeper's return."
+  },
+  {
+   "n": 1241,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": "OCR 'Sumburgli'."
+  },
+  {
+   "n": 1272,
+   "kind": "place",
+   "ids": [],
+   "place": "Thorntonloch, East Lothian",
+   "note": null
+  },
+  {
+   "n": 1273,
+   "kind": "place",
+   "ids": [],
+   "place": "Tórshavn, Streymoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 1278,
+   "kind": "place",
+   "ids": [],
+   "place": "Torwood, near Larbert, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1280,
+   "kind": "place",
+   "ids": [],
+   "place": "Torwood, near Larbert, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1282,
+   "kind": "place",
+   "ids": [],
+   "place": "Touch, near Stirling, Stirlingshire",
+   "note": "Touch estate woods."
+  },
+  {
+   "n": 1293,
+   "kind": "station",
+   "ids": [
+    "muckle-flugga"
+   ],
+   "place": null,
+   "note": "The island name used for its light (North Unst). Some of the 8 observations (e.g. 'a few breed at Unst') describe the island in general and may be better as the place Unst, Shetland. Check each."
+  },
+  {
+   "n": 1294,
+   "kind": "station",
+   "ids": [
+    "muckle-flugga"
+   ],
+   "place": null,
+   "note": "Unst's map number is IV, and XIV is Pentland Skerries. '(XIV.)' is probably a misprint or OCR of '(IV.)'. Check the source."
+  },
+  {
+   "n": 1306,
+   "kind": "place",
+   "ids": [],
+   "place": "Viðareiði, Viðoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 1307,
+   "kind": "place",
+   "ids": [],
+   "place": "Hvalvík, Streymoy, Faroe Islands",
+   "note": "'Vivalvig, Strómó' read as Hvalvík."
+  },
+  {
+   "n": 1313,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Scotland",
+   "note": "Vague (Woodcock bag). Could be 'none' if you need a specific locality."
+  },
+  {
+   "n": 1319,
+   "kind": "station",
+   "ids": [
+    "out-skerries"
+   ],
+   "place": null,
+   "note": "Whalsey Skerries light. Birds were flying round the lantern."
+  },
+  {
+   "n": 1345,
+   "kind": "place",
+   "ids": [],
+   "place": "Wick, Caithness",
+   "note": "The town, e.g. Mr Sinclair's collection. Noss Head light is nearby, so check whether either observation is a keeper's return."
+  },
+  {
+   "n": 1361,
+   "kind": "station",
+   "ids": [
+    "north-ronaldsay"
+   ],
+   "place": null,
+   "note": "'X.' is OCR for 'N.'."
+  },
+  {
+   "n": 1362,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "Map number XIV."
+  },
+  {
+   "n": 1363,
+   "kind": "station",
+   "ids": [
+    "isle-of-may"
+   ],
+   "place": null,
+   "note": "Map number XXVII."
+  },
+  {
+   "n": 1378,
+   "kind": "station",
+   "ids": [
+    "dunnet-head"
+   ],
+   "place": null,
+   "note": "Named beside Pentland Skerries as a reporting station."
+  },
+  {
+   "n": 1436,
+   "kind": "place",
+   "ids": [],
+   "place": "Eastern counties of Scotland",
+   "note": "A region."
+  },
+  {
+   "n": 1438,
+   "kind": "place",
+   "ids": [],
+   "place": "Firth of Tay, Fife/Forfarshire",
+   "note": null
+  },
+  {
+   "n": 1451,
+   "kind": "place",
+   "ids": [],
+   "place": "Perthshire Highlands, Perthshire",
+   "note": null
+  },
+  {
+   "n": 1479,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "A ship, the steamer 'Arcturus' (Leith–Faroe–Iceland mail), so 'on board'. Position unknown."
+  },
+  {
+   "n": 1494,
+   "kind": "place",
+   "ids": [],
+   "place": "Hebrides, Scotland",
+   "note": null
+  },
+  {
+   "n": 1497,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Lewis, Outer Hebrides",
+   "note": null
+  },
+  {
+   "n": 1512,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Scotland",
+   "note": "Vague. Birch woods of the west Highlands."
+  },
+  {
+   "n": 1517,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "'the island' refers back to a name not captured (a visit 27 Sept–17 Oct 1884). Read the context. It may be a station island such as the Isle of May, or somewhere else."
+  },
+  {
+   "n": 1528,
+   "kind": "place",
+   "ids": [],
+   "place": "South-west Scotland (Ayrshire, Renfrewshire, Wigtownshire etc.)",
+   "note": "A region."
+  }
+ ],
+ "notes": "Checks suggested: (1) n 1294 'Unst (XIV.)': XIV is Pentland Skerries, not Unst (IV). Confirm it is a misprint. (2) n 1517 'the island': resolve from the surrounding text. (3) n 602 'Hoy Sound': I gave both Hoy lights. Make it a place if it is general text. (4) Short names given as stations: 'Dunnet' (n 323, 5 obs), 'Noss' (n 961), 'Sumburgh' (n 1239), 'Unst' (n 1293, 8 obs). Check each observation, since some may be the village or island rather than the light. (5) Places that may actually be keeper returns: Lerwick (Bressay), Wick (Noss Head), Loch of Cliff and Hermaness (North Unst), Firth of Forth (Forth stations). (6) Uncertain identifications: Glenboerie (Glenbervie, Larbert?), Monyruy (Longside), Hvidenov (Hvítanes), Kincardine (on-Forth or the county?), Bell Pock (Bell Rock). (7) Several items are not on the east coast of Scotland (Faroe, Lewis/Harris, Rum, Rothesay, Girvan, Dumfries/Solway, Northumberland). They are kept as places, but check that their section tags are right.",
+ "_meta": {
+  "run": 2,
+  "coast": "EAST COAST OF SCOTLAND",
+  "gen": 0,
+  "cost_usd": 0.4307162,
+  "n_items": 105
+ }
+}

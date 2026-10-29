@@ -1,0 +1,4007 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "green"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white?"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white?"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 15,
+     "colours": [
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 5,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 45,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "lights": [
+    {
+     "kind": "fixed_flashing",
+     "group": null,
+     "period_s": 7.5,
+     "colours": [
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 84,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 90,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 15,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 15,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "lights": [
+    {
+     "kind": "unknown",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 100,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 240,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 105,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 106,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 117,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 20,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "green"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "lights": [
+    {
+     "kind": "unknown",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "unknown",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white?"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 5,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 151,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 152,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 153,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 180,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 154,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 155,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 156,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 157,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 158,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 5,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 159,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 160,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 161,
+   "lights": [
+    {
+     "kind": "intermittent",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 162,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 163,
+   "lights": []
+  },
+  {
+   "n": 164,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 165,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 4,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 166,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 167,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 15,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 168,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 169,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 170,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 171,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 172,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 173,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 174,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white?"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 175,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 10,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 176,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 177,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 24,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 178,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 180,
+     "colours": [
+      "white?"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 179,
+   "lights": [
+    {
+     "kind": "intermittent",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 180,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 12,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 181,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 182,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 183,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 184,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 185,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 186,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 187,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 188,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 189,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 190,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 191,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 192,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 193,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 194,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 5,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 195,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 196,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 197,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 198,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 24,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 199,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 200,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 201,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 202,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 12,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 203,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 204,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 205,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 206,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 207,
+   "lights": [
+    {
+     "kind": "intermittent",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 208,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 45,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 209,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 5,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 210,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 211,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 212,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 213,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 214,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red",
+      "green"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 215,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 216,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 3,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 217,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 218,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 30,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 219,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 180,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 220,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 120,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 221,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 222,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 223,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 224,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 225,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 13,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 226,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 227,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 228,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 12,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 229,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 230,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 231,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 4,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 232,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 233,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 234,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 235,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 236,
+   "lights": [
+    {
+     "kind": "unknown",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red",
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 237,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 238,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 239,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 40,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 240,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 241,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 242,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 243,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 244,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 245,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 30,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 246,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 247,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 248,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 360,
+     "colours": [
+      "white",
+      "red"
+     ]
+    },
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 249,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 250,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 251,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 252,
+   "lights": [
+    {
+     "kind": "occulting",
+     "group": null,
+     "period_s": 24,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 253,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white",
+      "red"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 254,
+   "lights": [
+    {
+     "kind": "revolving",
+     "group": null,
+     "period_s": 90,
+     "colours": [
+      "white?"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 255,
+   "lights": [
+    {
+     "kind": "group_flashing",
+     "group": 2,
+     "period_s": 60,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 256,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 257,
+   "lights": [
+    {
+     "kind": "fixed",
+     "group": null,
+     "period_s": null,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 258,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 15,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 259,
+   "lights": [
+    {
+     "kind": "flashing",
+     "group": null,
+     "period_s": 15,
+     "colours": [
+      "white"
+     ]
+    }
+   ]
+  }
+ ],
+ "_meta": {
+  "cost_usd": 0.7584956
+ }
+}

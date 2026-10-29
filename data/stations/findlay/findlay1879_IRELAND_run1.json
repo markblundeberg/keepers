@@ -1,0 +1,342 @@
+{
+ "matches": [
+  {
+   "id": "fastnet",
+   "row": "p52r0",
+   "extra_rows": [
+    "p56r16"
+   ],
+   "confidence": "high",
+   "note": "Findlay prints Fastnet twice: once at the head of the South Coast (p52r0), and again as FASTNET ROCK at the end of the West Coast (p56r16). Both have the same character and position, so p56r16 is a repeat of the same light, not a second light."
+  },
+  {
+   "id": "galley-head",
+   "row": "p52r1",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "old-head-of-kinsale",
+   "row": "p52r2",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is KINSALE OLD HEAD. Don't confuse it with Kinsale Harbour (p52r3)."
+  },
+  {
+   "id": "mine-head",
+   "row": "p52r14",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is MINEHEAD."
+  },
+  {
+   "id": "ballinacourty",
+   "row": "p52r15",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is Dungarvan, with the description 'On Ballinacourty Pt.'"
+  },
+  {
+   "id": "hook-head",
+   "row": "p52r17",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is HOOK TOWER."
+  },
+  {
+   "id": "coningbeg-lv",
+   "row": "p53r0",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is SALTEES LIGHT-VES. Its position, 52 2.4N 6 40.0W, is at the Coningbeg Rock, and it falls between Hook Tower and Tuskar in the coast order. Findlay files it under the East Coast head."
+  },
+  {
+   "id": "barrels-lv",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Findlay has no entry between Saltees and Tuskar. The Barrels light-vessel seems to have been placed after this edition (c.1880)."
+  },
+  {
+   "id": "tuskar-rock",
+   "row": "p53r1",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "One printed form, 'Tuskar Rock Lt.-ship', is a slip in the reports. The station is the lighthouse."
+  },
+  {
+   "id": "lucifer-shoals-lv",
+   "row": "p53r2",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arklow-south-lv",
+   "row": "p53r4",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arklow-north-lv",
+   "row": "p53r5",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay says the character was to be altered in spring 1879 (two fixed lights to a revolving light). The 1879 character may be out of date for the report years."
+  },
+  {
+   "id": "wicklow-head",
+   "row": "p53r6",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kish-bank-lv",
+   "row": "p53r9",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is KISH LIGHTVESSEL. The reports' 'Kirk Bank' is a misprint. Don't confuse it with the Vanguard wreck light-vessel (p53r10)."
+  },
+  {
+   "id": "baily",
+   "row": "p53r15",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is HOWTH-BAILEY. Don't confuse it with Howth East Pier (p53r16)."
+  },
+  {
+   "id": "rockabill",
+   "row": "p53r18",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-rock-lv",
+   "row": "p54r5",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "copeland",
+   "row": "p54r7",
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Findlay's 1879 light is on Small Copeland (Lighthouse) Island. The reports' 'Copeland (Mew) Island' suggests the station moved to the new Mew Island light (c.1884). It is the same station, but for the later years the 1879 position and character may be wrong."
+  },
+  {
+   "id": "maidens-north",
+   "row": "p54r10",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints the two Maidens towers together in one row (p54r10)."
+  },
+  {
+   "id": "maidens-south",
+   "row": "p54r10",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Shares p54r10 with Maidens North."
+  },
+  {
+   "id": "rathlin-east",
+   "row": "p54r11",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's row describes the light on the Altacarry, or N.E., point."
+  },
+  {
+   "id": "inishtrahull",
+   "row": "p55r4",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is INNISTRAHULL."
+  },
+  {
+   "id": "dunree-head",
+   "row": "p55r5",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fanad-head",
+   "row": "p55r7",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is Fannet Point. The reports print 'Lough Swilly'."
+  },
+  {
+   "id": "tory-island",
+   "row": "p55r8",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arranmore",
+   "row": "p55r9",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is ARANMORE ISLAND. The upper and lower lights are in one row."
+  },
+  {
+   "id": "rathlin-obirne",
+   "row": "p55r10",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rotten-island",
+   "row": "p55r12",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The reports print 'Killybegs'. Findlay gives no position or character; the light is described in the description column."
+  },
+  {
+   "id": "oyster-island",
+   "row": "p55r14",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The two leading lights are printed in one row. Findlay gives no position or character; the light is described in the description column."
+  },
+  {
+   "id": "broadhaven",
+   "row": "p55r15",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "eagle-island-east",
+   "row": "p55r16",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints the two Eagle Island towers together in one row (p55r16)."
+  },
+  {
+   "id": "eagle-island-west",
+   "row": "p55r16",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Shares p55r16 with Eagle Island East."
+  },
+  {
+   "id": "blackrock-mayo",
+   "row": "p55r17",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "There are two Black Rocks. This is p55r17 (54 4.2N 10 19.3W), which falls between Eagle Island and Blacksod in the coast order. The other, p55r13 (54 18N 8 37W), is the Sligo Black Rock."
+  },
+  {
+   "id": "blacksod-point",
+   "row": "p55r18",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is Black Sod Quay, with the description 'On Blacksod Point'."
+  },
+  {
+   "id": "clare-island",
+   "row": "p55r19",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "slyne-head-north",
+   "row": "p55r21",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints both Slyne Head towers in one row (p55r21). The north tower is the revolving light."
+  },
+  {
+   "id": "slyne-head-south",
+   "row": "p55r21",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Shares p55r21 with Slyne Head North. The south tower is the fixed light."
+  },
+  {
+   "id": "eeragh",
+   "row": "p56r0",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is EERAGH ISLAND. The reports print 'Arran Island N.'"
+  },
+  {
+   "id": "straw-island",
+   "row": "p56r1",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inisheer",
+   "row": "p56r2",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The reports print 'Arran Island S.' One printed form, 'Straw Island, S.', is a slip in the reports."
+  },
+  {
+   "id": "loop-head",
+   "row": "p56r4",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "samphire-island",
+   "row": "p56r9",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is Tralee, with the description 'On Little Samphire Island'."
+  },
+  {
+   "id": "inishtearaght",
+   "row": "p56r10",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay's name is TEARAGHT ISLAND."
+  },
+  {
+   "id": "valentia",
+   "row": "p56r11",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "skellig-michael",
+   "row": "p56r12",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "calf-rock",
+   "row": "p56r13",
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dursey-island",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Dursey Island follows Calf Rock in the lists: Calf Rock is in 1881 only, Dursey from 1882 on, both under map number 40. It seems to be the Calf Rock station working from Dursey after the Calf Rock tower was wrecked (c.Nov 1881). Findlay 1879 has no Dursey light. If you want the Calf Rock entry instead, use p56r13."
+  }
+ ],
+ "notes": "I matched 45 of the 47 stations to a Findlay row. Two get null: Barrels Rock L.V. (it seems to have been placed after the 1879 edition) and Dursey Island. Two Findlay rows each cover a pair of stations: p54r10 for both Maidens, p55r16 for both Eagle Islands. The two Slyne Head stations also share one row, p55r21.\n\nThings to check:\n1. Fastnet appears twice in Findlay, as p52r0 and p56r16. I put p56r16 in extra_rows, but it is the same light printed again, not a second light. Drop it if extra_rows should only hold separate lights.\n2. Copeland: Findlay 1879 describes the Small Copeland light. The reports' 'Copeland (Mew) Island' suggests the station moved to Mew Island (c.1884). Its position and character may need a later source for the later years.\n3. Dursey Island: I gave null, taking it to be the Calf Rock station after the tower was wrecked. Check whether you want p56r13 (Calf Rock) for it.\n4. Coningbeg L.V. matches Findlay's SALTEES LIGHT-VES. (p53r0). The position fits exactly, but Findlay prints it under the East Coast head, and the name differs.\n5. Arklow North L.V.: Findlay says its character was to be altered in spring 1879, so the 1879 character may not hold for the report years.\n6. Three lights have no position or character in Findlay; they are described in the description column only: Rotten Island (p55r12), Oyster Island (p55r14) and the Mayo Black Rock (p55r17). Black Rock does have a position, so only Rotten Island and Oyster Island lack one.\n7. Slips in the 1879 print, none of them on a matched row: Daunt's Rock lat '54 43.' (51 43 is meant), Inishowen lat '53 13.6' (55 13.6), Crookhaven '51 28 6' (missing point).\n8. The coast heads in the CSV don't follow the coast exactly. Findlay also lists two St. John's Points, at Dundrum and Donegal; neither is a report station.",
+ "_meta": {
+  "edition": "findlay1879",
+  "country": "IRELAND",
+  "run": 1,
+  "cost_usd": 0.1660268
+ }
+}

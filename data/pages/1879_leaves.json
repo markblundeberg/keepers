@@ -1,0 +1,493 @@
+{
+ "year": 1879,
+ "rule": "image_index = leaf - (leaves left out of the access copy before it, scandata.xml)",
+ "leaves": [
+  {
+   "leaf": 0,
+   "image_index": null,
+   "text_start": 0,
+   "text_end": 0,
+   "detected": null,
+   "page": null
+  },
+  {
+   "leaf": 1,
+   "image_index": 0,
+   "text_start": 0,
+   "text_end": 1014,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 2,
+   "image_index": 1,
+   "text_start": 1014,
+   "text_end": 1089,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 3,
+   "image_index": 2,
+   "text_start": 1089,
+   "text_end": 1089,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 4,
+   "image_index": 3,
+   "text_start": 1089,
+   "text_end": 1269,
+   "detected": 47,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 5,
+   "image_index": 4,
+   "text_start": 1269,
+   "text_end": 2937,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 6,
+   "image_index": 5,
+   "text_start": 2937,
+   "text_end": 5301,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 7,
+   "image_index": 6,
+   "text_start": 5301,
+   "text_end": 7739,
+   "detected": 163,
+   "page": 163,
+   "how": "running head"
+  },
+  {
+   "leaf": 8,
+   "image_index": 7,
+   "text_start": 7739,
+   "text_end": 10067,
+   "detected": null,
+   "page": 164,
+   "how": "between heads"
+  },
+  {
+   "leaf": 9,
+   "image_index": 8,
+   "text_start": 10067,
+   "text_end": 12544,
+   "detected": 165,
+   "page": 165,
+   "how": "running head"
+  },
+  {
+   "leaf": 10,
+   "image_index": 9,
+   "text_start": 12544,
+   "text_end": 14943,
+   "detected": null,
+   "page": 166,
+   "how": "between heads"
+  },
+  {
+   "leaf": 11,
+   "image_index": 10,
+   "text_start": 14943,
+   "text_end": 17387,
+   "detected": 167,
+   "page": 167,
+   "how": "running head"
+  },
+  {
+   "leaf": 12,
+   "image_index": 11,
+   "text_start": 17387,
+   "text_end": 19771,
+   "detected": null,
+   "page": 168,
+   "how": "between heads"
+  },
+  {
+   "leaf": 13,
+   "image_index": 12,
+   "text_start": 19771,
+   "text_end": 22027,
+   "detected": 169,
+   "page": 169,
+   "how": "running head"
+  },
+  {
+   "leaf": 14,
+   "image_index": 13,
+   "text_start": 22027,
+   "text_end": 24526,
+   "detected": null,
+   "page": 170,
+   "how": "between heads"
+  },
+  {
+   "leaf": 15,
+   "image_index": 14,
+   "text_start": 24526,
+   "text_end": 27023,
+   "detected": 171,
+   "page": 171,
+   "how": "running head"
+  },
+  {
+   "leaf": 16,
+   "image_index": 15,
+   "text_start": 27023,
+   "text_end": 29086,
+   "detected": null,
+   "page": 172,
+   "how": "between heads"
+  },
+  {
+   "leaf": 17,
+   "image_index": 16,
+   "text_start": 29086,
+   "text_end": 31328,
+   "detected": null,
+   "page": 173,
+   "how": "between heads"
+  },
+  {
+   "leaf": 18,
+   "image_index": 17,
+   "text_start": 31328,
+   "text_end": 33887,
+   "detected": null,
+   "page": 174,
+   "how": "between heads"
+  },
+  {
+   "leaf": 19,
+   "image_index": 18,
+   "text_start": 33887,
+   "text_end": 36757,
+   "detected": 175,
+   "page": 175,
+   "how": "running head"
+  },
+  {
+   "leaf": 20,
+   "image_index": 19,
+   "text_start": 36757,
+   "text_end": 39312,
+   "detected": null,
+   "page": 176,
+   "how": "between heads"
+  },
+  {
+   "leaf": 21,
+   "image_index": 20,
+   "text_start": 39312,
+   "text_end": 41904,
+   "detected": 177,
+   "page": 177,
+   "how": "running head"
+  },
+  {
+   "leaf": 22,
+   "image_index": 21,
+   "text_start": 41904,
+   "text_end": 44457,
+   "detected": null,
+   "page": 178,
+   "how": "between heads"
+  },
+  {
+   "leaf": 23,
+   "image_index": 22,
+   "text_start": 44457,
+   "text_end": 47060,
+   "detected": 179,
+   "page": 179,
+   "how": "running head"
+  },
+  {
+   "leaf": 24,
+   "image_index": 23,
+   "text_start": 47060,
+   "text_end": 49618,
+   "detected": null,
+   "page": 180,
+   "how": "between heads"
+  },
+  {
+   "leaf": 25,
+   "image_index": 24,
+   "text_start": 49618,
+   "text_end": 52125,
+   "detected": 181,
+   "page": 181,
+   "how": "running head"
+  },
+  {
+   "leaf": 26,
+   "image_index": 25,
+   "text_start": 52125,
+   "text_end": 54606,
+   "detected": null,
+   "page": 182,
+   "how": "between heads"
+  },
+  {
+   "leaf": 27,
+   "image_index": 26,
+   "text_start": 54606,
+   "text_end": 57024,
+   "detected": 183,
+   "page": 183,
+   "how": "running head"
+  },
+  {
+   "leaf": 28,
+   "image_index": 27,
+   "text_start": 57024,
+   "text_end": 59625,
+   "detected": null,
+   "page": 184,
+   "how": "between heads"
+  },
+  {
+   "leaf": 29,
+   "image_index": 28,
+   "text_start": 59625,
+   "text_end": 62088,
+   "detected": 185,
+   "page": 185,
+   "how": "running head"
+  },
+  {
+   "leaf": 30,
+   "image_index": 29,
+   "text_start": 62088,
+   "text_end": 64640,
+   "detected": null,
+   "page": 186,
+   "how": "between heads"
+  },
+  {
+   "leaf": 31,
+   "image_index": 30,
+   "text_start": 64640,
+   "text_end": 67111,
+   "detected": 187,
+   "page": 187,
+   "how": "running head"
+  },
+  {
+   "leaf": 32,
+   "image_index": 31,
+   "text_start": 67111,
+   "text_end": 69189,
+   "detected": null,
+   "page": 188,
+   "how": "between heads"
+  },
+  {
+   "leaf": 33,
+   "image_index": 32,
+   "text_start": 69189,
+   "text_end": 71533,
+   "detected": 189,
+   "page": 189,
+   "how": "running head"
+  },
+  {
+   "leaf": 34,
+   "image_index": 33,
+   "text_start": 71533,
+   "text_end": 73819,
+   "detected": null,
+   "page": 190,
+   "how": "between heads"
+  },
+  {
+   "leaf": 35,
+   "image_index": 34,
+   "text_start": 73819,
+   "text_end": 76248,
+   "detected": 191,
+   "page": 191,
+   "how": "running head"
+  },
+  {
+   "leaf": 36,
+   "image_index": 35,
+   "text_start": 76248,
+   "text_end": 78579,
+   "detected": null,
+   "page": 192,
+   "how": "between heads"
+  },
+  {
+   "leaf": 37,
+   "image_index": 36,
+   "text_start": 78579,
+   "text_end": 81040,
+   "detected": 193,
+   "page": 193,
+   "how": "running head"
+  },
+  {
+   "leaf": 38,
+   "image_index": 37,
+   "text_start": 81040,
+   "text_end": 83497,
+   "detected": null,
+   "page": 194,
+   "how": "between heads"
+  },
+  {
+   "leaf": 39,
+   "image_index": 38,
+   "text_start": 83497,
+   "text_end": 85833,
+   "detected": 195,
+   "page": 195,
+   "how": "running head"
+  },
+  {
+   "leaf": 40,
+   "image_index": 39,
+   "text_start": 85833,
+   "text_end": 88307,
+   "detected": null,
+   "page": 196,
+   "how": "between heads"
+  },
+  {
+   "leaf": 41,
+   "image_index": 40,
+   "text_start": 88307,
+   "text_end": 90539,
+   "detected": 197,
+   "page": 197,
+   "how": "running head"
+  },
+  {
+   "leaf": 42,
+   "image_index": 41,
+   "text_start": 90539,
+   "text_end": 92991,
+   "detected": null,
+   "page": 198,
+   "how": "between heads"
+  },
+  {
+   "leaf": 43,
+   "image_index": 42,
+   "text_start": 92991,
+   "text_end": 95357,
+   "detected": 199,
+   "page": 199,
+   "how": "running head"
+  },
+  {
+   "leaf": 44,
+   "image_index": 43,
+   "text_start": 95357,
+   "text_end": 97680,
+   "detected": null,
+   "page": 200,
+   "how": "between heads"
+  },
+  {
+   "leaf": 45,
+   "image_index": 44,
+   "text_start": 97680,
+   "text_end": 100056,
+   "detected": 201,
+   "page": 201,
+   "how": "running head"
+  },
+  {
+   "leaf": 46,
+   "image_index": 45,
+   "text_start": 100056,
+   "text_end": 102391,
+   "detected": null,
+   "page": 202,
+   "how": "between heads"
+  },
+  {
+   "leaf": 47,
+   "image_index": 46,
+   "text_start": 102391,
+   "text_end": 104894,
+   "detected": 203,
+   "page": 203,
+   "how": "running head"
+  },
+  {
+   "leaf": 48,
+   "image_index": 47,
+   "text_start": 104894,
+   "text_end": 106975,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 49,
+   "image_index": 48,
+   "text_start": 106975,
+   "text_end": 106975,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 50,
+   "image_index": 49,
+   "text_start": 106975,
+   "text_end": 107704,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 51,
+   "image_index": null,
+   "text_start": 107704,
+   "text_end": 107704,
+   "detected": null,
+   "page": null
+  }
+ ],
+ "check": {
+  "gutenberg_markers_found_on_their_leaf": 41,
+  "of": 44,
+  "misses": [
+   [
+    "161",
+    [],
+    "zoologist third series report migration birds"
+   ],
+   [
+    "162",
+    [],
+    "high orkney white sectors fixed gordon"
+   ],
+   [
+    "204",
+    [],
+    "forth they have been heard calm"
+   ]
+  ]
+ }
+}

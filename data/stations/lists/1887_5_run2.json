@@ -1,0 +1,562 @@
+{
+ "rows": [
+  {
+   "line": 5195,
+   "fragments": [
+    "1.  Fastnet, Co. Cork,        5 15 excellent, x  x  8 George Dunleavy."
+   ],
+   "number": "1",
+   "marks": null,
+   "name": "Fastnet",
+   "type": null,
+   "place": "Co. Cork",
+   "keepers": [
+    "George Dunleavy"
+   ],
+   "character": null,
+   "other": "SF 5; LW 15; remarks: excellent,; Sp x; Au x; MS 8",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5196,
+   "fragments": [
+    "3.  Old Head, Kinsale, Cork,  2  0 good.      x  x -- Robert Tyrrell."
+   ],
+   "number": "3",
+   "marks": null,
+   "name": "Old Head, Kinsale",
+   "type": null,
+   "place": "Cork",
+   "keepers": [
+    "Robert Tyrrell"
+   ],
+   "character": null,
+   "other": "SF 2; LW 0; remarks: good.; Sp x; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5197,
+   "fragments": [
+    "4.  Mine Head, Waterford,     2  7 very good, x  x -- Edward M'Carron."
+   ],
+   "number": "4",
+   "marks": null,
+   "name": "Mine Head",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [
+    "Edward M'Carron"
+   ],
+   "character": null,
+   "other": "SF 2; LW 7; remarks: very good,; Sp x; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5198,
+   "fragments": [
+    "5_a_. Hook Tower, Wexford,    1  3 fair.      x  o -- Richard Hamilton."
+   ],
+   "number": "5_a_",
+   "marks": null,
+   "name": "Hook Tower",
+   "type": null,
+   "place": "Wexford",
+   "keepers": [
+    "Richard Hamilton"
+   ],
+   "character": null,
+   "other": "SF 1; LW 3; remarks: fair.; Sp x; Au o; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5199,
+   "fragments": [
+    "5.* Coningbeg LS, Wexford,    5 24 excellent, x  x 10 Patrick Cullen and",
+    "Wm. Clydesdale."
+   ],
+   "number": "5*",
+   "marks": null,
+   "name": "Coningbeg",
+   "type": "LS",
+   "place": "Wexford",
+   "keepers": [
+    "Patrick Cullen",
+    "Wm. Clydesdale"
+   ],
+   "character": null,
+   "other": "SF 5; LW 24; remarks: excellent,; Sp x; Au x; MS 10",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5201,
+   "fragments": [
+    "6.  Barrels Rock LS, do.,     4  4 very good, x  x  4 Charles H. M'Cabe."
+   ],
+   "number": "6",
+   "marks": null,
+   "name": "Barrels Rock",
+   "type": "LS",
+   "place": "do.",
+   "keepers": [
+    "Charles H. M'Cabe"
+   ],
+   "character": null,
+   "other": "SF 4; LW 4; remarks: very good,; Sp x; Au x; MS 4",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5202,
+   "fragments": [
+    "7.  Tuskar Rock, do.,         6 32 excellent, x  x  7 P. Page, E. M'Kenna,",
+    "J. M. Leary, and",
+    "Patrick Corish."
+   ],
+   "number": "7",
+   "marks": null,
+   "name": "Tuskar Rock",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "P. Page",
+    "E. M'Kenna",
+    "J. M. Leary",
+    "Patrick Corish"
+   ],
+   "character": null,
+   "other": "SF 6; LW 32; remarks: excellent,; Sp x; Au x; MS 7",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5205,
+   "fragments": [
+    "7_a_. Lucifer Shoals LS, do., 1  1 good.      o  x  9 James Byrne and",
+    "Michael Ansel."
+   ],
+   "number": "7_a_",
+   "marks": null,
+   "name": "Lucifer Shoals",
+   "type": "LS",
+   "place": "do.",
+   "keepers": [
+    "James Byrne",
+    "Michael Ansel"
+   ],
+   "character": null,
+   "other": "SF 1; LW 1; remarks: good.; Sp o; Au x; MS 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5207,
+   "fragments": [
+    "8.  Arklow Sth. LS, Wicklow,  3 12 very good, x  x  7 Patrick Clancy and",
+    "Alfred B. Wall."
+   ],
+   "number": "8",
+   "marks": null,
+   "name": "Arklow Sth.",
+   "type": "LS",
+   "place": "Wicklow",
+   "keepers": [
+    "Patrick Clancy",
+    "Alfred B. Wall"
+   ],
+   "character": null,
+   "other": "SF 3; LW 12; remarks: very good,; Sp x; Au x; MS 7",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5209,
+   "fragments": [
+    "8.* Arklow North LS, do.,     3  0 very good, x  x  8 William Daly."
+   ],
+   "number": "8*",
+   "marks": null,
+   "name": "Arklow North",
+   "type": "LS",
+   "place": "do.",
+   "keepers": [
+    "William Daly"
+   ],
+   "character": null,
+   "other": "SF 3; LW 0; remarks: very good,; Sp x; Au x; MS 8",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5210,
+   "fragments": [
+    "11.  Howth Baily, Dublin,      1  1 fair.      o  x -- R. Armstrong."
+   ],
+   "number": "11",
+   "marks": null,
+   "name": "Howth Baily",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [
+    "R. Armstrong"
+   ],
+   "character": null,
+   "other": "SF 1; LW 1; remarks: fair.; Sp o; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5211,
+   "fragments": [
+    "12.  Rockabill, Dublin,        5  2 fair.      x  o  5 Henry Kelly."
+   ],
+   "number": "12",
+   "marks": null,
+   "name": "Rockabill",
+   "type": null,
+   "place": "Dublin",
+   "keepers": [
+    "Henry Kelly"
+   ],
+   "character": null,
+   "other": "SF 5; LW 2; remarks: fair.; Sp x; Au o; MS 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5212,
+   "fragments": [
+    "12_b_. South Rock Lt.-ship,    1  0 good.      o  x  3 Thomas Cooney and",
+    "Down,                                           Henry Thompson."
+   ],
+   "number": "12_b_",
+   "marks": null,
+   "name": "South Rock",
+   "type": "Lt.-ship",
+   "place": "Down",
+   "keepers": [
+    "Thomas Cooney",
+    "Henry Thompson"
+   ],
+   "character": null,
+   "other": "SF 1; LW 0; remarks: good.; Sp o; Au x; MS 3",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5214,
+   "fragments": [
+    "14.* Maidens, South Antrim,    1  0 fair.      o  x  5 B. Sole and J.",
+    "Corish."
+   ],
+   "number": "14*",
+   "marks": null,
+   "name": "Maidens, South",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "B. Sole",
+    "J. Corish"
+   ],
+   "character": null,
+   "other": "SF 1; LW 0; remarks: fair.; Sp o; Au x; MS 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5216,
+   "fragments": [
+    "14.  Maidens, North do.,       1  1 fair.      o  x  5 Richard Hamilton."
+   ],
+   "number": "14",
+   "marks": null,
+   "name": "Maidens, North",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Richard Hamilton"
+   ],
+   "character": null,
+   "other": "SF 1; LW 1; remarks: fair.; Sp o; Au x; MS 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5217,
+   "fragments": [
+    "15.  Rathlin, Antrim,          1  0 poor.      o  x  6 Patrick Keenan."
+   ],
+   "number": "15",
+   "marks": null,
+   "name": "Rathlin",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [
+    "Patrick Keenan"
+   ],
+   "character": null,
+   "other": "SF 1; LW 0; remarks: poor.; Sp o; Au x; MS 6",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5218,
+   "fragments": [
+    "16.  Innishtrahull, Donegal,   2  2 very good, x  x  6 M. S. Kennedy."
+   ],
+   "number": "16",
+   "marks": null,
+   "name": "Innishtrahull",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [
+    "M. S. Kennedy"
+   ],
+   "character": null,
+   "other": "SF 2; LW 2; remarks: very good,; Sp x; Au x; MS 6",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5219,
+   "fragments": [
+    "17.  Dunree Head, do.,         2  0 good.      x  x -- Jervis Brownell."
+   ],
+   "number": "17",
+   "marks": null,
+   "name": "Dunree Head",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Jervis Brownell"
+   ],
+   "character": null,
+   "other": "SF 2; LW 0; remarks: good.; Sp x; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5220,
+   "fragments": [
+    "19.  Tory Island, do.,         2  7 very good, x  x  9 Henry Kelly."
+   ],
+   "number": "19",
+   "marks": null,
+   "name": "Tory Island",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Henry Kelly"
+   ],
+   "character": null,
+   "other": "SF 2; LW 7; remarks: very good,; Sp x; Au x; MS 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5221,
+   "fragments": [
+    "20.  Arranmore, do.,           2  0 very good, x  x  5 Henry Williams and",
+    "Thomas Fortune."
+   ],
+   "number": "20",
+   "marks": null,
+   "name": "Arranmore",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Henry Williams",
+    "Thomas Fortune"
+   ],
+   "character": null,
+   "other": "SF 2; LW 0; remarks: very good,; Sp x; Au x; MS 5",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5223,
+   "fragments": [
+    "21.  Rathlin O'Birne, do.,     2  2 very good, x  x  2 J. C. M'Ginley."
+   ],
+   "number": "21",
+   "marks": null,
+   "name": "Rathlin O'Birne",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "J. C. M'Ginley"
+   ],
+   "character": null,
+   "other": "SF 2; LW 2; remarks: very good,; Sp x; Au x; MS 2",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5224,
+   "fragments": [
+    "22.  Killybegs, do.,           7  0 very good, x  x -- Joseph Hill."
+   ],
+   "number": "22",
+   "marks": null,
+   "name": "Killybegs",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Joseph Hill"
+   ],
+   "character": null,
+   "other": "SF 7; LW 0; remarks: very good,; Sp x; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5225,
+   "fragments": [
+    "24.  Broadhaven, Mayo,         2  0 fair.      x  x -- John A. Murray."
+   ],
+   "number": "24",
+   "marks": null,
+   "name": "Broadhaven",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "John A. Murray"
+   ],
+   "character": null,
+   "other": "SF 2; LW 0; remarks: fair.; Sp x; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5226,
+   "fragments": [
+    "26.  Eagle Island, W., Mayo,   1  1 poor.      x  o  2 Hugh Keeney."
+   ],
+   "number": "26",
+   "marks": null,
+   "name": "Eagle Island, W.",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Hugh Keeney"
+   ],
+   "character": null,
+   "other": "SF 1; LW 1; remarks: poor.; Sp x; Au o; MS 2",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5227,
+   "fragments": [
+    "27.  Blackrock, Mayo,          2  5 very good, x  x  9 Edward Rohu."
+   ],
+   "number": "27",
+   "marks": null,
+   "name": "Blackrock",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [
+    "Edward Rohu"
+   ],
+   "character": null,
+   "other": "SF 2; LW 5; remarks: very good,; Sp x; Au x; MS 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5228,
+   "fragments": [
+    "31.  Slyne Head, S., Galway,   3  0 very good, x  x  3 Richd. Widdicombe."
+   ],
+   "number": "31",
+   "marks": null,
+   "name": "Slyne Head, S.",
+   "type": null,
+   "place": "Galway",
+   "keepers": [
+    "Richd. Widdicombe"
+   ],
+   "character": null,
+   "other": "SF 3; LW 0; remarks: very good,; Sp x; Au x; MS 3",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5229,
+   "fragments": [
+    "32.  Arran Island, Is., do.,   2  0 very good, x  x  9 Thomas Fortune and",
+    "Henry Williams."
+   ],
+   "number": "32",
+   "marks": null,
+   "name": "Arran Island, Is.",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Thomas Fortune",
+    "Henry Williams"
+   ],
+   "character": null,
+   "other": "SF 2; LW 0; remarks: very good,; Sp x; Au x; MS 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5231,
+   "fragments": [
+    "34.  Arran Island, S., do.,    1  0 very good. o  x  6 Charles P. Page."
+   ],
+   "number": "34",
+   "marks": null,
+   "name": "Arran Island, S.",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Charles P. Page"
+   ],
+   "character": null,
+   "other": "SF 1; LW 0; remarks: very good.; Sp o; Au x; MS 6",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5232,
+   "fragments": [
+    "36.  Samphire Island, Kerry,   1  0 poor.      o  x -- R. Phelan."
+   ],
+   "number": "36",
+   "marks": null,
+   "name": "Samphire Island",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "R. Phelan"
+   ],
+   "character": null,
+   "other": "SF 1; LW 0; remarks: poor.; Sp o; Au x; MS --",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5233,
+   "fragments": [
+    "37.  Tearaght, Kerry,          3 13 very good, x  x  9 Francis Ryan."
+   ],
+   "number": "37",
+   "marks": null,
+   "name": "Tearaght",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "Francis Ryan"
+   ],
+   "character": null,
+   "other": "SF 3; LW 13; remarks: very good,; Sp x; Au x; MS 9",
+   "coast": "IRISH COAST"
+  },
+  {
+   "line": 5234,
+   "fragments": [
+    "39.  Skelligs, Kerry,          3  9 very good, x  x  9 James Walshe."
+   ],
+   "number": "39",
+   "marks": null,
+   "name": "Skelligs",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [
+    "James Walshe"
+   ],
+   "character": null,
+   "other": "SF 3; LW 9; remarks: very good,; Sp x; Au x; MS 9",
+   "coast": "IRISH COAST"
+  }
+ ],
+ "notes": "31 stations (lines 5195-5234). These are notes for anyone using the list.\n\nCONVENTIONS\n- Fragments are copied verbatim, with leading indentation removed. For wrapped rows, each continuation line is its own fragment. Line 5213 holds both the county (\"Down,\") and the second observer's name (\"Henry Thompson.\"). Both belong to the same row, so I kept them in one fragment with the printed gap between them; I counted that gap from the Read output, so check its exact width before relying on it.\n- Numbers: \"5.*\", \"8.*\" and \"14.*\" are given as \"5*\", \"8*\" and \"14*\". The star marks a second station under the same map number, so I counted it as part of the number and left marks null. The italic letter suffixes are kept as printed: \"5_a_\", \"7_a_\", \"12_b_\".\n- Names: I dropped the commas that only separate the name from the county (and the ditto). Commas inside a name are kept, e.g. \"Eagle Island, W.\" and \"Maidens, South\".\n- \"do.\" (ditto, meaning the county above) is kept as printed in place. It stands for Wexford (6, 7, 7_a_), Wicklow (8*), Antrim (14 \"Maidens, North do.\"), Donegal (17-22) and Galway (32, 34).\n- Old Head: \"Old Head, Kinsale, Cork,\" is read as name \"Old Head, Kinsale\" (the Old Head of Kinsale) and place \"Cork\".\n- Maidens: \"Maidens, South Antrim\" is read as name \"Maidens, South\", place \"Antrim\", to match \"Maidens, North do.\".\n- Type: \"LS\" (light-ship, as the abbreviations block says) and \"Lt.-ship\" (12_b_) are kept as printed. Rows without one are presumably lighthouses, but no type is printed for them.\n- The other field holds SF (schedules filled), LW (legs, wings, etc. received), the remark on the schedules (punctuation kept), Sp/Au (x = returned, o = no reply) and MS (miles from shore; \"--\" as printed, presumably a shore station). No light characters are given in this list.\n- Observer names: I removed the final full stop at the end of each row's names. The \"and\" between names is dropped and each person is a separate entry. In \"B. Sole and J. / Corish.\" the name \"J. Corish\" is split across two lines.\n\nSPELLINGS COPIED AS PRINTED\n\"Innishtrahull\" (Inishtrahull), \"Howth Baily\" (Bailey), \"Arran Island\" (Aran), \"Arranmore\", \"Coningbeg\", \"Rathlin O'Birne\", \"Arklow Sth.\".\n\n\"Arran Island, Is., do.\" (no. 32): \"Is.\" makes no sense as a direction. It may be a misprint for \"N.\" (Aran has a north and a south light, and no. 34 is \"Arran Island, S.\"). It may also be a garbled \"Inishmore\"/\"Inisheer\"-type name. I kept it as printed.\n\nCROSS-CHECKS\n- Sp has 23 x's and Au has 28, which matches the heading counts (Sp 23, Au 28).\n- The LW column adds up to 141, but the note at line 5236 says \"Legs, wings, etc., received, 142\". Either a figure was misprinted or one item was counted outside the table (e.g. the Hoopoe from Eagle Island, East, which sent no schedule).\n- The four stations the note at 5241-5243 calls new are all in the list: Hook Tower 5_a_, Lucifer Shoals 7_a_, South Rock Light-ship 12_b_, Maidens North 14.\n- Odd numbering: the new Maidens North has the plain number 14, while Maidens South has \"14.*\".\n- Slyne Head, N. and Eagle Island, East are named in the note as left out. Their companions Slyne Head, S. (31) and Eagle Island, W. (26) are in the list.\n\nSAME NAMES AT MORE THAN ONE STATION (keep in mind when building the roll of keepers)\nThese may be the same keepers moved during the year, or errors in the printing.\n- Henry Kelly: Rockabill (12) and Tory Island (19).\n- Henry Williams and Thomas Fortune: Arranmore (20) and Arran Island, Is. (32), printed in opposite order.\n- Richard Hamilton: Hook Tower (5_a_) and Maidens, North (14).\n- P. Page (Tuskar, 7) and Charles P. Page (Arran Island, S., 34).\n- Patrick Corish (Tuskar, 7) and J. Corish (Maidens, South, 14*).",
+ "_meta": {
+  "year": 1887,
+  "list": 5,
+  "run": 2,
+  "source": "sources/gutenberg/1887_pg66152.txt",
+  "first_line": 5195,
+  "last_line": 5234,
+  "section": "IRISH COAST.",
+  "kind": "section",
+  "cost_usd": 0.24937020000000001
+ }
+}

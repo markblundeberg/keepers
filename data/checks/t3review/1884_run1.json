@@ -1,0 +1,424 @@
+{
+ "flags": [
+  {
+   "id": "1:behaviour",
+   "kind": "extraction",
+   "right_value": "settled",
+   "why": "\"Immense numbers covered the island\": the birds were on the island, and the rules put resting on an island under settled, which is more specific than seen."
+  },
+  {
+   "id": "8:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR prints \"Nash (E.) u.o.\" where the print has L.H.; the value copies it."
+  },
+  {
+   "id": "8:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "This is the seen observation (\"Woodcocks... from 2to5a.m.\"). \"Some of each species killed\" belongs to a separate dead observation, as in Example 1."
+  },
+  {
+   "id": "8:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The rules give one observation per behaviour. Seen is right for this one; the killing goes in its own dead observation."
+  },
+  {
+   "id": "10:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E.\" is copied exactly."
+  },
+  {
+   "id": "13:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR heading reads \"HoopEp Crow.\" (a small-caps garble); the value copies it."
+  },
+  {
+   "id": "17:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longstone u.H.\" is copied exactly."
+  },
+  {
+   "id": "18:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"8. to 8.W.\" (8 read for S) is copied exactly."
+  },
+  {
+   "id": "19:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR heading \"Lapwines.\" is copied exactly."
+  },
+  {
+   "id": "20:direction",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"going §.W.\" is copied exactly."
+  },
+  {
+   "id": "23:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships u.H.\" is copied exactly."
+  },
+  {
+   "id": "27:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Coquet u.z.\" is copied exactly."
+  },
+  {
+   "id": "35:species",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The entry names no bird and the ROOK heading is in neither the chunk nor the context. The section calls them \"Crows\" (also \"Crows' (Rooks)\"), so either name is defensible."
+  },
+  {
+   "id": "40:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "Whether \"enormous rush of Redwings... with Woodcocks\" covers the Woodcocks is a question of how far a count reaches."
+  },
+  {
+   "id": "42:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships ..H.\" is copied exactly."
+  },
+  {
+   "id": "43:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Milford u.n.\" is copied exactly."
+  },
+  {
+   "id": "44:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"§.E., or light S.W.\" is copied exactly."
+  },
+  {
+   "id": "46:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind 8.E.\" is copied exactly."
+  },
+  {
+   "id": "47:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hasbro’ t.v.\" is copied exactly."
+  },
+  {
+   "id": "48:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "No station is given for \"the rush of this and of Fieldfares took place on the 4th and 5th\", so null is right. The checker's quote does not appear in the text."
+  },
+  {
+   "id": "49:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"light §.\" is copied exactly."
+  },
+  {
+   "id": "52:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"(with Thrushes) striking\" names Thrushes, so a Thrushes observation is valid under one-per-kind. The Larks belong in a separate observation."
+  },
+  {
+   "id": "52:count",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"“oreat flock”\" is copied exactly, garble and quote marks included."
+  },
+  {
+   "id": "53:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"fresh 8., haze\" is copied exactly."
+  },
+  {
+   "id": "54:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Eddystone u.u.\" is copied exactly."
+  },
+  {
+   "id": "54:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"0, R, v.\" is copied exactly."
+  },
+  {
+   "id": "55:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.u.\" is copied exactly."
+  },
+  {
+   "id": "55:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"killed at 8 am.\" has 8 read for 3; the value copies it."
+  },
+  {
+   "id": "57:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hddystone u.u.\" is copied exactly."
+  },
+  {
+   "id": "59:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.H.\" is copied exactly."
+  },
+  {
+   "id": "59:species",
+   "kind": "extraction",
+   "right_value": "Blackbirds",
+   "why": "\"Blackbirds and Thrushes from 2 to 4 a.m.; eleven killed\": the killed birds are named, so species shouldn't be null. Give one observation each for Blackbirds and Thrushes, with count_shared true."
+  },
+  {
+   "id": "60:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Kentish Knock t.v.\" is copied exactly."
+  },
+  {
+   "id": "61:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind light §.W.\" is copied exactly."
+  },
+  {
+   "id": "62:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hanois t.x.\" is copied exactly."
+  },
+  {
+   "id": "63:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"struck at 2.a.m.\" is copied exactly."
+  },
+  {
+   "id": "64:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Spurn - L.H.\" (stray dash) is copied exactly."
+  },
+  {
+   "id": "65:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.o.\" is copied exactly."
+  },
+  {
+   "id": "67:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hasboro’ u.v.\" is copied exactly."
+  },
+  {
+   "id": "70:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E.\" is copied exactly."
+  },
+  {
+   "id": "72:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Caldy u.H.\" is copied exactly."
+  },
+  {
+   "id": "73:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Arklow South Iight-ship\" is copied exactly."
+  },
+  {
+   "id": "74:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Helwick u.v.\" is copied exactly."
+  },
+  {
+   "id": "74:time",
+   "kind": "extraction",
+   "right_value": "all night and till sunrise",
+   "why": "\"at the lantern all night and till sunrise. A great number killed\": the killed birds share the time, as in Example 1, and the quote already contains it."
+  },
+  {
+   "id": "75:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Morecambe Bay u.v.\" is copied exactly."
+  },
+  {
+   "id": "75:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.E., 4; 3, Fr.)\": the garbled letters are copied."
+  },
+  {
+   "id": "76:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships u.H.\" is copied exactly."
+  },
+  {
+   "id": "78:count",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"and a flocks from 8rd\" garbles \"great flocks\"; the value copies the OCR."
+  },
+  {
+   "id": "79:station",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The bird was \"captured on mast-head of fishing-smack ‘Surprise,’... between the Outer Dowsing L.v. and Cromer\". How much of that to give as the station is a question of wording."
+  },
+  {
+   "id": "80:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.H.\" is copied exactly."
+  },
+  {
+   "id": "81:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Bahama Bank t.v.\" is copied exactly."
+  },
+  {
+   "id": "81:species",
+   "kind": "extraction",
+   "right_value": "Thrushes",
+   "why": "\"Large numbers of Thrushes, Blackbirds, and Larks, all night. Many killed\": the killed birds are named. Give one dead observation each for Thrushes, Blackbirds and Larks, with count_shared true."
+  },
+  {
+   "id": "82:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hanois t.u.\" is copied exactly."
+  },
+  {
+   "id": "84:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E.\" is copied exactly."
+  },
+  {
+   "id": "85:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Selker u.v.\" is copied exactly."
+  },
+  {
+   "id": "86:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.n.\" is copied exactly."
+  },
+  {
+   "id": "87:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Smalls Rock u..\" is copied exactly."
+  },
+  {
+   "id": "88:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR heading \"Rosin.\" in the context garbles ROBIN; the value copies it."
+  },
+  {
+   "id": "89:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.W.\" is copied exactly."
+  },
+  {
+   "id": "91:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Eagle Island, Kast\" is copied exactly."
+  },
+  {
+   "id": "92:at_light",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"one killed Birtles fog\", with \"striking\" garbled away, so nothing in the text links the bird to the light. False is right for the text."
+  },
+  {
+   "id": "94:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Selker u.v.\" is copied exactly."
+  },
+  {
+   "id": "94:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.8.H., 5;\" is copied exactly."
+  },
+  {
+   "id": "95:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Leman \\nand Ower t.v.\" is copied exactly."
+  },
+  {
+   "id": "96:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Dee u.v.\" is copied exactly."
+  },
+  {
+   "id": "96:species",
+   "kind": "extraction",
+   "right_value": "Thrushes",
+   "why": "\"Many Thrushes, Blackbirds, Starlings, and Tit- larks... Fourteen picked up on deck\": give one observation per kind, with count_shared true, not null."
+  },
+  {
+   "id": "96:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.H. by E.; fog.)\" is copied exactly."
+  },
+  {
+   "id": "97:date_iso",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Oct. 18th\" (8 read for 3) is read faithfully as 1884-10-18."
+  },
+  {
+   "id": "100:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Start t.H.\" is copied exactly."
+  },
+  {
+   "id": "100:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(E.8.E., 2;\" is copied exactly."
+  }
+ ],
+ "_meta": {
+  "year": 1884,
+  "run": 1,
+  "cost_usd": 1.0159685999999999,
+  "n_flags": 69
+ }
+}

@@ -1,0 +1,1389 @@
+{
+ "matches": [
+  {
+   "id": "berwick",
+   "row": "p181r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "longstone",
+   "row": "p181r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inner-farne",
+   "row": "p181r2",
+   "confidence": "high",
+   "note": "Edwards 'Farn Island--2 lights'"
+  },
+  {
+   "id": "coquet",
+   "row": "p181r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "souter",
+   "row": "p181r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "tees-lv",
+   "row": null,
+   "confidence": "high",
+   "note": "Edwards lists no Tees light-vessel or buoy lights"
+  },
+  {
+   "id": "teesmouth-1880",
+   "row": null,
+   "confidence": "high",
+   "note": "Observer's station, not a light"
+  },
+  {
+   "id": "south-gare",
+   "row": null,
+   "confidence": "medium",
+   "note": "Not in Edwards. Not in Findlay 1879 either, so it probably wasn't lit by March 1884"
+  },
+  {
+   "id": "whitby-high",
+   "row": "p181r7",
+   "confidence": "high",
+   "note": "Edwards 'Whitby--2 lights', white fixed. That matches Findlay's 'High Whitby: two fixed lights'"
+  },
+  {
+   "id": "flamborough-head",
+   "row": "p181r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "spurn-point",
+   "row": "p182r1",
+   "confidence": "high",
+   "note": "The lighthouse, not the light-vessel (p182r2)"
+  },
+  {
+   "id": "spurn-lv",
+   "row": "p182r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bull-lv",
+   "row": "p182r0",
+   "confidence": "high",
+   "note": "Bull Sand light vessel"
+  },
+  {
+   "id": "great-cotes",
+   "row": null,
+   "confidence": "high",
+   "note": "Observer's station, not a light"
+  },
+  {
+   "id": "outer-dowsing-lv",
+   "row": "p182r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inner-dowsing-lv",
+   "row": "p182r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dudgeon-lv",
+   "row": "p182r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lynn-well-lv",
+   "row": "p182r6",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "hunstanton",
+   "row": "p182r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cromer",
+   "row": "p182r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "northrepps",
+   "row": null,
+   "confidence": "high",
+   "note": "Observer's station, not a light"
+  },
+  {
+   "id": "leman-and-ower-lv",
+   "row": "p182r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "happisburgh",
+   "row": "p182r11",
+   "confidence": "high",
+   "note": "'Haisborough--2 lights', the two lighthouses. Not p182r10, which is the light-vessel"
+  },
+  {
+   "id": "happisburgh-lv",
+   "row": "p182r10",
+   "confidence": "high",
+   "note": "'Haisborough light vessel', two fixed white lights, which matches Findlay"
+  },
+  {
+   "id": "winterton",
+   "row": "p182r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "newarp-lv",
+   "row": "p182r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cockle-lv",
+   "row": "p182r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "corton-lv",
+   "row": "p182r17",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lowestoft",
+   "row": "p182r19",
+   "confidence": "medium",
+   "note": "Findlay gives Lowestoft as one entry (upper and lower lights). Edwards splits it into 'Lowestoftness' (p182r18, the low light) and 'Lowestoft High' (p182r19). I chose the High light because it's the main lighthouse, but the reports say only 'Lowestoft, Lighthouse'"
+  },
+  {
+   "id": "orfordness",
+   "row": "p182r21",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "shipwash-lv",
+   "row": "p183r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "landguard-point",
+   "row": "p183r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cork-lv",
+   "row": "p183r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "galloper-lv",
+   "row": "p183r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kentish-knock-lv",
+   "row": "p183r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "swin-middle-lv",
+   "row": "p183r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "tongue-lv",
+   "row": "p183r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "nore-lv",
+   "row": "p183r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "north-foreland",
+   "row": "p183r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "north-sand-head-lv",
+   "row": "p183r17",
+   "confidence": "high",
+   "note": "'Goodwin light vessel (No. Sand)'. Edwards gives 3 flashes every minute, but Findlay 1879 and 1887 both say revolving 1 min"
+  },
+  {
+   "id": "gull-lv",
+   "row": "p183r18",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-sand-head-lv",
+   "row": "p183r20",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "east-goodwin-lv",
+   "row": "p183r19",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-foreland",
+   "row": "p183r21",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "varne-lv",
+   "row": "p184r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dungeness",
+   "row": "p184r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "royal-sovereign-lv",
+   "row": "p184r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "beachy-head",
+   "row": "p184r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "owers-lv",
+   "row": "p184r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-catherines",
+   "row": "p184r6",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "nab-lv",
+   "row": "p184r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "casquets",
+   "row": "p192r14",
+   "confidence": "high",
+   "note": "In the Channel Islands rows. The CSV mislabels their country as IRELAND--continued"
+  },
+  {
+   "id": "hanois",
+   "row": "p192r16",
+   "confidence": "high",
+   "note": "In the Channel Islands rows. The CSV mislabels their country as IRELAND--continued"
+  },
+  {
+   "id": "heligoland",
+   "row": null,
+   "confidence": "high",
+   "note": "Outside the British Isles"
+  },
+  {
+   "id": "allonby",
+   "row": null,
+   "confidence": "high",
+   "note": "An 'other' station. Edwards has no Allonby light"
+  },
+  {
+   "id": "st-bees",
+   "row": "p187r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "selker-lv",
+   "row": "p187r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "morecambe-bay-lv",
+   "row": "p186r24",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dee-lv",
+   "row": null,
+   "confidence": "medium",
+   "note": "Edwards lists the Mersey light-ships (Crosby, Formby, N.W.) but no Dee light-vessel"
+  },
+  {
+   "id": "point-of-ayr-wales",
+   "row": null,
+   "confidence": "high",
+   "note": "Trap: Edwards' 'Ayre Point' (p187r6) is in the Isle of Man. He has no Flintshire Point of Air"
+  },
+  {
+   "id": "trwyn-du",
+   "row": "p186r14",
+   "confidence": "high",
+   "note": "'Menai', red fixed. Matches Findlay"
+  },
+  {
+   "id": "skerries",
+   "row": "p186r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "holyhead-breakwater",
+   "row": "p186r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "north-stack",
+   "row": null,
+   "confidence": "high",
+   "note": "Fog signal station, not a light"
+  },
+  {
+   "id": "south-stack",
+   "row": "p186r10",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "caernarfon-bay-lv",
+   "row": "p186r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-tudwals",
+   "row": "p186r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bardsey",
+   "row": "p186r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cardigan-bay-lv",
+   "row": "p186r6",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-bishop",
+   "row": "p186r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "smalls",
+   "row": "p186r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "great-castle-head",
+   "row": "p186r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-anns-head-low",
+   "row": "p186r3",
+   "confidence": "high",
+   "note": "Edwards has one '2 lights' row for both St Ann's lights, so it is shared with the high light"
+  },
+  {
+   "id": "st-anns-head-high",
+   "row": "p186r3",
+   "confidence": "high",
+   "note": "Shares the '2 lights' row with the low light"
+  },
+  {
+   "id": "st-anns-head",
+   "row": "p186r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "caldey",
+   "row": "p186r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "helwick-lv",
+   "row": "p186r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "scarweather-lv",
+   "row": "p185r18",
+   "confidence": "high",
+   "note": "Number printed or transcribed as 9. It should be 89"
+  },
+  {
+   "id": "nash-point-low",
+   "row": "p185r17",
+   "confidence": "high",
+   "note": "'Nash--2 lights'. Shared with the high light"
+  },
+  {
+   "id": "nash-point-high",
+   "row": "p185r17",
+   "confidence": "high",
+   "note": "'Nash--2 lights'. Shared with the low light"
+  },
+  {
+   "id": "breaksea-lv",
+   "row": "p185r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "flat-holm",
+   "row": "p185r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "english-and-welsh-grounds-lv",
+   "row": "p185r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "west-usk",
+   "row": "p185r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "avonmouth",
+   "row": "p185r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "burnham",
+   "row": "p185r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bull-point",
+   "row": "p185r10",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bideford-bar",
+   "row": "p185r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lundy",
+   "row": "p185r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lundy-fog-signal",
+   "row": null,
+   "confidence": "high",
+   "note": "Fog gun station, not a light"
+  },
+  {
+   "id": "hartland-point",
+   "row": "p185r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "trevose-head",
+   "row": "p185r6",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "godrevy",
+   "row": "p185r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "longships",
+   "row": "p185r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "sevenstones-lv",
+   "row": "p185r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "wolf-rock",
+   "row": "p185r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-agnes-scilly",
+   "row": "p185r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bishop-rock",
+   "row": "p185r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lizard",
+   "row": "p184r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-anthony-head",
+   "row": "p184r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "eddystone",
+   "row": "p184r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "plymouth-breakwater",
+   "row": "p184r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "start-point-devon",
+   "row": "p184r12",
+   "confidence": "high",
+   "note": "The Devon light. The Orkney Start Point is p189r4"
+  },
+  {
+   "id": "portland-bill",
+   "row": "p184r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "shambles-lv",
+   "row": "p184r10",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "anvil-point",
+   "row": "p184r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "hurst-castle",
+   "row": "p184r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "needles",
+   "row": "p184r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bahama-bank-lv",
+   "row": "p187r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "point-of-ayre-iom",
+   "row": "p187r6",
+   "confidence": "high",
+   "note": "'Ayre Point' in the Isle of Man rows (unnumbered)"
+  },
+  {
+   "id": "douglas-head",
+   "row": "p187r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "langness",
+   "row": "p187r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "chicken-rock",
+   "row": "p187r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fastnet",
+   "row": "p190r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "galley-head",
+   "row": "p190r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "old-head-of-kinsale",
+   "row": "p190r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "mine-head",
+   "row": "p190r6",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "ballinacourty",
+   "row": "p190r7",
+   "confidence": "high",
+   "note": "'Dungarvan'"
+  },
+  {
+   "id": "hook-head",
+   "row": "p190r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "coningbeg-lv",
+   "row": "p190r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "barrels-lv",
+   "row": "p190r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "tuskar-rock",
+   "row": "p190r13",
+   "confidence": "high",
+   "note": "A lighthouse, even though one report prints 'Tuskar Rock Lt.-ship'"
+  },
+  {
+   "id": "lucifer-shoals-lv",
+   "row": "p190r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arklow-south-lv",
+   "row": "p190r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arklow-north-lv",
+   "row": "p190r17",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "wicklow-head",
+   "row": "p190r18",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kish-bank-lv",
+   "row": "p190r20",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "baily",
+   "row": "p190r23",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rockabill",
+   "row": "p191r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-rock-lv",
+   "row": "p191r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "copeland",
+   "row": "p191r6",
+   "confidence": "high",
+   "note": "Edwards (March 1884) describes the old Copeland Island light (fixed white). By Findlay 1887 the light is at Mew Island, 4-flashing, so this character only fits the earlier years of the station"
+  },
+  {
+   "id": "maidens-north",
+   "row": "p191r8",
+   "confidence": "high",
+   "note": "'Maiden's Rock--2 lights, north and south'. Shared with Maidens South"
+  },
+  {
+   "id": "maidens-south",
+   "row": "p191r8",
+   "confidence": "high",
+   "note": "Shared with Maidens North"
+  },
+  {
+   "id": "rathlin-east",
+   "row": "p191r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inishtrahull",
+   "row": "p191r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dunree-head",
+   "row": "p191r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fanad-head",
+   "row": "p191r13",
+   "confidence": "high",
+   "note": "'Fanad Point, Lough Swilly'"
+  },
+  {
+   "id": "tory-island",
+   "row": "p191r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arranmore",
+   "row": "p191r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rathlin-obirne",
+   "row": "p191r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rotten-island",
+   "row": "p191r17",
+   "confidence": "medium",
+   "note": "'Killybegs--2 lights' (ranges 14 and 12). The two lights are probably St John's Point and Rotten Island, so the row isn't Rotten Island's alone. The station is printed 'Killybegs'"
+  },
+  {
+   "id": "oyster-island",
+   "row": "p191r18",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "broadhaven",
+   "row": "p191r19",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "eagle-island-east",
+   "row": "p191r20",
+   "confidence": "high",
+   "note": "'Eagle Island--2 lights'. Shared with Eagle Island West"
+  },
+  {
+   "id": "eagle-island-west",
+   "row": "p191r20",
+   "confidence": "high",
+   "note": "Shared with Eagle Island East"
+  },
+  {
+   "id": "blackrock-mayo",
+   "row": "p191r21",
+   "confidence": "high",
+   "note": "Edwards' Black Rock comes between Eagle Island and Blacksod, so it is the Mayo one"
+  },
+  {
+   "id": "blacksod-point",
+   "row": "p191r22",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "clare-island",
+   "row": "p191r23",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "slyne-head-north",
+   "row": "p191r24",
+   "confidence": "high",
+   "note": "'Slyne Head--2 lights'. Shared with Slyne Head South"
+  },
+  {
+   "id": "slyne-head-south",
+   "row": "p191r24",
+   "confidence": "high",
+   "note": "Shared with Slyne Head North"
+  },
+  {
+   "id": "eeragh",
+   "row": "p192r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inisheer",
+   "row": "p192r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "straw-island",
+   "row": null,
+   "confidence": "high",
+   "note": "Not in Edwards. Mutton Island (p192r2) is a different light, at Galway"
+  },
+  {
+   "id": "loop-head",
+   "row": "p192r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "samphire-island",
+   "row": null,
+   "confidence": "high",
+   "note": "Edwards has no Tralee/Samphire light. His Shannon lights are Kilcradan, Scattery, Tarbert and Beeves"
+  },
+  {
+   "id": "inishtearaght",
+   "row": "p192r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "valentia",
+   "row": "p192r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "skellig-michael",
+   "row": "p192r10",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "calf-rock",
+   "row": null,
+   "confidence": "medium",
+   "note": "Calf Rock lighthouse was destroyed in 1881. In 1884 Edwards lists its successor, 'Dursey Head' (p192r11), which has Calf Rock's 15 s flash. That row belongs to the dursey-island station; use p192r11 here if you want the successor light"
+  },
+  {
+   "id": "dursey-island",
+   "row": "p192r11",
+   "confidence": "high",
+   "note": "'Dursey Head', white flash every 15 s: the light that replaced Calf Rock"
+  },
+  {
+   "id": "iceland",
+   "row": null,
+   "confidence": "high",
+   "note": "Outside the British Isles"
+  },
+  {
+   "id": "iceland-2",
+   "row": null,
+   "confidence": "high",
+   "note": "Outside the British Isles"
+  },
+  {
+   "id": "faroe",
+   "row": null,
+   "confidence": "high",
+   "note": "Outside the British Isles"
+  },
+  {
+   "id": "stevns",
+   "row": null,
+   "confidence": "high",
+   "note": "Danish light"
+  },
+  {
+   "id": "malmo",
+   "row": null,
+   "confidence": "high",
+   "note": "Outside the British Isles"
+  },
+  {
+   "id": "muckle-flugga",
+   "row": "p188r29",
+   "confidence": "high",
+   "note": "'North Unst, Shetland'"
+  },
+  {
+   "id": "out-skerries",
+   "row": "p189r0",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bressay",
+   "row": "p189r1",
+   "confidence": "high",
+   "note": "Range transcribed as 6. Probably 16; check the scan"
+  },
+  {
+   "id": "sumburgh-head",
+   "row": "p189r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fair-isle",
+   "row": null,
+   "confidence": "high",
+   "note": "Not in Edwards. There was no lighthouse on Fair Isle in 1884"
+  },
+  {
+   "id": "north-ronaldsay",
+   "row": "p189r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "start-point-orkney",
+   "row": "p189r4",
+   "confidence": "high",
+   "note": "'Start Point, Ronaldsha', red fixed. The Orkney light, not Devon (p184r12)"
+  },
+  {
+   "id": "auskerry",
+   "row": "p189r5",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "hoy-low",
+   "row": "p189r6",
+   "confidence": "high",
+   "note": "'Hoy Sound--2 lights'. Shared with Hoy High"
+  },
+  {
+   "id": "hoy-high",
+   "row": "p189r6",
+   "confidence": "high",
+   "note": "Shared with Hoy Low"
+  },
+  {
+   "id": "cantick-head",
+   "row": "p189r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "pentland-skerries",
+   "row": "p189r10",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dunnet-head",
+   "row": "p189r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "holborn-head",
+   "row": "p189r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "noss-head",
+   "row": "p189r11",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "tarbat-ness",
+   "row": "p189r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cromarty",
+   "row": "p189r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "chanonry-point",
+   "row": "p189r14",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "covesea-skerries",
+   "row": "p189r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kinnaird-head",
+   "row": "p189r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "buchan-ness",
+   "row": "p189r17",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "girdle-ness",
+   "row": "p189r18",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "scurdie-ness",
+   "row": "p189r19",
+   "confidence": "high",
+   "note": "'Montroseness'"
+  },
+  {
+   "id": "bell-rock",
+   "row": "p189r23",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "north-carr-lv",
+   "row": null,
+   "confidence": "medium",
+   "note": "Not in Edwards. Not in Findlay 1879 either, so it was probably stationed after March 1884. 'Albertay light vessel' (p189r22) is the Tay bar ship, not North Carr"
+  },
+  {
+   "id": "isle-of-may",
+   "row": "p189r24",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inchkeith",
+   "row": "p189r26",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fidra",
+   "row": null,
+   "confidence": "high",
+   "note": "Not in Edwards. Lit after March 1884: reports from 1885 only, and not in Findlay 1879"
+  },
+  {
+   "id": "st-abbs-head",
+   "row": "p189r27",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cape-wrath",
+   "row": "p188r28",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "stoer-head",
+   "row": "p188r27",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "butt-of-lewis",
+   "row": "p188r23",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arnish-point",
+   "row": "p188r22",
+   "confidence": "high",
+   "note": "'Stornoway, Hebrides'"
+  },
+  {
+   "id": "eilean-glas",
+   "row": "p188r20",
+   "confidence": "high",
+   "note": "'Scalpay, Glass Island'"
+  },
+  {
+   "id": "monach-isles",
+   "row": "p188r21",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "ushenish",
+   "row": "p188r19",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "barra-head",
+   "row": "p188r18",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rona",
+   "row": "p188r26",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kyleakin",
+   "row": "p188r25",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "isle-ornsay",
+   "row": "p188r24",
+   "confidence": "high",
+   "note": "Edwards' 'Oronsay' (white fixed) sits next to Kyleakin. Findlay calls Isle Ornsay 'Oronsay Island' too. Not the Oronsay by Colonsay, which had no light"
+  },
+  {
+   "id": "ardnamurchan",
+   "row": "p188r15",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "hynish-signal-tower",
+   "row": null,
+   "confidence": "high",
+   "note": "Shore signal tower, not a light"
+  },
+  {
+   "id": "skerryvore",
+   "row": "p188r17",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dubh-artach",
+   "row": "p188r16",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rubha-nan-gall",
+   "row": "p188r14",
+   "confidence": "high",
+   "note": "'Mull Sound'"
+  },
+  {
+   "id": "corran-point",
+   "row": "p188r12",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lismore",
+   "row": "p188r13",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fladda",
+   "row": "p188r11",
+   "confidence": "high",
+   "note": "'Phladda Island'"
+  },
+  {
+   "id": "rhuvaal",
+   "row": "p188r9",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "mcarthurs-head",
+   "row": "p188r8",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "skervuile",
+   "row": "p188r10",
+   "confidence": "high",
+   "note": "'Skeir Maoile or Iron Rock'"
+  },
+  {
+   "id": "rhinns-of-islay",
+   "row": "p188r7",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "loch-indaal",
+   "row": "p188r6",
+   "confidence": "high",
+   "note": "'Loch-in-Dail'"
+  },
+  {
+   "id": "mull-of-kintyre",
+   "row": "p188r4",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "sanda",
+   "row": "p188r3",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "davaar",
+   "row": "p188r2",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "pladda",
+   "row": "p188r1",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "holy-isle",
+   "row": null,
+   "confidence": "high",
+   "note": "Edwards has no Lamlash light"
+  },
+  {
+   "id": "turnberry",
+   "row": "p187r11",
+   "confidence": "high",
+   "note": "In the Scottish rows that the CSV labels ENGLAND—continued"
+  },
+  {
+   "id": "ailsa-craig",
+   "row": null,
+   "confidence": "high",
+   "note": "Lit after March 1884: reports from 1885 only, and not in Findlay 1879"
+  },
+  {
+   "id": "corsewall",
+   "row": "p187r9",
+   "confidence": "high",
+   "note": "In the Scottish rows that the CSV labels ENGLAND—continued"
+  },
+  {
+   "id": "loch-ryan",
+   "row": "p187r10",
+   "confidence": "high",
+   "note": "In the Scottish rows that the CSV labels ENGLAND—continued"
+  },
+  {
+   "id": "portpatrick",
+   "row": null,
+   "confidence": "high",
+   "note": "Edwards has no Portpatrick light"
+  },
+  {
+   "id": "mull-of-galloway",
+   "row": "p187r8",
+   "confidence": "high",
+   "note": "In the Scottish rows that the CSV labels ENGLAND—continued"
+  },
+  {
+   "id": "little-ross",
+   "row": "p187r7",
+   "confidence": "high",
+   "note": "In the Scottish rows that the CSV labels ENGLAND—continued"
+  }
+ ],
+ "notes": "I matched 182 of the 230 stations to an Edwards row. The other 48 get null: 16 observer, fog-signal or foreign stations, and 32 lights or light-vessels that Edwards doesn't list. Several rows are shared by two stations because Edwards prints one '2 lights' entry for both: St Ann's Head (3 stations), Nash, Maidens, Eagle Island, Slyne Head and Hoy Sound.\n\nPlease check:\n(1) Errors in the Edwards CSV:\n- p187r7–r12 (Little Ross to Ardrossan) are numbered from 1 again, so they are Scottish rows, but the country column says ENGLAND—continued.\n- p192r14–r20 are the Channel Islands (numbered 1–7) but are labelled IRELAND--continued.\n- The Isle of Man rows (p187r3–r6) have no numbers.\n- p185r18 (Scarweather) is numbered 9; it should be 89.\n- Bressay's range (p189r1) is 6, probably 16.\n(2) Lowestoft: Edwards has two rows, Lowestoftness and Lowestoft High. I picked the High light (p182r19) on judgment.\n(3) Calf Rock and Dursey: I put 'Dursey Head' (p192r11) on dursey-island and left calf-rock null, because that light was destroyed in 1881.\n(4) Copeland: Edwards describes the old Copeland Island light. By Findlay 1887 the light is at Mew Island with a different character, so p191r6 fits only the station's earlier years.\n(5) Killybegs '2 lights' (p191r17) probably covers St John's Point as well as Rotten Island.\n(6) Characters that disagree with Findlay:\n- Goodwin (North Sand Head) light-vessel: Edwards gives 3 flashes a minute; Findlay 1879 and 1887 both say revolving 1 min.\n- Hartland Point: Edwards gives white and red; Findlay just 'revolving'.\n- Wolf Rock: Edwards gives white and red alternating; Findlay doesn't mention colour.\nThese may be changes or misprints, so check them against the scans.\n(7) Nulls worth confirming:\n- Tees light-vessel, Dee light-vessel, Flintshire Point of Air, Straw Island, Samphire Island, Holy Isle (Lamlash), Portpatrick: not in Edwards. These are minor lights, or for Point of Air, mixed up with the Isle of Man's Ayre Point.\n- South Gare, North Carr, Fidra, Ailsa Craig: not in Edwards and not in Findlay 1879, so probably lit after March 1884.",
+ "_meta": {
+  "run": 1,
+  "cost_usd": 0.6923064000000001
+ }
+}

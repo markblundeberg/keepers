@@ -1,0 +1,37 @@
+{
+ "items": [
+  {
+   "n": 742,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": "'t.v.' is an OCR garble of 'L.V.'. The example says 'off Cromer', which fits the Leman and Ower light-vessel."
+  },
+  {
+   "n": 926,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk, England",
+   "note": "The whole county ('observed in Norfolk'), not one station."
+  },
+  {
+   "n": 1178,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": "Uncertain. A bare 'Spurn' could mean Spurn Point L.H. or the Spurn (Newsand) L.V., and both are listed in 1884. I chose the lighthouse because it is paired with 'Flamborough', which is a lighthouse. Check against the 1884 Spurn L.H. and L.V. returns for the first week of May."
+  }
+ ],
+ "notes": "Things to check: (1) n=1178 'Spurn': it is unclear whether this is the lighthouse or the light-vessel. See which of the two 1884 returns shows large numbers in the first week of May; if it's the L.V., change the id to spurn-lv. (2) n=742: 24 observations use this name. Make sure they really are all from the Leman and Ower light-vessel and that the 't.v.' garble doesn't also cover another vessel. (3) I read only the first 2,916 of 5,125 lines of stations.json, which takes in all the England east coast stations these three names could match. I didn't look for duplicate Spurn or Leman entries in the rest of the file.",
+ "_meta": {
+  "run": 2,
+  "coast": "APPENDIX",
+  "gen": 0,
+  "cost_usd": 0.0306028,
+  "n_items": 3
+ }
+}

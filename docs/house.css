@@ -1,0 +1,75 @@
+/* House style: the tokens and base of marklundeberg.com (src/css/style.css), with a dark mode added.
+   Copy this file into a page, or link it. README.md says what each token is for. */
+
+:root {
+  --ground: #f8f8f4;      /* behind the card */
+  --card: #fffffa;        /* the page itself */
+  --ink: #333;            /* text */
+  --muted: #666;          /* captions, axis labels */
+  --rule: #e6e6e0;        /* the one rule under the title, table lines */
+  --link: #0077cc;        /* links: the only colour without a physics job */
+  --shadow: 0 2px 8px rgb(0 0 0 / 0.05);
+
+  /* Physics colours, from ESBD's figureDefs.js (the canonical list lives there).
+     Signed things everywhere: warm is positive, blue is negative. */
+  --neg: #377eb8;         /* electron, spin down, cold, negative charge */
+  --pos: #e4571a;         /* hole, spin up, hot, positive charge */
+  --cation: #e41a1c;      /* a generic cation (ESBD: Li+) */
+  --anion: #80b030;       /* a generic anion (ESBD: Cl-) */
+  --electron: var(--neg); --hole: var(--pos);
+  --li: #e41a1c; --na: #d87e37; --k: #b84e63; --cl: #80b030;   /* ESBD SPECIES; add others from figureDefs.js as needed */
+  --hot: #93690a; --cold: #6a4fb5;   /* temperature: the ends of inferno (yellow hot, violet cold), clear of every species hue */
+
+  --text-font: system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, sans-serif;
+  --mono-font: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #15171a; --card: #1c1f23; --ink: #e4e4e0; --muted: #9a9a95; --rule: #33363b;
+    --link: #5aa9e6; --shadow: none;
+    --neg: #5b9bd5; --pos: #f07a45; --cation: #f0484a; --anion: #9ccc50;
+    --li: #f0484a; --na: #eb9a5a; --k: #d6728a; --cl: #9ccc50; --hot: #f2c440; --cold: #a48be0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #15171a; --card: #1c1f23; --ink: #e4e4e0; --muted: #9a9a95; --rule: #33363b;
+  --link: #5aa9e6; --shadow: none;
+  --neg: #5b9bd5; --pos: #f07a45; --cation: #f0484a; --anion: #9ccc50;
+  --li: #f0484a; --na: #eb9a5a; --k: #d6728a; --cl: #9ccc50; --hot: #f2c440; --cold: #a48be0;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--ground); color: var(--ink);
+  font: 1rem/1.6 var(--text-font);
+}
+a { color: var(--link); }
+
+/* The page: one card, a reading column; figures may run wider than the text. */
+.house-top, .house-foot { max-width: 75ch; margin: 0 auto; padding: 0.6em 16px; font-size: 0.85em; color: var(--muted); }
+.house-top a, .house-foot a { color: inherit; }
+main {
+  max-width: 75ch; margin: 0 auto; padding: 1em 0 1.5em;
+  background: var(--card); box-shadow: var(--shadow); border-radius: 4px;
+}
+main > * { margin-left: 16px; margin-right: 16px; }
+@media (min-width: 640px) { main > * { margin-left: 2rem; margin-right: 2rem; } }   /* rem, so headings line up with the text */
+h1 { text-align: center; font-size: 2em; line-height: 1.2; margin-top: 0.6em; padding-bottom: 0.4em; border-bottom: 1px solid var(--rule); }
+h2 { font-size: 1.4em; line-height: 1.25; margin-top: 1.6em; }
+h1, h2, h3 { font-weight: 700; }
+figure { margin-top: 1.2em; margin-bottom: 1.2em; }
+figcaption { font-size: 0.9em; color: var(--muted); margin-top: 0.4em; }
+code, .num { font-family: var(--mono-font); font-size: 0.92em; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Controls: native inputs, coloured by the quantity they change (set --q on the element). */
+.controls { display: flex; flex-wrap: wrap; gap: 0.4em 1.4em; align-items: center; font-size: 0.95em; }
+.controls label { display: inline-flex; align-items: center; gap: 0.5em; }
+input[type="range"], input[type="checkbox"], input[type="radio"] { accent-color: var(--q, var(--link)); }
+button { font: inherit; color: var(--ink); background: var(--card); border: 1px solid var(--rule); border-radius: 4px; padding: 0.25em 0.8em; cursor: pointer; }
+button:hover { border-color: var(--link); }
+canvas, svg { max-width: 100%; display: block; }

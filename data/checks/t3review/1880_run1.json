@@ -1,0 +1,100 @@
+{
+ "flags": [
+  {
+   "id": "9:species",
+   "kind": "judgement",
+   "right_value": "Grey\nLinnets",
+   "why": "\"both Grey and Green Linnets\": the name is shared, so \"Grey Linnets\" can't be copied from this phrase. \"Grey\" is a fragment; the chunk also prints \"Grey\\nLinnets\" (Skerryvore), which the rules allow. The text isn't misprinted, so not gutenberg."
+  },
+  {
+   "id": "11:behaviour",
+   "kind": "extraction",
+   "right_value": "passing",
+   "why": "\"enormous numbers crossed in the autumn, commencing Aug. 7th ...; from thence to Sept. 18th, almost daily\": the clause continues \"crossed\", so these birds are passing. Quote should start at \"enormous numbers crossed\"."
+  },
+  {
+   "id": "28:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"late in afternoon. Meadow Pipits, great flights. Tree Pipits less\": whether the time reaches past a full stop to the Tree Pipits is unclear, so null is defensible. (The stop after \"afternoon\" may be a transcription slip.)"
+  },
+  {
+   "id": "31:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"scattered flocks of Wild Ducks, about seven in number\": a vague count. Either \"scattered flocks\" or \"about seven\" will do; the checker's string also takes in the bird name."
+  },
+  {
+   "id": "33:time",
+   "kind": "extraction",
+   "right_value": "10\na.m.",
+   "why": "\"At Whitby L.H., Sept. 27th, 10\\na.m., a large flock of small birds containing many Robins\": the time is stated for these birds and was left out."
+  },
+  {
+   "id": "50:direction",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"one passing\\nS.E.\": the rules give the example \"passing S.\" as a direction, so the verb is kept. The checker's \"S.E.\" tidies it."
+  },
+  {
+   "id": "56:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"one struck and caught\": one observation per behaviour, so \"struck\" is right for this one. \"caught\" should be a second observation (check that it exists), not a replacement."
+  },
+  {
+   "id": "56:time",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The text reads \"7.80 p.m.\" and the print reads 7.30. The record copies the text exactly; the slip is in the transcription."
+  },
+  {
+   "id": "57:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"Both were captured\": \"Both\" is the quantity word printed for the caught birds, like \"eight killed\". \"two\" belongs to \"flew on board\"."
+  },
+  {
+   "id": "63:species",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The text reads \"_Tardus Naumanii_\" and the checker reads Turdus in the print. The record copies the text; the slip is in the transcription (italics are ignored)."
+  },
+  {
+   "id": "65:time",
+   "kind": "extraction",
+   "right_value": "1 to 2 a.m.",
+   "why": "\"At Godrevy, Oct. 4th, 1 to 2 a.m., mod. E.N.E. breeze, ... were seen, and three birds killed\": one entry, and the time covers the killed birds. The wind was taken from it but the time was left out."
+  },
+  {
+   "id": "83:time",
+   "kind": "extraction",
+   "right_value": "8 p.m.",
+   "why": "\"a great number of Larks, 8 p.m., light E.S.E., haze. Great numbers struck\": the struck clause continues this one; it already took \"Larks\" and the weather from it, so the time goes with them."
+  },
+  {
+   "id": "92:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"three and a Starling caught\": this observation is the Starling, with count \"a\", which is right. The Chaffinch \"three\" should be its own observation, not this one."
+  },
+  {
+   "id": "92:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "For the Starling observation the count is \"a Starling\", so \"a\" is right. \"three\" is the Chaffinches' count, in a separate observation."
+  },
+  {
+   "id": "92:time",
+   "kind": "extraction",
+   "right_value": "till midnight",
+   "why": "\"Oct. 25th, mod. W. breeze, till midnight, some struck and fell overboard; three and a Starling caught\": the caught clause continues the entry and shares its time."
+  }
+ ],
+ "_meta": {
+  "year": 1880,
+  "run": 1,
+  "cost_usd": 0.334889,
+  "n_flags": 15
+ }
+}

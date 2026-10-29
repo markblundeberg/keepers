@@ -1,0 +1,15 @@
+{
+ "_about": "Edits to the agreed grouping (group_run1/2.json have identical partitions; they differ only in the wording of ids and names). Each edit says why.",
+ "rename": {
+  "east-usk": ["west-usk", "West Usk", "The lists' 'Usk L.H.': East Usk lighthouse was built in 1893, so in 1879-87 the Usk light is West Usk (run 2's reading)."],
+  "rotten-island": ["rotten-island", "Rotten Island (Killybegs)", "Both runs: the lists' 'Killybegs' is the light at the harbour entrance."],
+  "holy-isle": ["holy-isle", "Holy Isle (Lamlash)", "Both runs: the lists' 'Lamlash'."],
+  "monach": ["monach-isles", "Monach Isles", "Fuller id (run 2)."],
+  "kish-bank-lv": ["kish-bank-lv", "Kish Bank L.V.", "Run 1."]
+ },
+ "kind": {
+  "allonby": ["other", "Printed 'Allonby, L.H.' once (1881, no. 121) with C. Donald Thompson, who in 1887 is a private observer at Seaton-Carew; checked against Findlay below."],
+  "heligoland": ["other", "Gätke's island station: the observer was not a light-keeper."],
+  "malmo": ["other", "An outlying station; observer unknown."]
+ }
+}

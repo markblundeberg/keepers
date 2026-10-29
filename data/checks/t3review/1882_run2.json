@@ -1,0 +1,52 @@
+{
+ "flags": [
+  {
+   "id": "7:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The text also says \"more resting on 18th\", so this is no transcription slip. But it doesn't say where they rested: the earlier bird was \"close to Isle of May\", probably on the sea. The rule for settled needs a vessel, rock or island, so either seen or settled can stand."
+  },
+  {
+   "id": "39:behaviour",
+   "kind": "extraction",
+   "right_value": "settled",
+   "why": "The text says \"species of birds remaining on the island at this date\". The rules list \"remained about the lighthouse\" as settled, so seen is too weak."
+  },
+  {
+   "id": "57:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The Tuskar Rock entry sits under the heading \"Linnet.\", between \"two Linnets\" at Coningbeg and \"Grey Linnets\" at Clare Island. Copying the heading is right. The checker's \"Tits.\" on p. 83 looks like the wrong page (scan not seen)."
+  },
+  {
+   "id": "58:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "\"four struck and two were killed\": the killed birds are the ones that struck. The rules define struck as hitting the lantern, and at_light covers birds \"killed ... at it\"."
+  },
+  {
+   "id": "59:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Neither the footnote chunk nor its context (only table rows) names a station. The rules say null when none is given; the table heading is outside both."
+  },
+  {
+   "id": "81:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"night of 12th many round lantern, and night of 13th, 8 p.m. to daybreak of 14th\": whether \"many\" carries over to the 13th is a question of how far a count reaches."
+  },
+  {
+   "id": "89:behaviour",
+   "kind": "extraction",
+   "right_value": "round_lantern",
+   "why": "\"one was seen at lights\": round_lantern covers birds \"at the lantern or light\", and at_light is already true. Pick the most specific behaviour the text states."
+  }
+ ],
+ "_meta": {
+  "year": 1882,
+  "run": 2,
+  "cost_usd": 0.0774158,
+  "n_flags": 7
+ }
+}

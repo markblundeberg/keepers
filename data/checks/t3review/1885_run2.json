@@ -1,0 +1,142 @@
+{
+ "flags": [
+  {
+   "id": "1:behaviour",
+   "kind": "extraction",
+   "right_value": "dead",
+   "why": "Text reads \"two on rock, killed\". The quote stops before \"killed\", so it drops the stated fate of the same two birds."
+  },
+  {
+   "id": "13:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "No station appears in the chunk or context. \"Heligoland\" is only in the printed running head, so null is right by the rules."
+  },
+  {
+   "id": "16:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "18:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "18:weather",
+   "kind": "extraction",
+   "right_value": "clouds from W.",
+   "why": "The entry prints \"light, clouds from W.\" after the wind. Weather is stated, so null misses it."
+  },
+  {
+   "id": "20:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"November 9th\" heading isn't in the chunk or context, so the date is null and so is date_iso."
+  },
+  {
+   "id": "32:weather",
+   "kind": "extraction",
+   "right_value": "chasing loose clouds",
+   "why": "The entry prints \"S.W., violent, chasing loose clouds\". Weather is stated, so null misses it."
+  },
+  {
+   "id": "33:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"November 8th\" heading isn't in the chunk or context. No date is printed for \"from 1 to 5 A.M.\", so null is right."
+  },
+  {
+   "id": "35:weather",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"threatening\" is copied exactly from \"heavy threatening cumuli at W. and N.\". How much of that phrase to take is a matter of reach."
+  },
+  {
+   "id": "40:direction",
+   "kind": "extraction",
+   "right_value": "direction of flight was N.W.",
+   "why": "\"In every case direction of flight was N.W.\" covers the sightings from April 13th on. The text states the direction for these birds."
+  },
+  {
+   "id": "44:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "45:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "46:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "50:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Heligoland is named only in the running head, not in the chunk or context, so null is right."
+  },
+  {
+   "id": "50:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The text says \"wounded, but not obtained\" and never says shot. Reading shot into it is inference, so seen stands."
+  },
+  {
+   "id": "56:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Longstone isn't named in the chunk or context; Mr Hall's notes begin on p. 53. Null is right."
+  },
+  {
+   "id": "59:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"November 8th\" heading isn't in the chunk or context. \"(9th)\" only marks when \"5 A.M.\" fell and gives no month, so null is defensible."
+  },
+  {
+   "id": "67:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"Thrush\" heading isn't in the chunk or context. The Broadhaven entry, \"one killed striking\", names no bird, so null is right."
+  },
+  {
+   "id": "68:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"several struck also on February 24th\" can be read as Jan. 19th's strikes, repeated on Feb. 24th, or as Feb. 24th only."
+  },
+  {
+   "id": "68:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "Same ambiguity: \"about lantern; several struck also on February 24th\" may or may not apply struck to January 19th."
+  },
+  {
+   "id": "88:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"November 9th\" heading isn't in the chunk or context, so \"Seven caught.\" has no date by the rules."
+  },
+  {
+   "id": "99:time",
+   "kind": "extraction",
+   "right_value": "between 10.30 and 11.30 P.M.",
+   "why": "\"killed at same time\" continues the clause \"struck the Nash lantern between 10.30 and 11.30 P.M.\" and shares its time."
+  }
+ ],
+ "_meta": {
+  "year": 1885,
+  "run": 2,
+  "cost_usd": 0.1312682,
+  "n_flags": 22
+ }
+}

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Round the Lantern</title>
+<meta name="description" content="A short film and a data explorer from the lighthouse keepers' bird reports of 1879-1887: what one keeper saw from one rock, and the pattern that appears only when their notes are laid together.">
+<meta property="og:title" content="Round the Lantern">
+<meta property="og:description" content="The lighthouse keepers' bird reports, 1879-1887: a short film and every night of the record.">
+<meta property="og:image" content="https://marklundeberg.com/keepers/film/poster.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* The film's world, as the explorer: one dark page on purpose, inside the house's top and bottom lines. */
+:root {
+  color-scheme: dark;
+  --sea: #0a1118; --ink: #d8d0bf; --ink-dim: #8c8778; --rule: #26323a; --lamp: #ffe7b0; --link: #9cc3dc;
+  --serif: "Old Standard TT", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+html, body { background: var(--sea); color: var(--ink); margin: 0; }
+body { font-family: var(--serif); font-size: 17px; line-height: 1.55; padding-block: 0 40px;
+       padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--link); }
+.house-top, .house-foot { font-family: var(--sans); font-size: 13px; color: var(--ink-dim); max-width: 980px; margin: 0 auto; padding: 10px 0; }
+.house-top a, .house-foot a { color: inherit; }
+main { max-width: 980px; margin: 0 auto; display: grid; gap: 14px; }
+h1 { font-weight: 400; font-size: clamp(34px, 6vw, 58px); letter-spacing: 0.03em; margin: 18px 0 0; text-align: center; }
+.chosen { text-align: center; color: var(--ink-dim); font-size: 15px; margin: -4px auto 10px; }
+.sub { text-align: center; font-style: italic; color: var(--ink-dim); margin: 0 auto 8px; font-size: clamp(16px, 2.2vw, 20px); }
+.film { aspect-ratio: 16 / 9; width: 100%; border: 1px solid var(--rule); background: #000; }
+.film iframe { width: 100%; height: 100%; border: 0; display: block; }
+p { max-width: 68ch; margin: 0.3em auto; }
+.ways { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 16px 24px; margin-top: 14px; }
+.ways a { display: block; text-decoration: none; color: var(--ink); }
+.ways a:focus-visible { outline: 2px solid var(--lamp); outline-offset: 4px; }
+.ways img { width: 100%; height: auto; display: block; margin-bottom: 10px; border: 1px solid var(--rule); }
+.ways small { display: block; font-variant: small-caps; letter-spacing: 0.08em; color: var(--ink-dim); font-size: 15px; }
+.ways b { display: block; font-weight: 400; font-size: 22px; color: var(--lamp); }
+.ways span { color: var(--ink-dim); font-size: 15px; }
+.ways a:hover b { text-decoration: underline; text-underline-offset: 3px; }
+</style>
+</head>
+<body>
+<div class="house-top"><a href="https://marklundeberg.com/">Mark Lundeberg</a> › Round the Lantern</div>
+<main>
+  <h1>Round the Lantern</h1>
+  <p class="sub">The lighthouse keepers' reports on the migration of birds, 1879–1887</p>
+  <p class="chosen">A subject chosen freely by Claude. Mark Lundeberg gave his Claude agent free rein, and this is what it made.</p>
+  <div class="film"><iframe src="https://www.youtube-nocookie.com/embed/gzMrZszV7GI" title="Round the Lantern (2:22)" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div>
+  <p>For nine years, keepers at lighthouses and lightships around Britain and Ireland wrote down the birds that came to their lights, for a committee of the British Association that printed their entries by name. On the night of 21 October 1887 the keepers of the South Bishop counted 272 dead by morning. Sixteen stations recorded strikes that night, and each keeper wrote only about their own light. Laid together, their notes show what none of them could see alone: birds struck the lanterns far more often on dark nights than under a bright moon.</p>
+  <p class="small" style="color:var(--ink-dim);font-size:15px">Every word the keepers say in the film is printed in the reports, and every light flashes at its 1887 character. The rock, the tower and the birds are reconstructed: no picture of that night exists.</p>
+  <div class="ways">
+    <a href="explorer/"><img src="img/way-explorer.jpg" alt="The night chart: Britain and Ireland at night, the lights glowing at their rhythms, a keeper's words beside one." width="640" height="400"><small>Data explorer</small><b>The keepers' nights</b><span>Every night of the record, 1879–1887, on a calendar and a chart: the lights at their rhythms, the keepers' words at their hours, their winds beside a modern reanalysis.</span></a>
+    <a href="making-of.html"><img src="img/way-making.jpg" alt="The keepers' house in the film, before and after one of Mark's notes: a plain block, then a house with windows and chimneys." width="640" height="400"><small>Making-of</small><b>How it was made</b><span>How Claude chose this subject, how the record was read and tested, and every note Mark gave along the way, with what each one changed.</span></a>
+    <a href="https://github.com/markblundeberg/keepers"><img src="img/way-data.jpg" alt="A printed page of the 1887 report: the South Bishop's entry, 272 killed." width="640" height="400"><small>GitHub</small><b>The data and the code</b><span>35,945 records with their quotes and page scans, the keepers by station and year, the tests, and the film's engine. Free to use (0BSD and CC0).</span></a>
+  </div>
+</main>
+<div class="house-foot">Written and built by Mark Lundeberg's Claude agent (Opus 5.5, an AI model made by Anthropic). Mark set the brief, and he answers for the result: corrections go to him.</div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+- p99_oct21_ink.png: Report on the Migration of Birds, 1887, p. 99 (Internet Archive reportonmigratio91887harv, page n112; public domain), crop of the October 21st paragraph to the end of the South Bishop entry, converted to ink in the green channel for type.js.

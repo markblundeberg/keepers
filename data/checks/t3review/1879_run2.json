@@ -1,0 +1,148 @@
+{
+ "flags": [
+  {
+   "id": "4:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "The killed birds are the ones \"in the vicinity of light from 1 to 4 a.m.\", so the text ties them to the light."
+  },
+  {
+   "id": "4:time",
+   "kind": "extraction",
+   "right_value": "from\n1 to 4 a.m.",
+   "why": "\"...killed\" continues \"Thrushes in the vicinity of light from 1 to 4 a.m.\", so it shares the time. Quote should start at \"Starlings, Blackbirds, and Thrushes\"."
+  },
+  {
+   "id": "5:behaviour",
+   "kind": "extraction",
+   "right_value": "struck",
+   "why": "The count \"numbers\" goes with \"numbers struck\". \"were flying about all night\" needs its own round_station observation."
+  },
+  {
+   "id": "5:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "Goes with behaviour struck: \"numbers struck\" is striking the light, which counts as at_light."
+  },
+  {
+   "id": "7:weather",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"The burst of severe weather\" is the cause of the influx, not a weather report for an observation. Taking it as weather is arguable either way."
+  },
+  {
+   "id": "16:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "This is the seen observation (\"11 p.m., Wrens and Whitethroats\"). Per Example 1, \"five killed\" is a separate dead observation (shared count)."
+  },
+  {
+   "id": "16:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Same as 16:count: seen is right for \"Wrens and Whitethroats\". \"five killed\" belongs to its own dead observation."
+  },
+  {
+   "id": "24:date_iso",
+   "kind": "extraction",
+   "right_value": "1879-10-13",
+   "why": "\"Oct. 13th and 15th\" names two days, not a range. Put 15th in other_dates (\"and 15th\") or make a separate observation."
+  },
+  {
+   "id": "30:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "North Foreland is listed among the \"instances\" of \"immolating itself against the lanterns\"."
+  },
+  {
+   "id": "31:behaviour",
+   "kind": "extraction",
+   "right_value": "dead",
+   "why": "\"one struck the lantern and was killed\". struck applies only when killing isn't stated. Quote should run to \"was killed\"."
+  },
+  {
+   "id": "45:species",
+   "kind": "extraction",
+   "right_value": "Linnet",
+   "why": "In the \"Linnet, _Linota cannabina_\" entry, \"invariably mixed with Larks\" is about Linnets. Larks are only the company."
+  },
+  {
+   "id": "55:date_iso",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The text reads \"Sept. 10th\", and 1879-09-10 copies it. The checker read 16th on the print, which suggests a 10/16 slip in the transcription. Not confirmed against the scan."
+  },
+  {
+   "id": "56:time",
+   "kind": "extraction",
+   "right_value": "3 a.m.",
+   "why": "\"Oct. 12th, 3 a.m., dense fog, ... thousands of Larks ..., many killed\". The time covers the whole entry, and dense fog was already taken from it."
+  },
+  {
+   "id": "59:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "Same as 4: the killed Blackbird is one of the birds \"in the vicinity of light\"."
+  },
+  {
+   "id": "67:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"Sky Lark\" appears in neither the chunk nor the context. \"Larks\" is in the context (\"immigration of Larks\"), so copying it is right."
+  },
+  {
+   "id": "67:direction",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"on fourteen days, going W., ... some striking lantern at night\": unclear whether the general \"going W.\" covers the subset that struck."
+  },
+  {
+   "id": "83:time",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"as a rule, very early in the morning (4.30 to 9.20 a.m.)\" describes the usual passage. The hovering is \"on foggy, thick nights\", which contrasts with it."
+  },
+  {
+   "id": "91:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"Titmice seen round lantern amongst the Flycatchers\" supports a separate Flycatchers observation. The Titmice need their own (\"several\"), but this record isn't wrong."
+  },
+  {
+   "id": "91:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"several\" counts the Titmice, not the Flycatchers. No count is given for the Flycatchers."
+  },
+  {
+   "id": "95:time",
+   "kind": "extraction",
+   "right_value": "through\nnight",
+   "why": "\"Larks and Chaffinches through night, ... probably double this number falling overboard\" continues that clause, so it shares the time."
+  },
+  {
+   "id": "96:count",
+   "kind": "extraction",
+   "right_value": "an occasional",
+   "why": "\"an occasional bird at the glass\" states a vague count, which is allowed, like \"a few\" or \"a\"."
+  },
+  {
+   "id": "96:weather",
+   "kind": "extraction",
+   "right_value": "hazy or rainy\nweather",
+   "why": "\"always in hazy or rainy weather, generally 'haze and rain'\" gives the weather in the chunk, so null is wrong. The exact span to take is open."
+  },
+  {
+   "id": "98:time",
+   "kind": "extraction",
+   "right_value": "through\nnight",
+   "why": "\"sixty picked up on deck\" continues \"Larks and Chaffinches through night\", so it shares the time."
+  }
+ ],
+ "_meta": {
+  "year": 1879,
+  "run": 2,
+  "cost_usd": 0.24736760000000002,
+  "n_flags": 23
+ }
+}

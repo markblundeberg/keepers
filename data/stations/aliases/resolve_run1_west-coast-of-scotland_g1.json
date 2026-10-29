@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "n": 1531,
+   "kind": "station",
+   "ids": [
+    "monach-isles"
+   ],
+   "place": null,
+   "note": "A variant of the printed 'Monach Isles' / 'Monach Islands', on the West Coast of Scotland list in 1886. The example is about breeding birds that stayed through the summer, not birds passing through, but the place is still the Monach lighthouse."
+  },
+  {
+   "n": 1532,
+   "kind": "station",
+   "ids": [
+    "holy-isle"
+   ],
+   "place": null,
+   "note": "The station list prints the Holy Isle light as 'Lamlash' (on the list in 1884). 'Light' here is just a type word. Pladda is the other Arran light and has its own entry, so this is not Pladda."
+  }
+ ],
+ "notes": "Both items match a station on the West Coast of Scotland list in the year they come from. Worth checking: (1) n=1531: the example is about birds that bred at the station and left in August, so you might flag that observation as breeding rather than migration. (2) n=1532: make sure 'Lamlash Light' in the 1884 text means the Holy Isle lighthouse and not someone watching from Lamlash village on Arran. The word 'Light' makes the station much more likely.",
+ "_meta": {
+  "run": 1,
+  "coast": "WEST COAST OF SCOTLAND",
+  "gen": 1,
+  "cost_usd": 0.2504648,
+  "n_items": 2
+ }
+}

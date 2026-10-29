@@ -1,0 +1,8735 @@
+{
+ "2896c0dced52": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Lights not visible W. of Seal Carr Ledges"
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only while there are 10 ft. on the bar; same tower as upper light"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "09743a0243d7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e8f899811e14": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "53b1610096b2": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "A flash every 20 secs.: two bright then one red; each flash plus its following dark totals 20 s"
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible only between N.W. by N. ½ N. and N. by W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "fc33cecb0e28": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward S. ½ W. to N. by E. ½ E.; red thence to N. by E. over Bulmer Bush Rocks"
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright S.E. by S. ¾ S. to S. by E.; red thence westward over Bondicar Bush to S. by W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "40977a460ffc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric light"
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright S. by E. to S. ¾ W.; red thence to S. by W. ¾ W. over Whitburn Stile, Hendon Rocks"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ec96ed77a996": {
+  "lights": [
+   {
+    "role": "Fifth buoy",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leads in with Seal Sand light, in one S.W. ¼ W."
+   },
+   {
+    "role": "Seal Sand",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a7b1916b089a": {
+  "lights": [
+   {
+    "role": "Fourth buoy",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "On East training wall"
+   },
+   {
+    "role": "Fifth buoy",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leads in with Seal Sand light, in one S.W. ¾ W."
+   },
+   {
+    "role": "Seal Sand",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "4247ccaf931c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Obscured southward of E.S.E. over Redcar Rocks"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1b6ed6f0915e": {
+  "lights": [
+   {
+    "role": "north",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red over and inshore of Scar Rock"
+   },
+   {
+    "role": "south",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "(One 3-flashing light proposed)"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "628fe4bb18aa": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Twice white, once red; half-minute between flashes"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "28a9f5a27cd6": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red between Sandhaile and Grimsby Pier (S.E. by S. to N.W. by W. ¾ W.)"
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "45f680e51625": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red between Sandhaile and Grimsby Pier (S.E. by S. to N.W. by W. ¾ W.)"
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "bafe7e21fcfb": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "aca8c2852141": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "636d142654cc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b38504c81108": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c22a78be4111": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e3beb19b0b13": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "4b767418297a": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 22,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two quick flashes (first bright, second red) occupy the remaining 8 s"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "eace3ff8235c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1af6f973c503": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c09c2cf4d928": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red over Roaring Middle Sand, W.N.W. to N.W. by W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0116462ad957": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 24,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Two quick occultations (with the short light between them) take the remaining 6 s. Red over Roaring Middle Sand, W. by N. ¾ N. to N.W. by W. ¼ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "921df1655016": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6fa8f6998ef9": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d1f35d9d7748": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 20,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two quick flashes take the remaining 10 s"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "4a1ca484c798": {
+  "lights": [
+   {
+    "role": "light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leading lights for Hasborough Gat, in one N.W. ½ W., ½ mile apart"
+   },
+   {
+    "role": "light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5807d81de651": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 25,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 5,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6d54c4bfac17": {
+  "lights": [
+   {
+    "role": "light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel; the two lights horizontal"
+   },
+   {
+    "role": "light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "be7348d554fc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Masked to S. by E. ½ E., to Scroby Elbow bell buoy"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "eadfb7f806a8": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 36,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Three quick flashes take the remaining 24 s"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7d6a0be6fc0e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e2b34867566f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f2cc0cbb2ef4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "In the red sector the light is fixed red, not revolving"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "70b82cd483dc": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "High light to the South; red from W. by S. to W.S.W. (description truncated)"
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9adb898c8d11": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0bbaa14f435b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 14,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Short, long, short flash in the remaining 16 s, then 14 s eclipse"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "eedef1c99275": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red outside between S.S.E. and S.W. to Beach End buoy, bright to West; red strip N.W. by N. ½ N. to N. by W. ½ W. clearing North Shelf buoy. (Fixed green light on Landguard Fort jetty not counted)"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e8dedb225fa8": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "42b4b0adbed5": {
+  "lights": [
+   {
+    "role": "light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel; the two lights horizontal"
+   },
+   {
+    "role": "light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "74e6daf1e0c3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "8e2e25de841c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "044ee732fb82": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f7eb922187ac": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Vessel sunk July 1877; wreck marked by a light-vessel 1½ cable N.N.E."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "733d0357786f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red then bright flash in quick succession every ½ min."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "46adf3cea360": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "55f57fecea41": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red strip to E. end of Margate Sand, N. ¾ E. to N. by W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "702819b2a732": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 25,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 5,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red strip to East end of Margate Sand, N. by E. to N. by W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5d96699ea10b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 36,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Character line says 'rev. br. lt., 1 min.' but description gives 3 quick flashes then 36 s eclipse; flashes take the remaining 24 s"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "01e4acd32c5e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "30b09f08b2d5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "29029ed46190": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 1.5,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 6,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 5,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 17.5,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1790598b73df": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2490d0d64110": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric; visible between N.E. by N. and W. by S. ½ S."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric; visible between N.E. ¾ E. and W. by S. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5cdb928b5109": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2ad564309d52": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red over W. anchorage northward of W., and over E. anchorage West of N.E. by E. ½ E."
+   },
+   {
+    "role": "point",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower on extremity of point, 675 ft. S.E. by S. ½ S. from main light"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1fee3d29c013": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 37,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "3 flashes within 23 s, then 37 s dark. In summer 1887 to be altered to triple-flashing every 45 secs."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2dabb8126225": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 15,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 105,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "be67992ad4cc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Twice white, once red; half-minute between flashes"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "02202e5d5a39": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "A flash every ½ min., alternately bright and red"
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a88d37bfd049": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between E. ¾ S. and N.W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "53bca057bf75": {
+  "lights": [
+   {
+    "role": "light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel"
+   },
+   {
+    "role": "light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6b4df59ac01b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c8e2f84e6a8e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 45,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ae5b39472a0c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "36eed3002e49": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 24,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Eclipsed twice in quick succession, then 24 s light. The two eclipses and the short light between them take 6 s together (30 - 24), but the split isn't given. Masked East of South (nearly), i.e. one-third of a mile outside Selker Rocks."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d6e328424e59": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel: one bright and one red flash every ½ minute."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "8db9ef75d04c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c3a057c86090": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "52577ed6cded": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red only within Hoyle Sand, from N.W. to E. by S. ¼ S.; bright elsewhere."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "57fdf0ab3e9e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "11771463f691": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Not visible over East Platters Rock, from S.S.E. to S.E. ½ S."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red light shown only over Ethel and Coal Rocks, from E. ½ S. to E. by N. ½ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "22938d90d307": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "group_occulting",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 50,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Eclipsed 3 times in quick succession, then 50 s light. The three eclipses and the two short lights between them take 10 s together, split not given. Not visible over East Platters Rock, from S.S.E. to S.E. ½ S."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only over Ethel and Coal Rocks, from E. ½ S. to E. by N. ½ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f0f1907f92a4": {
+  "lights": [
+   {
+    "role": "breakwater",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 7.5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Within 3 or 4 miles a fixed light shows between the flashes (colour not stated), so close in it looks fixed and flashing."
+   },
+   {
+    "role": "old harbour jetty",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "On end of wooden jetty, old harbour."
+   },
+   {
+    "role": "old pier-head",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Small red light, shown only from N.E. ½ N. to N.E. by N. ½ N., to clear the Platters."
+   },
+   {
+    "role": "inner harbour north",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red light on North side of inner harbour."
+   },
+   {
+    "role": "inner harbour south",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Green light on South side of inner harbour."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "53f58e4c0684": {
+  "lights": [
+   {
+    "role": "small light",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only occasionally. 40 ft above sea, 30 yards N. of South Stack lighthouse."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d37e13b00ae7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "During fogs a smaller bright revolving light (1 min.) at 90 ft is shown 65 yards W. by S. of the lighthouse, between S. ½ W. and N.E. ¾ E.; in partial fogs the two may appear as one irregular light."
+   }
+  ],
+  "decided": "run2: The second revolving light is shown only during fogs (Findlay 1887: 'During fogs a smaller bright revolving light ... is shown'); not part of the light as normally seen. Noted on the light."
+ },
+ "0e77f5495e87": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. One flash every 20 s, in the order bright, bright, red. Each light+dark pair takes 20 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9943cd262e88": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 8,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 2,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright to westward between N. by E. and S. by W.; then red to S.E.; then bright to N.E. by E. ½ E.; then red to N. by E. Obscured by East Island between N.E. ½ E. and E. by N. ½ N."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "A red ray with an arc of 15° (description cut off)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2cbbe9ba87ed": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "63d022d2d594": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ba9db46e857f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f30e2be94ec5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "448f5ae12bef": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward, from E. ½ S. to S.E. ½ E.; red over Hats and Barrels Rocks."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "bd09f3b07ff0": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 54,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Eclipsed twice in quick succession, then 54 s light. The two eclipses and the short light between them take 6 s together. Bright seaward; red over Hats and Barrels Rocks between E. ½ S. and S.E. ¾ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "4eae9890f0c9": {
+  "lights": [
+   {
+    "role": "leading light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "In line N.E. by E. ½ E., leading in mid-channel between St. Ann's Point and Mid-channel Rock."
+   },
+   {
+    "role": "leading light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "In line with the other light."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1cd080d2c5e2": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Tower 75 ft. Red ray over Chapel and Harbour Rocks between S.E. and East. In line N.N.W. with low light, leading clear of Crow and Toes Rocks."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 42 ft, 610 ft from the high light."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "aea893e914a3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward; red toward Old Castle Head (N. 70° W. to N. 56° W.) and over Woolhouse Shoal (N. 55° E. to N. 15° E.)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ad5fbd7ffcca": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward; red toward Old Castle Head (W. by N. ¾ N. to N.W. by W.) and over Woolhouse Shoal (N. by E. ½ E. to N.E. ¾ E.)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b3a5cbffe74b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6b6a3ad9525b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a39853e62c21": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Tower 111 ft. Red North of S.E. ½ E.; obscured North of N.W. ½ W. In line N.W. by W. ¾ W. with low light, leading South of Nash Sand."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 60 ft, 1,000 ft from high light. Obscured North of N.N.W."
+   },
+   {
+    "role": "lower red",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from a window below the high light, only over Tuskar Rock, between N.W. ½ N. and N.W. by N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "621a48fe9639": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   },
+   {
+    "role": "after",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red light shown from after part of vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9be5782333a1": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b70787c0f039": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red from S. ¼ E. to N. by W. ½ W."
+   }
+  ],
+  "decided": "run2: 'One bright or red light' with no kind word: Findlay 1879 leaves 'fixed' unsaid for such lights; fixed, kind assumed."
+ },
+ "2083fe5ef7a2": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red sector; bearings not given."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "fad230dd9980": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Eclipsed 3 s twice in every ½ min (the two light periods total 24 s). Red between N.W. ¾ W. and N. by W. ½ W.; then bright to N. ½ W. (Ranie Spit Shoal to West Cardiff buoy); then red to N.E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0f99c49c5f4f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "bfab2c434be6": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Bright between S.W. by W. ¾ W. and S.S.W.; then red to S. by E. ½ E.; then bright over river entrance to S.E. by S. ½ S.; then red to the land. Green up the river between E. by N. ½ N. and N.E. by E. ½ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0c737e648669": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Red sector to N.W.; green ray from W. to W. by S. at turn of channel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "cc7a376108ad": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Red sector to N.W.; green ray from W. to W. by S. at turn of channel. A fixed red light 230 yds. to N.W. is mentioned but not counted in the character line."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "de95aa079776": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 240,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 210,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "'Intermittent': 3½ min visible, ½ min dark."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White and red; bearings not given."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3c9e19eca351": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 54,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Eclipsed twice in quick succession, then visible 54 s; the two eclipses and the short light between them take 6 s together. White tower 99 ft. In one with lower light E. by S. ½ S., 1,500 ft apart."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright between W. ¾ N. and W.N.W.; red over the bar (rest of description cut off)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b72e8fe18ccd": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 18,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Three quick flashes, then 18 s dark. The three flashes and the two gaps between them take 12 s together."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "18 ft lower. Shown only between W. by S. and N.W. by W. ½ W., to mark Morte Stone."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9aab00365f87": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between W.S.W. and N.N.W.; obscured between N.N.W. and E. ½ N. over Baggy Leap and Asp Rocks; a light of less power visible in harbour from E. ½ N., through South, to W.S.W. In one with low light S.E. ½ E., leading over bar."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "311 yards from high light. Shown only over a limited arc (description cut off)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7f1ab3f59810": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "In the same tower. Visible to West between N. by W. and S.W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ff0e1af4a658": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "One flash every 30 s, in the order bright, bright, red. Each light+dark pair takes 30 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "eec16da30581": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "50 ft to seaward of the upper light."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5fd032b122b2": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 45,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Eclipsed 3 times in quick succession within 15 s, then visible 45 s. The three eclipses and the two short lights between them take 15 s together, split not given."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "63b29a2522b6": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only over Stones Rocks, between N.W. and N. by W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6bcfe2adb2f3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White seaward, from N.N.E. ½ E. (½ mile W. of Brisons Rocks) to S. by E. (¾ mile W. of Runnelstone); red inshore of these bearings."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3381d8bb91a5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 57,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward, from N.E. by N. ½ N. (½ mile W. of Brisons Rocks) to S. by E. ½ E. (¾ mile W. of Runnelstone); red inshore of these bearings."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e7134ee45fb5": {
+  "lights": [
+   {
+    "role": "light 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. To be altered in summer 1879 to a revolving light showing 3 flashes once every minute."
+   },
+   {
+    "role": "light 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel's second fixed light."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "19d4fc3744f2": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 36,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. Three quick flashes, then 36 s dark. The three flashes and the two gaps between them take 24 s together."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "17c355f257b4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Flashes red and bright alternately, one every ½ min."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5a9334d6c919": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Obscured by islands from N. by E. to East."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7a26d15443e3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Obscured by islands from N. ½ E. to E. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5a20853da949": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Invisible to eastward between N.E. by E. and E. by S. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7878af55be78": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 4,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 4,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 4,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 48,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two quick 4 s flashes, then 48 s eclipse; the 4 s gap is 60 - 4 - 4 - 48. Invisible to eastward between N.E. ¾ E. and E. ½ S., except toward E. by N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ce47ce55fbba": {
+  "lights": [
+   {
+    "role": "west",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric. Tower 61 ft. In one with the east light, leading clear of the Manacles and Wolf Rock."
+   },
+   {
+    "role": "east",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric. Tower 61 ft, 223 ft E. by S. of the west light."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "67b28bc3d4a3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 20,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only between S.W. by S. ½ S. and S. by W., to clear Manacle Rocks."
+   },
+   {
+    "role": "breakwater 1",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "On end of a breakwater."
+   },
+   {
+    "role": "breakwater 2",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "On end of the other breakwater."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0e63452269e5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "82dacf35e1ef": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two quick flashes in every ½ min."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only over Hand Deeps, between N.W. by N. ½ N. and N.W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7c54ab2faa43": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to seaward, but bright east of N.E. ½ E."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Seen only when the channel is open."
+   }
+  ],
+  "decided": "run2: As 95: two lights, fixed, kind assumed; main colour by the rule (bright named first)."
+ },
+ "d900c53c5222": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Bright seaward, between E. by S. ½ S. and N.E. ½ E. through South; red over the anchorage."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Seen only when the channel is open, between S.W. ¾ W. and S.W. by W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7294ec1d11d8": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "fixed",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "At 181 ft; shown only over Skerries Rocks, between N.E. ¾ E. and E. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "79dff93d60cb": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 85 ft. In one with low light N.W. by N., leading between Race and Shambles."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 50 ft, 1,509 ft from high light. Shown only between N.W. by W. ¾ W. and E.N.E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ebc0c5de82dd": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f1fb7057cf41": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 5,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 6,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 1.5,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 17.5,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c58135eb9b35": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between about W. ½ N. and E. by N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d746d63650ea": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between S.W. ¾ W. and W. by S. ¾ S. A leading light is also shown from the high lighthouse up the Solent, between E. and E. by N. ½ N."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between S.W. and W. by S. ½ S. The towers stand 223 yards apart, N.E. by E. ¼ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2e2a2ca5c791": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to S. from S.E. ½ S. to W.; white over the Needles Channel entrance to W.N.W.; red up the channel to N.E. by E.; white to N.E. by E. ½ E., to clear Warden Ledge. Bell in fog."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c71874b2f7bc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 27,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Eclipsed 3 s every ½ min. Red to S. from S.E. ¾ S. to W. ¾ S.; white over the Needles Channel entrance to W. by N. ¾ N.; red up the Channel to N.E. ½ E.; white to N.E. by E., to clear Warden Ledge; green somewhere (the description breaks off)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3052007bd867": {
+  "lights": [
+   {
+    "role": "first light",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel in 11 fms. on the S.W. part of the bank. To be changed in May 1879 to one revolving white light showing 2 flashes every ½ minute. Fog-trumpet and warning gun."
+   },
+   {
+    "role": "second light",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Second of the two fixed lights on the light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7c8bf7568fad": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 20,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel (red, with ball) in 11 fathoms off the S.E. end of the bank. 2 quick flashes, then 20 s dark; the flashes and the gap between them fill the other 10 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d55c2f1fce25": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "White and red alternately, one-minute interval between flashes; each flash plus the dark after it is 60 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5c410d38f95d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Hidden inshore of S.W. ¼ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "efd202b171a7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7f8996f3d6e7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3ca4c0b69d09": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red towards the Skaw of Unst, between S.E. by E. ¼ E. and S.E. by S. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a86a26d567d5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f827d685999e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red and white alternately, 1 min between flashes. There is also a small fixed red light on Lerwick pier, which the character line doesn't count."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a0c2fc915f9b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "876e779f153e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "bad81ef8146e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "547493c72a5e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e1ae48a25402": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to seaward; white only between N.W. by N. ¾ N. and N.E. by E. ¾ E.; a ray of light towards the E. entrance of Hoy Sound, between S.E. by S. ½ S. and S. ¾ E. So red covers most of the seaward bearings."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "On the N.W. point, 2,237 yds N.W. ¾ W. of the high light; visible to N. between E. ½ S. and W. ½ N. The two lights form a leading line."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3b396bd1f1d6": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "784b0ac64dc5": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 118 ft."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Tower 88 ft., 100 ft. from the high tower on the line N. by E. ¾ E. / S. by W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "dc55e119e0e4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "74d9adcb94a4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White towards the Pentland Firth; red west of S.S.W., in Scrabster Road."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "dcbc9aee4277": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White to seaward; red in Sinclair Bay, from N.E. by N. to W. by N. ¾ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "4348abb8156a": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 180,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 150,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Within the Moray Firth, from S. ½ W. to S.W. ¾ W., the light is fixed (shows without eclipses)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "106f18a19e10": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f5f689c52369": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0b68cf978340": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to the east, in Spey Bay, from S.E. by E. ¾ E. to the land; white elsewhere."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "97978af2d671": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red over Rattray Brigs, westward of S.E. by S. (the description is cut short)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "322a7aaddec3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from N. by E. round by E. and S. to S.W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e03665f0bc1f": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two lights in one tower, 120 ft. high."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Second light in the same tower."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "081b5cc9b27d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "8f2fdf7af8b2": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 30,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light 30 s, eclipsed 30 s: light and dark are equal. The source calls it 'intermittent'."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "8feb72971066": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "White and red alternately, 1 min between flashes."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ae8127712861": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Only a proposed light-vessel with a fixed white light; it may not yet have been on station."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "6c9eccc2f87d": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Towers 78 and 86 ft. With the low light in line, S.S.W. ¾ W. leads ½ mile E. of North Carr Rock."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "750 ft. away, on the N.E. side; visible only over 15° towards North Carr Rock."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1d2d12b57d05": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "group_flashing",
+    "group": 4,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Electric light: 4 quick white flashes every ½ minute."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "750 ft. away, on the N.E. side; visible only over 15° towards North Carr Rock. With the high light in line, S.S.W. leads ½ mile E. of North Carr Rock."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c2dce7db2de1": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9094e4df856d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two quick flashes every 15 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "02d012e51a06": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "8ad16e9f3eef": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "White and red flashes alternately, 1 min apart."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f720e9f68eb0": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 60,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "43eaacc73ac3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible to seaward from S. by E. ½ E. to W. by S. ½ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d4e4d61571e7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "White tower on Arnish Point."
+   },
+   {
+    "role": "beacon (reflected)",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "A prism on a beacon on the S.E. end of the reef reflects light from a lower window of the lighthouse, between E. by S. and S. by E.; seen when entering."
+   },
+   {
+    "role": "wharf",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Gas light on the wharf."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "3855a4038753": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "90f75e80b420": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "In one tower with the lower light, 133 ft. high, on Shillay Island."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown only to the north, from N.W. by N. to N.E. by E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "c79dcd61606d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 10,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1bb84e6e1598": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown between N.E. ½ N. and S.S.W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "300ce1926a41": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 24,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 8,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 16,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light 8 s, eclipsed 16 s. The source calls it occulting, though dark is longer than light. Shown between N.E. ½ N. and S.S.W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "dba312766209": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 180,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": 150,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "The source says 'intermitting': visible 2½ min., dark ½ min."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "702cb1baa2d5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 30,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light 30 s, eclipsed 30 s: light and dark are equal. The source calls it 'intermittent'."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "20f3f3186995": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 12,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible from W. by S. ½ S. round by N., E. and S. to S.S.W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7f72083c5d99": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White in the fairways of Applecross Sound and Loch Alsh, between N.N.W. and N.W. by W. and between S.E. ¾ E. and S.E. by E. ¼ E.; hidden between N. by E. ¾ E. and S.E. by E. ¼ E.; red elsewhere. So red covers most bearings."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b22d972592bc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible from N. ¼ W. round by N., E. and S. to S.W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "37e413c08412": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown between N.E. by E. ½ E. and S.W. by S. ¾ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "123ed71693d3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1f2760da5710": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red towards the S. coast of Iona and Torranan Rocks, between E. ½ S. and N. by E. ¾ E.; white all round otherwise. Fog-bell: 10 s in every 40 s."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "37906f98bc93": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Fixed white generally. Towards the S. coast of Iona and Torranan Rocks (between E. ½ S. and N. by E. ½ E.) it is occulting: 'visible for 10 and 30 secs. alternately at intervals of 10 secs.' (perhaps light 10, dark 10, light 30, dark 10: a 60 s cycle)."
+   }
+  ],
+  "decided": "run1: Dubh Artach: 'fixed or occulting' -- fixed over most of the horizon, occulting (visible 10 and 30 secs. alternately at intervals of 10 secs.) only towards Iona and the Torranan Rocks. Drawn fixed; the occulting sector is noted."
+ },
+ "64328bbda0cc": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Red to the north, to seaward; green towards the rocks; white towards Mull Sound. The sector bearings are cut off."
+   }
+  ],
+  "decided": "run1: Rubha nan Gall, 'One fixed light' with no colour in the character line: bright towards Mull Sound (the channel it marks), red to seaward northward, green towards the rocks. Main colour white; red and green are sectors."
+ },
+ "18def41b3e95": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to the east, between S.W. by W. and N.E. by E. ¼ E.; white to the westward."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "cae90aa03716": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Not visible westward of S.W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d3fd048596f5": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to the north over Bogha Nuadh Rock, between N. by E. ¼ E. and N.E. by N. ¼ N.; white landward to S.W. by S. ¾ S.; hidden to seaward from there to N. by E. ¼ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5c34b2e2600c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red to the westward, between W. by N. and N.E. by N. ½ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "97a6d53db5bd": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White up the Sound to N. ½ E.; red from there towards Jura to E. ½ N.; white elsewhere."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "580c8ce87f20": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "660a2f889738": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a8f162604b89": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White to the S. from S.W. by W. to S. by W. ½ W.; red from there to E. ½ S.; then white to N.E. by E. ¼ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "befaa5b58a23": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible only between N.E. by E. ½ E. and S. by W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "84e8b3540c7c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Not seen to N. of S.E. by E. ¾ E. Fog horn, 7 s blast every minute."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "dfec71dc4513": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 24,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 8,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 16,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Source calls it occulting, but the eclipse (16 s) is longer than the light (8 s). Not seen to N. of S.E. by E. ¾ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2b9951cc6a46": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "f532669e6e19": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "95 ft tower. Shown seaward from N.W. by W. to N.E. by E.; only one light visible N. of E. ½ N."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "43 ft tower, 24 ft from the other, N. and S. Shown seaward from N.W. by W. to N.E. by E.; only one light visible N. of E. ½ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7bc8e13ddf7f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "green",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible seaward from S.E. ½ E. to S.W. by S., and in the harbour."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "dc18b6f702b6": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 12,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "52e2984aa369": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 15,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 15,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "The 15 s light step is a run of quick flashes (number not given), then 15 s eclipse. Visible between N. by W. and S.W. by W., through E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a08cb7b910b9": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Character 'rev. br. & red lt. 1 m.'; taken as one flash a minute, white and red in turn."
+   }
+  ],
+  "decided": "run1: Revolving 1 min., bright and red alternately: the colour cycle repeats every 120 s."
+ },
+ "c71ed92d663b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "43aeedc2330e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "34ff8a3e579c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 30,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 30,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "'Intermitting': visible ½ min, invisible ½ min (light and dark equal)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a227a28d5212": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 45,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 30,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 15,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown between N.N.E. and N.W. ½ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1d5f90ffca25": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 5,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Not visible inshore between N.W. by W. and N. by E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "fa1207ea796a": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a185e2febc74": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 16,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 44,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "The 16 s light step is 6 or 7 flashes; then obscured 44 s. Visible between West and E. by S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "11a943fdcdd3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red ray over outer part of Courtmacsherry Bay, from the Seven Heads to Horse Rocks."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "65558ae3b981": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 50,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 10,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from W. by S. ½ S. to E. ¾ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "af4730a405ed": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red",
+     "green"
+    ],
+    "note": "Red over Carrickapane Rock; green over rocks off Ballinacourty Pt., E. ¼ N. to S.E. by E.; white elsewhere."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "46a837f587b6": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "308c37e04216": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 3,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 37,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. 3 quick flashes within 23 s (first five steps total 23 s), then 37 s eclipse."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "da5ee1ead5fb": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d8786b26ec91": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. Two red flashes in quick succession every ½ min."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e763300b4eb4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 180,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": 10,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 50,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 10,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 50,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 10,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 50,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "A 10 s flash every minute: white, white, red."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "491dbfabfb9a": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 120,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Bright and red alternately; '1 m.' taken as one flash a minute."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "106dd250a4ce": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d1cf93ad3169": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "28abb3fbe3e1": {
+  "lights": [
+   {
+    "role": "mainmast",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. To be changed in spring 1879 to a revolving light showing 2 flashes once a minute."
+   },
+   {
+    "role": "foremast",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. To be changed in spring 1879 (see mainmast light)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ed3d35f363a8": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 45,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel. 2 quick flashes, then 45 s dark (first three steps total 15 s)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2653522b5e74": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 13,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 10,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 3,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   },
+   {
+    "role": "pier",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red seaward, white in the harbour."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d5c67d666fa1": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b170112f8d0f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ff16d9b100ad": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 12,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White seaward from S. ¾ E. to N.E. by N. ½ N.; red to the westward."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "79e632a1463f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Light-vessel; supersedes South Rock lighthouse."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "efa1b973d5e8": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "79d2c0b7bff9": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 4,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 38,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Group of 4 quick flashes taking 'about' 22 s, so the 38 s dark is approximate. Weak reflected flashes may be seen in the interval. Obscured by the Copeland Islands. Replaces the discontinued Copeland light."
+   }
+  ],
+  "decided": "run1: 'A group of 4 flashes ... in every min., occupying about 22 secs.': the dark of 38 s follows by arithmetic."
+ },
+ "f5092a105dc0": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "76 ft tower. Leading pair, in line N.W. by W. ¼ W., 800 yds apart."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "68 ft tower. Leading pair, in line N.W. by W. ¼ W., 800 yds apart."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a7a4fde46ca1": {
+  "lights": [
+   {
+    "role": "upper",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 50,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 10,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Shown to N. and E. from N.W. to S.W. by S., and in Rathlin Sound from S.W. by W. ¼ W. to W. ½ S. Red over Carrickvanan Rock."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible seaward (the bearing text is cut off in the source)."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "30f37947d5c9": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "baed7be41f35": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from a dwelling-house; visible between N.E. by N. ½ N. and S. ½ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "1e697d224aa7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red seaward; white toward the Lough."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "835e5e0a79b7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_occulting",
+    "group": 2,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 5,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 2.5,
+      "stated": true
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 20,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 2.5,
+      "stated": true
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White seaward to S. by E., then red to the land."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "55 ft below the main light; shown only over Limeburner Rock, between N. 44° W. and N. 54° W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b776574cb06e": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Hidden by the island between S.E. by E. ¼ E. and S.E. ¾ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "b8c2ac0f2f4f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 40,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red and white flashes in turn (of equal intensity), one every 20 s."
+   },
+   {
+    "role": "lower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Red, shown to the eastward over Stag Rocks only, between N.E. by E. ½ E. and E. by N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ee8d9c7179c3": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White seaward from N.E. ½ N. to S.E. by S. ½ S.; red toward the mainland and the sound."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "affc2f4bb09d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red sector over Bullockmore Rock, between S.W. ¾ S. and S.W. by W. ¾ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "5e50844732b5": {
+  "lights": [
+   {
+    "role": "first",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leading pair, in line S.E. ¾ S."
+   },
+   {
+    "role": "second",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leading pair, in line S.E. ¾ S."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "513d97f7a374": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White to seaward; red toward the W. side of the harbour."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "afda5f2317c1": {
+  "lights": [
+   {
+    "role": "high",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "87 ft tower. In line E. by N. ½ N. / W. by S. ½ S., 132 yds apart."
+   },
+   {
+    "role": "low",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "64 ft tower. In line with the other, 132 yds apart."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "19846a7353e4": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 30,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red toward the land, from N.E. by E. ½ E. to S.E. by E.; white seaward."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "cb6ea779aac0": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red between N.E. ¾ N. and N.E. by E. (19°); white from there to S.W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "815ba3836191": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "2a1ce782bdda": {
+  "lights": [
+   {
+    "role": "north",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 360,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Revolving, '2 min.'; one red and two white flashes. Leading pair with the south light, in line N. ½ E., 142 yds apart."
+   },
+   {
+    "role": "south",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Leading pair with the north light, in line N. ½ E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ad11e451a95c": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "ae31add75b4d": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "Red over Finnis Rock."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "9a355ccf229a": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown between W. by N. ½ N. and S.E.; visible from inside the Arran Islands."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "7b703c1bfe64": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "occulting",
+    "group": null,
+    "cycle_s": 24,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": 20,
+      "stated": true
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 4,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from N.E. by E. ½ E. to S.E. by E."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "a211d12f2628": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "red",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [
+     "red"
+    ],
+    "note": "White seaward from N. ½ E. to W. by N. ½ N.; then red over the anchorage to E. by S. ¾ S. The light on the end of the canal N. pier isn't counted in the character line, so it is left out."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "08b1b600ee9f": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "revolving",
+    "group": null,
+    "cycle_s": 90,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown between S. ¾ E. and E. by N. ¾ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d1df2cba45e7": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "group_flashing",
+    "group": 2,
+    "cycle_s": 60,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": 45,
+      "stated": true
+     }
+    ],
+    "sector_colours": [],
+    "note": "Two flashes within 15 s (first three steps total 15 s), then 45 s dark. Shown between S. ¾ E. and E. by N. ¾ N."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "976c7e9bf32b": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Visible between N.E. by N. ¾ N. and N.W. ¼ W."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "0f63e282e9fe": {
+  "lights": [
+   {
+    "role": "lower tower",
+    "kind": "fixed",
+    "group": null,
+    "cycle_s": null,
+    "cycle_stated": false,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Shown from the lower tower; visible only to the southward, between N.W. ½ N. and E. by S. ½ S. Upper tower not lit."
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "e871c625c9e9": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": null
+   }
+  ],
+  "decided": "runs agree"
+ },
+ "d2c82518c0b1": {
+  "lights": [
+   {
+    "role": "main",
+    "kind": "flashing",
+    "group": null,
+    "cycle_s": 15,
+    "cycle_stated": true,
+    "steps": [
+     {
+      "light": true,
+      "colour": "white",
+      "seconds": null,
+      "stated": false
+     },
+     {
+      "light": false,
+      "colour": null,
+      "seconds": null,
+      "stated": false
+     }
+    ],
+    "sector_colours": [],
+    "note": "Lighthouse destroyed by the gale of 26 Nov 1881. A temporary light of the same character is shown from the lighthouse on the S.W. end of Dursey Island, between N.E. ½ N. and E.S.E. through W., elevated 189 ft, visible 16 miles. New lighthouse being built on Bull Rock."
+   }
+  ],
+  "decided": "runs agree"
+ }
+}

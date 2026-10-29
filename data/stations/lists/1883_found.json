@@ -1,0 +1,60 @@
+{
+ "lists": [
+  {
+   "section": "EAST COAST OF SCOTLAND, &c.",
+   "kind": "section",
+   "first_line": 371,
+   "last_line": 402,
+   "lead_quote": "East Coast or Scornanpb.",
+   "legend_quotes": [],
+   "printed_count_quote": "The ordinary papers were sent to thirty stations on the Hast Coast of Scotland, Faroe, and Iceland, as in former years. Twelve stations on this coast have sent in forty-two schedules out of the twenty-six E.C. stations of Scotland.",
+   "rows_counted": 27,
+   "columns": "Asterisks under year columns '79–'83 (header at line 364, no sentence explains them); map number (4–29); station and district; height of light in feet; keeper's name. Sub-headings ORKNEY, MAINLAND. The count includes the 'Land Notes.—7s. Fair Isle.' line; nos. 1–3 are absent."
+  },
+  {
+   "section": "HAST COAST OF -ENGLAND.",
+   "kind": "section",
+   "first_line": 2031,
+   "last_line": 2097,
+   "lead_quote": "The East Coast stations included in this report are as follows, those making returns being marked with a star (*) :—",
+   "legend_quotes": [
+    "those making returns being marked with a star (*) :—",
+    "+ For nature of light, position, and distance from the nearest land, see Report for 1880."
+   ],
+   "printed_count_quote": "PrInTED schedules and letters of instruction were forwarded to thirty-seven lighthouses and light-vessels on the East Coast of England, and two stations in the Channel Islands, and returns have been received from twenty-five, against thirty in 1882.",
+   "rows_counted": 37,
+   "columns": "A star marks stations that sent returns (25 starred); station name with L.H./L.V. (often garbled); observers' names. No map numbers. A footnote and page break (2088–2092) interrupt it before South Foreland, Casquets and Hanois."
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 3776,
+   "last_line": 3840,
+   "lead_quote": "List oF STATIONS.",
+   "legend_quotes": [],
+   "printed_count_quote": "ScHEDULES were sent to thirty-four stations, as in previous years. We have received filled schedules from seventeen stations.",
+   "rows_counted": 34,
+   "columns": "Asterisks under year columns '79–'83 (headers at 3758 and 3801, no sentence explains them); map number (81–115, no. 106 missing); station and district; height in feet; keeper's name. Sub-headings OUTER HEBRIDES and MAINLAND, SKYE, AND INNER HEBRIDES. Unnamed nos. 116–120 (3836–3840) are not counted."
+  },
+  {
+   "section": "TRISH COAST.",
+   "kind": "section",
+   "first_line": 4996,
+   "last_line": 5039,
+   "lead_quote": "List or LiGHutT-STATIONS.",
+   "legend_quotes": [
+    "o = No reply.",
+    "x = Schedule returned partly or wholly filled.",
+    "* = No schedule sent to this station."
+   ],
+   "printed_count_quote": "In the spring of 1883 schedules were forwarded to forty-two stations, Arklow North Lightship having been added to those of the previous year. Twenty-five replied.",
+   "rows_counted": 40,
+   "columns": "Number (1–40, plus 5.* and 8.*); station and county; spring and autumn marks (o/x/*); a figure that is probably miles from shore; names of observers. Header line 4995 is garbled: 'G& 4 shore. Names of Observers.' Nos. 9 and 35 are missing, probably Wicklow Head and Loop Head dropped by the OCR, so 40 rows against the printed 42."
+  }
+ ],
+ "_meta": {
+  "year": 1883,
+  "source": "sources/ia/1883_reportonmigratio51883harv_djvu.txt",
+  "cost_usd": 0.5234812000000001
+ }
+}

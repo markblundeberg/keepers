@@ -1,0 +1,1033 @@
+{
+ "year": 1881,
+ "rule": "image_index = leaf - (leaves left out of the access copy before it, scandata.xml)",
+ "leaves": [
+  {
+   "leaf": 0,
+   "image_index": null,
+   "text_start": 0,
+   "text_end": 0,
+   "detected": null,
+   "page": null
+  },
+  {
+   "leaf": 1,
+   "image_index": 0,
+   "text_start": 0,
+   "text_end": 876,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 2,
+   "image_index": 1,
+   "text_start": 876,
+   "text_end": 880,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 3,
+   "image_index": 2,
+   "text_start": 880,
+   "text_end": 1356,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 4,
+   "image_index": 3,
+   "text_start": 1356,
+   "text_end": 1670,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 5,
+   "image_index": 4,
+   "text_start": 1670,
+   "text_end": 2728,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 6,
+   "image_index": 5,
+   "text_start": 2728,
+   "text_end": 3829,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 7,
+   "image_index": 6,
+   "text_start": 3829,
+   "text_end": 4108,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 8,
+   "image_index": 7,
+   "text_start": 4108,
+   "text_end": 4341,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 9,
+   "image_index": 8,
+   "text_start": 4341,
+   "text_end": 5703,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 10,
+   "image_index": 9,
+   "text_start": 5703,
+   "text_end": 7658,
+   "detected": 2,
+   "page": 2,
+   "how": "running head"
+  },
+  {
+   "leaf": 11,
+   "image_index": 10,
+   "text_start": 7658,
+   "text_end": 9926,
+   "detected": 5,
+   "page": 3,
+   "how": "between heads"
+  },
+  {
+   "leaf": 12,
+   "image_index": 11,
+   "text_start": 9926,
+   "text_end": 12293,
+   "detected": 4,
+   "page": 4,
+   "how": "running head"
+  },
+  {
+   "leaf": 13,
+   "image_index": 12,
+   "text_start": 12293,
+   "text_end": 14727,
+   "detected": 5,
+   "page": 5,
+   "how": "running head"
+  },
+  {
+   "leaf": 14,
+   "image_index": 13,
+   "text_start": 14727,
+   "text_end": 17148,
+   "detected": 6,
+   "page": 6,
+   "how": "running head"
+  },
+  {
+   "leaf": 15,
+   "image_index": 14,
+   "text_start": 17148,
+   "text_end": 19560,
+   "detected": 7,
+   "page": 7,
+   "how": "running head"
+  },
+  {
+   "leaf": 16,
+   "image_index": 15,
+   "text_start": 19560,
+   "text_end": 21990,
+   "detected": 8,
+   "page": 8,
+   "how": "running head"
+  },
+  {
+   "leaf": 17,
+   "image_index": 16,
+   "text_start": 21990,
+   "text_end": 24385,
+   "detected": null,
+   "page": 9,
+   "how": "between heads"
+  },
+  {
+   "leaf": 18,
+   "image_index": 17,
+   "text_start": 24385,
+   "text_end": 26786,
+   "detected": 10,
+   "page": 10,
+   "how": "running head"
+  },
+  {
+   "leaf": 19,
+   "image_index": 18,
+   "text_start": 26786,
+   "text_end": 29203,
+   "detected": 11,
+   "page": 11,
+   "how": "running head"
+  },
+  {
+   "leaf": 20,
+   "image_index": 19,
+   "text_start": 29203,
+   "text_end": 31641,
+   "detected": 12,
+   "page": 12,
+   "how": "running head"
+  },
+  {
+   "leaf": 21,
+   "image_index": 20,
+   "text_start": 31641,
+   "text_end": 34051,
+   "detected": 138,
+   "page": 13,
+   "how": "between heads"
+  },
+  {
+   "leaf": 22,
+   "image_index": 21,
+   "text_start": 34051,
+   "text_end": 36526,
+   "detected": 14,
+   "page": 14,
+   "how": "running head"
+  },
+  {
+   "leaf": 23,
+   "image_index": 22,
+   "text_start": 36526,
+   "text_end": 38492,
+   "detected": 15,
+   "page": 15,
+   "how": "running head"
+  },
+  {
+   "leaf": 24,
+   "image_index": 23,
+   "text_start": 38492,
+   "text_end": 40237,
+   "detected": 16,
+   "page": 16,
+   "how": "running head"
+  },
+  {
+   "leaf": 25,
+   "image_index": 24,
+   "text_start": 40237,
+   "text_end": 41670,
+   "detected": 14,
+   "page": 17,
+   "how": "between heads"
+  },
+  {
+   "leaf": 26,
+   "image_index": 25,
+   "text_start": 41670,
+   "text_end": 43944,
+   "detected": 18,
+   "page": 18,
+   "how": "running head"
+  },
+  {
+   "leaf": 27,
+   "image_index": 26,
+   "text_start": 43944,
+   "text_end": 46278,
+   "detected": 19,
+   "page": 19,
+   "how": "running head"
+  },
+  {
+   "leaf": 28,
+   "image_index": 27,
+   "text_start": 46278,
+   "text_end": 48589,
+   "detected": 20,
+   "page": 20,
+   "how": "running head"
+  },
+  {
+   "leaf": 29,
+   "image_index": 28,
+   "text_start": 48589,
+   "text_end": 50791,
+   "detected": 21,
+   "page": 21,
+   "how": "running head"
+  },
+  {
+   "leaf": 30,
+   "image_index": 29,
+   "text_start": 50791,
+   "text_end": 53138,
+   "detected": null,
+   "page": 22,
+   "how": "between heads"
+  },
+  {
+   "leaf": 31,
+   "image_index": 30,
+   "text_start": 53138,
+   "text_end": 55439,
+   "detected": 23,
+   "page": 23,
+   "how": "running head"
+  },
+  {
+   "leaf": 32,
+   "image_index": 31,
+   "text_start": 55439,
+   "text_end": 57787,
+   "detected": 24,
+   "page": 24,
+   "how": "running head"
+  },
+  {
+   "leaf": 33,
+   "image_index": 32,
+   "text_start": 57787,
+   "text_end": 60150,
+   "detected": null,
+   "page": 25,
+   "how": "between heads"
+  },
+  {
+   "leaf": 34,
+   "image_index": 33,
+   "text_start": 60150,
+   "text_end": 62573,
+   "detected": 26,
+   "page": 26,
+   "how": "running head"
+  },
+  {
+   "leaf": 35,
+   "image_index": 34,
+   "text_start": 62573,
+   "text_end": 64852,
+   "detected": 27,
+   "page": 27,
+   "how": "running head"
+  },
+  {
+   "leaf": 36,
+   "image_index": 35,
+   "text_start": 64852,
+   "text_end": 66964,
+   "detected": 28,
+   "page": 28,
+   "how": "running head"
+  },
+  {
+   "leaf": 37,
+   "image_index": 36,
+   "text_start": 66964,
+   "text_end": 69235,
+   "detected": 29,
+   "page": 29,
+   "how": "running head"
+  },
+  {
+   "leaf": 38,
+   "image_index": 37,
+   "text_start": 69235,
+   "text_end": 71584,
+   "detected": 30,
+   "page": 30,
+   "how": "running head"
+  },
+  {
+   "leaf": 39,
+   "image_index": 38,
+   "text_start": 71584,
+   "text_end": 73790,
+   "detected": null,
+   "page": 31,
+   "how": "between heads"
+  },
+  {
+   "leaf": 40,
+   "image_index": 39,
+   "text_start": 73790,
+   "text_end": 76081,
+   "detected": 32,
+   "page": 32,
+   "how": "running head"
+  },
+  {
+   "leaf": 41,
+   "image_index": 40,
+   "text_start": 76081,
+   "text_end": 78418,
+   "detected": 33,
+   "page": 33,
+   "how": "running head"
+  },
+  {
+   "leaf": 42,
+   "image_index": 41,
+   "text_start": 78418,
+   "text_end": 80555,
+   "detected": 34,
+   "page": 34,
+   "how": "running head"
+  },
+  {
+   "leaf": 43,
+   "image_index": 42,
+   "text_start": 80555,
+   "text_end": 82835,
+   "detected": 85,
+   "page": 35,
+   "how": "between heads"
+  },
+  {
+   "leaf": 44,
+   "image_index": 43,
+   "text_start": 82835,
+   "text_end": 85233,
+   "detected": 36,
+   "page": 36,
+   "how": "running head"
+  },
+  {
+   "leaf": 45,
+   "image_index": 44,
+   "text_start": 85233,
+   "text_end": 87501,
+   "detected": 37,
+   "page": 37,
+   "how": "running head"
+  },
+  {
+   "leaf": 46,
+   "image_index": 45,
+   "text_start": 87501,
+   "text_end": 90009,
+   "detected": 38,
+   "page": 38,
+   "how": "running head"
+  },
+  {
+   "leaf": 47,
+   "image_index": 46,
+   "text_start": 90009,
+   "text_end": 92480,
+   "detected": 39,
+   "page": 39,
+   "how": "running head"
+  },
+  {
+   "leaf": 48,
+   "image_index": 47,
+   "text_start": 92480,
+   "text_end": 94833,
+   "detected": 40,
+   "page": 40,
+   "how": "running head"
+  },
+  {
+   "leaf": 49,
+   "image_index": 48,
+   "text_start": 94833,
+   "text_end": 97225,
+   "detected": 41,
+   "page": 41,
+   "how": "running head"
+  },
+  {
+   "leaf": 50,
+   "image_index": 49,
+   "text_start": 97225,
+   "text_end": 97967,
+   "detected": null,
+   "page": 42,
+   "how": "between heads"
+  },
+  {
+   "leaf": 51,
+   "image_index": 50,
+   "text_start": 97967,
+   "text_end": 99464,
+   "detected": 43,
+   "page": 43,
+   "how": "running head"
+  },
+  {
+   "leaf": 52,
+   "image_index": 51,
+   "text_start": 99464,
+   "text_end": 101454,
+   "detected": 44,
+   "page": 44,
+   "how": "running head"
+  },
+  {
+   "leaf": 53,
+   "image_index": 52,
+   "text_start": 101454,
+   "text_end": 103782,
+   "detected": 45,
+   "page": 45,
+   "how": "running head"
+  },
+  {
+   "leaf": 54,
+   "image_index": 53,
+   "text_start": 103782,
+   "text_end": 106169,
+   "detected": 46,
+   "page": 46,
+   "how": "running head"
+  },
+  {
+   "leaf": 55,
+   "image_index": 54,
+   "text_start": 106169,
+   "text_end": 108488,
+   "detected": 47,
+   "page": 47,
+   "how": "running head"
+  },
+  {
+   "leaf": 56,
+   "image_index": 55,
+   "text_start": 108488,
+   "text_end": 110638,
+   "detected": 48,
+   "page": 48,
+   "how": "running head"
+  },
+  {
+   "leaf": 57,
+   "image_index": 56,
+   "text_start": 110638,
+   "text_end": 112797,
+   "detected": 49,
+   "page": 49,
+   "how": "running head"
+  },
+  {
+   "leaf": 58,
+   "image_index": 57,
+   "text_start": 112797,
+   "text_end": 115149,
+   "detected": 30,
+   "page": 50,
+   "how": "between heads"
+  },
+  {
+   "leaf": 59,
+   "image_index": 58,
+   "text_start": 115149,
+   "text_end": 117471,
+   "detected": 51,
+   "page": 51,
+   "how": "running head"
+  },
+  {
+   "leaf": 60,
+   "image_index": 59,
+   "text_start": 117471,
+   "text_end": 119556,
+   "detected": 52,
+   "page": 52,
+   "how": "running head"
+  },
+  {
+   "leaf": 61,
+   "image_index": 60,
+   "text_start": 119556,
+   "text_end": 121776,
+   "detected": 53,
+   "page": 53,
+   "how": "running head"
+  },
+  {
+   "leaf": 62,
+   "image_index": 61,
+   "text_start": 121776,
+   "text_end": 124417,
+   "detected": 54,
+   "page": 54,
+   "how": "running head"
+  },
+  {
+   "leaf": 63,
+   "image_index": 62,
+   "text_start": 124417,
+   "text_end": 126829,
+   "detected": 55,
+   "page": 55,
+   "how": "running head"
+  },
+  {
+   "leaf": 64,
+   "image_index": 63,
+   "text_start": 126829,
+   "text_end": 129276,
+   "detected": 56,
+   "page": 56,
+   "how": "running head"
+  },
+  {
+   "leaf": 65,
+   "image_index": 64,
+   "text_start": 129276,
+   "text_end": 131432,
+   "detected": 57,
+   "page": 57,
+   "how": "running head"
+  },
+  {
+   "leaf": 66,
+   "image_index": 65,
+   "text_start": 131432,
+   "text_end": 133565,
+   "detected": 58,
+   "page": 58,
+   "how": "running head"
+  },
+  {
+   "leaf": 67,
+   "image_index": 66,
+   "text_start": 133565,
+   "text_end": 135448,
+   "detected": null,
+   "page": 59,
+   "how": "between heads"
+  },
+  {
+   "leaf": 68,
+   "image_index": 67,
+   "text_start": 135448,
+   "text_end": 137443,
+   "detected": 60,
+   "page": 60,
+   "how": "running head"
+  },
+  {
+   "leaf": 69,
+   "image_index": 68,
+   "text_start": 137443,
+   "text_end": 139722,
+   "detected": 61,
+   "page": 61,
+   "how": "running head"
+  },
+  {
+   "leaf": 70,
+   "image_index": 69,
+   "text_start": 139722,
+   "text_end": 142233,
+   "detected": 62,
+   "page": 62,
+   "how": "running head"
+  },
+  {
+   "leaf": 71,
+   "image_index": 70,
+   "text_start": 142233,
+   "text_end": 144594,
+   "detected": 63,
+   "page": 63,
+   "how": "running head"
+  },
+  {
+   "leaf": 72,
+   "image_index": 71,
+   "text_start": 144594,
+   "text_end": 146943,
+   "detected": 64,
+   "page": 64,
+   "how": "running head"
+  },
+  {
+   "leaf": 73,
+   "image_index": 72,
+   "text_start": 146943,
+   "text_end": 149353,
+   "detected": 65,
+   "page": 65,
+   "how": "running head"
+  },
+  {
+   "leaf": 74,
+   "image_index": 73,
+   "text_start": 149353,
+   "text_end": 151814,
+   "detected": 66,
+   "page": 66,
+   "how": "running head"
+  },
+  {
+   "leaf": 75,
+   "image_index": 74,
+   "text_start": 151814,
+   "text_end": 154190,
+   "detected": 67,
+   "page": 67,
+   "how": "running head"
+  },
+  {
+   "leaf": 76,
+   "image_index": 75,
+   "text_start": 154190,
+   "text_end": 156468,
+   "detected": 68,
+   "page": 68,
+   "how": "running head"
+  },
+  {
+   "leaf": 77,
+   "image_index": 76,
+   "text_start": 156468,
+   "text_end": 158911,
+   "detected": 69,
+   "page": 69,
+   "how": "running head"
+  },
+  {
+   "leaf": 78,
+   "image_index": 77,
+   "text_start": 158911,
+   "text_end": 161237,
+   "detected": 70,
+   "page": 70,
+   "how": "running head"
+  },
+  {
+   "leaf": 79,
+   "image_index": 78,
+   "text_start": 161237,
+   "text_end": 163621,
+   "detected": null,
+   "page": 71,
+   "how": "between heads"
+  },
+  {
+   "leaf": 80,
+   "image_index": 79,
+   "text_start": 163621,
+   "text_end": 166035,
+   "detected": 72,
+   "page": 72,
+   "how": "running head"
+  },
+  {
+   "leaf": 81,
+   "image_index": 80,
+   "text_start": 166035,
+   "text_end": 168483,
+   "detected": 73,
+   "page": 73,
+   "how": "running head"
+  },
+  {
+   "leaf": 82,
+   "image_index": 81,
+   "text_start": 168483,
+   "text_end": 170794,
+   "detected": 74,
+   "page": 74,
+   "how": "running head"
+  },
+  {
+   "leaf": 83,
+   "image_index": 82,
+   "text_start": 170794,
+   "text_end": 173280,
+   "detected": 16,
+   "page": 75,
+   "how": "between heads"
+  },
+  {
+   "leaf": 84,
+   "image_index": 83,
+   "text_start": 173280,
+   "text_end": 175572,
+   "detected": 76,
+   "page": 76,
+   "how": "running head"
+  },
+  {
+   "leaf": 85,
+   "image_index": 84,
+   "text_start": 175572,
+   "text_end": 177421,
+   "detected": 77,
+   "page": 77,
+   "how": "running head"
+  },
+  {
+   "leaf": 86,
+   "image_index": 85,
+   "text_start": 177421,
+   "text_end": 179305,
+   "detected": 78,
+   "page": 78,
+   "how": "running head"
+  },
+  {
+   "leaf": 87,
+   "image_index": 86,
+   "text_start": 179305,
+   "text_end": 180746,
+   "detected": 79,
+   "page": 79,
+   "how": "running head"
+  },
+  {
+   "leaf": 88,
+   "image_index": 87,
+   "text_start": 180746,
+   "text_end": 182908,
+   "detected": 80,
+   "page": 80,
+   "how": "running head"
+  },
+  {
+   "leaf": 89,
+   "image_index": 88,
+   "text_start": 182908,
+   "text_end": 187039,
+   "detected": null,
+   "page": 81,
+   "how": "between heads"
+  },
+  {
+   "leaf": 90,
+   "image_index": 89,
+   "text_start": 187039,
+   "text_end": 189013,
+   "detected": 82,
+   "page": 82,
+   "how": "running head"
+  },
+  {
+   "leaf": 91,
+   "image_index": 90,
+   "text_start": 189013,
+   "text_end": 191199,
+   "detected": 83,
+   "page": 83,
+   "how": "running head"
+  },
+  {
+   "leaf": 92,
+   "image_index": 91,
+   "text_start": 191199,
+   "text_end": 193540,
+   "detected": 84,
+   "page": 84,
+   "how": "running head"
+  },
+  {
+   "leaf": 93,
+   "image_index": 92,
+   "text_start": 193540,
+   "text_end": 195873,
+   "detected": 85,
+   "page": 85,
+   "how": "running head"
+  },
+  {
+   "leaf": 94,
+   "image_index": 93,
+   "text_start": 195873,
+   "text_end": 198206,
+   "detected": 86,
+   "page": 86,
+   "how": "running head"
+  },
+  {
+   "leaf": 95,
+   "image_index": 94,
+   "text_start": 198206,
+   "text_end": 200421,
+   "detected": 87,
+   "page": 87,
+   "how": "running head"
+  },
+  {
+   "leaf": 96,
+   "image_index": 95,
+   "text_start": 200421,
+   "text_end": 202422,
+   "detected": null,
+   "page": 88,
+   "how": "between heads"
+  },
+  {
+   "leaf": 97,
+   "image_index": 96,
+   "text_start": 202422,
+   "text_end": 204708,
+   "detected": 89,
+   "page": 89,
+   "how": "running head"
+  },
+  {
+   "leaf": 98,
+   "image_index": 97,
+   "text_start": 204708,
+   "text_end": 207013,
+   "detected": 90,
+   "page": 90,
+   "how": "running head"
+  },
+  {
+   "leaf": 99,
+   "image_index": 98,
+   "text_start": 207013,
+   "text_end": 209148,
+   "detected": 91,
+   "page": 91,
+   "how": "running head"
+  },
+  {
+   "leaf": 100,
+   "image_index": 99,
+   "text_start": 209148,
+   "text_end": 211350,
+   "detected": 92,
+   "page": 92,
+   "how": "running head"
+  },
+  {
+   "leaf": 101,
+   "image_index": 100,
+   "text_start": 211350,
+   "text_end": 213583,
+   "detected": null,
+   "page": 93,
+   "how": "between heads"
+  },
+  {
+   "leaf": 102,
+   "image_index": 101,
+   "text_start": 213583,
+   "text_end": 215910,
+   "detected": 94,
+   "page": 94,
+   "how": "running head"
+  },
+  {
+   "leaf": 103,
+   "image_index": 102,
+   "text_start": 215910,
+   "text_end": 218256,
+   "detected": 95,
+   "page": 95,
+   "how": "running head"
+  },
+  {
+   "leaf": 104,
+   "image_index": 103,
+   "text_start": 218256,
+   "text_end": 220290,
+   "detected": 96,
+   "page": 96,
+   "how": "running head"
+  },
+  {
+   "leaf": 105,
+   "image_index": 104,
+   "text_start": 220290,
+   "text_end": 222362,
+   "detected": 97,
+   "page": 97,
+   "how": "running head"
+  },
+  {
+   "leaf": 106,
+   "image_index": 105,
+   "text_start": 222362,
+   "text_end": 224285,
+   "detected": null,
+   "page": 98,
+   "how": "between heads"
+  },
+  {
+   "leaf": 107,
+   "image_index": 106,
+   "text_start": 224285,
+   "text_end": 226263,
+   "detected": 99,
+   "page": 99,
+   "how": "running head"
+  },
+  {
+   "leaf": 108,
+   "image_index": 107,
+   "text_start": 226263,
+   "text_end": 226266,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 109,
+   "image_index": 108,
+   "text_start": 226266,
+   "text_end": 226266,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 110,
+   "image_index": 109,
+   "text_start": 226266,
+   "text_end": 226826,
+   "detected": null,
+   "page": null,
+   "how": "unknown"
+  },
+  {
+   "leaf": 111,
+   "image_index": null,
+   "text_start": 226826,
+   "text_end": 226826,
+   "detected": null,
+   "page": null
+  }
+ ],
+ "check": {
+  "gutenberg_markers_found_on_their_leaf": 97,
+  "of": 99,
+  "misses": [
+   [
+    "1",
+    [
+     1,
+     2
+    ],
+    "third report migration birds spring autumn"
+   ],
+   [
+    "81",
+    [
+     -2
+    ],
+    "table showing date which entries were"
+   ]
+  ]
+ }
+}

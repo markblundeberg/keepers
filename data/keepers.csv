@@ -1,0 +1,923 @@
+year,station_id,station,station_printed,keeper_printed,list,page,line,image,reading,readings_agree,ditto
+1879,muckle-flugga,Muckle Flugga (North Unst),North Unst,Robert Burnett,1879:0:0,161,95,,text,True,False
+1879,sumburgh-head,Sumburgh Head,Sumburgh Head,William Anderson,1879:0:3,161,98,,text,True,False
+1879,north-ronaldsay,North Ronaldsay,North Ronaldshay,John Tulloch,1879:0:4,161,99,,text,True,False
+1879,auskerry,Auskerry,Auskerry,Charles C. Irvine,1879:0:6,161,101,,text,True,False
+1879,hoy-low,Hoy Low (Hoy Sound Low),Hoy Sound (Low),Alex. Harp,1879:0:7,161,102,,text,True,False
+1879,hoy-high,Hoy High (Hoy Sound High),"""     (High)",W. Gordon,1879:0:8,161,103,,text,True,False
+1879,pentland-skerries,Pentland Skerries,Pentland Skerries,D. M'Donald,1879:0:10,162,105,,text,True,False
+1879,dunnet-head,Dunnet Head,Dunnet Head,George M'Lachlan,1879:0:11,162,106,,text,True,False
+1879,holborn-head,Holborn Head,Holborn Head,D. Charleson,1879:0:12,162,107,,text,True,False
+1879,noss-head,Noss Head,Noss Head,Alex. Creig,1879:0:13,162,108,,text,True,False
+1879,tarbat-ness,Tarbat Ness,Tarbet Ness,W. Davidson,1879:0:14,162,109,,text,True,False
+1879,cromarty,Cromarty,Cromarty,Robert S. Ritson,1879:0:15,162,110,,text,True,False
+1879,kinnaird-head,Kinnaird Head,Kinnaird Head,F. Harvey,1879:0:18,162,113,,text,True,False
+1879,buchan-ness,Buchan Ness,Buchan Ness,Thomas Gallie,1879:0:19,162,114,,text,True,False
+1879,girdle-ness,Girdle Ness,Girdleness,Wm. Gulcher,1879:0:20,162,115,,text,True,False
+1879,scurdie-ness,Scurdie Ness (Montrose),Montroseness,Patrick E. Reid,1879:0:21,162,116,,text,True,False
+1879,bell-rock,Bell Rock,Bell Rock,James Jack,1879:0:22,162,117,,text,True,False
+1879,isle-of-may,Isle of May,Isle of May,Joseph Agnew,1879:0:23,162,118,,text,True,False
+1879,inchkeith,Inchkeith,Inch Keith,R. Grierson,1879:0:24,162,119,,text,True,False
+1879,st-abbs-head,St Abb's Head,St. Abbs Head,Robert Seater,1879:0:25,162,120,,text,True,False
+1879,cape-wrath,Cape Wrath,Cape Wrath,J. M'Gill,1879:2:0,189,1244,,text,True,False
+1879,stoer-head,Stoer Head (Rhu Stoir),Rhu Stoir,William Wither,1879:2:1,189,1246,,text,True,False
+1879,butt-of-lewis,Butt of Lewis,Butt of Lewis,George Edgar,1879:2:2,189,1247,,text,True,False
+1879,arnish-point,Arnish Point (Stornoway),Stornoway,R. Murray,1879:2:3,189,1248,,text,True,False
+1879,eilean-glas,Eilean Glas,Island Glass,William Lines,1879:2:4,189,1249,,text,True,False
+1879,monach-isles,Monach Isles,Monach Island,J. Youngclause,1879:2:6,189,1251,,text,True,False
+1879,rona,Rona (South Rona),Rona,David Dunnett,1879:2:8,189,1254,,text,True,False
+1879,kyleakin,Kyleakin,Kyleakin,David M'Culloch,1879:2:9,189,1255,,text,True,False
+1879,isle-ornsay,Isle Ornsay,Isle Ornsay,David Ross,1879:2:10,189,1256,,text,True,False
+1879,ardnamurchan,Ardnamurchan,Ardnamurchan Point,David Laidlaw,1879:2:11,189,1257,,text,True,False
+1879,hynish-signal-tower,Hynish Signal Tower,Hynish,William Crow,1879:2:12,189,1258,,text,True,False
+1879,skerryvore,Skerryvore,Skerryvore,William Crow,1879:2:13,189,1259,,text,True,True
+1879,dubh-artach,Dubh Artach,Dhuheartach,J. Ewing,1879:2:14,189,1260,,text,True,False
+1879,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,W. M'Lellan,1879:2:15,189,1262,,text,True,False
+1879,corran-point,Corran Point (Corran Ferry),Corran Ferry,Thomas Tulloch,1879:2:16,189,1264,,text,True,False
+1879,fladda,Fladda,Fladda,James Langton,1879:2:18,189,1266,,text,True,False
+1879,rhuvaal,Rhuvaal (Rubh' a' Mhàil),Rhuvaal,David Spink,1879:2:19,189,1267,,text,True,False
+1879,mcarthurs-head,McArthur's Head,M'Arthur's Head,Thos. Sutherland,1879:2:20,189,1268,,text,True,False
+1879,skervuile,Skervuile,Skervuile,John Ewing,1879:2:21,189,1269,,text,True,False
+1879,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,Andrew Lyall,1879:2:22,189,1270,,text,True,False
+1879,loch-indaal,Loch Indaal,Lochindaul,William Mail,1879:2:23,189,1271,,text,True,False
+1879,mull-of-kintyre,Mull of Kintyre,Mull of Kintyre,James Thompson,1879:2:24,189,1272,,text,True,False
+1879,davaar,Davaar,Devaar,Charles Black,1879:2:26,189,1274,,text,True,False
+1879,pladda,Pladda,Pladda,Thomas Grierson,1879:2:27,189,1275,,text,True,False
+1879,holy-isle,Holy Isle (Lamlash),Lamlash,David Waters,1879:2:28,189,1276,,text,True,False
+1879,turnberry,Turnberry,Turnberry,Charles Black,1879:2:29,189,1277,,text,True,False
+1879,corsewall,Corsewall,Corsewall,R. Laidlaw,1879:2:30,189,1278,,text,True,False
+1879,loch-ryan,Loch Ryan (Cairn Point),Loch Ryan,Ralph Ewing,1879:2:31,190,1279,,text,True,False
+1879,portpatrick,Portpatrick,Portpatrick,James Beggs,1879:2:32,190,1280,,text,True,False
+1879,mull-of-galloway,Mull of Galloway,Mull of Galloway,M. Morrison,1879:2:33,190,1281,,text,True,False
+1879,little-ross,Little Ross,Little Ross,W. A. Mackay,1879:2:34,190,1282,,text,True,False
+1879,point-of-ayre-iom,Point of Ayre (Isle of Man),Point of Ayr,J. Blythe,1879:2:35,190,1283,,text,True,False
+1879,douglas-head,Douglas Head,Douglas Head,Alexander M'Donald,1879:2:36,190,1284,,text,True,False
+1880,muckle-flugga,Muckle Flugga (North Unst),North Unst,Robert Burnett,1880:0:0,3,216,,text,True,False
+1880,out-skerries,Out Skerries (Whalsey Skerries),Whalsey Skerries,Neven Kerr,1880:0:1,3,217,,text,True,False
+1880,sumburgh-head,Sumburgh Head,Sumburgh Head,Wm. Anderson,1880:0:3,3,219,,text,False,False
+1880,sumburgh-head,Sumburgh Head,Sumburgh Head,John Wilson,1880:0:3,3,219,,text,False,False
+1880,north-ronaldsay,North Ronaldsay,North Ronaldshay,John Tulloch,1880:0:4,3,224,,text,False,False
+1880,auskerry,Auskerry,Auskerry,John MacDonald,1880:0:6,3,226,,text,True,False
+1880,hoy-low,Hoy Low (Hoy Sound Low),Hoy Sound (Low),Alexander Harp,1880:0:7,3,227,,text,False,False
+1880,pentland-skerries,Pentland Skerries,Pentland Skerries,Donald Macdonald,1880:0:10,3,230,,text,True,False
+1880,tarbat-ness,Tarbat Ness,Tarbat Ness,William Davidson,1880:0:14,3,237,,text,True,False
+1880,bell-rock,Bell Rock,Bell Rock,James Jack,1880:0:22,3,245,,text,True,False
+1880,isle-of-may,Isle of May,Isle of May,Joseph Agnew,1880:0:23,3,246,,text,True,False
+1880,inchkeith,Inchkeith,Inch Keith,Robert Grierson,1880:0:24,3,247,,text,True,False
+1880,landguard-point,Landguard Point,Languard Point,Major Russell,1880:1:29,26,1193,,text,True,False
+1880,cape-wrath,Cape Wrath,Cape Wrath,John M'Gill,1880:2:0,69,2947,,text,True,False
+1880,stoer-head,Stoer Head (Rhu Stoir),Rhu Stoir,William Wither,1880:2:1,69,2948,,text,True,False
+1880,butt-of-lewis,Butt of Lewis,Butt of Lewis,George Edgar,1880:2:2,69,2952,,text,True,False
+1880,arnish-point,Arnish Point (Stornoway),Stornoway,John Grierson,1880:2:3,69,2953,,text,True,False
+1880,eilean-glas,Eilean Glas,Island Glass,William Innes,1880:2:4,69,2954,,text,True,False
+1880,monach-isles,Monach Isles,Monach Island,James Youngclause,1880:2:5,69,2955,,text,True,False
+1880,ushenish,Ushenish,Ushenish,Peter Carrie,1880:2:6,69,2957,,text,True,False
+1880,kyleakin,Kyleakin,Kyleakin,David M'Culloch,1880:2:9,69,2963,,text,True,False
+1880,isle-ornsay,Isle Ornsay,Isle Ornsay,James Loughten,1880:2:10,69,2964,,text,True,False
+1880,ardnamurchan,Ardnamurchan,Ardnamurchan Point,David Laidlaw,1880:2:11,69,2965,,text,True,False
+1880,hynish-signal-tower,Hynish Signal Tower,Hynish Signal Tower,William Crow,1880:2:12,69,2967,,text,False,False
+1880,dubh-artach,Dubh Artach,Dhuheartach,James Ewing,1880:2:14,69,2969,,text,True,False
+1880,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,William M'Lellan,1880:2:15,69,2971,,text,True,False
+1880,lismore,Lismore,Lismore Island,Alexander Murray,1880:2:17,69,2973,,text,True,False
+1880,rhuvaal,Rhuvaal (Rubh' a' Mhàil),Rhuvaal,David Spink,1880:2:19,69,2975,,text,True,False
+1880,skervuile,Skervuile,Skervuile,John Ewing,1880:2:21,69,2977,,text,True,False
+1880,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,Andrew Lyall,1880:2:22,69,2978,,text,True,False
+1880,loch-indaal,Loch Indaal,Lochindaul,William Maill,1880:2:23,69,2979,,text,True,False
+1880,turnberry,Turnberry,Turnberry,Andrew Nisbet,1880:2:29,69,2985,,text,True,False
+1880,corsewall,Corsewall,Corsewall,Robert Laidlaw,1880:2:30,69,2986,,text,True,False
+1880,loch-ryan,Loch Ryan (Cairn Point),Loch Ryan,Ralph Ewing,1880:2:31,69,2987,,text,True,False
+1880,portpatrick,Portpatrick,Portpatrick,James Beggs,1880:2:32,69,2988,,text,True,False
+1880,mull-of-galloway,Mull of Galloway,Mull of Galloway,N. Morrison,1880:2:33,69,2989,,text,True,False
+1880,point-of-ayre-iom,Point of Ayre (Isle of Man),Point of Ayre,James Blythe,1880:2:35,69,2991,,text,True,False
+1880,douglas-head,Douglas Head,Douglas Head,Alexander M'Donald,1880:2:36,69,2992,,text,True,False
+1880,bahama-bank-lv,Bahama Bank L.V.,Bahama Bank,Johns,1880:2:38,69,2994,,text,False,False
+1880,st-bees,St Bees,St. Bees:,Robert Pizey,1880:3:0,95,4000,,text,True,False
+1880,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Henry Clavell,1880:3:1,95,4002,,text,True,False
+1880,point-of-ayr-wales,Point of Ayr (Flintshire),Air,C. H. Aveston,1880:3:2,95,4004,,text,True,False
+1880,skerries,Skerries,Skerries,J. Garrett,1880:3:4,95,4009,,text,True,False
+1880,holyhead-breakwater,Holyhead Breakwater,Holyhead Breakwater,Richard Prichard,1880:3:5,95,4011,,text,False,False
+1880,north-stack,North Stack,North Stack,John Harvey,1880:3:6,95,4017,,text,False,False
+1880,south-stack,South Stack,South Stack,W. R. Burgess,1880:3:7,95,4022,,text,True,False
+1880,st-tudwals,St Tudwal's,St. Judwall,William Davies,1880:3:8,95,4025,,text,True,False
+1880,caernarfon-bay-lv,Caernarfon Bay L.V.,Caernarvon Bay,W. Bowen,1880:3:9,95,4029,,text,True,False
+1880,bardsey,Bardsey,Bardsey,Thomas Bowen,1880:3:10,96,4033,,text,True,False
+1880,bull-point,Bull Point,Bull Point,George Knott,1880:3:12,96,4037,,text,True,False
+1880,south-bishop,South Bishop,South Bishop,John White,1880:3:13,96,4039,,text,True,False
+1880,smalls,Smalls,Smalls,W. Boulton,1880:3:14,96,4041,,text,True,False
+1880,st-anns-head-low,St Ann's Head Low (Milford Low),Milford (Low),G. Baker,1880:3:16,96,4045,,text,True,False
+1880,caldey,Caldey,Caldy,W. Ebben,1880:3:18,96,4047,,text,True,False
+1880,helwick-lv,Helwick L.V.,Helwick,Thomas Cornell,1880:3:19,96,4050,,text,False,False
+1880,scarweather-lv,Scarweather L.V.,Scarweather,Henry Jenkins,1880:3:20,96,4053,,text,True,False
+1880,nash-point-low,Nash Point Low (West),Nash (Lower W.),John Richards,1880:3:21,96,4056,,text,True,False
+1880,nash-point-high,Nash Point High (East),Nash (E. or high),Hy. Nicholas,1880:3:22,96,4057,,text,True,False
+1880,flat-holm,Flat Holm,Flatholm,W. Dale,1880:3:24,96,4061,,text,True,False
+1880,west-usk,West Usk,Usk,Amos Russell,1880:3:25,96,4063,,text,True,False
+1880,avonmouth,Avonmouth (Avon),Avon,William Taylor,1880:3:26,96,4065,,text,True,False
+1880,burnham,Burnham,Burnham,William Lewis,1880:3:27,96,4067,,text,True,False
+1880,bideford-bar,Bideford Bar (Instow),Bideford,Edward Roberts,1880:3:28,96,4069,,text,False,False
+1880,lundy-fog-signal,Lundy Fog Gun Station,Lundy Fog Gun Station,John Morgan,1880:3:29,96,4072,,text,True,False
+1880,lundy,Lundy,Lundy,James Parsons,1880:3:30,96,4075,,text,True,False
+1880,hartland-point,Hartland Point,Hartland Point,John Griffiths,1880:3:31,97,4079,,text,False,False
+1880,trevose-head,Trevose Head,Trevose Head,W. Bowen,1880:3:32,97,4082,,text,True,False
+1880,godrevy,Godrevy,Godrevy,Richard Trahair,1880:3:33,97,4084,,text,True,False
+1880,st-agnes-scilly,St Agnes (Scilly),Scilly,E. L. Davis,1880:3:35,97,4089,,text,True,False
+1880,sevenstones-lv,Sevenstones L.V.,Sevenstones,Daniel Norton,1880:3:36,97,4091,,text,True,False
+1880,longships,Longships,Longships,William Jones,1880:3:37,97,4093,,text,True,False
+1880,wolf-rock,Wolf Rock,Wolfrock,W. D. Crask,1880:3:38,97,4095,,text,False,False
+1881,muckle-flugga,Muckle Flugga (North Unst),North Uist,Robert Burnett,1881:0:0,2,183,,text,False,False
+1881,out-skerries,Out Skerries (Whalsey Skerries),Whalsey Skerries,Neven Kerr,1881:0:1,2,184,,text,False,False
+1881,sumburgh-head,Sumburgh Head,Sumburgh Head,John Wilson,1881:0:3,2,186,,text,False,False
+1881,fair-isle,Fair Isle,Fair Isle,--Lawrence,1881:0:4,2,187,,text,True,False
+1881,north-ronaldsay,North Ronaldsay,North Ronaldshay,John Tulloch,1881:0:5,2,192,,text,False,False
+1881,auskerry,Auskerry,Auskerry,John MacDonald,1881:0:7,2,194,,text,False,False
+1881,hoy-low,Hoy Low (Hoy Sound Low),Hoy Sound (Low),Alexander Harp,1881:0:8,2,195,,text,False,False
+1881,pentland-skerries,Pentland Skerries,Pentland Skerries,D. MacDonald,1881:0:11,2,198,,text,False,False
+1881,dunnet-head,Dunnet Head,Dunnet Head,David Laidlaw,1881:0:12,2,203,,text,False,False
+1881,holborn-head,Holborn Head,Holborn Head,David Charleson,1881:0:13,2,204,,text,False,False
+1881,tarbat-ness,Tarbat Ness,Tarbat Ness,W. Davidson,1881:0:15,2,206,,text,False,False
+1881,cromarty,Cromarty,Cromarty,Robt. S. Ritson,1881:0:16,2,207,,text,False,False
+1881,girdle-ness,Girdle Ness,Girdleness,John McGill,1881:0:21,3,212,,text,False,False
+1881,bell-rock,Bell Rock,Bell Rock,James Jack,1881:0:23,3,214,,text,False,False
+1881,isle-of-may,Isle of May,Isle of May,J. Agnew,1881:0:24,3,215,,text,False,False
+1881,inchkeith,Inchkeith,Inch Keith,R. Grierson,1881:0:25,3,216,,text,False,False
+1881,inner-farne,Inner Farne,Inner Farne,Thomas H. Cutting,1881:1:1,16,737,,text,True,False
+1881,coquet,Coquet,Coquet Island,William Evans,1881:1:2,16,738,,text,True,False
+1881,tees-lv,Tees No. 5 Buoy L.V.,"No. 5 Buoy, Teesmouth",Henry Harbord,1881:1:3,16,739,,text,True,False
+1881,whitby-high,Whitby High,"Whitby, High",John Odgers,1881:1:4,16,740,,text,True,False
+1881,flamborough-head,Flamborough Head,Flamborough Head,Charles Hood,1881:1:5,16,741,,text,True,False
+1881,spurn-point,Spurn Point,Spurn Point,James B. Smith,1881:1:6,16,742,,text,True,False
+1881,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,Samuel Sheet,1881:1:8,16,744,,text,True,False
+1881,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1881:1:9,16,745,,text,True,False
+1881,dudgeon-lv,Dudgeon L.V.,Dudgeon,Thomas Dale,1881:1:10,17,746,,text,True,False
+1881,lynn-well-lv,Lynn Well L.V.,Lynn Well,George Rees,1881:1:11,17,747,,text,True,False
+1881,hunstanton,Hunstanton,Hunstanton,William Westmoreland,1881:1:12,17,748,,text,True,False
+1881,cromer,Cromer,Cromer,Richard Comben,1881:1:13,17,749,,text,True,False
+1881,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,Charles Perfrement,1881:1:14,17,750,,text,True,False
+1881,happisburgh-lv,Happisburgh L.V.,Hasbrough,John Nicholas,1881:1:15,17,751,,text,True,False
+1881,cockle-lv,Cockle L.V.,Cockle,Samuel Pender,1881:1:19,17,755,,text,True,False
+1881,corton-lv,Corton L.V.,Corton,W. T. Cotton,1881:1:21,17,757,,text,True,False
+1881,shipwash-lv,Shipwash L.V.,Shipwash,Thomas Randule,1881:1:22,17,758,,text,True,False
+1881,galloper-lv,Galloper L.V.,Galloper,John Quested,1881:1:23,17,759,,text,True,False
+1881,swin-middle-lv,Swin Middle L.V.,Swin Middle,Thomas Barrett,1881:1:25,17,761,,text,True,False
+1881,tongue-lv,Tongue L.V.,Tongue,Robert Crancher,1881:1:26,17,762,,text,True,False
+1881,nore-lv,Nore L.V.,Nore,George Ladd,1881:1:27,17,763,,text,True,False
+1881,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1881:1:30,17,766,,text,True,False
+1881,gull-lv,Gull (Gull Stream) L.V.,Gull,Anthony Collins,1881:1:30,17,766,,text,True,False
+1881,south-sand-head-lv,South Sand Head L.V.,Southsand Head,J. C. Leggett,1881:1:31,17,768,,text,True,False
+1881,south-sand-head-lv,South Sand Head L.V.,Southsand Head,J. G. Fornman,1881:1:31,17,768,,text,True,False
+1881,east-goodwin-lv,East Goodwin (East Side) L.V.,Eastside,Thomas Rees,1881:1:32,17,770,,text,True,False
+1881,hanois,Hanois,Hanois,Charles Williams,1881:1:35,17,773,,text,True,False
+1881,cape-wrath,Cape Wrath,Cape Wrath,D. Sinclair,1881:2:0,43,1830,,text,True,False
+1881,stoer-head,Stoer Head (Rhu Stoir),Rhu Stoir,W. Wither,1881:2:1,43,1831,,text,True,False
+1881,butt-of-lewis,Butt of Lewis,Butt of Lewis,G. Edgar,1881:2:2,43,1836,,text,True,False
+1881,butt-of-lewis,Butt of Lewis,Butt of Lewis,Alex Thompson,1881:2:2,43,1836,,text,True,False
+1881,arnish-point,Arnish Point (Stornoway),Stornoway,John Grierson,1881:2:3,43,1838,,text,True,False
+1881,eilean-glas,Eilean Glas,Island Glass,W. Innes,1881:2:4,43,1839,,text,True,False
+1881,monach-isles,Monach Isles,Monach Island,J. Youngclause,1881:2:5,43,1841,,text,True,False
+1881,ushenish,Ushenish,Ushenish,Peter Carrie,1881:2:6,43,1843,,text,True,False
+1881,kyleakin,Kyleakin,Kyleakin,D. MacCulloch,1881:2:9,43,1850,,text,True,False
+1881,isle-ornsay,Isle Ornsay,Isle Ornsay,J. Loughton,1881:2:10,43,1851,,text,True,False
+1881,hynish-signal-tower,Hynish Signal Tower,Hynish Signal Tower,W. Crow,1881:2:12,44,1853,,text,True,False
+1881,dubh-artach,Dubh Artach,Dhuheartach,J. Ewing,1881:2:14,44,1855,,text,True,False
+1881,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,W. Maclellan,1881:2:15,44,1857,,text,True,False
+1881,lismore,Lismore,Lismore Island,Alex. Murray,1881:2:17,44,1859,,text,True,False
+1881,rhuvaal,Rhuvaal (Rubh' a' Mhàil),Rhuvaal,David Spink,1881:2:19,44,1861,,text,True,False
+1881,mcarthurs-head,McArthur's Head,Mac Arthur's Head,W. Maill,1881:2:20,44,1862,,text,True,False
+1881,skervuile,Skervuile,Skervuile,John Ewing,1881:2:21,44,1863,,text,True,False
+1881,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,Andrew Lyall,1881:2:22,44,1864,,text,True,False
+1881,holy-isle,Holy Isle (Lamlash),Lamlash,David Waters,1881:2:28,44,1870,,text,True,False
+1881,turnberry,Turnberry,Turnberry,Andrew Nisbet,1881:2:29,44,1871,,text,True,False
+1881,corsewall,Corsewall,Corsewall,Robert Laidlaw,1881:2:30,44,1872,,text,True,False
+1881,loch-ryan,Loch Ryan (Cairn Point),Loch Ryan,Ralph Ewing,1881:2:31,44,1873,,text,True,False
+1881,portpatrick,Portpatrick,Portpatrick,James Beggs,1881:2:32,44,1874,,text,True,False
+1881,mull-of-galloway,Mull of Galloway,Mull of Galloway,N. Morrison,1881:2:33,44,1875,,text,True,False
+1881,little-ross,Little Ross,Little Ross,W. A. Mackay,1881:2:34,44,1876,,text,True,False
+1881,point-of-ayre-iom,Point of Ayre (Isle of Man),Point of Ayr,James Blythe,1881:2:35,44,1877,,text,True,False
+1881,douglas-head,Douglas Head,Douglas Head,A. Irvine Grant,1881:2:36,44,1878,,text,True,False
+1881,bahama-bank-lv,Bahama Bank L.V.,Bahama Bank,Charles Johns,1881:2:38,44,1880,,text,True,False
+1881,allonby,Allonby,Allonby,C. Donald Thompson,1881:3:0,58,2433,,text,True,False
+1881,st-bees,St Bees,St. Bees,R. E. Pizey,1881:3:1,59,2434,,text,True,False
+1881,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Henry Clavell,1881:3:2,59,2436,,text,True,False
+1881,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Dl. Kneale,1881:3:2,59,2436,,text,True,False
+1881,point-of-ayr-wales,Point of Ayr (Flintshire),Air,C. H. Aveston,1881:3:3,59,2438,,text,True,False
+1881,trwyn-du,Trwyn Du (Menai / Penmon),Menai,Joseph Steer,1881:3:4,59,2439,,text,True,False
+1881,skerries,Skerries,Skerries,J. Garrett,1881:3:5,59,2440,,text,True,False
+1881,skerries,Skerries,Skerries,H. Knott,1881:3:5,59,2440,,text,True,False
+1881,holyhead-breakwater,Holyhead Breakwater,Holyhead Breakwater,R. Prichard,1881:3:6,59,2441,,text,True,False
+1881,north-stack,North Stack,North Stack,John Harvey,1881:3:7,59,2442,,text,True,False
+1881,south-stack,South Stack,South Stack,W. E. Burgess,1881:3:8,59,2443,,text,True,False
+1881,caernarfon-bay-lv,Caernarfon Bay L.V.,Caernarvon Bay,W. Bowen,1881:3:9,59,2444,,text,True,False
+1881,st-tudwals,St Tudwal's,St. Tudwal's,W. Davies,1881:3:10,59,2446,,text,True,False
+1881,bardsey,Bardsey,Bardsey,Thomas Bowen,1881:3:11,59,2447,,text,True,False
+1881,bull-point,Bull Point,Bull Point,George Knott,1881:3:13,59,2449,,text,True,False
+1881,south-bishop,South Bishop,South Bishop,John White,1881:3:14,59,2451,,text,True,False
+1881,smalls,Smalls,Smalls,W. Boulton,1881:3:15,59,2452,,text,True,False
+1881,great-castle-head,Great Castle Head,Great Castle Head,W. S. Spicer,1881:3:16,59,2453,,text,True,False
+1881,st-anns-head-low,St Ann's Head Low (Milford Low),Milford (Low),G. Baker,1881:3:17,59,2454,,text,True,False
+1881,st-anns-head-high,St Ann's Head High (Milford High),Milford (High),G. Baker,1881:3:18,59,2458,,text,True,False
+1881,caldey,Caldey,Caldy,W. Ebben,1881:3:19,59,2461,,text,True,False
+1881,helwick-lv,Helwick L.V.,Helwick,Thomas Cornell,1881:3:20,59,2463,,text,True,False
+1881,scarweather-lv,Scarweather L.V.,Scarweather,Henry Jenkins,1881:3:21,59,2464,,text,True,False
+1881,nash-point-low,Nash Point Low (West),Nash (Low or W.),Wilson,1881:3:22,59,2465,,text,True,False
+1881,nash-point-high,Nash Point High (East),Nash (High or E.),H. T. Nicholas,1881:3:23,59,2466,,text,True,False
+1881,flat-holm,Flat Holm,Flatholm,W. Dale,1881:3:25,59,2474,,text,True,False
+1881,west-usk,West Usk,Usk,Amos Russell,1881:3:26,59,2475,,text,True,False
+1881,avonmouth,Avonmouth (Avon),Avon,William Taylor,1881:3:27,60,2477,,text,True,False
+1881,burnham,Burnham,Burnham,William Lewis,1881:3:28,60,2478,,text,True,False
+1881,bideford-bar,Bideford Bar (Instow),Bideford,Edwd. Roberts,1881:3:29,60,2479,,text,True,False
+1881,lundy-fog-signal,Lundy Fog Gun Station,Lundy,John Morgan,1881:3:30,60,2482,,text,True,False
+1881,lundy,Lundy,Lundy,James Parsons,1881:3:31,60,2483,,text,True,False
+1881,hartland-point,Hartland Point,Hartland Point,John Griffiths,1881:3:32,60,2485,,text,True,False
+1881,trevose-head,Trevose Head,Trevose Head,W. Bowen,1881:3:33,60,2486,,text,True,False
+1881,godrevy,Godrevy,Godrevy,Richard Trahair,1881:3:34,60,2488,,text,True,False
+1881,longships,Longships,Longships,William Jones,1881:3:35,60,2489,,text,True,False
+1881,sevenstones-lv,Sevenstones L.V.,Sevenstones,Daniel Norton,1881:3:36,60,2491,,text,True,False
+1881,wolf-rock,Wolf Rock,Wolfrock,W. D. Crask,1881:3:37,60,2492,,text,True,False
+1881,st-agnes-scilly,St Agnes (Scilly),Scilly,E. L. Davis,1881:3:38,60,2493,,text,True,False
+1882,out-skerries,Out Skerries (Whalsey Skerries),Whalsey Skerries,Nevin Kerr,1882:0:1,3,246,,text,True,False
+1882,sumburgh-head,Sumburgh Head,Sumburgh Head,J. Wilson,1882:0:3,3,248,,text,True,False
+1882,north-ronaldsay,North Ronaldsay,North Ronaldshay,John Tulloch,1882:0:5,3,253,,text,True,False
+1882,auskerry,Auskerry,Auskerry,J. Macdonald,1882:0:7,3,255,,text,True,False
+1882,pentland-skerries,Pentland Skerries,Pentland Skerries,D. MacDonald,1882:0:11,3,259,,text,True,False
+1882,dunnet-head,Dunnet Head,Dunnet Head,D. Laidlaw,1882:0:12,3,263,,text,True,False
+1882,cromarty,Cromarty,Cromarty,R. S. Ritson,1882:0:16,3,267,,text,True,False
+1882,chanonry-point,Chanonry Point,Chanonry Point,John McGill,1882:0:17,3,268,,text,True,False
+1882,kinnaird-head,Kinnaird Head,Kinnaird Head,D. M Scott,1882:0:19,3,270,,text,True,False
+1882,bell-rock,Bell Rock,Bell Rock,James Jack,1882:0:23,3,274,,text,True,False
+1882,isle-of-may,Isle of May,Isle of May,J. Agnew,1882:0:24,3,275,,text,True,False
+1882,inchkeith,Inchkeith,Inch Keith,R. Grierson,1882:0:25,3,276,,text,True,False
+1882,longstone,Longstone,Longstone,Thomas O. Hall,1882:1:0,27,1161,,text,True,False
+1882,longstone,Longstone,Longstone,James W. Parsons,1882:1:0,27,1161,,text,True,False
+1882,inner-farne,Inner Farne,Inner Farne,Thomas H. Cutting,1882:1:1,27,1162,,text,True,False
+1882,tees-lv,Tees No. 5 Buoy L.V.,"No. 5 Buoy, Teesmouth",Henry Harbord,1882:1:2,27,1163,,text,True,False
+1882,coquet,Coquet,Coquet Island,William Evans,1882:1:3,27,1164,,text,True,False
+1882,whitby-high,Whitby High,Whitby High,John Odgers,1882:1:4,27,1165,,text,True,False
+1882,flamborough-head,Flamborough Head,Flamborough Head,Charles Hood,1882:1:5,27,1166,,text,True,False
+1882,spurn-point,Spurn Point,Spurn,James B. Smith,1882:1:6,27,1167,,text,True,False
+1882,spurn-lv,Spurn (Newsand) L.V.,Spurn (Newsand),W. Edwards,1882:1:7,27,1168,,text,True,False
+1882,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,William Stock,1882:1:8,27,1169,,text,True,False
+1882,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1882:1:9,27,1170,,text,True,False
+1882,dudgeon-lv,Dudgeon L.V.,Dudgeon,Thomas Dale,1882:1:10,28,1171,,text,True,False
+1882,hunstanton,Hunstanton,Hunstanton,William Westmoreland,1882:1:12,28,1173,,text,True,False
+1882,cromer,Cromer,Cromer,Richard Comben,1882:1:13,28,1174,,text,True,False
+1882,happisburgh-lv,Happisburgh L.V.,Hasbro',John Nicholas,1882:1:14,28,1175,,text,True,False
+1882,happisburgh-lv,Happisburgh L.V.,Hasbro',B. Darnell,1882:1:14,28,1175,,text,True,False
+1882,newarp-lv,Newarp L.V.,Newarp,Cornelius Campbell,1882:1:17,28,1178,,text,False,False
+1882,newarp-lv,Newarp L.V.,Newarp,William Rees,1882:1:17,28,1178,,text,False,False
+1882,winterton,Winterton,Winterton,John Watson,1882:1:18,28,1179,,text,True,False
+1882,cockle-lv,Cockle L.V.,Cockle,Samuel Pender,1882:1:19,28,1180,,text,True,False
+1882,cockle-lv,Cockle L.V.,Cockle,Charles Perfrement,1882:1:19,28,1180,,text,True,False
+1882,corton-lv,Corton L.V.,Corton,William John Cotton,1882:1:20,28,1181,,text,True,False
+1882,orfordness,Orfordness,Orfordness,Wm. Wilby Woodruff,1882:1:21,28,1182,,text,True,False
+1882,shipwash-lv,Shipwash L.V.,Shipwash,William Bonken,1882:1:22,28,1183,,text,True,False
+1882,landguard-point,Landguard Point,Languard Point,Owen Boyle,1882:1:23,28,1184,,text,True,False
+1882,galloper-lv,Galloper L.V.,Galloper,William Littlewood,1882:1:24,28,1185,,text,True,False
+1882,swin-middle-lv,Swin Middle L.V.,Swin Middle,Thomas Barrett,1882:1:26,28,1187,,text,True,False
+1882,tongue-lv,Tongue L.V.,Tongue,John Webber,1882:1:27,28,1188,,text,True,False
+1882,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1882:1:31,28,1192,,text,True,False
+1882,gull-lv,Gull (Gull Stream) L.V.,Gull,Joseph Jenkins,1882:1:31,28,1192,,text,True,False
+1882,south-sand-head-lv,South Sand Head L.V.,South Sand Head,J. C. Leggett,1882:1:32,28,1193,,text,True,False
+1882,south-sand-head-lv,South Sand Head L.V.,South Sand Head,George Woodward,1882:1:32,28,1193,,text,True,False
+1882,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,Edward le Gallais,1882:1:33,28,1194,,text,True,False
+1882,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,Thomas Rees,1882:1:33,28,1194,,text,True,False
+1882,hanois,Hanois,Hanois,Charles Williams,1882:1:35,28,1196,,text,True,False
+1882,butt-of-lewis,Butt of Lewis,Butt of Lewis,Alex. Thompson,1882:2:2,55,2280,,text,True,False
+1882,monach-isles,Monach Isles,Monach Island,J. Youngclause,1882:2:5,55,2283,,text,True,False
+1882,kyleakin,Kyleakin,Kyleakin,D. McCulloch,1882:2:9,55,2291,,text,True,False
+1882,hynish-signal-tower,Hynish Signal Tower,Hynish Signal Tower,Alx. McEachern,1882:2:12,56,2294,,text,True,False
+1882,dubh-artach,Dubh Artach,Dhuheartach,John Ewing,1882:2:14,56,2296,,text,True,False
+1882,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,W. McLellan,1882:2:15,56,2298,,text,True,False
+1882,lismore,Lismore,Lismore Island,A. Murray,1882:2:17,56,2300,,text,True,False
+1882,mcarthurs-head,McArthur's Head,Mac Arthur's Head,W. Maill,1882:2:20,56,2303,,text,True,False
+1882,skervuile,Skervuile,Skervuile,John Ewing,1882:2:21,56,2304,,text,True,False
+1882,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,Andrew Lyall,1882:2:22,56,2305,,text,True,False
+1882,loch-ryan,Loch Ryan (Cairn Point),Loch Ryan,Ralph Ewing,1882:2:31,56,2314,,text,True,False
+1882,portpatrick,Portpatrick,Portpatrick,Jas. Beggs,1882:2:32,56,2315,,text,True,False
+1882,mull-of-galloway,Mull of Galloway,Mull of Galloway,H. Morrison,1882:2:33,56,2316,,text,True,False
+1882,galley-head,Galley Head,Galley Head,John Whelan,1882:3:1,75,3023,,text,False,False
+1882,old-head-of-kinsale,Old Head of Kinsale,"Old Head, Kinsale",George Dunleavy,1882:3:2,75,3024,,text,False,False
+1882,old-head-of-kinsale,Old Head of Kinsale,"Old Head, Kinsale",Martin Kennedy,1882:3:2,75,3024,,text,False,False
+1882,mine-head,Mine Head,Mine Head,Joseph Hammond,1882:3:3,75,3026,,text,False,False
+1882,ballinacourty,Ballinacourty (Dungarvan),Dungarvan,Wm. Higginbotham,1882:3:4,75,3027,,text,False,False
+1882,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1882:3:5,75,3028,,text,False,False
+1882,barrels-lv,Barrels Rock L.V.,Barrels Rock,Michael Doyle,1882:3:6,75,3029,,text,False,False
+1882,tuskar-rock,Tuskar Rock,Tuskar,Richard Hamilton,1882:3:7,75,3030,,text,False,False
+1882,arklow-south-lv,Arklow South L.V.,Arklow S,William O'Shea,1882:3:8,75,3031,,text,False,False
+1882,kish-bank-lv,Kish Bank L.V.,Kish Bank,William Daly,1882:3:10,75,3033,,text,False,False
+1882,baily,Baily (Howth),Howth Baily,William Dunne,1882:3:11,75,3034,,text,False,False
+1882,baily,Baily (Howth),Howth Baily,James Higginbotham,1882:3:11,75,3034,,text,False,False
+1882,rockabill,Rockabill,Rockabill,Joseph Hammond,1882:3:12,75,3036,,text,False,False
+1882,copeland,Copeland / Mew Island,Copeland Island,John Walsh,1882:3:13,75,3037,,text,False,False
+1882,maidens-north,Maidens North,Maidens,Patrick Keenan,1882:3:14,75,3038,,text,False,False
+1882,rathlin-east,Rathlin (Altacarry),Rathlin,John A. Murray,1882:3:15,75,3039,,text,False,False
+1882,inishtrahull,Inishtrahull,Innishtrahull,W. H. James,1882:3:16,75,3040,,text,False,False
+1882,dunree-head,Dunree Head,Dunree Head,John Stapleton,1882:3:17,75,3041,,text,False,False
+1882,fanad-head,Fanad Head (Lough Swilly),Lough Swilly,Henry Redmond,1882:3:18,75,3042,,text,False,False
+1882,tory-island,Tory Island,Tory Island,Thomas Sweeny,1882:3:19,75,3043,,text,False,False
+1882,arranmore,Arranmore,Arranmore,Henry Williams,1882:3:20,75,3044,,text,False,False
+1882,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,Joseph Hill,1882:3:21,75,3045,,text,False,False
+1882,rotten-island,Rotten Island (Killybegs),Killybegs,Daniel Hawkins,1882:3:22,75,3046,,text,False,False
+1882,oyster-island,Oyster Island,Oyster Island,John Young,1882:3:23,75,3047,,text,False,False
+1882,broadhaven,Broadhaven,Broadhaven,Joseph Williams,1882:3:24,75,3048,,text,False,False
+1882,broadhaven,Broadhaven,Broadhaven,Michael Duffy,1882:3:24,75,3048,,text,False,False
+1882,eagle-island-east,Eagle Island East,"Eagle Island, E",Robert W. Redmond,1882:3:25,75,3050,,text,False,False
+1882,eagle-island-west,Eagle Island West,"Eagle Island, W",Matthew Healy,1882:3:26,75,3051,,text,False,False
+1882,blackrock-mayo,Blackrock (Mayo),Blackrock,Martin Kennedy,1882:3:27,75,3052,,text,False,False
+1882,blacksod-point,Blacksod Point,Blacksod Point,J. Williams,1882:3:28,75,3053,,text,False,False
+1882,clare-island,Clare Island,Clare Island,J. Reilly,1882:3:29,75,3054,,text,False,False
+1882,clare-island,Clare Island,Clare Island,G. H. Brownell,1882:3:29,75,3054,,text,False,False
+1882,slyne-head-north,Slyne Head North,"Slyne Head, N",John Gillan,1882:3:30,75,3056,,text,False,False
+1882,slyne-head-north,Slyne Head North,"Slyne Head, N",Robert Tyrrell,1882:3:30,75,3056,,text,False,False
+1882,slyne-head-south,Slyne Head South,"Slyne Head, S",William Callaghan,1882:3:31,75,3058,,text,False,False
+1882,eeragh,Eeragh (Aran North),"Arran Island, N",John Kelly,1882:3:32,75,3059,,text,False,False
+1882,straw-island,Straw Island,Straw Island,Charles Boyle,1882:3:33,75,3060,,text,False,False
+1882,inisheer,Inisheer (Aran South),"Straw Island, S",John O'Donnell,1882:3:34,75,3061,,text,False,False
+1882,samphire-island,Samphire Island,Samphire Island,Michael O'Donnell,1882:3:36,75,3063,,text,False,False
+1882,samphire-island,Samphire Island,Samphire Island,J. Williams,1882:3:36,75,3063,,text,False,False
+1882,inishtearaght,Inishtearaght,Tearaght,Edward McCarron,1882:3:37,75,3065,,text,False,False
+1882,valentia,Valentia,Valentia,Thomas McKenna,1882:3:38,75,3066,,text,False,False
+1882,valentia,Valentia,Valentia,Joseph Williams,1882:3:38,75,3066,,text,False,False
+1882,skellig-michael,Skelligs,Skelligs,Henry Gardiner,1882:3:39,75,3067,,text,False,False
+1882,dursey-island,Dursey Island,Dursey Island,James Keenan,1882:3:40,75,3069,,text,False,False
+1883,muckle-flugga,Muckle Flugga (North Unst),N. Unst,J. Edgar,1883:0:0,,,n12.jpg,scan,False,False
+1883,sumburgh-head,Sumburgh Head,Sumburgh Head,D. M. Scott,1883:0:3,,,n12.jpg,scan,False,False
+1883,auskerry,Auskerry,Auskerry,J. McDonald,1883:0:7,,,n12.jpg,scan,False,False
+1883,pentland-skerries,Pentland Skerries,Pentland Skerries,D. McDonald,1883:0:11,,,n12.jpg,scan,False,False
+1883,pentland-skerries,Pentland Skerries,Pentland Skerries,J. Gilmour,1883:0:11,,,n12.jpg,scan,False,False
+1883,dunnet-head,Dunnet Head,Dunnet Head,D. Laidlaw,1883:0:12,,,n12.jpg,scan,False,False
+1883,holborn-head,Holborn Head,Holborn Head,D. Laidlaw,1883:0:13,,,n12.jpg,scan,True,False
+1883,noss-head,Noss Head,Noss Head,A. Greig,1883:0:14,,,n12.jpg,scan,False,False
+1883,tarbat-ness,Tarbat Ness,Tarbat Ness,W.Davidson,1883:0:15,,,n12.jpg,scan,False,False
+1883,cromarty,Cromarty,Cromarty,R. S. Ritson,1883:0:16,,,n12.jpg,scan,False,False
+1883,chanonry-point,Chanonry Point,Chanonry,J. McGill,1883:0:17,,,n12.jpg,scan,False,False
+1883,bell-rock,Bell Rock,Bell Rock,J. Jack,1883:0:23,,,n12.jpg,scan,False,False
+1883,isle-of-may,Isle of May,I. of May,J. Agnew,1883:0:24,,,n12.jpg,scan,False,False
+1883,inchkeith,Inchkeith,Inch Keith,R. Grierson,1883:0:25,,,n12.jpg,scan,False,False
+1883,longstone,Longstone,Longstone,Thomas O. Hall,1883:1:0,,,n41.jpg,scan,True,False
+1883,inner-farne,Inner Farne,Inner Farn,Thomas H. Cutting,1883:1:1,,,n41.jpg,scan,True,False
+1883,tees-lv,Tees No. 5 Buoy L.V.,Tees,Henry Harbord,1883:1:2,,,n41.jpg,scan,True,False
+1883,whitby-high,Whitby High,Whitby High,John Odgers,1883:1:4,,,n41.jpg,scan,True,False
+1883,flamborough-head,Flamborough Head,Flamborough Head,Charles Hood,1883:1:5,,,n41.jpg,scan,True,False
+1883,spurn-point,Spurn Point,Spurn,James B. Smith,1883:1:6,,,n41.jpg,scan,True,False
+1883,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,William Stock & J. N. Utting,1883:1:8,,,n41.jpg,scan,True,False
+1883,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1883:1:9,,,n41.jpg,scan,True,False
+1883,lynn-well-lv,Lynn Well L.V.,Llyn Wells,George Rees,1883:1:11,,,n41.jpg,scan,True,False
+1883,hunstanton,Hunstanton,Hunstanton,William Westmoreland,1883:1:12,,,n41.jpg,scan,True,False
+1883,cromer,Cromer,Cromer,Richard Comben,1883:1:13,,,n41.jpg,scan,True,False
+1883,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,John Artis,1883:1:14,,,n41.jpg,scan,True,False
+1883,happisburgh,Happisburgh,Hasbro',G. H. Dunsford,1883:1:15,,,n41.jpg,scan,True,False
+1883,happisburgh-lv,Happisburgh L.V.,Hasbro',J. Nicholas & B. Darnell,1883:1:16,,,n41.jpg,scan,True,False
+1883,newarp-lv,Newarp L.V.,Newarp,C. Campbell & W. Rees,1883:1:17,,,n41.jpg,scan,True,False
+1883,winterton,Winterton,Winterton,John Watson,1883:1:18,,,n41.jpg,scan,True,False
+1883,cockle-lv,Cockle L.V.,Cockle,Samuel Pender & C. Prefrement,1883:1:19,,,n41.jpg,scan,True,False
+1883,shipwash-lv,Shipwash L.V.,Shipwash,The Principal,1883:1:22,,,n41.jpg,scan,True,False
+1883,landguard-point,Landguard Point,Languard Point,Owen Boyle,1883:1:23,,,n41.jpg,scan,True,False
+1883,galloper-lv,Galloper L.V.,Galloper,The Principal,1883:1:24,,,n41.jpg,scan,True,False
+1883,tongue-lv,Tongue L.V.,Tongue,John Webber,1883:1:27,,,n41.jpg,scan,True,False
+1883,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey & Joseph Jenkins,1883:1:31,,,n41.jpg,scan,True,False
+1883,south-sand-head-lv,South Sand Head L.V.,South Sand Head,Joseph Ditcham,1883:1:32,,,n41.jpg,scan,True,False
+1883,east-goodwin-lv,East Goodwin (East Side) L.V.,Eastside,Edward le Gallais,1883:1:33,,,n41.jpg,scan,True,False
+1883,hanois,Hanois,Hanois,Charles Williams,1883:1:36,,,n42.jpg,scan,True,False
+1883,stoer-head,Stoer Head (Rhu Stoir),Rhu Stoir,Wm. Wither,1883:2:1,,,n70.jpg,scan,False,False
+1883,butt-of-lewis,Butt of Lewis,Butt of Lewis,A. Thompson,1883:2:2,,,n70.jpg,scan,False,False
+1883,arnish-point,Arnish Point (Stornoway),Stornoway,John Grierson,1883:2:3,,,n70.jpg,scan,False,False
+1883,monach-isles,Monach Isles,Monach Isles,J.Youngclause,1883:2:5,,,n70.jpg,scan,False,False
+1883,barra-head,Barra Head,Barra Head,Wm. Irvine,1883:2:7,,,n70.jpg,scan,False,False
+1883,kyleakin,Kyleakin,Kyleakin,D. M'Culloch,1883:2:9,,,n70.jpg,scan,False,False
+1883,hynish-signal-tower,Hynish Signal Tower,Hynish Signal Tower,Wm. Crow,1883:2:12,,,n71.jpg,scan,False,False
+1883,skerryvore,Skerryvore,Skerryvore,Wm. Crow,1883:2:13,,,n71.jpg,scan,False,False
+1883,dubh-artach,Dubh Artach,Dhuheartach,Jas. Ewing,1883:2:14,,,n71.jpg,scan,False,False
+1883,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,W. M'Lellan,1883:2:15,,,n71.jpg,scan,False,False
+1883,lismore,Lismore,Lismore Island,Alex. Murray,1883:2:17,,,n71.jpg,scan,False,False
+1883,mcarthurs-head,McArthur's Head,M'Arthur's Head,W. Maill,1883:2:20,,,n71.jpg,scan,False,False
+1883,skervuile,Skervuile,Skervuile,John Ewing,1883:2:21,,,n71.jpg,scan,False,False
+1883,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,Andrew Lyall,1883:2:22,,,n71.jpg,scan,False,False
+1883,holy-isle,Holy Isle (Lamlash),Lamlash,David Waters,1883:2:27,,,n71.jpg,scan,False,False
+1883,corsewall,Corsewall,Corsewall,Robt. Laidlaw,1883:2:29,,,n71.jpg,scan,False,False
+1883,loch-ryan,Loch Ryan (Cairn Point),Loch Ryan,Ralph Ewing,1883:2:30,,,n71.jpg,scan,False,False
+1883,portpatrick,Portpatrick,Portpatrick,James Begg,1883:2:31,,,n71.jpg,scan,False,False
+1883,fastnet,Fastnet,Fastnet,James Walsh,1883:3:0,,,n92.jpg,scan,True,False
+1883,galley-head,Galley Head,Galley Head,John Whelan,1883:3:1,,,n92.jpg,scan,True,False
+1883,galley-head,Galley Head,Galley Head,John Kelly,1883:3:1,,,n92.jpg,scan,True,False
+1883,old-head-of-kinsale,Old Head of Kinsale,"Old Head, Kinsale",Martin Kennedy,1883:3:2,,,n92.jpg,scan,False,False
+1883,ballinacourty,Ballinacourty (Dungarvan),Dungarvan,Wm. Higginbotham,1883:3:4,,,n92.jpg,scan,True,False
+1883,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1883:3:5,,,n92.jpg,scan,True,False
+1883,barrels-lv,Barrels Rock L.V.,Barrels Rock,Michael Doyle,1883:3:6,,,n92.jpg,scan,True,False
+1883,tuskar-rock,Tuskar Rock,Tuskar Rock,Richard Hamilton,1883:3:7,,,n92.jpg,scan,True,False
+1883,arklow-south-lv,Arklow South L.V.,Arklow Sth,Patrick Clancy,1883:3:8,,,n92.jpg,scan,True,False
+1883,arklow-north-lv,Arklow North L.V.,Arklow North,William Daly,1883:3:9,,,n92.jpg,scan,True,False
+1883,kish-bank-lv,Kish Bank L.V.,Kish Bank,Michael Cunniam,1883:3:10,,,n92.jpg,scan,True,False
+1883,kish-bank-lv,Kish Bank L.V.,Kish Bank,John Pinston,1883:3:10,,,n92.jpg,scan,True,False
+1883,rockabill,Rockabill,Rockabill,Joseph Hammond,1883:3:12,,,n92.jpg,scan,True,False
+1883,copeland,Copeland / Mew Island,Copeland Island,John Walsh,1883:3:13,,,n92.jpg,scan,True,False
+1883,maidens-north,Maidens North,Maidens,Patrick Keenan,1883:3:14,,,n92.jpg,scan,True,False
+1883,maidens-north,Maidens North,Maidens,Michael Barry,1883:3:14,,,n92.jpg,scan,True,False
+1883,rathlin-east,Rathlin (Altacarry),Rathlin,John A. Murray,1883:3:15,,,n92.jpg,scan,True,False
+1883,inishtrahull,Inishtrahull,Innishtrahull,W. H. James,1883:3:16,,,n92.jpg,scan,True,False
+1883,dunree-head,Dunree Head,Dunree Head,John Stapleton,1883:3:17,,,n92.jpg,scan,True,False
+1883,fanad-head,Fanad Head (Lough Swilly),Lough Swilly,Henry Redmond,1883:3:18,,,n92.jpg,scan,True,False
+1883,tory-island,Tory Island,Tory Island,Thomas Sweeny,1883:3:19,,,n92.jpg,scan,True,False
+1883,arranmore,Arranmore,Arranmore,Henry Williams,1883:3:20,,,n92.jpg,scan,True,False
+1883,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,Joseph Hill,1883:3:21,,,n92.jpg,scan,True,False
+1883,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,John Scallan,1883:3:21,,,n92.jpg,scan,True,False
+1883,rotten-island,Rotten Island (Killybegs),Killybegs,Daniel Hawkins,1883:3:22,,,n92.jpg,scan,True,False
+1883,oyster-island,Oyster Island,Oyster Island,John Young,1883:3:23,,,n92.jpg,scan,True,False
+1883,oyster-island,Oyster Island,Oyster Island,Joseph Hill,1883:3:23,,,n92.jpg,scan,True,False
+1883,broadhaven,Broadhaven,Broadhaven,Patrick Keenan,1883:3:24,,,n92.jpg,scan,True,False
+1883,eagle-island-east,Eagle Island East,"Eagle Island, E",Henry Stocker,1883:3:25,,,n92.jpg,scan,True,False
+1883,eagle-island-west,Eagle Island West,"Eagle Island, W",Matthew Healy,1883:3:26,,,n92.jpg,scan,True,False
+1883,blackrock-mayo,Blackrock (Mayo),Blackrock,John Redmond,1883:3:27,,,n92.jpg,scan,True,False
+1883,blackrock-mayo,Blackrock (Mayo),Blackrock,John Young,1883:3:27,,,n92.jpg,scan,True,False
+1883,blacksod-point,Blacksod Point,Blacksod Point,Robt. W. Redmond,1883:3:28,,,n92.jpg,scan,True,False
+1883,clare-island,Clare Island,Clare Island,G. H. Brownell,1883:3:29,,,n92.jpg,scan,True,False
+1883,slyne-head-north,Slyne Head North,"Slyne Head, N",Robert Tyrrell,1883:3:30,,,n92.jpg,scan,True,False
+1883,eeragh,Eeragh (Aran North),"Arran Island, N",Thomas Fortune,1883:3:32,,,n92.jpg,scan,True,False
+1883,straw-island,Straw Island,Straw Island,Charles Boyle,1883:3:33,,,n92.jpg,scan,True,False
+1883,inisheer,Inisheer (Aran South),"Arran Island, S",John O'Donnell,1883:3:34,,,n92.jpg,scan,True,False
+1883,inishtearaght,Inishtearaght,Tearaght,Edward McCarron,1883:3:36,,,n92.jpg,scan,True,False
+1883,valentia,Valentia,Valentia,Joseph Williams,1883:3:37,,,n92.jpg,scan,True,False
+1883,skellig-michael,Skelligs,Skelligs,Thomas Kerley,1883:3:38,,,n92.jpg,scan,True,False
+1883,dursey-island,Dursey Island,Dursey Island,James Keenan,1883:3:39,,,n92.jpg,scan,True,False
+1884,muckle-flugga,Muckle Flugga (North Unst),North Unst,T. Edgar,1884:1:0,,,n22.jpg,scan,False,False
+1884,sumburgh-head,Sumburgh Head,Sumburgh Head,D. M. Scott,1884:1:3,,,n22.jpg,scan,False,False
+1884,pentland-skerries,Pentland Skerries,Pentland Skerries,J. Gilmour,1884:1:10,,,n22.jpg,scan,False,False
+1884,tarbat-ness,Tarbat Ness,Tarbat Ness,R. S. Ritson,1884:1:14,,,n22.jpg,scan,False,False
+1884,cromarty,Cromarty,Cromarty,John McGill,1884:1:15,,,n22.jpg,scan,False,False
+1884,bell-rock,Bell Rock,Bell Rock,James Jack,1884:1:22,,,n22.jpg,scan,False,False
+1884,isle-of-may,Isle of May,Isle of May,Jos. Agnew,1884:1:23,,,n22.jpg,scan,False,False
+1884,inchkeith,Inchkeith,Inch Keith,R. Grierson,1884:1:24,,,n22.jpg,scan,False,False
+1884,longstone,Longstone,Longstone,Thomas O. Hall,1884:2:0,,,n51.jpg,scan,True,False
+1884,inner-farne,Inner Farne,Inner Farn,Thomas H. Cutting,1884:2:1,,,n51.jpg,scan,True,False
+1884,tees-lv,Tees No. 5 Buoy L.V.,Tees,Henry Harbord,1884:2:2,,,n51.jpg,scan,True,False
+1884,coquet,Coquet,Coquet Island,William Evans,1884:2:3,,,n51.jpg,scan,True,False
+1884,whitby-high,Whitby High,Whitby High,John Odgers,1884:2:4,,,n51.jpg,scan,True,False
+1884,flamborough-head,Flamborough Head,Flamborough Head,Charles Hood,1884:2:5,,,n51.jpg,scan,True,False
+1884,spurn-point,Spurn Point,Spurn,James B. Smith,1884:2:6,,,n51.jpg,scan,True,False
+1884,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,J.N.Utting,1884:2:8,,,n51.jpg,scan,True,False
+1884,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,W. Stock,1884:2:8,,,n51.jpg,scan,True,False
+1884,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1884:2:9,,,n51.jpg,scan,True,False
+1884,dudgeon-lv,Dudgeon L.V.,Dudgeon,John F. Warder,1884:2:10,,,n51.jpg,scan,True,False
+1884,hunstanton,Hunstanton,Hunstanton,William Westmoreland,1884:2:12,,,n51.jpg,scan,True,False
+1884,cromer,Cromer,Cromer,C. H. Overton,1884:2:13,,,n51.jpg,scan,True,False
+1884,leman-and-ower-lv,Leman and Ower L.V.,Leman & Ower,John Artis,1884:2:14,,,n51.jpg,scan,True,False
+1884,leman-and-ower-lv,Leman and Ower L.V.,Leman & Ower,John Bowen,1884:2:14,,,n51.jpg,scan,True,False
+1884,happisburgh-lv,Happisburgh L.V.,Hasbro',J. Nicholas,1884:2:16,,,n51.jpg,scan,True,False
+1884,happisburgh-lv,Happisburgh L.V.,Hasbro',B. V. Darnell,1884:2:16,,,n51.jpg,scan,True,False
+1884,newarp-lv,Newarp L.V.,Newarp,C. Campbell,1884:2:17,,,n51.jpg,scan,True,False
+1884,newarp-lv,Newarp L.V.,Newarp,W. Rees,1884:2:17,,,n51.jpg,scan,True,False
+1884,winterton,Winterton,Winterton,John Watson,1884:2:18,,,n51.jpg,scan,True,False
+1884,cockle-lv,Cockle L.V.,Cockle,Charles Perfrement,1884:2:19,,,n51.jpg,scan,True,False
+1884,cockle-lv,Cockle L.V.,Cockle,E. Cole,1884:2:19,,,n51.jpg,scan,True,False
+1884,orfordness,Orfordness,Orfordness,W. Willey Woodruffe,1884:2:20,,,n51.jpg,scan,True,False
+1884,corton-lv,Corton L.V.,Corton,Isaac H. Johnson,1884:2:21,,,n51.jpg,scan,True,False
+1884,shipwash-lv,Shipwash L.V.,Shipwash,Thos. Rundell Martin,1884:2:22,,,n51.jpg,scan,True,False
+1884,landguard-point,Landguard Point,Languard Point,Owen Boyle,1884:2:23,,,n51.jpg,scan,True,False
+1884,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,Samuel Pender,1884:2:25,,,n51.jpg,scan,True,False
+1884,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,"W, Elsdon",1884:2:25,,,n51.jpg,scan,True,False
+1884,north-sand-head-lv,North Sand Head (Goodwin) L.V.,Goodwin,J. Rees,1884:2:30,,,n51.jpg,scan,True,False
+1884,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1884:2:31,,,n51.jpg,scan,True,False
+1884,gull-lv,Gull (Gull Stream) L.V.,Gull,J. Jenkins,1884:2:31,,,n51.jpg,scan,True,False
+1884,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,Edward le Gallais,1884:2:33,,,n52.jpg,scan,True,False
+1884,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,W. Nicholls,1884:2:33,,,n52.jpg,scan,True,False
+1884,varne-lv,Varne L.V.,Varne,J. Jacobs,1884:2:34,,,n52.jpg,scan,True,False
+1884,hanois,Hanois,Hanois,Geo. Freeman,1884:2:37,,,n52.jpg,scan,True,False
+1884,hanois,Hanois,Hanois,C. Williams,1884:2:37,,,n52.jpg,scan,True,False
+1884,hanois,Hanois,Hanois,F. G. Cutting,1884:2:37,,,n52.jpg,scan,True,False
+1884,cape-wrath,Cape Wrath,Cape Wrath,W. Wither & H. Morrison,1884:3:0,,,n85.jpg,scan,False,False
+1884,stoer-head,Stoer Head (Rhu Stoir),Rhu Stoir,Wm. Wither,1884:3:1,,,n85.jpg,scan,False,False
+1884,butt-of-lewis,Butt of Lewis,Butt of Lewis,T. Edgar,1884:3:2,,,n85.jpg,scan,False,False
+1884,butt-of-lewis,Butt of Lewis,Butt of Lewis,A.Thompson,1884:3:2,,,n85.jpg,scan,False,False
+1884,arnish-point,Arnish Point (Stornoway),Stornoway,J. Grierson,1884:3:3,,,n85.jpg,scan,False,False
+1884,monach-isles,Monach Isles,Monach Isles,J. Young-clause,1884:3:5,,,n85.jpg,scan,False,False
+1884,barra-head,Barra Head,Barra Head,Wm. Irvine,1884:3:7,,,n85.jpg,scan,False,False
+1884,rona,Rona (South Rona),Rona,Frazer,1884:3:8,,,n86.jpg,scan,False,False
+1884,kyleakin,Kyleakin,Kyleakin,D.M'Culloch,1884:3:9,,,n86.jpg,scan,False,False
+1884,hynish-signal-tower,Hynish Signal Tower,Hynish Signal Tower,T. Dawson,1884:3:12,,,n86.jpg,scan,False,False
+1884,skerryvore,Skerryvore,Skerryvore,T. Dawson,1884:3:13,,,n86.jpg,scan,False,False
+1884,dubh-artach,Dubh Artach,Dhuheartach,W. Davidson,1884:3:14,,,n86.jpg,scan,False,False
+1884,rubha-nan-gall,Rubha nan Gall (Sound of Mull),Sound of Mull,W. McLellan,1884:3:15,,,n86.jpg,scan,False,False
+1884,rhuvaal,Rhuvaal (Rubh' a' Mhàil),Rhuvaal,G. Boreham,1884:3:19,,,n86.jpg,scan,False,False
+1884,mcarthurs-head,McArthur's Head,M'Arthur's Head,Wm. Maill,1884:3:20,,,n86.jpg,scan,False,False
+1884,skervuile,Skervuile,Skervuile,John Ewing,1884:3:21,,,n86.jpg,scan,False,False
+1884,rhinns-of-islay,Rhinns of Islay,Rhinns of Islay,P. Anderson,1884:3:22,,,n86.jpg,scan,False,False
+1884,holy-isle,Holy Isle (Lamlash),Lamlash,D. M. Scott,1884:3:27,,,n86.jpg,scan,False,False
+1884,turnberry,Turnberry,Turnberry,Andr. Nisbet,1884:3:28,,,n86.jpg,scan,False,False
+1884,corsewall,Corsewall,Corsewall,R. Laidlaw,1884:3:29,,,n86.jpg,scan,False,False
+1884,mull-of-galloway,Mull of Galloway,Mull of Galloway,Alx. Murray,1884:3:32,,,n86.jpg,scan,False,False
+1884,little-ross,Little Ross,Little Ross,Jas. Ferrier,1884:3:33,,,n86.jpg,scan,False,False
+1884,langness,Langness,Langness,Robt. Clyne,1884:3:38,,,n86.jpg,scan,False,False
+1884,bahama-bank-lv,Bahama Bank L.V.,Bahama Bank,John West,1884:10:0,,,n112.jpg,scan,True,False
+1884,st-bees,St Bees,St. Bees,Henry Nott,1884:10:1,,,n112.jpg,scan,True,False
+1884,selker-lv,Selker L.V.,Selker,D. Kneale,1884:10:2,,,n112.jpg,scan,True,False
+1884,selker-lv,Selker L.V.,Selker,— Cumming,1884:10:2,,,n112.jpg,scan,True,False
+1884,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Henry Clavell,1884:10:3,,,n112.jpg,scan,True,False
+1884,dee-lv,Dee L.V.,Dee,S. Woek,1884:10:4,,,n112.jpg,scan,True,False
+1884,dee-lv,Dee L.V.,Dee,J. Clague,1884:10:4,,,n112.jpg,scan,True,False
+1884,south-stack,South Stack,South Stack,William R. Burgess,1884:10:9,,,n112.jpg,scan,True,False
+1884,caernarfon-bay-lv,Caernarfon Bay L.V.,Carnarvon Bay,Henry Hughes,1884:10:10,,,n112.jpg,scan,True,False
+1884,st-tudwals,St Tudwal's,St. Tudwal's,W. Monk,1884:10:11,,,n112.jpg,scan,True,False
+1884,bardsey,Bardsey,Bardsey Island,Thomas Bowen,1884:10:12,,,n112.jpg,scan,True,False
+1884,south-bishop,South Bishop,South Bishop,A. Hills,1884:10:14,,,n112.jpg,scan,True,False
+1884,smalls,Smalls,Smalls,Richard Evans,1884:10:15,,,n112.jpg,scan,True,False
+1884,st-anns-head,"St Ann's Head (Milford), single row",Milford,George Baker,1884:10:17,,,n112.jpg,scan,True,False
+1884,caldey,Caldey,Caldy,William Ebben,1884:10:18,,,n112.jpg,scan,True,False
+1884,helwick-lv,Helwick L.V.,Helwick,Thomas Cornell,1884:10:19,,,n112.jpg,scan,True,False
+1884,scarweather-lv,Scarweather L.V.,Scarweather,P. Frost,1884:10:20,,,n112.jpg,scan,True,False
+1884,nash-point-high,Nash Point High (East),Nash (E.),Henry Nicholas,1884:10:21,,,n112.jpg,scan,True,False
+1884,flat-holm,Flat Holm,Flatholm,W. Dale,1884:10:23,,,n112.jpg,scan,True,False
+1884,west-usk,West Usk,Usk,A. Russell,1884:10:25,,,n112.jpg,scan,True,False
+1884,bull-point,Bull Point,Bull Point,George Knott,1884:10:28,,,n113.jpg,scan,True,False
+1884,bideford-bar,Bideford Bar (Instow),Bideford Bar,Thomas Gilpin,1884:10:29,,,n113.jpg,scan,True,False
+1884,godrevy,Godrevy,Godrevy,Richard Trahair,1884:10:33,,,n113.jpg,scan,True,False
+1884,longships,Longships,Longships,J. W. Watson,1884:10:34,,,n113.jpg,scan,True,False
+1884,longships,Longships,Longships,Wm. Davies,1884:10:34,,,n113.jpg,scan,True,False
+1884,bishop-rock,Bishop Rock,Bishop's Rock,John W. Froth,1884:10:38,,,n113.jpg,scan,True,False
+1884,eddystone,Eddystone,Eddystone,William Ainger,1884:10:41,,,n113.jpg,scan,True,False
+1884,start-point-devon,Start Point (Devon),Start Point,William Jones,1884:10:43,,,n113.jpg,scan,True,False
+1884,fastnet,Fastnet,Fastnet,James Walsh,1884:11:0,,,n140.jpg,scan,True,False
+1884,old-head-of-kinsale,Old Head of Kinsale,Old Head,Martin Kennedy,1884:11:2,,,n140.jpg,scan,True,False
+1884,ballinacourty,Ballinacourty (Dungarvan),Dungarvan,Wm. Higginbotham,1884:11:4,,,n140.jpg,scan,True,False
+1884,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1884:11:5,,,n140.jpg,scan,False,False
+1884,coningbeg-lv,Coningbeg L.V.,Coningbeg,William Clydesdale,1884:11:5,,,n140.jpg,scan,False,False
+1884,barrels-lv,Barrels Rock L.V.,Barrels Rock,Michael Doyle,1884:11:6,,,n140.jpg,scan,True,False
+1884,tuskar-rock,Tuskar Rock,Tuskar Rock,Richard Hamilton,1884:11:7,,,n140.jpg,scan,False,False
+1884,tuskar-rock,Tuskar Rock,Tuskar Rock,Patrick D'Arcy,1884:11:7,,,n140.jpg,scan,False,False
+1884,arklow-south-lv,Arklow South L.V.,ArklowSth,Patrick Clancy,1884:11:8,,,n140.jpg,scan,False,False
+1884,arklow-north-lv,Arklow North L.V.,Arklow North,William Daly,1884:11:9,,,n140.jpg,scan,True,False
+1884,kish-bank-lv,Kish Bank L.V.,Kish Bank,Michael Cunniam,1884:11:10,,,n140.jpg,scan,True,False
+1884,baily,Baily (Howth),Howth Baily,William Dunne,1884:11:11,,,n140.jpg,scan,True,False
+1884,rockabill,Rockabill,Rockabill,Joseph Hammond,1884:11:12,,,n140.jpg,scan,True,False
+1884,copeland,Copeland / Mew Island,Copeland Island,John Walsh,1884:11:13,,,n140.jpg,scan,True,False
+1884,maidens-north,Maidens North,Maidens,Michael Barry,1884:11:14,,,n140.jpg,scan,True,False
+1884,rathlin-east,Rathlin (Altacarry),Rathlin,John A. Murray,1884:11:15,,,n140.jpg,scan,True,False
+1884,inishtrahull,Inishtrahull,Innishtrahull,W. H. James,1884:11:16,,,n140.jpg,scan,True,False
+1884,dunree-head,Dunree Head,Dunree Head,John Stapleton,1884:11:17,,,n140.jpg,scan,True,False
+1884,tory-island,Tory Island,Tory Island,Thomas Sweeny,1884:11:19,,,n140.jpg,scan,True,False
+1884,arranmore,Arranmore,Arranmore,Henry Williams,1884:11:20,,,n140.jpg,scan,True,False
+1884,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,John Scallan,1884:11:21,,,n140.jpg,scan,True,False
+1884,rotten-island,Rotten Island (Killybegs),Killybegs,Joseph Hill,1884:11:22,,,n140.jpg,scan,True,False
+1884,oyster-island,Oyster Island,Oyster Island,Joseph Hill,1884:11:23,,,n140.jpg,scan,True,False
+1884,broadhaven,Broadhaven,Broadhaven,Patrick Keenan,1884:11:24,,,n140.jpg,scan,True,False
+1884,eagle-island-east,Eagle Island East,"Eagle Island, E",Daniel Hawkins,1884:11:25,,,n140.jpg,scan,True,False
+1884,blackrock-mayo,Blackrock (Mayo),Blackrock,John Redmond,1884:11:27,,,n140.jpg,scan,False,False
+1884,blackrock-mayo,Blackrock (Mayo),Blackrock,J. Young,1884:11:27,,,n140.jpg,scan,False,False
+1884,blackrock-mayo,Blackrock (Mayo),Blackrock,R. Lyons,1884:11:27,,,n140.jpg,scan,False,False
+1884,blacksod-point,Blacksod Point,Blacksod Point,Robt. W. Redmond,1884:11:28,,,n140.jpg,scan,True,False
+1884,clare-island,Clare Island,Clare Island,G. H. Brownell,1884:11:29,,,n140.jpg,scan,True,False
+1884,slyne-head-north,Slyne Head North,"Slyne Head, N",Robert Tyrrell,1884:11:30,,,n140.jpg,scan,True,False
+1884,eeragh,Eeragh (Aran North),"Arran Island, N",Thomas Fortune,1884:11:32,,,n140.jpg,scan,True,False
+1884,straw-island,Straw Island,Straw Island,Charles Boyle,1884:11:33,,,n140.jpg,scan,True,False
+1884,inishtearaght,Inishtearaght,Tearaght,Edward McCarron,1884:11:36,,,n140.jpg,scan,True,False
+1884,valentia,Valentia,Valentia,Joseph Williams,1884:11:37,,,n140.jpg,scan,True,False
+1884,skellig-michael,Skelligs,Skelligs,Thomas Kerley,1884:11:38,,,n140.jpg,scan,True,False
+1884,dursey-island,Dursey Island,Dursey Island,James Keenan,1884:11:39,,,n140.jpg,scan,True,False
+1885,longstone,Longstone,Longstone,Thomas O. Hall,1885:3:0,37,1518,,text,True,False
+1885,inner-farne,Inner Farne,"Farn, Inner",Thomas H. Cutting,1885:3:1,37,1519,,text,True,False
+1885,coquet,Coquet,Coquet Island,William Evans,1885:3:2,37,1520,,text,True,False
+1885,tees-lv,Tees No. 5 Buoy L.V.,"Tees, 5 Buoy",Henry Harbord,1885:3:3,37,1521,,text,True,False
+1885,south-gare,South Gare (Tees Breakwater),Tees Breakwater,M. Grant,1885:3:4,37,1522,,text,True,False
+1885,whitby-high,Whitby High,Whitby High,John Odgers,1885:3:5,37,1523,,text,True,False
+1885,flamborough-head,Flamborough Head,Flamborough,Charles Hood,1885:3:6,37,1524,,text,True,False
+1885,spurn-point,Spurn Point,Spurn,James B. Smith,1885:3:7,37,1525,,text,True,False
+1885,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,William Stock,1885:3:9,37,1527,,text,True,False
+1885,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1885:3:10,37,1528,,text,True,False
+1885,lynn-well-lv,Lynn Well L.V.,Llyn Wells,George Rees,1885:3:11,37,1529,,text,True,False
+1885,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. F. Warder,1885:3:12,37,1530,,text,True,False
+1885,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. H. Harrison,1885:3:12,37,1530,,text,True,False
+1885,happisburgh-lv,Happisburgh L.V.,Hasbro',J. Nicholas,1885:3:13,37,1531,,text,True,False
+1885,happisburgh-lv,Happisburgh L.V.,Hasbro',B. V. Darnell,1885:3:13,37,1531,,text,True,False
+1885,hunstanton,Hunstanton,Hunstanton,Wm. Westmoreland,1885:3:15,37,1533,,text,True,False
+1885,cromer,Cromer,Cromer,C. H. Overton,1885:3:16,37,1534,,text,True,False
+1885,winterton,Winterton,Winterton,John Watson,1885:3:17,37,1535,,text,True,False
+1885,winterton,Winterton,Winterton,John Leggett,1885:3:17,37,1535,,text,True,False
+1885,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,J. Artis,1885:3:18,37,1536,,text,True,False
+1885,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,John Bowen,1885:3:18,37,1536,,text,True,False
+1885,newarp-lv,Newarp L.V.,Newarp,C. Campbell,1885:3:19,37,1537,,text,True,False
+1885,newarp-lv,Newarp L.V.,Newarp,W. Rees,1885:3:19,37,1537,,text,True,False
+1885,cockle-lv,Cockle L.V.,Cockle,Charles Perfrement,1885:3:20,37,1538,,text,True,False
+1885,cockle-lv,Cockle L.V.,Cockle,E. Cole,1885:3:20,37,1538,,text,True,False
+1885,orfordness,Orfordness,Orfordness,J. Garrett,1885:3:21,37,1539,,text,True,False
+1885,corton-lv,Corton L.V.,Corton,I. H. Johnson,1885:3:22,37,1540,,text,True,False
+1885,corton-lv,Corton L.V.,Corton,W. Bowen,1885:3:22,37,1540,,text,True,False
+1885,landguard-point,Landguard Point,Languard Point,Owen Boyle,1885:3:23,37,1541,,text,True,False
+1885,shipwash-lv,Shipwash L.V.,Shipwash,David Dale,1885:3:24,37,1542,,text,True,False
+1885,galloper-lv,Galloper L.V.,Galloper,P. Frost,1885:3:25,37,1543,,text,True,False
+1885,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,W. R. Carter,1885:3:26,37,1544,,text,True,False
+1885,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,W. Dorney,1885:3:26,37,1544,,text,True,False
+1885,swin-middle-lv,Swin Middle L.V.,Swin Middle,Samuel Pender,1885:3:27,37,1545,,text,True,False
+1885,tongue-lv,Tongue L.V.,Tongue,John Webber,1885:3:28,38,1546,,text,True,False
+1885,north-sand-head-lv,North Sand Head (Goodwin) L.V.,Goodwin,David Johns,1885:3:30,38,1548,,text,True,False
+1885,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1885:3:31,38,1549,,text,True,False
+1885,gull-lv,Gull (Gull Stream) L.V.,Gull,J. Jenkins,1885:3:31,38,1549,,text,True,False
+1885,south-sand-head-lv,South Sand Head L.V.,South Sand Head,F. G. Foreman,1885:3:32,38,1550,,text,True,False
+1885,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,Edward le Gallais,1885:3:33,38,1551,,text,True,False
+1885,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,W. Nicholls,1885:3:33,38,1551,,text,True,False
+1885,hanois,Hanois,Hanois,Charles Williams,1885:3:35,38,1553,,text,True,False
+1885,langness,Langness,Langness,Robt. Clyne,1885:5:2,108,4642,,text,True,False
+1885,chicken-rock,Chicken Rock,Chickens Rock,James Black,1885:5:3,108,4643,,text,True,False
+1885,st-bees,St Bees,St Bees,Henry Nott,1885:5:5,108,4648,,text,True,False
+1885,selker-lv,Selker L.V.,Selker,Geo. Cumming,1885:5:6,108,4649,,text,True,False
+1885,dee-lv,Dee L.V.,Dee,Messrs Work and Clague,1885:5:8,108,4651,,text,True,False
+1885,trwyn-du,Trwyn Du (Menai / Penmon),Menai,Joseph Steer,1885:5:10,108,4656,,text,True,False
+1885,skerries,Skerries,Skerries,Wm. Jno. Rees,1885:5:11,108,4657,,text,True,False
+1885,holyhead-breakwater,Holyhead Breakwater,Holyhead Breakwater,"Messrs Pritchard, Owen, and Hughes",1885:5:12,108,4658,,text,True,False
+1885,south-stack,South Stack,South Stack,W. R. Burgess,1885:5:13,108,4660,,text,True,False
+1885,caernarfon-bay-lv,Caernarfon Bay L.V.,Carnarvon Bay,Messrs Thomas and Hughes,1885:5:14,108,4661,,text,True,False
+1885,st-tudwals,St Tudwal's,St Tudwal's,W. Davies,1885:5:15,108,4663,,text,True,False
+1885,bardsey,Bardsey,Bardsey Island,Thomas Bowen,1885:5:16,108,4664,,text,True,False
+1885,south-bishop,South Bishop,South Bishop,Alfred Frost,1885:5:18,108,4669,,text,True,False
+1885,smalls,Smalls,Smalls,Geo. Baker,1885:5:19,108,4670,,text,True,False
+1885,caldey,Caldey,Caldy,Wm. Ebben,1885:5:22,108,4673,,text,True,False
+1885,nash-point-high,Nash Point High (East),Nash (E.),Henry Nicholas,1885:5:25,109,4679,,text,True,False
+1885,breaksea-lv,Breaksea L.V.,Breaksea,Thomas Walters,1885:5:26,109,4680,,text,True,False
+1885,flat-holm,Flat Holm,Flatholm,W. Dale,1885:5:27,109,4681,,text,True,False
+1885,west-usk,West Usk,Usk,Amos Russell,1885:5:29,109,4683,,text,True,False
+1885,burnham,Burnham,Burnham,Wm. Lewis,1885:5:31,109,4685,,text,True,False
+1885,bull-point,Bull Point,Bull Point,George Knott,1885:5:32,109,4689,,text,True,False
+1885,bideford-bar,Bideford Bar (Instow),Bideford Bar,Thomas Gilpin,1885:5:33,109,4690,,text,True,False
+1885,godrevy,Godrevy,Godrevy,Richard Trahair,1885:5:37,109,4694,,text,True,False
+1885,longships,Longships,Longships,Jno. W. Watson,1885:5:38,109,4695,,text,True,False
+1885,sevenstones-lv,Sevenstones L.V.,Sevenstones,D. Norton,1885:5:39,109,4696,,text,True,False
+1885,wolf-rock,Wolf Rock,Wolf Rock,J. J. Channer,1885:5:40,109,4697,,text,True,False
+1885,bishop-rock,Bishop Rock,Bishop's Rock,J. W. Troth,1885:5:42,109,4699,,text,True,False
+1885,eddystone,Eddystone,Eddystone,Wm. Ainger,1885:5:45,109,4702,,text,True,False
+1885,start-point-devon,Start Point (Devon),Start Point,Wm. Jones,1885:5:47,109,4704,,text,True,False
+1885,fastnet,Fastnet,Fastnet,James Walsh,1885:6:0,136,5903,,text,False,False
+1885,galley-head,Galley Head,Galley Head,John Kelly,1885:6:1,136,5904,,text,False,False
+1885,mine-head,Mine Head,Mine Head,Hugh J. Dugan,1885:6:3,136,5906,,text,False,False
+1885,mine-head,Mine Head,Mine Head,Edward M'Carron,1885:6:3,136,5906,,text,False,False
+1885,ballinacourty,Ballinacourty (Dungarvan),Dungarvan,Wm. Higginbotham,1885:6:4,136,5908,,text,False,False
+1885,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1885:6:5,136,5909,,text,False,False
+1885,coningbeg-lv,Coningbeg L.V.,Coningbeg,William Clydesdale,1885:6:5,136,5909,,text,False,False
+1885,barrels-lv,Barrels Rock L.V.,Barrels Rock,Michael Doyle,1885:6:6,136,5911,,text,False,False
+1885,barrels-lv,Barrels Rock L.V.,Barrels Rock,Charles H. M'Cabe,1885:6:6,136,5911,,text,False,False
+1885,tuskar-rock,Tuskar Rock,Tuskar Rock,Richard Hamilton,1885:6:7,136,5913,,text,False,False
+1885,tuskar-rock,Tuskar Rock,Tuskar Rock,Patrick D'Arcy,1885:6:7,136,5913,,text,False,False
+1885,arklow-south-lv,Arklow South L.V.,Arklow Sth,Patrick Clancy,1885:6:8,136,5915,,text,False,False
+1885,arklow-south-lv,Arklow South L.V.,Arklow Sth,Alfred B. Wall,1885:6:8,136,5915,,text,False,False
+1885,arklow-north-lv,Arklow North L.V.,Arklow North,William Daly,1885:6:9,136,5917,,text,False,False
+1885,kish-bank-lv,Kish Bank L.V.,Kish Bank,John Pinston,1885:6:10,136,5918,,text,False,False
+1885,kish-bank-lv,Kish Bank L.V.,Kish Bank,Thomas Cooney,1885:6:10,136,5918,,text,False,False
+1885,rockabill,Rockabill,Rockabill,Joseph Hammond,1885:6:12,136,5921,,text,False,False
+1885,copeland,Copeland / Mew Island,Copeland (Mew) Island,John O'Donnell,1885:6:13,136,5922,,text,False,False
+1885,maidens-north,Maidens North,Maidens,Michael Barry,1885:6:14,136,5923,,text,False,False
+1885,rathlin-east,Rathlin (Altacarry),Rathlin,John A. Murray,1885:6:15,136,5924,,text,False,False
+1885,inishtrahull,Inishtrahull,Innishtrahull,R. Phelan,1885:6:16,136,5925,,text,False,False
+1885,dunree-head,Dunree Head,Dunree Head,John Stapleton,1885:6:17,136,5926,,text,False,False
+1885,fanad-head,Fanad Head (Lough Swilly),Lough Swilly,James Keenan,1885:6:18,136,5927,,text,False,False
+1885,tory-island,Tory Island,Tory Island,Henry Stocker,1885:6:19,136,5928,,text,False,False
+1885,arranmore,Arranmore,Arranmore,Henry Williams,1885:6:20,136,5929,,text,False,False
+1885,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,John Scallan,1885:6:21,136,5930,,text,False,False
+1885,rotten-island,Rotten Island (Killybegs),Killybegs,Joseph Hill,1885:6:22,136,5931,,text,False,False
+1885,broadhaven,Broadhaven,Broadhaven,Patrick Keenan,1885:6:24,136,5933,,text,False,False
+1885,eagle-island-east,Eagle Island East,"Eagle Island, E",Daniel Hawkins,1885:6:25,136,5934,,text,False,False
+1885,blackrock-mayo,Blackrock (Mayo),Blackrock,John Redmond,1885:6:27,136,5936,,text,False,False
+1885,blackrock-mayo,Blackrock (Mayo),Blackrock,J. Young,1885:6:27,136,5936,,text,False,False
+1885,blackrock-mayo,Blackrock (Mayo),Blackrock,R. Lyons,1885:6:27,136,5936,,text,False,False
+1885,blackrock-mayo,Blackrock (Mayo),Blackrock,Edward Rohu,1885:6:27,136,5936,,text,False,False
+1885,blacksod-point,Blacksod Point,Blacksod Point,Robt. W. Redmond,1885:6:28,136,5939,,text,False,False
+1885,clare-island,Clare Island,Clare Island,G. H. Brownell,1885:6:29,136,5940,,text,False,False
+1885,slyne-head-north,Slyne Head North,"Slyne Head, N",Robert Tyrell,1885:6:30,136,5941,,text,False,False
+1885,eeragh,Eeragh (Aran North),"Arran Island, N",Thomas Fortune,1885:6:32,136,5943,,text,False,False
+1885,straw-island,Straw Island,Straw Island,Charles Boyle,1885:6:33,136,5944,,text,False,False
+1885,inishtearaght,Inishtearaght,Tearaght,Edward M'Carron,1885:6:35,136,5946,,text,False,False
+1885,inishtearaght,Inishtearaght,Tearaght,Francis Ryan,1885:6:35,136,5946,,text,False,False
+1885,valentia,Valentia,Valentia,Joseph Williams,1885:6:36,136,5948,,text,False,False
+1885,skellig-michael,Skelligs,Skelligs,Thomas Kerley,1885:6:37,136,5949,,text,False,False
+1886,longstone,Longstone,Longstone,Thomas O. Hall,1886:4:0,,,n42.jpg,scan,True,False
+1886,inner-farne,Inner Farne,"Farn, Inner",Thomas H. Cutting,1886:4:1,,,n42.jpg,scan,True,False
+1886,coquet,Coquet,Coquet Island,William Evans,1886:4:2,,,n42.jpg,scan,True,False
+1886,tees-lv,Tees No. 5 Buoy L.V.,"Tees, 5 Buoy",Henry Harbord,1886:4:3,,,n42.jpg,scan,True,False
+1886,whitby-high,Whitby High,Whitby High,John Odgers,1886:4:5,,,n42.jpg,scan,True,False
+1886,flamborough-head,Flamborough Head,Flamborough,C. Hood,1886:4:6,,,n42.jpg,scan,True,False
+1886,spurn-point,Spurn Point,Spurn,James B. Smith,1886:4:7,,,n42.jpg,scan,True,False
+1886,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,W. Stock,1886:4:9,,,n42.jpg,scan,True,False
+1886,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,A. Bearling,1886:4:9,,,n42.jpg,scan,True,False
+1886,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1886:4:10,,,n42.jpg,scan,True,False
+1886,lynn-well-lv,Lynn Well L.V.,Llyn Wells,T. Ditcham,1886:4:11,,,n42.jpg,scan,True,False
+1886,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. F. Warder,1886:4:12,,,n42.jpg,scan,True,False
+1886,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. W. Harrison,1886:4:12,,,n42.jpg,scan,True,False
+1886,happisburgh-lv,Happisburgh L.V.,Hasbro',John Nicholas,1886:4:13,,,n42.jpg,scan,True,False
+1886,happisburgh-lv,Happisburgh L.V.,Hasbro',B. V. Darnell,1886:4:13,,,n42.jpg,scan,True,False
+1886,hunstanton,Hunstanton,Hunstanton,W. Westmoreland,1886:4:15,,,n42.jpg,scan,True,False
+1886,cromer,Cromer,Cromer,C. B. Comber,1886:4:16,,,n42.jpg,scan,True,False
+1886,winterton,Winterton,Winterton,John Watson,1886:4:17,,,n42.jpg,scan,True,False
+1886,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,John Bowen,1886:4:18,,,n42.jpg,scan,True,False
+1886,cockle-lv,Cockle L.V.,Cockle,C. Perfrement,1886:4:20,,,n42.jpg,scan,True,False
+1886,cockle-lv,Cockle L.V.,Cockle,E. Cole,1886:4:20,,,n42.jpg,scan,True,False
+1886,landguard-point,Landguard Point,Languard Point,Owen Boyle,1886:4:23,,,n43.jpg,scan,True,False
+1886,shipwash-lv,Shipwash L.V.,Shipwash,William Barker,1886:4:24,,,n43.jpg,scan,True,False
+1886,shipwash-lv,Shipwash L.V.,Shipwash,D. Dale,1886:4:24,,,n43.jpg,scan,True,False
+1886,galloper-lv,Galloper L.V.,Galloper,Francis H. Page,1886:4:25,,,n43.jpg,scan,True,False
+1886,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,W. Dorney,1886:4:26,,,n43.jpg,scan,True,False
+1886,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,W. R. Carter,1886:4:26,,,n43.jpg,scan,True,False
+1886,swin-middle-lv,Swin Middle L.V.,Swin Middle,S. Pender,1886:4:27,,,n43.jpg,scan,True,False
+1886,swin-middle-lv,Swin Middle L.V.,Swin Middle,Thomas Barrett,1886:4:27,,,n43.jpg,scan,True,False
+1886,nore-lv,Nore L.V.,Nore,R. Littlewood,1886:4:29,,,n43.jpg,scan,True,False
+1886,north-sand-head-lv,North Sand Head (Goodwin) L.V.,Goodwin,Thomas Rees,1886:4:30,,,n43.jpg,scan,True,False
+1886,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1886:4:31,,,n43.jpg,scan,True,False
+1886,gull-lv,Gull (Gull Stream) L.V.,Gull,J. Jenkins,1886:4:31,,,n43.jpg,scan,True,False
+1886,south-sand-head-lv,South Sand Head L.V.,South Sand Head,F. G. Foreman,1886:4:32,,,n43.jpg,scan,True,False
+1886,varne-lv,Varne L.V.,Varne,J. Jacobs,1886:4:34,,,n43.jpg,scan,True,False
+1886,hanois,Hanois,Hanois,Chas. Williams,1886:4:35,,,n43.jpg,scan,True,False
+1886,hanois,Hanois,Hanois,Geo. Freeman,1886:4:35,,,n43.jpg,scan,True,False
+1886,nab-lv,Nab L.V.,Nab,F. Conconi,1886:5:5,,,n43.jpg,scan,True,False
+1886,langness,Langness,Langness,Robert Clyne,1886:8:2,,,n94.jpg,scan,True,False
+1886,chicken-rock,Chicken Rock,Chickens Rock,James Black,1886:8:3,,,n94.jpg,scan,True,False
+1886,bahama-bank-lv,Bahama Bank L.V.,Bahama Bank,Charles Johns,1886:8:4,,,n94.jpg,scan,True,False
+1886,st-bees,St Bees,St Bees,Henry Nott,1886:8:5,,,n94.jpg,scan,True,False
+1886,selker-lv,Selker L.V.,Selker,Daniel Kneale,1886:8:6,,,n94.jpg,scan,True,False
+1886,selker-lv,Selker L.V.,Selker,George Cumming,1886:8:6,,,n94.jpg,scan,True,False
+1886,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Henry Clavell,1886:8:7,,,n94.jpg,scan,True,False
+1886,dee-lv,Dee L.V.,River Dee,S. Work,1886:8:8,,,n94.jpg,scan,True,False
+1886,dee-lv,Dee L.V.,River Dee,J. Clague,1886:8:8,,,n94.jpg,scan,True,False
+1886,trwyn-du,Trwyn Du (Menai / Penmon),Menai,Joseph Steer,1886:8:10,,,n94.jpg,scan,True,False
+1886,skerries,Skerries,Skerries Rock,Wm. Jno. Rees,1886:8:11,,,n94.jpg,scan,True,False
+1886,holyhead-breakwater,Holyhead Breakwater,Holyhead Breakwater,"Messrs Prichard, Roberts, and Hughes",1886:8:12,,,n94.jpg,scan,True,False
+1886,south-stack,South Stack,South Stack,W. R. Burgess,1886:8:13,,,n94.jpg,scan,True,False
+1886,caernarfon-bay-lv,Caernarfon Bay L.V.,Carnarvon Bay,Messrs Thomas and Hughes,1886:8:14,,,n94.jpg,scan,True,False
+1886,bardsey,Bardsey,Bardsey Island,Thomas Bowen,1886:8:16,,,n94.jpg,scan,True,False
+1886,cardigan-bay-lv,Cardigan Bay L.V.,Cardigan Bay,Messrs Rees and Comben,1886:8:17,,,n94.jpg,scan,True,False
+1886,south-bishop,South Bishop,South Bishop,Alfred Frost,1886:8:18,,,n95.jpg,scan,True,False
+1886,smalls,Smalls,Smalls,George Baker,1886:8:19,,,n95.jpg,scan,True,False
+1886,great-castle-head,Great Castle Head,Great Castle Head,W. L. Davis,1886:8:20,,,n95.jpg,scan,True,False
+1886,st-anns-head,"St Ann's Head (Milford), single row",Milford (St Ann's),Jas. F. Spicer,1886:8:21,,,n95.jpg,scan,True,False
+1886,caldey,Caldey,Caldy,Wm. Ebben,1886:8:22,,,n95.jpg,scan,True,False
+1886,helwick-lv,Helwick L.V.,Helwick,Messrs Webber and Howells,1886:8:23,,,n95.jpg,scan,True,False
+1886,scarweather-lv,Scarweather L.V.,Scarweather,Messrs Havells and Wynen,1886:8:24,,,n95.jpg,scan,True,False
+1886,nash-point-high,Nash Point High (East),Nash (E.),Henry Nicholas,1886:8:25,,,n95.jpg,scan,True,False
+1886,breaksea-lv,Breaksea L.V.,Breaksea,Messrs Walters and Johnson,1886:8:26,,,n95.jpg,scan,True,False
+1886,flat-holm,Flat Holm,Flatholm,W. Dale,1886:8:27,,,n95.jpg,scan,True,False
+1886,west-usk,West Usk,Usk,Amos Russell,1886:8:29,,,n95.jpg,scan,True,False
+1886,burnham,Burnham,Burnham,William Lewis,1886:8:31,,,n95.jpg,scan,True,False
+1886,bull-point,Bull Point,Bull Point,George Knott,1886:8:32,,,n95.jpg,scan,True,False
+1886,bideford-bar,Bideford Bar (Instow),Bideford Bar,Thomas Gilpin,1886:8:33,,,n95.jpg,scan,True,False
+1886,godrevy,Godrevy,Godrevy,Richard Trahair,1886:8:37,,,n95.jpg,scan,True,False
+1886,longships,Longships,Longships,Jno. W. Watson,1886:8:38,,,n95.jpg,scan,True,False
+1886,sevenstones-lv,Sevenstones L.V.,Sevenstones,Daniel Norton,1886:8:39,,,n95.jpg,scan,True,False
+1886,wolf-rock,Wolf Rock,Wolf Rock,J. J. Chavner,1886:8:40,,,n95.jpg,scan,True,False
+1886,bishop-rock,Bishop Rock,Bishop's Rock,Jno. W. Troth,1886:8:42,,,n95.jpg,scan,True,False
+1886,eddystone,Eddystone,Eddystone,William Ainger,1886:8:45,,,n95.jpg,scan,True,False
+1886,plymouth-breakwater,Plymouth Breakwater,Plymouth Breakwater,Arthur Ebgar,1886:8:46,,,n95.jpg,scan,True,False
+1886,start-point-devon,Start Point (Devon),Start Point,William Jones,1886:8:47,,,n95.jpg,scan,True,False
+1886,portland-bill,Portland Bill,Portland Bill,William Frost,1886:8:48,,,n95.jpg,scan,True,False
+1886,shambles-lv,Shambles L.V.,Shambles,William Clark,1886:8:49,,,n95.jpg,scan,True,False
+1886,hurst-castle,Hurst Castle,Hurst Castle,G. G. Appleton,1886:8:51,,,n95.jpg,scan,True,False
+1886,fastnet,Fastnet,Fastnet,George Dunleavy,1886:9:0,,,n140.jpg,scan,False,False
+1886,mine-head,Mine Head,Mine Head,Edward M‘Carron,1886:9:3,,,n140.jpg,scan,False,False
+1886,ballinacourty,Ballinacourty (Dungarvan),Dungarvan,Wm. Higginbotham,1886:9:4,,,n140.jpg,scan,False,False
+1886,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1886:9:5,,,n140.jpg,scan,False,False
+1886,coningbeg-lv,Coningbeg L.V.,Coningbeg,Wm. Clydesdale,1886:9:5,,,n140.jpg,scan,False,False
+1886,barrels-lv,Barrels Rock L.V.,Barrels Rock,Charles H. M‘Cabe,1886:9:6,,,n140.jpg,scan,False,False
+1886,tuskar-rock,Tuskar Rock,Tuskar Rock,Rd. Hamilton,1886:9:7,,,n140.jpg,scan,False,False
+1886,tuskar-rock,Tuskar Rock,Tuskar Rock,Peter Page,1886:9:7,,,n140.jpg,scan,False,False
+1886,tuskar-rock,Tuskar Rock,Tuskar Rock,E. M‘Kenna,1886:9:7,,,n140.jpg,scan,False,False
+1886,arklow-south-lv,Arklow South L.V.,Arklow Sth,Patrick Clancy,1886:9:8,,,n140.jpg,scan,False,False
+1886,arklow-south-lv,Arklow South L.V.,Arklow Sth,Alfred B. Wall,1886:9:8,,,n140.jpg,scan,False,False
+1886,arklow-north-lv,Arklow North L.V.,Arklow North,William Daly,1886:9:9,,,n140.jpg,scan,False,False
+1886,kish-bank-lv,Kish Bank L.V.,Kish Bank,Michael Cunniam,1886:9:10,,,n140.jpg,scan,False,False
+1886,rockabill,Rockabill,Rockabill,Jos. Hammond,1886:9:12,,,n140.jpg,scan,False,False
+1886,rockabill,Rockabill,Rockabill,Henry Kelly,1886:9:12,,,n140.jpg,scan,False,False
+1886,copeland,Copeland / Mew Island,Copeland (Mew) Island,John O’Donnell,1886:9:13,,,n140.jpg,scan,False,False
+1886,maidens-north,Maidens North,Maidens,Michael Barry,1886:9:14,,,n140.jpg,scan,False,False
+1886,rathlin-east,Rathlin (Altacarry),Rathlin,John A. Murray,1886:9:15,,,n140.jpg,scan,False,False
+1886,inishtrahull,Inishtrahull,Innishtrahull,M. S. Kennedy,1886:9:16,,,n140.jpg,scan,False,False
+1886,dunree-head,Dunree Head,Dunree Head,Jervis Brownell,1886:9:17,,,n140.jpg,scan,False,False
+1886,tory-island,Tory Island,Tory Island,Henry Stocker,1886:9:18,,,n140.jpg,scan,False,False
+1886,arranmore,Arranmore,Arranmore,Henry Williams,1886:9:19,,,n140.jpg,scan,False,False
+1886,rathlin-obirne,Rathlin O'Birne,Rathlin O’Birne,J. C. Macginley,1886:9:20,,,n140.jpg,scan,False,False
+1886,rotten-island,Rotten Island (Killybegs),Killybegs,Joseph Hill,1886:9:21,,,n140.jpg,scan,False,False
+1886,broadhaven,Broadhaven,Broadhaven,John A. Murray,1886:9:23,,,n140.jpg,scan,False,False
+1886,eagle-island-east,Eagle Island East,"Eagle Island, E",Daniel Hawkins,1886:9:24,,,n140.jpg,scan,False,False
+1886,blackrock-mayo,Blackrock (Mayo),Blackrock,Edward Rohu,1886:9:26,,,n140.jpg,scan,False,False
+1886,slyne-head-south,Slyne Head South,"Slyne Head, S",Rich. Widdicombe,1886:9:30,,,n140.jpg,scan,False,False
+1886,eeragh,Eeragh (Aran North),"Arran Island, N",Thomas Fortune,1886:9:31,,,n140.jpg,scan,False,False
+1886,samphire-island,Samphire Island,Samphire Island,R. Phelan,1886:9:34,,,n140.jpg,scan,False,False
+1886,inishtearaght,Inishtearaght,Tearaght,Francis Ryan,1886:9:35,,,n140.jpg,scan,False,False
+1886,valentia,Valentia,Valentia,Joseph Williams,1886:9:36,,,n140.jpg,scan,False,False
+1886,skellig-michael,Skelligs,Skelligs,James Walshe,1886:9:37,,,n140.jpg,scan,False,False
+1887,longstone,Longstone,Longstone,Thomas O. Hall,1887:2:0,17,986,,text,True,False
+1887,inner-farne,Inner Farne,"Farn, Inner",Thomas H. Cutting,1887:2:1,17,987,,text,True,False
+1887,coquet,Coquet,Coquet Island,William Evans,1887:2:2,17,988,,text,True,False
+1887,tees-lv,Tees No. 5 Buoy L.V.,"Tees, 5 Buoy",Henry Harbord,1887:2:3,17,989,,text,True,False
+1887,whitby-high,Whitby High,Whitby High,John Odgers,1887:2:4,17,990,,text,True,False
+1887,flamborough-head,Flamborough Head,Flamborough,Charles Hood,1887:2:5,17,991,,text,True,False
+1887,spurn-point,Spurn Point,Spurn,Annie Rose Smith,1887:2:6,17,992,,text,True,False
+1887,spurn-point,Spurn Point,Spurn,J. B. Smith,1887:2:6,17,992,,text,True,False
+1887,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,W. Stock,1887:2:8,17,994,,text,True,False
+1887,outer-dowsing-lv,Outer Dowsing L.V.,Outer Dowsing,A. Bearling,1887:2:8,17,994,,text,True,False
+1887,inner-dowsing-lv,Inner Dowsing L.V.,Inner Dowsing,William King,1887:2:9,17,995,,text,True,False
+1887,lynn-well-lv,Lynn Well L.V.,Llyn Wells,T. Ditcham,1887:2:10,17,996,,text,True,False
+1887,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. F. Warder,1887:2:11,17,997,,text,True,False
+1887,dudgeon-lv,Dudgeon L.V.,Dudgeon,J. Harrison,1887:2:11,17,997,,text,True,False
+1887,happisburgh-lv,Happisburgh L.V.,Hasbro',John Nicholas,1887:2:12,17,998,,text,True,False
+1887,happisburgh-lv,Happisburgh L.V.,Hasbro',B. V. Darnell,1887:2:12,17,998,,text,True,False
+1887,hunstanton,Hunstanton,Hunstanton,W. Westmoreland,1887:2:14,17,1000,,text,True,False
+1887,cromer,Cromer,Cromer,C. B. Comber,1887:2:15,17,1001,,text,True,False
+1887,winterton,Winterton,Winterton,John Watson,1887:2:16,17,1002,,text,True,False
+1887,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,R. Cook,1887:2:17,17,1003,,text,True,False
+1887,leman-and-ower-lv,Leman and Ower L.V.,Leman and Ower,John Bowen,1887:2:17,17,1003,,text,True,False
+1887,newarp-lv,Newarp L.V.,Newarp,Charles Cook,1887:2:18,17,1004,,text,True,False
+1887,newarp-lv,Newarp L.V.,Newarp,George Hall,1887:2:18,17,1004,,text,True,False
+1887,cockle-lv,Cockle L.V.,Cockle,C. Perfrement,1887:2:19,17,1005,,text,True,False
+1887,cockle-lv,Cockle L.V.,Cockle,E. Cole,1887:2:19,17,1005,,text,True,False
+1887,corton-lv,Corton L.V.,Corton,J. Dove,1887:2:20,17,1006,,text,True,False
+1887,corton-lv,Corton L.V.,Corton,J. H. Johnson,1887:2:20,17,1006,,text,True,False
+1887,landguard-point,Landguard Point,Languard Point,Owen Boyle,1887:2:21,17,1007,,text,True,False
+1887,shipwash-lv,Shipwash L.V.,Shipwash,William Barker,1887:2:22,17,1008,,text,True,False
+1887,shipwash-lv,Shipwash L.V.,Shipwash,D. Dale,1887:2:22,17,1008,,text,True,False
+1887,galloper-lv,Galloper L.V.,Galloper,P. Page,1887:2:23,17,1009,,text,True,False
+1887,galloper-lv,Galloper L.V.,Galloper,F. Page,1887:2:23,17,1009,,text,True,False
+1887,galloper-lv,Galloper L.V.,Galloper,C. Rafe,1887:2:23,17,1009,,text,True,False
+1887,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,W. R. Carter,1887:2:24,17,1010,,text,True,False
+1887,kentish-knock-lv,Kentish Knock L.V.,Kentish Knock,William Ross,1887:2:24,17,1010,,text,True,False
+1887,swin-middle-lv,Swin Middle L.V.,Swin Middle,Samuel Pender,1887:2:25,17,1011,,text,True,False
+1887,nore-lv,Nore L.V.,Nore,Wm. Little wood,1887:2:27,18,1013,,text,True,False
+1887,north-sand-head-lv,North Sand Head (Goodwin) L.V.,Goodwin,Thomas Rees,1887:2:28,18,1014,,text,True,False
+1887,gull-lv,Gull (Gull Stream) L.V.,Gull,Francis Harvey,1887:2:29,18,1015,,text,True,False
+1887,gull-lv,Gull (Gull Stream) L.V.,Gull,J. Jenkins,1887:2:29,18,1015,,text,True,False
+1887,south-sand-head-lv,South Sand Head L.V.,South Sand Head,F. G. Foreman,1887:2:30,18,1016,,text,True,False
+1887,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,W. Nicholls,1887:2:31,18,1017,,text,True,False
+1887,east-goodwin-lv,East Goodwin (East Side) L.V.,East Side,E. le Gallais,1887:2:31,18,1017,,text,True,False
+1887,varne-lv,Varne L.V.,Varne,William Kingsford,1887:2:32,18,1018,,text,True,False
+1887,hanois,Hanois,Hanois,Charles Williams,1887:2:33,18,1019,,text,True,False
+1887,langness,Langness,Langness,Mr Robert Clyne,1887:4:2,73,3359,,text,True,False
+1887,chicken-rock,Chicken Rock,Chickens Rock,Messrs Black and Beggs,1887:4:3,73,3360,,text,True,False
+1887,bahama-bank-lv,Bahama Bank L.V.,Bahama Bank,Mr John West,1887:4:4,73,3361,,text,True,False
+1887,st-bees,St Bees,St Bees,Mr Henry Nott,1887:4:5,73,3365,,text,True,False
+1887,selker-lv,Selker L.V.,Selker,Messrs Daniel Kneale and George Cumming,1887:4:6,73,3366,,text,True,False
+1887,morecambe-bay-lv,Morecambe Bay L.V.,Morecambe Bay,Henry Clavell,1887:4:7,73,3368,,text,True,False
+1887,dee-lv,Dee L.V.,River Dee,Mr S. Work,1887:4:8,73,3369,,text,True,False
+1887,trwyn-du,Trwyn Du (Menai / Penmon),Menai,Mr Joseph Steer,1887:4:10,73,3374,,text,True,False
+1887,skerries,Skerries,Skerries Rock,"Messrs Rees, Smith, Tomkinson, and Williams",1887:4:11,73,3375,,text,True,False
+1887,holyhead-breakwater,Holyhead Breakwater,Holyhead Breakwater,"Messrs Prichard, Roberts, and Hughes",1887:4:12,73,3377,,text,True,False
+1887,south-stack,South Stack,South Stack,Mr. W. R. Burgess,1887:4:13,73,3378,,text,True,False
+1887,caernarfon-bay-lv,Caernarfon Bay L.V.,Carnarvon Bay,Messrs Thomas and Hughes,1887:4:14,73,3379,,text,True,False
+1887,st-tudwals,St Tudwal's,St Tudwal's,Messrs Davies and Parsons,1887:4:15,73,3380,,text,True,False
+1887,bardsey,Bardsey,Bardsey Island,Mr Thomas Bowen,1887:4:16,73,3381,,text,True,False
+1887,cardigan-bay-lv,Cardigan Bay L.V.,Cardigan Bay,Messrs Rees and Comben,1887:4:17,73,3382,,text,True,False
+1887,south-bishop,South Bishop,South Bishop,Messrs Nicholas and Pell,1887:4:18,73,3386,,text,True,False
+1887,smalls,Smalls,Smalls,Mr George Baker,1887:4:19,73,3387,,text,True,False
+1887,great-castle-head,Great Castle Head,Great Castle Head,Mr W. L. Davis,1887:4:20,74,3388,,text,True,False
+1887,st-anns-head,"St Ann's Head (Milford), single row",Milford (St Ann's),Mr James F. Spicer,1887:4:21,74,3389,,text,True,False
+1887,caldey,Caldey,Caldy,Mr Wm. Ebben,1887:4:22,74,3390,,text,True,False
+1887,helwick-lv,Helwick L.V.,Helwick,Messrs Webber and Howells,1887:4:23,74,3391,,text,True,False
+1887,scarweather-lv,Scarweather L.V.,Scarweather,Messrs Havells and Wyness,1887:4:24,74,3395,,text,True,False
+1887,nash-point-high,Nash Point High (East),Nash (E. ),Mr Henry Nicholas,1887:4:25,74,3396,,text,True,False
+1887,breaksea-lv,Breaksea L.V.,Breaksea,Messrs Walters and Johnson,1887:4:26,74,3397,,text,True,False
+1887,flat-holm,Flat Holm,Flatholm,Mr W. Dale,1887:4:27,74,3398,,text,True,False
+1887,burnham,Burnham,Burnham,Mr William Lewis,1887:4:31,74,3402,,text,True,False
+1887,bull-point,Bull Point,Bull Point,Mr George Knott,1887:4:32,74,3406,,text,True,False
+1887,bideford-bar,Bideford Bar (Instow),Bideford Bar,Mr Thomas Gilpin,1887:4:33,74,3407,,text,True,False
+1887,godrevy,Godrevy,Godrevy,Mr Richard Trahair,1887:4:37,74,3411,,text,True,False
+1887,longships,Longships,Longships,Mr Jno. W. Watson,1887:4:38,74,3412,,text,True,False
+1887,sevenstones-lv,Sevenstones L.V.,Sevenstones,Mr Daniel Norton,1887:4:39,74,3413,,text,True,False
+1887,wolf-rock,Wolf Rock,Wolf Rock,Mr J. J. Chavner,1887:4:40,74,3414,,text,True,False
+1887,bishop-rock,Bishop Rock,Bishop's Rock,Mr Jno. W. Troth,1887:4:42,74,3416,,text,True,False
+1887,eddystone,Eddystone,Eddystone,Messrs Ainger and Gaudion,1887:4:45,74,3419,,text,True,False
+1887,plymouth-breakwater,Plymouth Breakwater,Plymouth Breakwater,Mr Arthur Ebgar,1887:4:46,74,3420,,text,True,False
+1887,start-point-devon,Start Point (Devon),Start Point,Mr William Jones,1887:4:47,74,3421,,text,True,False
+1887,portland-bill,Portland Bill,Portland Bill,Messrs Frost and Counter,1887:4:48,74,3422,,text,True,False
+1887,shambles-lv,Shambles L.V.,Shambles,Mr William Clark,1887:4:49,74,3423,,text,True,False
+1887,hurst-castle,Hurst Castle,Hurst Castle,Mr G. G. Appleton,1887:4:51,74,3425,,text,True,False
+1887,fastnet,Fastnet,Fastnet,George Dunleavy,1887:5:0,117,5195,,text,False,False
+1887,old-head-of-kinsale,Old Head of Kinsale,"Old Head, Kinsale",Robert Tyrrell,1887:5:1,117,5196,,text,False,False
+1887,mine-head,Mine Head,Mine Head,Edward M'Carron,1887:5:2,117,5197,,text,False,False
+1887,hook-head,Hook Head (Hook Tower),Hook Tower,Richard Hamilton,1887:5:3,117,5198,,text,False,False
+1887,coningbeg-lv,Coningbeg L.V.,Coningbeg,Patrick Cullen,1887:5:4,117,5199,,text,False,False
+1887,coningbeg-lv,Coningbeg L.V.,Coningbeg,Wm. Clydesdale,1887:5:4,117,5199,,text,False,False
+1887,barrels-lv,Barrels Rock L.V.,Barrels Rock,Charles H. M'Cabe,1887:5:5,117,5201,,text,False,False
+1887,tuskar-rock,Tuskar Rock,Tuskar Rock,P. Page,1887:5:6,117,5202,,text,False,False
+1887,tuskar-rock,Tuskar Rock,Tuskar Rock,E. M'Kenna,1887:5:6,117,5202,,text,False,False
+1887,tuskar-rock,Tuskar Rock,Tuskar Rock,J. M. Leary,1887:5:6,117,5202,,text,False,False
+1887,tuskar-rock,Tuskar Rock,Tuskar Rock,Patrick Corish,1887:5:6,117,5202,,text,False,False
+1887,lucifer-shoals-lv,Lucifer Shoals L.V.,Lucifer Shoals,James Byrne,1887:5:7,117,5205,,text,False,False
+1887,lucifer-shoals-lv,Lucifer Shoals L.V.,Lucifer Shoals,Michael Ansel,1887:5:7,117,5205,,text,False,False
+1887,arklow-south-lv,Arklow South L.V.,Arklow Sth,Patrick Clancy,1887:5:8,117,5207,,text,False,False
+1887,arklow-south-lv,Arklow South L.V.,Arklow Sth,Alfred B. Wall,1887:5:8,117,5207,,text,False,False
+1887,arklow-north-lv,Arklow North L.V.,Arklow North,William Daly,1887:5:9,117,5209,,text,False,False
+1887,baily,Baily (Howth),Howth Baily,R. Armstrong,1887:5:10,117,5210,,text,False,False
+1887,rockabill,Rockabill,Rockabill,Henry Kelly,1887:5:11,117,5211,,text,False,False
+1887,south-rock-lv,South Rock L.V.,South Rock,Thomas Cooney,1887:5:12,117,5212,,text,False,False
+1887,south-rock-lv,South Rock L.V.,South Rock,Henry Thompson,1887:5:12,117,5212,,text,False,False
+1887,maidens-south,Maidens South,"Maidens, South",B. Sole,1887:5:13,117,5214,,text,False,False
+1887,maidens-south,Maidens South,"Maidens, South",J. Corish,1887:5:13,117,5214,,text,False,False
+1887,maidens-north,Maidens North,"Maidens, North",Richard Hamilton,1887:5:14,117,5216,,text,False,False
+1887,rathlin-east,Rathlin (Altacarry),Rathlin,Patrick Keenan,1887:5:15,117,5217,,text,False,False
+1887,inishtrahull,Inishtrahull,Innishtrahull,M. S. Kennedy,1887:5:16,117,5218,,text,False,False
+1887,dunree-head,Dunree Head,Dunree Head,Jervis Brownell,1887:5:17,117,5219,,text,False,False
+1887,tory-island,Tory Island,Tory Island,Henry Kelly,1887:5:18,117,5220,,text,False,False
+1887,arranmore,Arranmore,Arranmore,Henry Williams,1887:5:19,117,5221,,text,False,False
+1887,arranmore,Arranmore,Arranmore,Thomas Fortune,1887:5:19,117,5221,,text,False,False
+1887,rathlin-obirne,Rathlin O'Birne,Rathlin O'Birne,J. C. M'Ginley,1887:5:20,117,5223,,text,False,False
+1887,rotten-island,Rotten Island (Killybegs),Killybegs,Joseph Hill,1887:5:21,117,5224,,text,False,False
+1887,broadhaven,Broadhaven,Broadhaven,John A. Murray,1887:5:22,117,5225,,text,False,False
+1887,eagle-island-west,Eagle Island West,"Eagle Island, W",Hugh Keeney,1887:5:23,117,5226,,text,False,False
+1887,blackrock-mayo,Blackrock (Mayo),Blackrock,Edward Rohu,1887:5:24,117,5227,,text,False,False
+1887,slyne-head-south,Slyne Head South,"Slyne Head, S",Richd. Widdicombe,1887:5:25,117,5228,,text,False,False
+1887,eeragh,Eeragh (Aran North),"Arran Island, Is",Thomas Fortune,1887:5:26,117,5229,,text,False,False
+1887,eeragh,Eeragh (Aran North),"Arran Island, Is",Henry Williams,1887:5:26,117,5229,,text,False,False
+1887,inisheer,Inisheer (Aran South),"Arran Island, S",Charles P. Page,1887:5:27,117,5231,,text,False,False
+1887,samphire-island,Samphire Island,Samphire Island,R. Phelan,1887:5:28,117,5232,,text,False,False
+1887,inishtearaght,Inishtearaght,Tearaght,Francis Ryan,1887:5:29,117,5233,,text,False,False
+1887,skellig-michael,Skelligs,Skelligs,James Walshe,1887:5:30,117,5234,,text,False,False

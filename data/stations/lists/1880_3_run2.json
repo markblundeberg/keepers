@@ -1,0 +1,726 @@
+{
+ "rows": [
+  {
+   "line": 4000,
+   "fragments": [
+    "110.  †St. Bees: on the Head, L.H. Fixed; visible 25 miles. Robert",
+    "Pizey."
+   ],
+   "number": "110",
+   "marks": "†",
+   "name": "St. Bees",
+   "type": "L.H.",
+   "place": "on the Head",
+   "keepers": [
+    "Robert Pizey"
+   ],
+   "character": "Fixed; visible 25 miles",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4002,
+   "fragments": [
+    "111.  *Morecambe Bay, L.V.; revolving red light, flash every 30 seconds.",
+    "Fog signal, one blast every 2 minutes. Henry Clavell."
+   ],
+   "number": "111",
+   "marks": "*",
+   "name": "Morecambe Bay",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "Henry Clavell"
+   ],
+   "character": "revolving red light, flash every 30 seconds",
+   "other": "Fog signal, one blast every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4004,
+   "fragments": [
+    "112.  *Air, L.H.; on the Point. Fixed, visible 9 miles, white, except",
+    "over West Hoyle Bank, between the bearings of S.E. 1/4 S. and",
+    "W. 3/4 S., where it shows red. C. H. Aveston."
+   ],
+   "number": "112",
+   "marks": "*",
+   "name": "Air",
+   "type": "L.H.",
+   "place": "on the Point",
+   "keepers": [
+    "C. H. Aveston"
+   ],
+   "character": "Fixed, visible 9 miles, white, except over West Hoyle Bank, between the bearings of S.E. 1/4 S. and W. 3/4 S., where it shows red",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4007,
+   "fragments": [
+    "113.   Menai, L.H.; on Trwyn du Point. Fixed, red; visible 9 miles.",
+    "Bell in fog; three times in quick succession every 15 seconds."
+   ],
+   "number": "113",
+   "marks": null,
+   "name": "Menai",
+   "type": "L.H.",
+   "place": "on Trwyn du Point",
+   "keepers": [],
+   "character": "Fixed, red; visible 9 miles",
+   "other": "Bell in fog; three times in quick succession every 15 seconds",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4009,
+   "fragments": [
+    "114.  *Skerries, L.H.; Highest Island. Fixed, visible 16 miles. Fog",
+    "signal, one blast every 3 minutes. J. Garrett."
+   ],
+   "number": "114",
+   "marks": "*",
+   "name": "Skerries",
+   "type": "L.H.",
+   "place": "Highest Island",
+   "keepers": [
+    "J. Garrett"
+   ],
+   "character": "Fixed, visible 16 miles",
+   "other": "Fog signal, one blast every 3 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4011,
+   "fragments": [
+    "115.  *Holyhead Breakwater, L.H.; 66-1/2 feet above high water. Red;",
+    "flashes every 7-1/2 seconds; visible 13 miles. Appears as a",
+    "fixed red light at a distance of 3 or 4 miles. Bell in fog",
+    "(three times in quick succession) every 15 seconds. Fog",
+    "horn nearly continuous _when mail packets passing into",
+    "harbour_. Richard Prichard."
+   ],
+   "number": "115",
+   "marks": "*",
+   "name": "Holyhead Breakwater",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "Richard Prichard"
+   ],
+   "character": "Red; flashes every 7-1/2 seconds; visible 13 miles. Appears as a fixed red light at a distance of 3 or 4 miles",
+   "other": "66-1/2 feet above high water | Bell in fog (three times in quick succession) every 15 seconds. Fog horn nearly continuous _when mail packets passing into harbour_",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4017,
+   "fragments": [
+    "116.  *North Stack, Fog Horn Station, L.H. Bell sounded during fog;",
+    "small white light revolving in 1-1/2 min., occasionally shown",
+    "40 feet above sea and 30 yards N. of S. Stack L.H. Gun",
+    "fired every 10 minutes during fog when mail packets",
+    "approaching. John Harvey, gunner."
+   ],
+   "number": "116",
+   "marks": "*",
+   "name": "North Stack",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "John Harvey"
+   ],
+   "character": "small white light revolving in 1-1/2 min., occasionally shown 40 feet above sea and 30 yards N. of S. Stack L.H.",
+   "other": "Fog Horn Station | Bell sounded during fog | Gun fired every 10 minutes during fog when mail packets approaching | gunner",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4022,
+   "fragments": [
+    "117.  *South Stack, L.H.; on S. Stack rock off N.W. point of Holyhead",
+    "Island; revolving every minute; visible 20 miles. W. R.",
+    "Burgess."
+   ],
+   "number": "117",
+   "marks": "*",
+   "name": "South Stack",
+   "type": "L.H.",
+   "place": "on S. Stack rock off N.W. point of Holyhead Island",
+   "keepers": [
+    "W. R. Burgess"
+   ],
+   "character": "revolving every minute; visible 20 miles",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4025,
+   "fragments": [
+    "118.  *St. Judwall, L.H., 151 feet above high water, occulting, light of",
+    "8 seconds duration, followed by eclipse of 2 seconds, white",
+    "and red; also a fixed red light (not occulting) from a window",
+    "16 feet below the high light. William Davies."
+   ],
+   "number": "118",
+   "marks": "*",
+   "name": "St. Judwall",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "William Davies"
+   ],
+   "character": "occulting, light of 8 seconds duration, followed by eclipse of 2 seconds, white and red; also a fixed red light (not occulting) from a window 16 feet below the high light",
+   "other": "151 feet above high water",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4029,
+   "fragments": [
+    "119.  *Caernarvon Bay, L.V.; revolving with white and red flashes at",
+    "intervals of 20 seconds, in order of two white and one red;",
+    "visible 10 miles. Fog signal, one blast every 2 minutes.",
+    "W. Bowen."
+   ],
+   "number": "119",
+   "marks": "*",
+   "name": "Caernarvon Bay",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "W. Bowen"
+   ],
+   "character": "revolving with white and red flashes at intervals of 20 seconds, in order of two white and one red; visible 10 miles",
+   "other": "Fog signal, one blast every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4033,
+   "fragments": [
+    "120.  *Bardsey, L.H. Fixed; visible 17 miles. Fog syren one blast every",
+    "5 minutes. Thomas Bowen."
+   ],
+   "number": "120",
+   "marks": "*",
+   "name": "Bardsey",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "Thomas Bowen"
+   ],
+   "character": "Fixed; visible 17 miles",
+   "other": "Fog syren one blast every 5 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4035,
+   "fragments": [
+    "121.   Cardigan Bay, L.V. Red; revolving every 30 seconds; visible 10",
+    "miles going in."
+   ],
+   "number": "121",
+   "marks": null,
+   "name": "Cardigan Bay",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": "Red; revolving every 30 seconds; visible 10 miles going in",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4037,
+   "fragments": [
+    "122.   Bull Point, L.H. White triple flashes. Fog signal, three blasts",
+    "quickly every 2 minutes. George Knott."
+   ],
+   "number": "122",
+   "marks": null,
+   "name": "Bull Point",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "George Knott"
+   ],
+   "character": "White triple flashes",
+   "other": "Fog signal, three blasts quickly every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4039,
+   "fragments": [
+    "123.  *South Bishop, L.H.; revolving every 20 seconds; visible 18 miles.",
+    "Gong in fog. John White."
+   ],
+   "number": "123",
+   "marks": "*",
+   "name": "South Bishop",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "John White"
+   ],
+   "character": "revolving every 20 seconds; visible 18 miles",
+   "other": "Gong in fog",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4041,
+   "fragments": [
+    "124.  *Smalls, L.H. Fixed, white; visible 17 miles. Bell sounded during",
+    "foggy weather, and a rocket every half hour. W. Boulton."
+   ],
+   "number": "124",
+   "marks": "*",
+   "name": "Smalls",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "W. Boulton"
+   ],
+   "character": "Fixed, white; visible 17 miles",
+   "other": "Bell sounded during foggy weather, and a rocket every half hour",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4043,
+   "fragments": [
+    "125.  *Great Castle Head, L.H. (2). Fixed, white, 112 and 76 feet above",
+    "high water."
+   ],
+   "number": "125",
+   "marks": "*",
+   "name": "Great Castle Head",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": "Fixed, white",
+   "other": "(2) | 112 and 76 feet above high water",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4045,
+   "fragments": [
+    "126.  *Milford (Low), L.H. Fixed, red. G. Baker."
+   ],
+   "number": "126",
+   "marks": "*",
+   "name": "Milford (Low)",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "G. Baker"
+   ],
+   "character": "Fixed, red",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4046,
+   "fragments": [
+    "127.   Milford (High), L.H. Fixed, red, 48 feet above sea."
+   ],
+   "number": "127",
+   "marks": null,
+   "name": "Milford (High)",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [],
+   "character": "Fixed, red",
+   "other": "48 feet above sea",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4047,
+   "fragments": [
+    "128.  *Caldy, L.H., S. of Island. Fixed; visible 20 miles; bright to",
+    "seaward, red in direction of Old Castle Head and Woolhouse",
+    "Shoal. W. Ebben, P. K."
+   ],
+   "number": "128",
+   "marks": "*",
+   "name": "Caldy",
+   "type": "L.H.",
+   "place": "S. of Island",
+   "keepers": [
+    "W. Ebben"
+   ],
+   "character": "Fixed; visible 20 miles; bright to seaward, red in direction of Old Castle Head and Woolhouse Shoal",
+   "other": "P. K.",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4050,
+   "fragments": [
+    "129.  *Helwick, L.V.; revolving every minute; visible 10 miles. Fog",
+    "horn, blasts of 5 seconds duration at regular intervals of",
+    "2 minutes. Thomas Cornell, mate."
+   ],
+   "number": "129",
+   "marks": "*",
+   "name": "Helwick",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "Thomas Cornell"
+   ],
+   "character": "revolving every minute; visible 10 miles",
+   "other": "Fog horn, blasts of 5 seconds duration at regular intervals of 2 minutes | mate",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4053,
+   "fragments": [
+    "130.  *Scarweather, L.V.; revolving red, three times a minute, 38 feet",
+    "above level of sea; visible 10 miles. Fog syren, two blasts",
+    "quickly every 2 minutes. Henry Jenkins."
+   ],
+   "number": "130",
+   "marks": "*",
+   "name": "Scarweather",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "Henry Jenkins"
+   ],
+   "character": "revolving red, three times a minute, 38 feet above level of sea; visible 10 miles",
+   "other": "Fog syren, two blasts quickly every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4056,
+   "fragments": [
+    "131.  *Nash (Lower W.), L.H. Fixed; visible 17 miles. John Richards."
+   ],
+   "number": "131",
+   "marks": "*",
+   "name": "Nash (Lower W.)",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "John Richards"
+   ],
+   "character": "Fixed; visible 17 miles",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4057,
+   "fragments": [
+    "132.  *Nash (E. or high), L.H. Fixed; visible 19 miles; red. Hy.",
+    "Nicholas."
+   ],
+   "number": "132",
+   "marks": "*",
+   "name": "Nash (E. or high)",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "Hy. Nicholas"
+   ],
+   "character": "Fixed; visible 19 miles; red",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4059,
+   "fragments": [
+    "133.  Breaksea, L.V. Flashing every 15 seconds; 38 feet above sea; fixed",
+    "red light at a lower elevation. Gong in fog."
+   ],
+   "number": "133",
+   "marks": null,
+   "name": "Breaksea",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [],
+   "character": "Flashing every 15 seconds; 38 feet above sea; fixed red light at a lower elevation",
+   "other": "Gong in fog",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4061,
+   "fragments": [
+    "134.  *Flatholm, L.H., S. point of Island. Fixed; visible 18 miles.",
+    "W. Dale, P. K."
+   ],
+   "number": "134",
+   "marks": "*",
+   "name": "Flatholm",
+   "type": "L.H.",
+   "place": "S. point of Island",
+   "keepers": [
+    "W. Dale"
+   ],
+   "character": "Fixed; visible 18 miles",
+   "other": "P. K.",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4063,
+   "fragments": [
+    "135.  *Usk, L.H., W. side of entrance to river. Fixed; visible 11 miles;",
+    "white and red. Amos Russell."
+   ],
+   "number": "135",
+   "marks": "*",
+   "name": "Usk",
+   "type": "L.H.",
+   "place": "W. side of entrance to river",
+   "keepers": [
+    "Amos Russell"
+   ],
+   "character": "Fixed; visible 11 miles; white and red",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4065,
+   "fragments": [
+    "136.  †Avon, L.H., E. of entrance. Fixed; visible 13 miles; white",
+    "seaward. William Taylor."
+   ],
+   "number": "136",
+   "marks": "†",
+   "name": "Avon",
+   "type": "L.H.",
+   "place": "E. of entrance",
+   "keepers": [
+    "William Taylor"
+   ],
+   "character": "Fixed; visible 13 miles; white seaward",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4067,
+   "fragments": [
+    "137.  *Burnham, L.H. (2). Upper intermittent; visible 15 miles. Lower,",
+    "fixed; visible 9 miles. William Lewis."
+   ],
+   "number": "137",
+   "marks": "*",
+   "name": "Burnham",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "William Lewis"
+   ],
+   "character": "Upper intermittent; visible 15 miles. Lower, fixed; visible 9 miles",
+   "other": "(2)",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4069,
+   "fragments": [
+    "138.  *Bideford, L.H. (2). Low light visible from half-flood to",
+    "half-ebb, 14 and 11 miles. Leading lights for crossing the",
+    "Bar. Edward Roberts."
+   ],
+   "number": "138",
+   "marks": "*",
+   "name": "Bideford",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "Edward Roberts"
+   ],
+   "character": "Low light visible from half-flood to half-ebb, 14 and 11 miles. Leading lights for crossing the Bar",
+   "other": "(2)",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4072,
+   "fragments": [
+    "139.   Lundy Fog Gun Station. During fog and thick weather, rocket",
+    "every 10 minutes; explodes at height of 600 feet. John",
+    "Morgan."
+   ],
+   "number": "139",
+   "marks": null,
+   "name": "Lundy Fog Gun Station",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "John Morgan"
+   ],
+   "character": null,
+   "other": "During fog and thick weather, rocket every 10 minutes; explodes at height of 600 feet",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4075,
+   "fragments": [
+    "140.  *Lundy, L.H., 1/2 mile from S. end of Island (2), in one tower.",
+    "Upper visible 30 miles, revolving every 2 minutes. Low light",
+    "fixed, only visible between bearings of S. by E. and N.E.",
+    "James Parsons."
+   ],
+   "number": "140",
+   "marks": "*",
+   "name": "Lundy",
+   "type": "L.H.",
+   "place": "1/2 mile from S. end of Island",
+   "keepers": [
+    "James Parsons"
+   ],
+   "character": "Upper visible 30 miles, revolving every 2 minutes. Low light fixed, only visible between bearings of S. by E. and N.E.",
+   "other": "(2), in one tower",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4079,
+   "fragments": [
+    "141.  †Hartland Point, L.H., 120 feet above high water; revolving, 30",
+    "seconds, two white and one red. Fog signal, blasts of",
+    "5 seconds duration every 2 minutes. John Griffiths."
+   ],
+   "number": "141",
+   "marks": "†",
+   "name": "Hartland Point",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "John Griffiths"
+   ],
+   "character": "revolving, 30 seconds, two white and one red",
+   "other": "120 feet above high water | Fog signal, blasts of 5 seconds duration every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4082,
+   "fragments": [
+    "142.  †Trevose Head, L.H., on N.W. extremity (2). Fixed; visible 20 and",
+    "17 miles. W. Bowen."
+   ],
+   "number": "142",
+   "marks": "†",
+   "name": "Trevose Head",
+   "type": "L.H.",
+   "place": "on N.W. extremity",
+   "keepers": [
+    "W. Bowen"
+   ],
+   "character": "Fixed; visible 20 and 17 miles",
+   "other": "(2)",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4084,
+   "fragments": [
+    "143.  *Godrevy, L.H. Flashing every 10 seconds; visible 15 miles. A",
+    "fixed red light in same tower, 27 feet below flashing light;",
+    "visible from S. by E. to S.E. Richard Trahair."
+   ],
+   "number": "143",
+   "marks": "*",
+   "name": "Godrevy",
+   "type": "L.H.",
+   "place": null,
+   "keepers": [
+    "Richard Trahair"
+   ],
+   "character": "Flashing every 10 seconds; visible 15 miles. A fixed red light in same tower, 27 feet below flashing light; visible from S. by E. to S.E.",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4087,
+   "fragments": [
+    "144.  *Bishop Rock, L.H., on S. W. Rock. Scilly. Fixed; visible 16",
+    "miles. Bell in fog every 10 seconds."
+   ],
+   "number": "144",
+   "marks": "*",
+   "name": "Bishop Rock",
+   "type": "L.H.",
+   "place": "on S. W. Rock. Scilly",
+   "keepers": [],
+   "character": "Fixed; visible 16 miles",
+   "other": "Bell in fog every 10 seconds",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4089,
+   "fragments": [
+    "145.  *Scilly, L.H., St. Agnes, on summit of Island; revolving every",
+    "half-minute; visible 17 miles. E. L. Davis."
+   ],
+   "number": "145",
+   "marks": "*",
+   "name": "Scilly",
+   "type": "L.H.",
+   "place": "St. Agnes, on summit of Island",
+   "keepers": [
+    "E. L. Davis"
+   ],
+   "character": "revolving every half-minute; visible 17 miles",
+   "other": null,
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4091,
+   "fragments": [
+    "146.  *Sevenstones, L.V. White, revolving. Syren fog signal, three",
+    "blasts quickly every 2 minutes. Daniel Norton."
+   ],
+   "number": "146",
+   "marks": "*",
+   "name": "Sevenstones",
+   "type": "L.V.",
+   "place": null,
+   "keepers": [
+    "Daniel Norton"
+   ],
+   "character": "White, revolving",
+   "other": "Syren fog signal, three blasts quickly every 2 minutes",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4093,
+   "fragments": [
+    "147.  *Longships, L.H., on highest rock off Land's End. Fixed; visible",
+    "16 miles. Bell in foggy weather. William Jones."
+   ],
+   "number": "147",
+   "marks": "*",
+   "name": "Longships",
+   "type": "L.H.",
+   "place": "on highest rock off Land's End",
+   "keepers": [
+    "William Jones"
+   ],
+   "character": "Fixed; visible 16 miles",
+   "other": "Bell in foggy weather",
+   "coast": "WEST COAST OF ENGLAND"
+  },
+  {
+   "line": 4095,
+   "fragments": [
+    "148.  †Wolfrock, L.H., 8 miles S.S.W of Land's End, 110 feet above",
+    "high-water mark; revolving alternate flashes of red and white;",
+    "visible 16 miles. In fog a bell. W. D. Crask."
+   ],
+   "number": "148",
+   "marks": "†",
+   "name": "Wolfrock",
+   "type": "L.H.",
+   "place": "8 miles S.S.W of Land's End",
+   "keepers": [
+    "W. D. Crask"
+   ],
+   "character": "revolving alternate flashes of red and white; visible 16 miles",
+   "other": "110 feet above high-water mark | In fog a bell",
+   "coast": "WEST COAST OF ENGLAND"
+  }
+ ],
+ "notes": "39 stations, numbered 110-148 with no gaps. That matches the \"thirty-nine lighthouses and light-vessels\" in the lead-in at lines 3990-3991.\n\nCOUNTS DON'T AGREE: The lead-in says 29 stations sent returns, but only 28 rows have a * (111, 112, 114-120, 123-126, 128-132, 134, 135, 137, 138, 140, 143-147). Five rows have a † (110, 136, 141, 142, 148), which matches the \"five letters\". Six rows have no mark (113, 121, 122, 127, 133, 139). Either one * was dropped in printing or the count in the text is wrong.\n\nHOW I RECORDED THINGS:\n- coast: There are no sub-headings inside the list. Every row sits under the section heading \"WEST COAST OF ENGLAND.\" (line 3987), so I used that for every row, without the full stop.\n- fragments: I left off the indentation at the start of each line, but kept the spacing inside a line as printed. Rows 113, 121, 122, 127 and 139 have three spaces after the number, filling the empty mark position. Row 133 has only two spaces and no mark.\n- The rows are free running text, not a strict table, so I divided each one up as follows. The light's description, including its visibility (\"visible 17 miles\"), went in character. Fog signals, heights above water, counts like \"(2)\" and the keepers' job titles went in other. Where a row had more than one separate piece for \"other\", I joined them with \" | \". That separator is mine, not in the print. In a few rows a height sits in the middle of the light description (130 Scarweather \"38 feet above level of sea\", 133 Breaksea, 116, 143). I left those inside character so the text stays in one unbroken piece.\n- Keepers' job titles printed after their names went in other: \"gunner\" (116), \"mate\" (129) and \"P. K.\" (128, 134; presumably Principal Keeper). Names broken across two lines were joined back together: Robert Pizey, W. R. Burgess, Hy. Nicholas, John Morgan.\n- 116: \"North Stack, Fog Horn Station, L.H.\" I gave the name as \"North Stack\" and the type as \"L.H.\", and put \"Fog Horn Station\" in other.\n- 139: \"Lundy Fog Gun Station\" has no comma and no L.H./L.V., so I kept the whole phrase as the name with type null. It describes a rocket/gun fog signal, not a light, so its character is null. It is a separate station from 140 Lundy L.H.\n- place holds position phrases printed after the name or type (\"on the Head\", \"Highest Island\", \"S. of Island\"). 144 reads \"on S. W. Rock. Scilly\", with the island name in the middle of the row.\n- The only italics are in 115 (_when mail packets passing into harbour_), which I kept in other. No station name is in italics.\n\nCOPIED AS PRINTED, WORTH CHECKING:\n- 112 \"Air\" is presumably Point of Ayr (Flintshire).\n- 118 \"St. Judwall\" is presumably St. Tudwal's.\n- 128 \"Caldy\" (Caldey); 146 \"Sevenstones\" and 148 \"Wolfrock\" are each printed as one word.\n- 148 \"S.S.W\" has no final full stop.\n- 115 \"Prichard\" is spelled as printed.\n- 116 says the light is \"30 yards N. of S. Stack L.H.\", which is odd for North Stack.\n- 121 ends \"visible 10 miles going in\", which is unclear.\n\nOTHER THINGS A READER SHOULD KNOW:\n- 122 Bull Point is in north Devon but is printed between Cardigan Bay and South Bishop. That breaks the north-to-south order; it would fit near 138 Bideford.\n- \"W. Bowen\" is the keeper at both 119 Caernarvon Bay L.V. and 142 Trevose Head. 120 Bardsey has Thomas Bowen. Check whether the two W. Bowens are one person or a repeated printing error before merging them in the roll.\n- Stations with no keeper named: 113 Menai, 121 Cardigan Bay, 125 Great Castle Head, 127 Milford (High), 133 Breaksea, 144 Bishop Rock. 125 and 144 are both marked * (returns received) despite having no keeper.\n- 126 Milford (Low) and 127 Milford (High) are both printed \"Fixed, red\".\n- Several rows show two lights at one station: \"(2)\" at 125, 137, 138, 140 and 142.",
+ "_meta": {
+  "year": 1880,
+  "list": 3,
+  "run": 2,
+  "source": "sources/gutenberg/1880_pg65411.txt",
+  "first_line": 4000,
+  "last_line": 4097,
+  "section": "WEST COAST OF ENGLAND.",
+  "kind": "section",
+  "cost_usd": 0.35102479999999997
+ }
+}

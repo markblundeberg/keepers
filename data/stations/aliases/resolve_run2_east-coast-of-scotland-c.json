@@ -1,0 +1,596 @@
+{
+ "items": [
+  {
+   "n": 11,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, about 150 miles NNW of Orkney",
+   "note": "Ship's position, not a station."
+  },
+  {
+   "n": 19,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, position as printed 46°48′N 85°89′W",
+   "note": "Garbled: 89′ is impossible, and 85°W would put the ship in Lake Superior. Probably a whaler's position in the Greenland/Norwegian Sea like the other 1883 coordinates. Check the page."
+  },
+  {
+   "n": 24,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 68°20′N 11°30′W (Greenland Sea, between Iceland and Jan Mayen)",
+   "note": "Ship's position (1883 voyage)."
+  },
+  {
+   "n": 25,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 68°29′N 9°12′W (Greenland Sea)",
+   "note": "Ship's position."
+  },
+  {
+   "n": 26,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 69°53′N 5°30′W (Greenland/Norwegian Sea)",
+   "note": "Ship's position."
+  },
+  {
+   "n": 27,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, position as printed 69°87′N 9°9′E (Norwegian Sea)",
+   "note": "87′ is impossible. 'east' may be a misprint for west, since nearby entries are west. Check the page."
+  },
+  {
+   "n": 28,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 69°59′N 3°W (Greenland/Norwegian Sea)",
+   "note": "Ship's position. 'north' is missing from the print."
+  },
+  {
+   "n": 30,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 70°32′N 1°29′W (Norwegian Sea)",
+   "note": "Printed '70° 32°'. Read as 70°32′."
+  },
+  {
+   "n": 31,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 70°7′N 3°40′W (Norwegian Sea)",
+   "note": "Ship's position."
+  },
+  {
+   "n": 53,
+   "kind": "place",
+   "ids": [],
+   "place": "Alloa, Clackmannanshire",
+   "note": null
+  },
+  {
+   "n": 167,
+   "kind": "place",
+   "ids": [],
+   "place": "Bridge of Allan, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 169,
+   "kind": "place",
+   "ids": [],
+   "place": "Bridge of Allan, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 196,
+   "kind": "place",
+   "ids": [],
+   "place": "Caldarvan, Dunbartonshire",
+   "note": "Read 'Caldarvon' as Caldarvan near Gartocharn, Loch Lomond. Fairly confident."
+  },
+  {
+   "n": 273,
+   "kind": "station",
+   "ids": [
+    "cromarty"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 294,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "OCR garble of 'Pentland Skerries'. The journal-style entry fits. Check the page."
+  },
+  {
+   "n": 320,
+   "kind": "place",
+   "ids": [],
+   "place": "Dunipace, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 322,
+   "kind": "place",
+   "ids": [],
+   "place": "Dunipace, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 369,
+   "kind": "place",
+   "ids": [],
+   "place": "Edinburgh, Midlothian",
+   "note": null
+  },
+  {
+   "n": 435,
+   "kind": "place",
+   "ids": [],
+   "place": "Fitful Head, Shetland",
+   "note": "No station there. The nearest station is Sumburgh Head, but that is a different place."
+  },
+  {
+   "n": 445,
+   "kind": "place",
+   "ids": [],
+   "place": "Flanders Moss, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 446,
+   "kind": "place",
+   "ids": [],
+   "place": "Flanders Moss, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 469,
+   "kind": "place",
+   "ids": [],
+   "place": "Garden (estate near Arnprior/Kippen), Stirlingshire",
+   "note": "Read as the Garden estate, given the many Stirlingshire notes nearby. Uncertain."
+  },
+  {
+   "n": 471,
+   "kind": "place",
+   "ids": [],
+   "place": "Gásadalur, Vágar, Faroe Islands",
+   "note": "Guess: 'Gauredal' read as 'Gaasedal'. Faroese records surround it. Uncertain."
+  },
+  {
+   "n": 476,
+   "kind": "place",
+   "ids": [],
+   "place": "Glasslaw, near Brucklay (Maud), Aberdeenshire",
+   "note": "'Bruchlay' read as Brucklay."
+  },
+  {
+   "n": 503,
+   "kind": "place",
+   "ids": [],
+   "place": "Granton, Edinburgh, Midlothian",
+   "note": "Seen from a vessel approaching Granton harbour."
+  },
+  {
+   "n": 569,
+   "kind": "place",
+   "ids": [],
+   "place": "Helensburgh, Dunbartonshire",
+   "note": null
+  },
+  {
+   "n": 643,
+   "kind": "place",
+   "ids": [],
+   "place": "Ireland",
+   "note": "Country-level only."
+  },
+  {
+   "n": 647,
+   "kind": "place",
+   "ids": [],
+   "place": "Yell, Shetland",
+   "note": null
+  },
+  {
+   "n": 656,
+   "kind": "place",
+   "ids": [],
+   "place": "Kaldbak, Streymoy, Faroe Islands",
+   "note": "'Kalbat' read as Kaldbak (Kalbak)."
+  },
+  {
+   "n": 661,
+   "kind": "place",
+   "ids": [],
+   "place": "Kelso, Roxburghshire",
+   "note": null
+  },
+  {
+   "n": 680,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinneil, near Bo'ness, West Lothian (Linlithgowshire)",
+   "note": null
+  },
+  {
+   "n": 681,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinneil Woods, near Bo'ness, West Lothian (Linlithgowshire)",
+   "note": null
+  },
+  {
+   "n": 683,
+   "kind": "place",
+   "ids": [],
+   "place": "Kippen, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 688,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkmichael House, Dumfriesshire",
+   "note": null
+  },
+  {
+   "n": 689,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkwall, Orkney",
+   "note": null
+  },
+  {
+   "n": 699,
+   "kind": "place",
+   "ids": [],
+   "place": "Kollafjørður, Streymoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 736,
+   "kind": "place",
+   "ids": [],
+   "place": "Letham Moss, near Airth, Stirlingshire",
+   "note": "Could be Lathom Moss, Lancashire, as printed. Letham Moss is more likely given the Stirlingshire context. Check who sent the note."
+  },
+  {
+   "n": 739,
+   "kind": "place",
+   "ids": [],
+   "place": "Lee Farm, near Sheddens (Busby), Renfrewshire",
+   "note": null
+  },
+  {
+   "n": 753,
+   "kind": "place",
+   "ids": [],
+   "place": "Lerwick, Shetland",
+   "note": "A town observer, not the Bressay keeper. Check whether any of the 12 entries are actually Bressay returns."
+  },
+  {
+   "n": 868,
+   "kind": "place",
+   "ids": [],
+   "place": "Morningside, Edinburgh, Midlothian",
+   "note": null
+  },
+  {
+   "n": 881,
+   "kind": "place",
+   "ids": [],
+   "place": "North Uist, Outer Hebrides (Inverness-shire)",
+   "note": "'Two different localities' points to the island, not the Muckle Flugga station. The station list does print 'North Uist' for N. Unst once, so check."
+  },
+  {
+   "n": 924,
+   "kind": "place",
+   "ids": [],
+   "place": "Nordtalik, Greenland",
+   "note": "Couldn't identify the modern name. Kept as printed."
+  },
+  {
+   "n": 986,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 987,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 993,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 994,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 998,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "OCR garble 'Pentland plises gs)'. Probably Pentland Skerries. Check the page."
+  },
+  {
+   "n": 1002,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Unresolved garble 'Piva Beeride'. Almost certainly a station name (journal-style gull entry, 1883), probably on the same page as the garbled Pentland Skerries entries. Left unresolved rather than guessed. Check the page image."
+  },
+  {
+   "n": 1011,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "'Portland' misprint. The Skuas and the Scottish section confirm Pentland."
+  },
+  {
+   "n": 1025,
+   "kind": "place",
+   "ids": [],
+   "place": "Redcastle, Black Isle, Ross-shire",
+   "note": "There is also a Redcastle near Lunan Bay, Angus. Ross-shire is more usual in these reports. Check the context."
+  },
+  {
+   "n": 1037,
+   "kind": "place",
+   "ids": [],
+   "place": "River Pattack, Inverness-shire",
+   "note": null
+  },
+  {
+   "n": 1088,
+   "kind": "place",
+   "ids": [],
+   "place": "Shetland",
+   "note": null
+  },
+  {
+   "n": 1097,
+   "kind": "place",
+   "ids": [],
+   "place": "Shirgarton, near Kippen, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1102,
+   "kind": "place",
+   "ids": [],
+   "place": "Stykkishólmur, Iceland",
+   "note": "May be the same observer as the 'iceland' station in 1885m/1887m. That station isn't listed in 1883, so I treated this as a place."
+  },
+  {
+   "n": 1140,
+   "kind": "place",
+   "ids": [],
+   "place": "Sound, near Lerwick, Shetland",
+   "note": "The report itself queries the name. Uncertain."
+  },
+  {
+   "n": 1225,
+   "kind": "place",
+   "ids": [],
+   "place": "Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1232,
+   "kind": "place",
+   "ids": [],
+   "place": "Streymoy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 1236,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1240,
+   "kind": "station",
+   "ids": [
+    "sumburgh-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1270,
+   "kind": "place",
+   "ids": [],
+   "place": "Ross Priory, Gartocharn, Loch Lomond, Dunbartonshire",
+   "note": null
+  },
+  {
+   "n": 1274,
+   "kind": "place",
+   "ids": [],
+   "place": "Tórshavn, Streymoy, Faroe Islands",
+   "note": "Probably the same source as the 'faroe' station in 1885m/1887m. That station isn't listed in 1882–83, so I treated this as a place."
+  },
+  {
+   "n": 1275,
+   "kind": "place",
+   "ids": [],
+   "place": "Tinwald Downs, Dumfriesshire",
+   "note": null
+  },
+  {
+   "n": 1276,
+   "kind": "place",
+   "ids": [],
+   "place": "Toftir, Eysturoy, Faroe Islands",
+   "note": "Guess. Could also be Toft, Shetland. Check whether it sits among the Faroese records."
+  },
+  {
+   "n": 1290,
+   "kind": "place",
+   "ids": [],
+   "place": "Woods by the River Tyne (Tyninghame), East Lothian",
+   "note": "Uncertain. Could be the Tyne valley in Northumberland. Check who sent the note."
+  },
+  {
+   "n": 1291,
+   "kind": "place",
+   "ids": [],
+   "place": "Tiree, Argyll",
+   "note": null
+  },
+  {
+   "n": 1298,
+   "kind": "place",
+   "ids": [],
+   "place": "Vágur, Suðuroy, Faroe Islands",
+   "note": null
+  },
+  {
+   "n": 1299,
+   "kind": "place",
+   "ids": [],
+   "place": "Vágur (now Klaksvík), Borðoy, Faroe Islands",
+   "note": "Read 'Vaay in Bordo' as 'Vaag in Bordø'."
+  },
+  {
+   "n": 1300,
+   "kind": "place",
+   "ids": [],
+   "place": "Vale of Menteith, Perthshire",
+   "note": null
+  },
+  {
+   "n": 1305,
+   "kind": "place",
+   "ids": [],
+   "place": "Ventnor, Isle of Wight",
+   "note": null
+  },
+  {
+   "n": 1320,
+   "kind": "station",
+   "ids": [
+    "out-skerries"
+   ],
+   "place": null,
+   "note": "The lists print 'Whalsey Skerries', and the example puts it in a list with other stations."
+  },
+  {
+   "n": 1321,
+   "kind": "station",
+   "ids": [
+    "out-skerries"
+   ],
+   "place": null,
+   "note": "Uncertain. 'Whalsey Head' isn't a printed station name. It may be the Out Skerries keeper's return, or a place on Whalsay island. Check."
+  },
+  {
+   "n": 1420,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea between Iceland and the Faroe Islands",
+   "note": "Aboard a fishing-smack."
+  },
+  {
+   "n": 1422,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, about 67°41′N (Greenland/Norwegian Sea)",
+   "note": "Longitude not given."
+  },
+  {
+   "n": 1427,
+   "kind": "place",
+   "ids": [],
+   "place": "Central Scotland",
+   "note": "Region, not a site."
+  },
+  {
+   "n": 1450,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Unresolved garble 'hea Head', 1883 journal entry. Candidates: Noss Head, Dunnet Head, Holborn Head, Cantick Head, Tarbat Head, Sumburgh Head. Check the page image."
+  },
+  {
+   "n": 1452,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "'iio' is probably 'do.' (ditto), meaning the station just mentioned. Resolve from the page."
+  },
+  {
+   "n": 1467,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea off Portugal",
+   "note": null
+  },
+  {
+   "n": 1482,
+   "kind": "place",
+   "ids": [],
+   "place": "Denny Hills, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 1507,
+   "kind": "place",
+   "ids": [],
+   "place": "Firth of Tay, Fife/Perthshire/Angus",
+   "note": null
+  },
+  {
+   "n": 1520,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Vague: 'the off-lying islands', probably around Shetland or Faroe from the context."
+  }
+ ],
+ "notes": "I resolved 84 items: 13 to stations, 66 to places and 5 to none.\n\nThings to check:\n1) The unreadable OCR garbles. n1002 'Piva Beeride' and n1450 'hea Head' are almost certainly station names, but I left them as none rather than guess. n1452 'iio' is probably 'do.' (ditto). n294 'Degtiand aries' and n998 'Pentland plises gs)' I resolved to Pentland Skerries, with less confidence than the other variants.\n2) Ship positions in 1883 (n11–31, n1422). These are presumably from a whaler's log. n19 (85°89′W) and n27 (69°87′N, east) can't be right as printed. All of them are coded as places.\n3) Faroe and Iceland names (Thorshavn, Strómó, Kollefjord, Kalbat, Vaagó, Vaay in Bordo, Gauredal, Tofle, Skykkesholm). The 'faroe' and 'iceland' stations only appear in 1885m/1887m, so I coded all of these as places. Gauredal (Gásadalur) and Tofle (Toftir) are guesses.\n4) n881 'N. Uist': I chose North Uist, the island, over Muckle Flugga (N. Unst).\n5) n1321 'Whalsey Head': I assigned it to Out Skerries, but it may be a place on Whalsay island.\n6) n753 Lerwick (12 observations): check none are really Bressay returns.\n7) Places with more than one candidate: Latham Moss (Letham Moss, Stirlingshire, or Lathom, Lancashire), Redcastle (Ross-shire or Angus), Tyne Woods (East Lothian or Northumberland), Garden (Stirlingshire estate), and Sound (?), which the report itself queries.",
+ "_meta": {
+  "run": 2,
+  "coast": "EAST COAST OF SCOTLAND, &c.",
+  "gen": 0,
+  "cost_usd": 0.24393099999999998,
+  "n_items": 81
+ }
+}

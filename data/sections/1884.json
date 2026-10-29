@@ -1,0 +1,759 @@
+{
+ "sections": [
+  {
+   "coast": "(title pages)",
+   "title": "REPORT ON THE MIGRATION OF BIRDS IN THE SPRING AND AUTUMN OF 1884. SIXTH REPORT.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 1,
+   "last_line": 145,
+   "head_examples": [],
+   "observations": "none",
+   "note": "Harvard MCZ library stamp (1-50), title page, epigraph and imprint (53-99), then garbled show-through from the facing page (100-145)."
+  },
+  {
+   "coast": "PREFACE",
+   "title": "PREFACE.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 146,
+   "last_line": 174,
+   "head_examples": [],
+   "observations": "none",
+   "note": "The committee's preamble: who arranged each coast's returns, and the new sketch-map."
+  },
+  {
+   "coast": "CONTENTS",
+   "title": "CONTENTS.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 175,
+   "last_line": 198,
+   "head_examples": [
+    "OcEaNn Notes .",
+    "East Coast oF SCOTLAND ."
+   ],
+   "observations": "none",
+   "note": "Page numbers were lost apart from a stray '10' at line 195."
+  },
+  {
+   "coast": "MAP",
+   "title": "MAP OF THE ... SHOWING POSITIONS OF THE ... TO WHICH SCHEDULES ARE SENT BY THE COMMITTEE.",
+   "season": "none",
+   "layout": "other",
+   "first_line": 199,
+   "last_line": 300,
+   "head_examples": [],
+   "observations": "none",
+   "note": "OCR of the sketch-map: scattered place-names and station numbers, not usable text."
+  },
+  {
+   "coast": "LIST OF STATIONS",
+   "title": "LIST OF STATIONS.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 301,
+   "last_line": 641,
+   "head_examples": [
+    "4. N. Unst.",
+    "30. Longstone L.H.",
+    "119. Bahama Bank Lv."
+   ],
+   "observations": "none",
+   "note": "The numbered key to the map, with sub-heads 'Scotland—East Coast.', 'England—East Coast.', 'Scotland—West Coast.', 'Isle of Man.', 'England—West Coast.', 'Ireland.', 'Outlying Stations.' (631). The Irish west-coast stations (611-625) have lost their numbers. Lines 608 and 628 are garbage."
+  },
+  {
+   "coast": "(map key, mirrored)",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 642,
+   "last_line": 716,
+   "head_examples": [],
+   "observations": "none",
+   "note": "Mirror-image show-through of the station list ('HJ tried b Et .', 'Hal covA Jbl oe'). Junk; ignore it."
+  },
+  {
+   "coast": "(half-title)",
+   "title": "SIXTH REPORT: ON THE MIGRATION OF BIRDS IN THE SPRING AND AUTUMN OF 1884.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 717,
+   "last_line": 731,
+   "head_examples": [],
+   "observations": "none",
+   "note": null
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "OCKAN NOTES.",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 732,
+   "last_line": 741,
+   "head_examples": [
+    "THanks again to Messrs. Gray and Anderson"
+   ],
+   "observations": "none",
+   "note": "The heading is OCR'd as 'OCKAN NOTES.' and the running heads as 'OCEAN NOTES. 3', 'OOEAN NOTES. 9'. These are ships, not stations."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Steamship ‘ Marathon,’ outward bound from Liverpool, April 16th, 1884.",
+   "season": "spring",
+   "layout": "diary",
+   "first_line": 742,
+   "last_line": 879,
+   "head_examples": [
+    "April 17th.—A small bird came on board at 7 p.m., 15 miles",
+    "April 28rd. — At 11 a.m., two black-looking birds, like Gulls",
+    "May 5th.—At 8.30 a.m., one Skua. Thirty to forty Wilson’s"
+   ],
+   "observations": "primary",
+   "note": "A ship's log, by date. The sub-head 'Return Voyage of Steamship ‘Marathon’ from Boston, May 8rd.' (810) is followed on the very next line by the entry 'May 8rd. — At 11 a.m.'. That entry is split by footnotes (814-815) and the page head (818) and goes on at 821. Dates are garbled ('8rd' = 3rd, '18th' = 13th). Page heads at 764 and 872."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Cunard Royal Mail Steamship, ‘ Gallia.’",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 880,
+   "last_line": 910,
+   "head_examples": [
+    "At a later date Mr. Anderson sends a note on Solan Geese :—",
+    "Union Steamship ‘ Athenian.’—First Voyage, 1884."
+   ],
+   "observations": "primary",
+   "note": "End of the Marathon log (the sailing advertisement), Anderson's letter (Solan Geese at Cape St. Vincent on Jan. 20th, year not given), J.A.H.B.'s comment, then the sub-head and introduction for the 'Athenian'."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Union Steamship ‘ Athenian.’—First Voyage, 1884.",
+   "season": "spring",
+   "layout": "diary",
+   "first_line": 911,
+   "last_line": 945,
+   "head_examples": [
+    "April 5th.—One Robin, one Yellowhammer, a flock of Jack-",
+    "April 12th.—Seven Red- throated Divers, flying E.; one lot",
+    "April 22nd. — Bulwer’s Petrels, throughout the morning;"
+   ],
+   "observations": "primary",
+   "note": "The April 22nd entry runs across the page head (930). Line 941 '_. 29th, Sooty Terns' is a new date (April 29th) inside the same paragraph, not a new entry."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 946,
+   "last_line": 976,
+   "head_examples": [
+    "Remarks.—Oct. 19th, off Cape Point (Cape of Good Hope)."
+   ],
+   "observations": "primary",
+   "note": "Swinburne's remarks for Oct.-Nov. (second voyage), double-spaced in the OCR. Footnote at 975."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": null,
+   "season": "spring",
+   "layout": "table",
+   "first_line": 977,
+   "last_line": 1005,
+   "head_examples": [
+    "Date. Lat. Long. Wind. | Weather. Birds. Remarks.",
+    "6° 45’ N. | 15°16’ W.| N.E., 2} b.c. | 1 Hoodpoe."
+   ],
+   "observations": "primary",
+   "note": "The Athenian's tabulated schedule. The Date column was lost, so the season is a guess (Hoopoe and Black Terns off West Africa fit the April voyage). The Remarks column wraps onto separate lines (997, 1002). Signed '(Signed) S. SwInBuRNE.' at 1005."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "STEAMSHIP ‘ATHENIAN.’—SECOND VOYAGE, 1884. (printed sideways)",
+   "season": "autumn",
+   "layout": "table",
+   "first_line": 1006,
+   "last_line": 1271,
+   "head_examples": [
+    "‘drys punoz 3urky,q",
+    "‘PSST ‘ADVAO A aNOOUg — “NVINGHLY , dIHSNVALG"
+   ],
+   "observations": "primary",
+   "note": "A table printed sideways, which the OCR read upside-down. Every line is reversed gibberish (line 1211 is the title, 1262 '9T “AON' = 'Nov. 16'). It cannot be cut; it needs the page image."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Voyage of Steamship ‘ Eclipse’ in Polar Seas, from the Log of Capt. David Gray.",
+   "season": "spring",
+   "layout": "prose",
+   "first_line": 1272,
+   "last_line": 1287,
+   "head_examples": [
+    "Thanks to Mr. T. Southwell, of Norwich, I have the following",
+    "The ‘ Eclipse’ left Peterhead on Feb. 28th, 1884, and Lerwick"
+   ],
+   "observations": "primary",
+   "note": "The introduction carries the first log entry (March 12th) inside it."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Voyage of Steamship ‘ Eclipse’ in Polar Seas",
+   "season": "spring",
+   "layout": "diary",
+   "first_line": 1288,
+   "last_line": 1375,
+   "head_examples": [
+    "March 14th. — Lat. at noon, 66° 4’ N., d. r., long. 3° 50’ W.,",
+    "April 25th.—Noon. Lat. 78°28’ N., long. 2°50’'E.; 8.2 W.;",
+    "May 16th.—The Hawk seemed to be recovering, but on May"
+   ],
+   "observations": "primary",
+   "note": "The May 3rd entry runs across a footnote (1324) and the page head (1327). Runs March to June 11th."
+  },
+  {
+   "coast": "OCEAN NOTES",
+   "title": "Steamship ‘ Persia.’",
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1376,
+   "last_line": 1403,
+   "head_examples": [
+    "Mr. John S. Alston writes under date of November 4th, 1884,"
+   ],
+   "observations": "primary",
+   "note": "One letter, broken by the page head at 1384."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 1404,
+   "last_line": 1453,
+   "head_examples": [
+    "Tue usual schedules were distributed to thirty stations on"
+   ],
+   "observations": "none",
+   "note": "The heading is OCR'd 'KAST COAST OF SCOTLAND.' (1409). Explains the returns and the Roman-numeral classes of light (I.-V.) used in the station list."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "HAST OF SCOTLAND. (List of Stations)",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 1454,
+   "last_line": 1516,
+   "head_examples": [
+    "3 * 4, North Unst, Shetland...... T¥; 230 T. Edgar.",
+    "5 * 14, Pentland Skerries ......... I, 170 J. Gilmour.",
+    "5 * 27. Isle of May, Firth of Forth. 240 Jos, Agnew."
+   ],
+   "observations": "none",
+   "note": "Columns: years of returns in 5, * = returned in 1884, map number, station, class of light, height in feet, keeper. Some keepers' names drifted to their own lines (1482-1483). Sub-heads SHETLAND/ORKNEY/MAINLAND. Lines 1511-1514 send the reader to the General Remarks at the end of the West Coast of Scotland."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "Diary from the Stations.",
+   "season": "both",
+   "layout": "station",
+   "first_line": 1517,
+   "last_line": 1776,
+   "head_examples": [
+    "N. Unst.—Mr. James Edgar—formerly at Butt of Lewis—",
+    "Sumburgh Head.—The old natives say they never before have",
+    "Bell Rock sends excellent schedules as usual. The early"
+   ],
+   "observations": "primary",
+   "note": "Despite the title 'Diary', it is laid out by station. Some entries have no dash after the name ('Dunnet Head gives a light return.', 'Kinnaird Head returns a blank schedule', 'Bell Rock sends ...'). Lines 1552-1606 under Pentland Skerries are a general note on the season's winds. There are long footnotes (1563-1567, 1668-1696: newspaper account of the Bell Rock swallow, 1794-1796) and page heads. Partly retold under Species ('see details under Species')."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "SEPARATE REPORT UNDER GENERA AND SPECIES.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 1777,
+   "last_line": 2930,
+   "head_examples": [
+    "Turpip#.—In spring, migration at Sumburgh Head (April",
+    "SaxicoLiInz.—Wheatears in considerable numbers at Pent-",
+    "PrLecanip#.—We have records of Solan Geese in every"
+   ],
+   "observations": "primary",
+   "note": "Entries are by family, and the family names are garbled small capitals ('Turpip#.', 'Sitvinz.', 'ACROCEPHALIN[/ — ACcENTORINEZ.', 'Srricip#.—No records.'). Within each family the records run on as continuous prose by date and station. 1887 'SaxicoLiInz.—' follows 1886 with no blank line. There are sub-paragraphs 'Land Note.—' / 'Land Notes.—' (2140, 2179, 2428, 2675) and 'Note.—' (2543, 2796), and 'Ravens.—', 'Larxs.—', 'Lapwing' heads that are not family names. Line 2613 '(Clupea). - |' is a stray fragment. The closing paragraph (2922-2924) and its footnote (2927-2930) are about schedule dates."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 2931,
+   "last_line": 2990,
+   "head_examples": [
+    "ScHEDULES were sent to thirty-eight stations, lighthouses"
+   ],
+   "observations": "none",
+   "note": "The page number '39' is at 2933 and the heading at 2936. Covers returns, acknowledgements and the best-returning keepers."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "(stations included in this report)",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 2991,
+   "last_line": 3104,
+   "head_examples": [
+    "*Longstone L.H.+",
+    "*Inner Farn t.u.",
+    "*Hast Side u.v. ae fd. Edward le Gallais & W. Nicholls."
+   ],
+   "observations": "none",
+   "note": "* = made returns. The OCR split the columns: stations are listed at 2992-3039 and the keepers' names separately at 3042-3087, so they must be paired up again. The page head is at 3096, and the last five stations (3099-3103) have their keepers on the same line. Footnote at 3090-3093."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "SEPARATE NOTES ON EACH SPECIES.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 3105,
+   "last_line": 4432,
+   "head_examples": [
+    "Turdus viscivorus, Mistletoe Thrush.—Great Cotes, Sept. 23rd,",
+    "Saxicola cnanthe, Wheatear.—Spring, 1884: March 19th,",
+    "Sula bassana, Gannet.—Farn u.H., March 7th, several all day"
+   ],
+   "observations": "primary",
+   "note": "Heads are 'Latin name, English name.—' (some are family names, as in 'Srricipz, Owls.—', 'Rauuip%, Rallus aquaticus, Water Rail.—'). Garbled starts: '| T’.. nusicus, Song Thrush.—', '_ Upupa epops', 'LIninota', 'A, trivialis', 'P, trochilus'. Sub-entries sit inside a species ('Terns generally.—' 4336; 'Redcar, Noy.-18th ... Little Auk' 4428 starts a line with a station). 'L.H.'/'L.V.' come out as 'u.H.', 't.v.', 'u.u.', 'L.#.' and so on. Land stations, Heligoland, Malmo and Stevns are mixed in with the lights. A rule and footnote fall mid-entry at 4127-4134."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 4433,
+   "last_line": 4449,
+   "head_examples": [
+    "Professor Chr. Fr. Lutken, of the Universitetets Zoologiske"
+   ],
+   "observations": "none",
+   "note": "Introduction to the Stevns list. The page head is at 4447."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "Stevns Fyr (LicurHouse or Srxvns), 1884.",
+   "season": "both",
+   "layout": "table",
+   "first_line": 4450,
+   "last_line": 4477,
+   "head_examples": [
+    "Febr. 16th. Alauda arvensis ...... 1. | July 30th. Saxicola enanthe .... 2",
+    "March 13th. Erythacus rubecula.... 1",
+    "May 1st. Sylvia hortensis ...... 2"
+   ],
+   "observations": "primary",
+   "note": "Two columns (Feb.-July on the left, July-Dec. on the right) run together on each line, sometimes split by '|'. Ditto marks come out as '»', '”', 'ss', '5'. Counts are often garbled ('i', 'iF', 'e')."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "Notes oN INSEcTS AT THE LIGHTHOUSES.",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 4478,
+   "last_line": 4510,
+   "head_examples": [
+    "Under date of June 30th, Mr. Owen Boyle, of the Languard",
+    "Mr. Charles Williams, of the Hanois u.u., Guernsey, says,",
+    "Heligoland, by Mr. Gatke.—Night, July 2nd to 3rd, fies"
+   ],
+   "observations": "primary",
+   "note": "Insects in June-July (summer), but it includes a Sky Lark at Languard on June 30th. The page head is at 4505."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "GENERAL REMARKS.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 4511,
+   "last_line": 4796,
+   "head_examples": [
+    "The report for the East Coast of England shows that a great"
+   ],
+   "observations": "summary",
+   "note": "Mostly retells the species notes (Blackbird, Bluethroat, Goldcrest, Ring Dove, Woodcock). Gätke's Heligoland summary (4749-4796) gives dates that may not all appear above. Footnote at 4658-4664; the page head at 4670 is garbled ('dl §')."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "both",
+   "layout": "prose",
+   "first_line": 4797,
+   "last_line": 4823,
+   "head_examples": [
+    "Since the completion of the Report Mr. J. H. Gurney informs",
+    "From the Dudgeon u.v. comes a schedule signed by Mr. T."
+   ],
+   "observations": "primary",
+   "note": "Late additions: Swin Middle L.V. wings, and a whole Dudgeon L.V. schedule (Nov. 10th 1884 - March 6th 1885) told as prose. These records are not in the species notes."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 4824,
+   "last_line": 4849,
+   "head_examples": [
+    "ScHEDULES were sent to thirty-four stations as before. We"
+   ],
+   "observations": "none",
+   "note": "The page number '74' is at 4824 and the heading 'WEST COAST OF SCOTLAND. |' at 4827."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "List oF STATIONS.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 4850,
+   "last_line": 5064,
+   "head_examples": [
+    "3 * 82, Rhu Stoir, . | be II. 195 Wm. Wither.",
+    "Kyleakin, Ross ............ fVe",
+    "Point of Ayre, I. of Man . III."
+   ],
+   "observations": "none",
+   "note": "Only the first rows (4854-4876) keep their columns together. After that the OCR split the table: years at 4884-4892, map numbers with * at 4898-4934, names and classes at 4943-4989 (sub-heads 'Matnuanp, Skye, anv Inner HeEpripes.', 'Iste or Man.'), feet at 4995-5034, keepers at 5037-5062. The page head is at 4937."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "NovTEs FROM THE STATIONS.*",
+   "season": "both",
+   "layout": "station",
+   "first_line": 5065,
+   "last_line": 5279,
+   "head_examples": [
+    "Mr. Morrison, at Cape Wrath, says birds are scarce at",
+    "Skerryvore.-—Mr. Thomas Dawson sends full schedules from",
+    "Lamlash, Arran.—Mr. David M. Scott does not consider it"
+   ],
+   "observations": "primary",
+   "note": "The first paragraphs (5071-5111: Cape Wrath, Stoir Head, Monach, Barra Head, Rona, Kyleakin) name the station inside the sentence, with no 'Station.—' head. From 5121 the heads are 'Station.—', some garbled (': Rhuvaal.—', 'Rhinns of Islay.i—Myr.'). Footnote at 5114-5115. Lines 5270-5273 credit a land observer."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "REPORT UNDER SPECIES.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 5280,
+   "last_line": 5841,
+   "head_examples": [
+    "Turpipz.—While in 1883, Spring migration almost escaped",
+    "PuHyLuLoscorin%, Gold-crested Wren.—Evident rush noticeable",
+    "Peuicanipm, Gannet.—Records in order of dates :—At"
+   ],
+   "observations": "primary",
+   "note": "By family, with garbled small capitals, sometimes followed by an English name ('HirvuNnDINIDZ, Swallows.—'). Junk before some heads: '’  Cwarapriap&.—', '_  S§rricipm.—'. 'SaxtcoLinm.—-Note.—' opens with a note, and there is a bracketed '[Note.—' at 5358. 'Lapwines.—' (5759) is a sub-head inside CHARADRIADÆ. The last entry ends at 5841, and 'GENERAL REMARKS.' follows at 5842 with no blank line."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "GENERAL REMARKS.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 5842,
+   "last_line": 6269,
+   "head_examples": [
+    "During the past six years’ Migration Reports we have to"
+   ],
+   "observations": "summary",
+   "note": "Covers BOTH Scottish coasts; the East Coast list (1511) points here. It names keepers by station and year, 1879-1884 (5853-5861, 5883-5885). There are small inline tables of light heights and characters (5865-5873, 5892-5894). Lines 5902-5936 look like station entries ('Noss Head.—One year (1883), A. Greig; 175 feet') but describe the lights, not birds. Woodcock, Stock Dove and Gull/sprat discussion follows."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "Temperatures of the Firth of Forth, June, 1884 to January, 1885.",
+   "season": "none",
+   "layout": "table",
+   "first_line": 6270,
+   "last_line": 6289,
+   "head_examples": [
+    "June (1884) 51 53 58",
+    "October 53 52 51"
+   ],
+   "observations": "none",
+   "note": "Sea temperatures, not birds. The bracketed figures are hypothetical (note at 6288)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "both",
+   "layout": "prose",
+   "first_line": 6290,
+   "last_line": 6404,
+   "head_examples": [
+    "Mr. Milne, in writing to me, adds, ‘I believe that in hot",
+    "Note.—It was at Kincardine on Forth, the narrowest part of"
+   ],
+   "observations": "summary",
+   "note": "General Remarks continued (sprats, Gulls). Footnotes at 6389-6402 give W. Evans's Firth of Forth records for August 1884 (not stations) and a preview of spring 1885. The page number is at 6405."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 6405,
+   "last_line": 6419,
+   "head_examples": [
+    "ScHEDULEs were sent to the forty-four lighthouses and light-"
+   ],
+   "observations": "none",
+   "note": null
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": "(enumeration of the stations, No. on Map)",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 6420,
+   "last_line": 6482,
+   "head_examples": [
+    "#119. u.v. Bahama Bank............... John West.",
+    "*122. u.v. Morecambe Bay ............ Henry Clavell.",
+    "*147. -u.H. Bull Point. osicliaeeus George Knott."
+   ],
+   "observations": "none",
+   "note": "* = made returns; the asterisk is often OCR'd as '#', '‘#', '£' or '7'. Many map numbers and names are garbled ('*1630 ‘tes. Mrodpevy:.' = 152 Godrevy). The page head is at 6461."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 6483,
+   "last_line": 6514,
+   "head_examples": [
+    "The best thanks of the Committee are due to the above-"
+   ],
+   "observations": "none",
+   "note": "Acknowledgements and the plan of the report (heads I.-IV.)."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": "I.—GENERAL REMARKS.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 6515,
+   "last_line": 6578,
+   "head_examples": [
+    "The great mass of migrants during the past autumn seem to"
+   ],
+   "observations": "summary",
+   "note": "Mainly about the autumn."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": "II.—Rerports From STATIONS ON THE SEASON.",
+   "season": "both",
+   "layout": "station",
+   "first_line": 6579,
+   "last_line": 6635,
+   "head_examples": [
+    "Carlisle District (Messrs. Macpherson and Duckworth).—After",
+    "St. Bees u.n.—Mr. Henry Nott tells me that birds are gene-",
+    "Nash (E.) u.n. (Mr. Henry Nicholas). “Binds have not been"
+   ],
+   "observations": "primary",
+   "note": "Only five entries. The Nash head has the keeper's name in brackets before the text and no dash."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": "IT].—Dtary or Princrpan Movements.",
+   "season": "autumn",
+   "layout": "diary",
+   "first_line": 6636,
+   "last_line": 7092,
+   "head_examples": [
+    "September 14th.",
+    "Dee u.v.—A Robin killed at 10.80 p.m. (E. by S., 5; 3B, , m.)",
+    "South Bishop t.a.—‘‘ Many Song Thrushes, Missel Thrushes,"
+   ],
+   "observations": "primary",
+   "note": "A date heading on its own line ('October 14th.'), then one entry per station ('Station L.H.—...'), stations in order north to south. Wind and weather are in brackets in Beaufort symbols (key in the footnote at 6692-6695). A year line '1885.' (7075) comes before 'February 15th.'. The blank line between date and entries is sometimes missing (6665-6666, 7031-7032). Entries can begin with junk ('| Caldy', '.  Helwick', '% Scarweather', '+ Nash', '3 Nash', '_ Bishop Rock'). Runs Sept. 14th 1884 to Feb. 17th 1885. The same records come back under IV by species."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES",
+   "title": "IV.—SeEpaRATE REPORT ON EACH SPEOIES.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 7093,
+   "last_line": 7853,
+   "head_examples": [
+    "Turdus viscivorus,* Missel Thrush.—Oct. 14th, South Bishop",
+    "Turdus musicus, Song Thrush.—Spring : Godrevy u.#., March",
+    "Larina&, Gulls.—Nash (E.) .z., large flocks of Common Gulls"
+   ],
+   "observations": "primary",
+   "note": "Heads are 'Latin name, English name.—'. Many begin with junk ('. Sterna cantiaca', 'q Hydrochelidon', ': Stercorarius', '——- Mergullus alle', 't Podiceps'); 'Puffinus ?—' has no comma. 'Carlisle District' (land observers) appears all through. 'Note.—' paragraphs sit inside entries (7103). Signed 'Wivuiam Eacur Ciuargke.' at 7852."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": null,
+   "season": "both",
+   "layout": "prose",
+   "first_line": 7854,
+   "last_line": 8048,
+   "head_examples": [
+    "In the spring of 1884 schedules were forwarded to thirty-six"
+   ],
+   "observations": "summary",
+   "note": "The introduction and the season's main points (Rook flight at Tearaght and Skelligs, Thrush and Starling rushes, Bats at Rockabill). Signed by More and Barrington, 19th May 1885."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "List or LIGHT-STATIONS.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 8049,
+   "last_line": 8110,
+   "head_examples": [
+    "8. Old Head, Kinsale, Cork...... x x -— Martin Kennedy.",
+    "5. Dungarvan, Waterford ...... x x — Wn. Higginbotham.",
+    "12. Rockabill, Dublin ............ x x 5 Joseph Hammond."
+   ],
+   "observations": "none",
+   "note": "Columns: number, station and county, spring and autumn marks (x = returned, o = no reply), miles from shore, observers. The column heads (8056-8059) and many numbers are garbled ('m Pacimel Co. Cork' = 1. Fastnet; '8.' = 3.; 'me. Learaght'). The Blackrock row is split over 8087-8088. Key at 8103; totals at 8106-8107."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "List or Brrps NOTICED.",
+   "season": "none",
+   "layout": "other",
+   "first_line": 8111,
+   "last_line": 8171,
+   "head_examples": [
+    "Eagle... wl .. 135) Swallow... = baie -- 160"
+   ],
+   "observations": "none",
+   "note": "An index of the species section with page numbers, in two columns run together. Useful as a checklist of the species heads that follow, in order."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "NumBer oF LIGHTHOUSES AT WHICH THE FOLLOWING BIRDS ARE REPORTED TO HAVE STRUCK THE LANTERN-GLASS AT NIGHT.",
+   "season": "both",
+   "layout": "table",
+   "first_line": 8172,
+   "last_line": 8199,
+   "head_examples": [
+    "Thrush ... ce rs . 10 Greenfinch 2",
+    "Robin .... 4 Green Plover ... a"
+   ],
+   "observations": "summary",
+   "note": "Two columns run together and counts are often lost. The page head is at 8197."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 8200,
+   "last_line": 8213,
+   "head_examples": [
+    "The foregoing table does not show the relative numbers of"
+   ],
+   "observations": "summary",
+   "note": null
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "(legs, wings and skins received)",
+   "season": "both",
+   "layout": "table",
+   "first_line": 8214,
+   "last_line": 8242,
+   "head_examples": [
+    "Leg and wing of Ring Ouzel from the Skelligs ... shot Sept. 17th.",
+    "Skin of the Hedgesparrow from Tearaght",
+    "*Leg of a Chough from Tearaght."
+   ],
+   "observations": "primary",
+   "note": "One line per specimen: what, station, date. Ditto marks come out as '»' or ',,'; line 8239 is garbled. The * footnote is at 8257, inside the next section."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "GENERAL Remarks oF Licut-KEEpERs.",
+   "season": "both",
+   "layout": "station",
+   "first_line": 8243,
+   "last_line": 8445,
+   "head_examples": [
+    "Fastnet.—‘‘ Spring: The Gannet does not breed on the rock,",
+    "Old Head, Kinsale-—‘“‘ Spring: I understand from those",
+    "Mine Head.—No reply."
+   ],
+   "observations": "primary",
+   "note": "Each entry is a quoted letter, often split 'Spring: ... Autumn: ...', and signed at the end '—Keeper Name.'. These signatures give keeper names, which are sometimes not the ones in the station list (e.g. Coningbeg: Patrick Cullen; Tuskar: Richard Hamilton and Patrick D'Arcy). R.M.B.'s comments are in square brackets, one as its own paragraph (8303-8305). From 8378 the blank lines between entries are missing. Footnote at 8257."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "(species, in order of the List of Birds Noticed)",
+   "season": "both",
+   "layout": "species",
+   "first_line": 8446,
+   "last_line": 11458,
+   "head_examples": [
+    "EAGLE.",
+    "Clare Island.—Apyril 4th, a young speckled Eagle perched",
+    "| Hawks."
+   ],
+   "observations": "primary",
+   "note": "Two levels. Each species heading is on its own line ending in '.', in capitals or garbled small capitals ('Rine OvuzeEu.', 'Rosin.', 'Roox.', 'Snow BuntIna.', 'Stormy PEerre..', '‘‘ GREENSHANK.”’', '‘* DoTTEREL.”’'). Under it come entries by station ('Station.—date, ...'). Watch out: some short text lines also end in '.' ('Hawk seen.', 'Remained.', 'Gulls.' at 11321/11325, 'Martin.' at 10129 is a real head). Use the List of Birds Noticed (8114-8170) to tell real heads from false ones. Station names are garbled at times ('Niiyband Nev! 2nd'). R.M.B. comments are in brackets. Running heads come out as 'IRISH COAST. 188', 'TRISH COAST. 159', '{IRISH COAST. 167', '’ IRISH COAST. 127', 'IRISH COAST. | 175'. There is a junk line at 9311."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "BIRDS NOT IDENTIFIED.",
+   "season": "both",
+   "layout": "station",
+   "first_line": 11459,
+   "last_line": 11501,
+   "head_examples": [
+    "Coningbeg Light-ship.—Nov. 14th, one ‘‘ Schinz’s Sandpiper ”’",
+    "Tuskar Rock.—May 25th, ‘‘a yeliow bird, black head with",
+    "tie North Light-ship.—Dec. o7th, a large flock of ‘‘ Sally-"
+   ],
+   "observations": "primary",
+   "note": "Built like a species heading with station entries, but the birds are unidentified. 'tie North Light-ship' is probably Arklow North. The page head is at 11481 and the signature mark '2B' at 11499."
+  },
+  {
+   "coast": "APPENDIX",
+   "title": "APPENDIX.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 11502,
+   "last_line": 11535,
+   "head_examples": [
+    "Mr. Gurney has received a batch of wings from the Leman",
+    "Prep FiycatcHer.—With reference to Mr. J. Harvie Brown’s",
+    "Erratum.—Page 71, line 29, for “ September 80th,” read"
+   ],
+   "observations": "primary",
+   "note": "Undated wings from the Leman and Ower L.V. (autumn 1884). Pied Flycatchers in May 1885 at Flamborough and Spurn, from the 'Naturalist'. An erratum for page 71 (East Coast of England General Remarks, about line 4705)."
+  },
+  {
+   "coast": "(colophon)",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 11536,
+   "last_line": 11573,
+   "head_examples": [
+    "PRINTED BY WEST, NEWMAN AND CO., HATTON GARDEN, LONDON, E.C."
+   ],
+   "observations": "none",
+   "note": "The printer's line, then junk from the back cover."
+  }
+ ],
+ "notes": "Throughout: running heads ('NN REPORT ON THE MIGRATION OF BIRDS.' and 'COAST NAME. NN', often garbled, e.g. 'WEST OOAST OF SCOTLAND. 79', 'EAST COAST OF SCOTLAND. 18' for 13), bare page numbers, signature letters ('B', 'D', '2B') and footnotes ('* ...' blocks) fall in the middle of entries. A cutter should drop them and join the entry back up. Hyphens at line ends ('Pent-' / 'land') split words. 'L.H.'/'L.V.' come out as 'u.H.', 'u.u.', 'u.n.', 't.v.', 'L.#.', 'u.a.', 't.a.' and the like.\n\nOrder of the report: Ocean Notes (ships, not stations); East Coast of Scotland (stations, then species by family); East Coast of England (species by Latin name; Stevns table; General Remarks; Dudgeon postscript); West Coast of Scotland (station notes, species by family, then General Remarks covering both Scottish coasts, which the East Coast station list points to at 1511); West Coast of England and Wales (I remarks, II station reports, III diary by date (autumn only), IV species: III and IV repeat many of the same records); Irish Coast (keepers' general remarks by station, then species headings with station entries); Appendix.\n\nStation lists are at 301-641 (the map key with map numbers), 1454-1516, 2991-3104, 4850-5064, 6420-6482 and 8049-8110. In the East of England and West of Scotland lists the OCR has pulled the columns apart (names, feet, keepers in separate runs). The Athenian second-voyage table (1006-1271) is printed sideways and its OCR is reversed gibberish. It can only be recovered from the page image.",
+ "_meta": {
+  "year": 1884,
+  "source": "sources/ia/1884_reportonmigratio61884harv_djvu.txt",
+  "cost_usd": 1.9180717999999997
+ }
+}

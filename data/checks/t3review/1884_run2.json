@@ -1,0 +1,424 @@
+{
+ "flags": [
+  {
+   "id": "1:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"Immense numbers covered the island\": being on the island could be settled or just seen; either reading fits the rules."
+  },
+  {
+   "id": "8:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR prints \"Nash (E.) u.o.\" for L.H."
+  },
+  {
+   "id": "8:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "This is the seen observation (\"Woodcocks... from 2to5a.m.\"). \"Some of each species killed\" needs its own dead observation, as item 65 has for Snipes."
+  },
+  {
+   "id": "8:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "One observation per behaviour: the seen one is right as it stands. The killing belongs in a separate dead observation."
+  },
+  {
+   "id": "10:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E., clear\": § is the OCR's S."
+  },
+  {
+   "id": "13:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading is printed \"HoopEp Crow.\" in the chunk."
+  },
+  {
+   "id": "17:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longstone u.H.\" for L.H."
+  },
+  {
+   "id": "18:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Aug. 6th, 8. to 8.W.\": 8 is the OCR's S."
+  },
+  {
+   "id": "19:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR heading \"Lapwines.\""
+  },
+  {
+   "id": "20:direction",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"one going §.W.\""
+  },
+  {
+   "id": "23:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships u.H.\""
+  },
+  {
+   "id": "27:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Coquet u.z.\""
+  },
+  {
+   "id": "35:species",
+   "kind": "extraction",
+   "right_value": null,
+   "why": "\"Rathlin O’Birne.—March 21st, twelve to twenty flew from shore\" names no bird. \"Crows\" was taken from other stations' entries. The section heading (\"Rook\") is in neither the chunk nor the context, so null."
+  },
+  {
+   "id": "40:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"enormous rush of Redwings... with Woodcocks\": it's a judgement call whether the vague \"enormous rush\" counts as a count and whether it covers the Woodcocks."
+  },
+  {
+   "id": "42:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships ..H.\""
+  },
+  {
+   "id": "43:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Milford u.n.\""
+  },
+  {
+   "id": "44:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"with §.E., or light S.W.\""
+  },
+  {
+   "id": "46:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind 8.E., misty\""
+  },
+  {
+   "id": "47:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hasbro’ t.v.\". The apostrophe is curly as printed."
+  },
+  {
+   "id": "48:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The chunk only says \"the rush of this and of Fieldfares took place on the 4th and 5th of November\" and names no station for it. The checker's quote isn't in the text."
+  },
+  {
+   "id": "49:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"light §.\""
+  },
+  {
+   "id": "52:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"“oreat flock” on 8th again (with Thrushes) striking\": the Thrushes did strike, so this is a valid Thrushes observation. The Larks of the flock belong in their own observation."
+  },
+  {
+   "id": "52:count",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"“oreat flock”\" for \"great flock\"."
+  },
+  {
+   "id": "53:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"fresh 8., haze\""
+  },
+  {
+   "id": "54:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Eddystone u.u.\""
+  },
+  {
+   "id": "54:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(N., 4; 0, R, v.)\": the OCR garbled the letter case."
+  },
+  {
+   "id": "55:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.u.\""
+  },
+  {
+   "id": "55:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"killed at 8 am.\": 8 is the OCR's 3."
+  },
+  {
+   "id": "57:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hddystone u.u.\""
+  },
+  {
+   "id": "59:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.H.\""
+  },
+  {
+   "id": "59:species",
+   "kind": "extraction",
+   "right_value": "Blackbirds",
+   "why": "\"Blackbirds and Thrushes from 2 to 4 a.m.; eleven killed\": the dead birds are named. Make one observation each (Blackbirds, Thrushes), count \"eleven\", count_shared true."
+  },
+  {
+   "id": "60:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Kentish Knock t.v.\""
+  },
+  {
+   "id": "61:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind light §.W.\""
+  },
+  {
+   "id": "62:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"At Hanois t.x.\""
+  },
+  {
+   "id": "63:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"struck at 2.a.m.\""
+  },
+  {
+   "id": "64:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Spurn - L.H.\": the stray dash is OCR noise."
+  },
+  {
+   "id": "65:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.o.\""
+  },
+  {
+   "id": "67:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Hasboro’ u.v.\""
+  },
+  {
+   "id": "70:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E., misty\""
+  },
+  {
+   "id": "72:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Caldy u.H.\""
+  },
+  {
+   "id": "73:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Arklow South Iight-ship\""
+  },
+  {
+   "id": "74:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Helwick u.v.\""
+  },
+  {
+   "id": "74:time",
+   "kind": "extraction",
+   "right_value": "all night and till sunrise",
+   "why": "\"at the lantern all night and till sunrise. A great number killed\": the killing clause continues the entry and shares its time, as in Example 1. The quote even includes the time."
+  },
+  {
+   "id": "75:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Morecambe Bay u.v.\""
+  },
+  {
+   "id": "75:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.E., 4; 3, Fr.)\" garbles \"b, f.\""
+  },
+  {
+   "id": "76:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Longships u.H.\""
+  },
+  {
+   "id": "78:count",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"and a flocks from 8rd to 8th\": the OCR garbled \"great\"."
+  },
+  {
+   "id": "79:station",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The bird was \"captured on mast-head of fishing-smack ‘Surprise,’... between the Outer Dowsing L.v. and Cromer\". Either the light-vessel or the fuller place phrase is defensible wording."
+  },
+  {
+   "id": "80:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.H.\""
+  },
+  {
+   "id": "81:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Bahama Bank t.v.\""
+  },
+  {
+   "id": "81:species",
+   "kind": "extraction",
+   "right_value": "Thrushes",
+   "why": "\"Large numbers of Thrushes, Blackbirds, and Larks, all night. Many killed.\": make one dead observation per kind, count \"Many\", count_shared true."
+  },
+  {
+   "id": "82:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"lantern of Hanois t.u.\""
+  },
+  {
+   "id": "84:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.E., misty\""
+  },
+  {
+   "id": "85:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Selker u.v.\""
+  },
+  {
+   "id": "86:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Nash (E.) u.n.\""
+  },
+  {
+   "id": "87:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Smalls Rock u..\""
+  },
+  {
+   "id": "88:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading in the context is OCR'd \"Rosin.\""
+  },
+  {
+   "id": "89:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"wind §.W., rain\""
+  },
+  {
+   "id": "91:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Eagle Island, Kast\""
+  },
+  {
+   "id": "92:at_light",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"one killed Birtles fog\", so \"striking\" is garbled away. Nothing in the text ties the bird to the light."
+  },
+  {
+   "id": "94:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Selker u.v.\""
+  },
+  {
+   "id": "94:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.8.H., 5; B and misty.)\""
+  },
+  {
+   "id": "95:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Leman and Ower t.v.\" (the line break is in the OCR)."
+  },
+  {
+   "id": "96:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Dee u.v.\""
+  },
+  {
+   "id": "96:species",
+   "kind": "extraction",
+   "right_value": "Thrushes",
+   "why": "\"Many Thrushes, Blackbirds, Starlings, and Tit-larks... Fourteen picked up on deck\": make one observation per kind, count \"Fourteen\", count_shared true."
+  },
+  {
+   "id": "96:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(S.H. by E.; fog.)\""
+  },
+  {
+   "id": "97:date_iso",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Oct. 18th\" (8 for 3). The date_iso follows the copied date words faithfully."
+  },
+  {
+   "id": "100:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"Start t.H.\""
+  },
+  {
+   "id": "100:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR \"(E.8.E., 2;\""
+  }
+ ],
+ "_meta": {
+  "year": 1884,
+  "run": 2,
+  "cost_usd": 0.8051206,
+  "n_flags": 69
+ }
+}

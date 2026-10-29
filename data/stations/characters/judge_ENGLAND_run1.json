@@ -1,0 +1,2116 @@
+{
+ "stations": [
+  {
+   "id": "berwick",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'Upper br., lower red lt.'; 1887 'Two fix. lts., br. and red'; Edwards 'white' for 'br.'",
+   "confidence": "high",
+   "note": "The low red light is shown only while there are 10 ft of water on the bar, so it depends on the tide."
+  },
+  {
+   "id": "longstone",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'; the fog horn is dropped from the 1887 description",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inner-farne",
+   "changed": true,
+   "what_changed": "High light: white, revolving every ½ min (Findlay 1879, Edwards 1884, reports 1879-80) became flashing every 20 s, two white flashes and one red (Findlay 1887). The low fixed white light did not change.",
+   "change_year": null,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 calls it 'flashing' and writes 'bright' for the low light",
+   "confidence": "medium",
+   "note": "Findlay 1887's year column ('1776 / 1810') gives no recent alteration, so the change is undated. Edwards (March 1884) still has half-minute revolving white. Check a Notice to Mariners for 1884-87. 1879 gives the towers as 167 yds apart, 1887 as 187 yds."
+  },
+  {
+   "id": "coquet",
+   "changed": false,
+   "what_changed": "Only sector bearings are re-stated in 1887 (lower light bright S.E. by S. ¾ S. to S. by E., where 1879 has S.S.E. to S. ½ E.). A keeper at the light would see nothing different.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'Two fixed lights', colours given in the description; 1887 'Two fixed bright or red lights'; Edwards 'white, fixed, with red sectors'; the reports say only 'two white lights'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "souter",
+   "changed": false,
+   "what_changed": "The lower light's bright arc ends at S. ½ W. in 1879 and S. ¾ W. in 1887, a sector detail only",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'brilliant' vs 'br.'; 'Magneto-Electric' vs 'ELECTRIC'; 1887 states 'fix.' for the lower light",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "tees-lv",
+   "changed": true,
+   "what_changed": "Fifth buoy light: fixed white (Findlay 1879, reports 1879 and 1880) became fixed red (Findlay 1887). It is fixed throughout; only the colour changed.",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "There is no Edwards entry. The 1887 year column '1879 1866' dates the new Fourth-buoy green light (1879) and the Fifth buoy/Seal Sand pair (1866), not a colour change. If the colour changed when the green light came in (1879), the reports' 'white' for 1879-80 is stale. Check that the reports' Tees light is the Fifth buoy light and not Seal Sand, which is red in both editions."
+  },
+  {
+   "id": "south-gare",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "First lit 1884 (Findlay 1887 year). It is not in Findlay 1879 or Edwards (March 1884, presumably before it was lit)."
+  },
+  {
+   "id": "whitby-high",
+   "changed": false,
+   "what_changed": "The north light's red sector over Scar Rock is in both editions",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'; 1887 adds '(One 3-flashing light proposed)', which was not yet done",
+   "confidence": "high",
+   "note": "Findlay's entry is the pair of Ling Hill lights. 'while' in report1879 is a misprint for 'white'."
+  },
+  {
+   "id": "flamborough-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "1879 'One revolv. lt. ½ min., br. br. and red alternately'; 1887's character drops the colours ('One revolving lt., ½ m.'), which its description gives as 'two bright faces and one red'",
+   "confidence": "high",
+   "note": "½ min is probably the interval between flashes, so the white-white-red cycle takes 1½ min. See the general note."
+  },
+  {
+   "id": "spurn-point",
+   "changed": true,
+   "what_changed": "High light: fixed with a red sector (Findlay 1879) became occulting every ½ min with a 3 s eclipse, red sector kept (Edwards 1884, Findlay 1887). The low light stays fixed white.",
+   "change_year": null,
+   "earliest": 1879,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 numbers the two lights separately",
+   "confidence": "medium",
+   "note": "Findlay 1887 gives no alteration year ('1776 1851'). report1880 says only 'red and white sectors', which narrows nothing. This assumes the keeper reported from the high light."
+  },
+  {
+   "id": "spurn-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bull-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 puts the character in the description column",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "outer-dowsing-lv",
+   "changed": true,
+   "what_changed": "Red revolving light: period 20 s became ½ min",
+   "change_year": 1883,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "report1879 says 'every 90 seconds', against 20 s in Findlay 1879 and report1880. It is probably a misprint. Edwards (1884) confirms the half minute."
+  },
+  {
+   "id": "inner-dowsing-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dudgeon-lv",
+   "changed": true,
+   "what_changed": "Fixed white became flashing every ½ min: two quick flashes, white then red, followed by a 22 s eclipse",
+   "change_year": 1882,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1882,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1882,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards ('white and red alternately, flashing, half-minute') agrees."
+  },
+  {
+   "id": "lynn-well-lv",
+   "changed": true,
+   "what_changed": "White light: period 20 s became 10 s",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Edwards says 'flashing' where Findlay 1887 says 'rev.'",
+   "confidence": "medium",
+   "note": "Findlay 1887 gives no alteration year. If report1880 (20 s) describes 1880 and was not copied from an older list, the change came after the 1880 season. Edwards (March 1884) has 10 s."
+  },
+  {
+   "id": "hunstanton",
+   "changed": true,
+   "what_changed": "Fixed white with a red sector became occulting every ½ min: two quick occultations, then 24 s of light. The red sector was kept.",
+   "change_year": 1883,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (occulting half-minute) agrees, as do reports 1879-80 (fixed)."
+  },
+  {
+   "id": "cromer",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "leman-and-ower-lv",
+   "changed": true,
+   "what_changed": "Two white lights (upper revolving every 1 min, lower fixed) became one white light, double-flashing every ½ min (2 quick flashes, then 20 s dark)",
+   "change_year": 1879,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1879,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "The witnesses contradict each other. Findlay 1887 dates the alteration 1879, but report1879 and report1880 both describe the old two lights. The 1880 report may just repeat the 1879 list. If it really describes 1880, the change came between 1880 and 1884 (Edwards has double-flashing). I followed Findlay; check the 1879 Notice."
+  },
+  {
+   "id": "happisburgh",
+   "changed": true,
+   "what_changed": "Two fixed white lights (high and low, a leading pair) became one white light, occulting with a 5 s eclipse every ½ min. The low light was given up.",
+   "change_year": 1884,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (March 1884) still lists both fixed lights, so the change fell after March 1884. Check which tower the keeper reported from: if it was the low light, that station ceased."
+  },
+  {
+   "id": "happisburgh-lv",
+   "changed": false,
+   "what_changed": "Findlay 1887 gives an alteration year of 1887, but the character is unchanged. The position is newly given ('10 miles E. ½ S. from Cromer'; 14 fms vs 15), so the alteration was probably a move or a new vessel. It would not change what the crew saw.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "medium",
+   "note": "Check what the 1887 alteration was."
+  },
+  {
+   "id": "winterton",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The masked bearing is 'S. ½ E.' in 1879 and 'S. by E. ½ E.' in 1887",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "newarp-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'rev. bright light', with the 3 flashes in the description; 1887 '3-flash.'; Edwards 'group flashing'",
+   "confidence": "high",
+   "note": "The 1877 alteration predates the period."
+  },
+  {
+   "id": "cockle-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "corton-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'red rev.' vs 'rev. red'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "lowestoft",
+   "changed": false,
+   "what_changed": "The high light is unchanged: white revolving every ½ min, with a fixed red light lower in the same tower. The separate low light changed from fixed to occulting every ½ min (3 s eclipse) at an undated time between the editions. That is not this station's own light if the keeper was at the high light.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "Findlay 1887 adds 'occulting' for the low light. 1879 lists two red harbour lights in the character.",
+   "confidence": "medium",
+   "note": "Both the Edwards witness (the 'Lowestoft High' entry) and report1879 ('white, revolving 30 seconds, and red light, fixed'; the source prints 'fight') describe the high light. If the station was the low light, mark it changed with a window of 1879-1887."
+  },
+  {
+   "id": "orfordness",
+   "changed": false,
+   "what_changed": "Red-sector bearings are re-stated in 1887; sector detail only",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. or red fix.' vs 'fix. br. or red'; the reports say 'white, fixed'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "shipwash-lv",
+   "changed": true,
+   "what_changed": "Fixed white became group-flashing every ½ min: a long flash between two short ones, then a 14 s eclipse",
+   "change_year": 1883,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards agrees, as do reports 1879-80 (fixed)."
+  },
+  {
+   "id": "landguard-point",
+   "changed": false,
+   "what_changed": "Findlay 1887's year column adds 1878, which is before the period. The red sectors are re-described. The green light on the Landguard Fort jetty is a separate light.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "cork-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "galloper-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "kentish-knock-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "swin-middle-lv",
+   "changed": true,
+   "what_changed": "White revolving light: period 1 min became ½ min",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "There is no alteration year. report1880 still says 'every minute'; Edwards (March 1884) says half a minute."
+  },
+  {
+   "id": "tongue-lv",
+   "changed": true,
+   "what_changed": "Two fixed lights (upper white, lower red) became one light, double-flashing every ½ min: a red flash and a white flash in quick succession",
+   "change_year": 1886,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1886,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1886,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 confirm the old two fixed lights."
+  },
+  {
+   "id": "nore-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "north-foreland",
+   "changed": true,
+   "what_changed": "Fixed white with a red strip became occulting every ½ min with a 5 s eclipse. The red strip was kept.",
+   "change_year": 1880,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1880,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "report1880 still says 'white, fixed'. Either the change came after the 1880 season or the report repeats the 1879 list."
+  },
+  {
+   "id": "north-sand-head-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Both Findlays say 'rev. 1 min' and give the 3 flashes in the description; Edwards says 'group flashing'",
+   "confidence": "high",
+   "note": "'86 seconds' in report1880 is a misprint for 36."
+  },
+  {
+   "id": "gull-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-sand-head-lv",
+   "changed": true,
+   "what_changed": "Fixed white became double-flashing every ½ min: flash 1½ s, eclipse 6 s, flash 5 s, eclipse 17½ s",
+   "change_year": 1884,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (March 1884) still has it fixed, so the change came after March 1884."
+  },
+  {
+   "id": "east-goodwin-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-foreland",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'ELECTRIC FIX.' vs 'ELECTRIC fixed br.'; the separation is '1,347 ft.' in 1879 and '385 yards' in 1887",
+   "confidence": "high",
+   "note": "There are two lights; the reports don't say which tower the keeper was at."
+  },
+  {
+   "id": "varne-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dungeness",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'One fixed light' vs 'One fix. br. or red lt.' (the red sectors are in both descriptions)",
+   "confidence": "high",
+   "note": "There are two lights: the main fixed light with red sectors, and a light flashing every 5 s on the point, 675 ft away. 'white, fixed' in report1879 is the main light."
+  },
+  {
+   "id": "royal-sovereign-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'revol. br. lt. 1 min.'; 1887 '3-flash.'",
+   "confidence": "high",
+   "note": "Findlay 1887 says: 'In summer of 1887, light will be altered to triple-flashing ev. 45 secs.' If that happened, late 1887 differs. The station's only report year is 1886."
+  },
+  {
+   "id": "beachy-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "Edwards gives a flash of 15 s and an eclipse of 1 min 45 s, where Findlay says only 'rev. 2 min'",
+   "confidence": "high",
+   "note": "Findlay 1887 announces an alteration in summer 1887 to a 4 s flash every 15 s. The station's only report year is 1886."
+  },
+  {
+   "id": "owers-lv",
+   "changed": true,
+   "what_changed": "Flash sequence: two white and one red (Findlay 1879, Edwards 1884) became white and red alternately (Findlay 1887). Both have a flash every ½ min. The vessel is also placed differently (S. end in 16 fms, vs S.E. end in 19 fms).",
+   "change_year": null,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "The witnesses contradict each other and nothing dates a change; Findlay 1887 may be wrong. The only report year, 1886, falls inside the overlap. Check a list of lights for 1886."
+  },
+  {
+   "id": "st-catherines",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'brilliant fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "nab-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "casquets",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "report1880 'triple, flashing every 30 seconds'; Edwards 'group flashing, 3 flashes every half-minute'",
+   "confidence": "medium",
+   "note": "There is no Findlay witness (the Channel Islands are not in this section), so nothing covers 1879 or 1887 directly. Check Findlay's Channel Islands entries."
+  },
+  {
+   "id": "hanois",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "There is no Findlay witness; Edwards and report1880 agree (red, revolving every 45 s). Check Findlay's Channel Islands entries."
+  },
+  {
+   "id": "st-bees",
+   "changed": true,
+   "what_changed": "Fixed white became occulting every ½ min: two quick eclipses, then 24 s of light",
+   "change_year": 1885,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 have it fixed. Findlay 1887's year column is '1718 / 1885'; 1879's is '1821 / 1866'."
+  },
+  {
+   "id": "selker-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Established 1883 (Findlay 1887). It flashes one white and one red every ½ min; Edwards agrees."
+  },
+  {
+   "id": "morecambe-bay-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 gives the ½ min in the description",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dee-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "The only witness is Findlay 1887 (year 1883). It is not in Findlay 1879 or Edwards. Check the date it was first lit, and whether it replaced the Point of Ayr (Flintshire) light."
+  },
+  {
+   "id": "point-of-ayr-wales",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1879"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "There is no Findlay 1887 or Edwards witness, so nothing shows this light after 1880, though the reports continue to 1887. The red sectors disagree: report1880 has S.E. ¼ S. to W. ¾ S. (over West Hoyle Bank), Findlay 1879 has N.W. to E. by S. ¼ S. (within Hoyle Sand). Check whether the light still stood in 1884-87 and whether Findlay 1887 lists it under another name."
+  },
+  {
+   "id": "trwyn-du",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'red fixed' vs 'fixed red'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "skerries",
+   "changed": true,
+   "what_changed": "Upper light: fixed white became occulting every 1 min: three quick eclipses, then 50 s of light. The lower fixed red sector light did not change.",
+   "change_year": 1885,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 have it fixed."
+  },
+  {
+   "id": "holyhead-breakwater",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The year is 1873 in 1879 and 1872 in 1887",
+   "confidence": "high",
+   "note": "Within 3-4 miles it looks like a fixed red light between flashes (report1880 and Findlay 1887)."
+  },
+  {
+   "id": "north-stack",
+   "changed": true,
+   "what_changed": "This is South Stack's fog light. Findlay 1879 puts it at 40 ft, 30 yds N. of the lighthouse, with no period. report1880 gives white, revolving every 1½ min. Findlay 1887 (South Stack entry) gives revolving every 1 min, at 90 ft, 65 yds W. by S. of the lighthouse.",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "report1880"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "The light is shown only in fog. The station's own witness is report1880 alone; the Findlay texts are South Stack's rows (p39r16, p56r19). The 1½ min vs 1 min difference may be an error in the report rather than a change, but the light was also moved and raised."
+  },
+  {
+   "id": "south-stack",
+   "changed": false,
+   "what_changed": "The fog light was moved (see north-stack); the main light is unchanged",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "caernarfon-bay-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "20 s is probably the interval between flashes (white, white, red), as with Flamborough."
+  },
+  {
+   "id": "st-tudwals",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'One br. and red lt.', with 'Vis. 8 secs., obscured 2 secs.' in the description; 1887 'occulting'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "bardsey",
+   "changed": true,
+   "what_changed": "Fixed white became occulting every ½ min with a 3 s eclipse",
+   "change_year": 1885,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 have it fixed."
+  },
+  {
+   "id": "cardigan-bay-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'30 secs.' vs '½ min.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "south-bishop",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "smalls",
+   "changed": true,
+   "what_changed": "Fixed white with a red sector became occulting every 1 min: two quick eclipses, then 54 s of light. The red sector was kept.",
+   "change_year": 1885,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 have it fixed."
+  },
+  {
+   "id": "great-castle-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-anns-head-low",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "report1880 gives 'Fixed, red' for both the low and high rows. Findlay and Edwards make both lights white, with the red only a ray from the high light. I treated the low light as fixed white."
+  },
+  {
+   "id": "st-anns-head-high",
+   "changed": false,
+   "what_changed": "The red ray over Chapel and Harbour Rocks is re-stated as S.E. to East in 1887 (1879: S.E. ½ S. to E. ½ S.)",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "report1880's 'Fixed, red' presumably means the red ray."
+  },
+  {
+   "id": "st-anns-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": "This is the same pair of lights as st-anns-head-low and st-anns-head-high."
+  },
+  {
+   "id": "caldey",
+   "changed": true,
+   "what_changed": "Fixed white with red sectors became occulting every ½ min with a 3 s eclipse. The sectors were kept.",
+   "change_year": 1885,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) and report1880 have it fixed."
+  },
+  {
+   "id": "helwick-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "scarweather-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "report1880 says 'three times a minute', i.e. every 20 s",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "nash-point-low",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'Two bright fixed lights One red light' vs 'Two fixed bright lights, and lower fixed red lt.'",
+   "confidence": "high",
+   "note": "The low light is fixed white throughout; the red lights belong to the high tower."
+  },
+  {
+   "id": "nash-point-high",
+   "changed": false,
+   "what_changed": "The red is described differently. 1879: one red light from the high lighthouse, N.W. by W. ½ W. to N.W. ½ W. 1887: the high light is red north of S.E. ½ E., and a lower fixed red light shows from a window over Tuskar Rock. The light is fixed throughout; this does not change what the keeper sees.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "report1880 ('Fixed; visible 19 miles; red') fits the red sector. Check whether a red sector was really added between 1879 and 1887."
+  },
+  {
+   "id": "breaksea-lv",
+   "changed": true,
+   "what_changed": "The fixed red light shown from the after part (Findlay 1879, report1880) is missing from Edwards 1884 and Findlay 1887, so two lights became one. The white light revolving every 15 s did not change. The depth is also given as 18 fms instead of 8.",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "report1880 calls the main light 'flashing'",
+   "confidence": "low",
+   "note": "The 1884 limit rests on Edwards leaving the red light out. Edwards does list lower red lights elsewhere (Godrevy, Skerries), but if his silence isn't trusted, the window runs to 1887."
+  },
+  {
+   "id": "flat-holm",
+   "changed": true,
+   "what_changed": "Fixed white with a red sector (Findlay 1879, report1880) became occulting every ½ min (Edwards, March 1884). Findlay 1887, with alteration year 1887, gives two 3 s eclipses every ½ min and rearranged sectors (red, white, red).",
+   "change_year": null,
+   "earliest": 1880,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1887,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "report1880 ('Fixed') and Edwards ('occulting half-minute') bound the first change. Findlay 1887's '1737 / 1887' suggests a second alteration in 1887, either single to double occulting or only the sectors. Edwards doesn't say how many eclipses. Check."
+  },
+  {
+   "id": "english-and-welsh-grounds-lv",
+   "changed": false,
+   "what_changed": "The depth is 14 fms in 1879 and 4½ fms in 1887: a move or a misprint, either way not a change to the light",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' vs 'rev. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "west-usk",
+   "changed": false,
+   "what_changed": "A green sector up the river (Edwards 1884, Findlay 1887) replaced the 1879 'bright up river'. It was added between 1880 (report: 'white and red') and March 1884. This is a sector change only; the light stays fixed and the keeper sees no difference.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'One bright or red light'; 1887 'One fixed bright, red, or green light'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "avonmouth",
+   "changed": true,
+   "what_changed": "Fixed white, with a red sector and a green ray, became occulting every ½ min with a 3 s eclipse. The sectors were kept.",
+   "change_year": 1881,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1881,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1881,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "report1880 has it fixed and Edwards occulting. Findlay 1887 also lists a separate fixed red light 230 yds to the N.W."
+  },
+  {
+   "id": "burnham",
+   "changed": true,
+   "what_changed": "Upper light: intermittent every 4 min (3½ min of light, ½ min dark, per Edwards) became occulting every 1 min (two quick eclipses, then 54 s of light). The lower fixed light (bright and red sectors) did not change.",
+   "change_year": 1884,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'intermit.' vs 'occulting'",
+   "confidence": "high",
+   "note": "Edwards (March 1884) still has the old character, so the change came after March 1884."
+  },
+  {
+   "id": "bull-point",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "A new light. Findlay 1879 says 'to be completed during the summer of 1879'; Findlay 1887 gives the year 1879. If it was lit partway through 1879, it didn't exist earlier that year. Check the date it was first lit (reports begin 1880)."
+  },
+  {
+   "id": "bideford-bar",
+   "changed": false,
+   "what_changed": "Findlay 1887 gives an alteration year of 1879, but both lights are still fixed. The alteration was perhaps a re-siting on the shifting sands or the new obscured arc. It is not a change of character.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'; the leading line is 'S.E. ¼ S.' in 1879 and 'S.E. ½ E.' in 1887",
+   "confidence": "medium",
+   "note": "The low light is shown only from half-flood to half-ebb, so it depends on the tide. Check what the 1879 alteration was."
+  },
+  {
+   "id": "lundy",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'rev. ev. 2 m.' vs 'rev. br. lt., 2 min.'",
+   "confidence": "high",
+   "note": "report1880 gives the low light's arc as S. by E. to N.E. That is roughly Findlay's arc (N.N.W. to W.S.W., seen from sea) reversed, i.e. bearings from the light. Not a contradiction."
+  },
+  {
+   "id": "hartland-point",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'rev.' vs 'revol.'",
+   "confidence": "high",
+   "note": "Findlay 1887 says 'one flash at intervals of 30 secs., two bright and one red', so the colour cycle takes 1½ min."
+  },
+  {
+   "id": "trevose-head",
+   "changed": true,
+   "what_changed": "Two fixed white lights (the lower 50 ft to seaward) became one white light, occulting every 1 min: three quick eclipses within 15 s, then 45 s of light",
+   "change_year": 1882,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1882,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1882,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "report1880 ('Fixed; visible 20 and 17 miles') shows both lights; Edwards agrees with the new character."
+  },
+  {
+   "id": "godrevy",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. flash.' vs 'flash. br.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "longships",
+   "changed": true,
+   "what_changed": "Fixed, white to seaward and red inshore, became occulting every 1 min with a 3 s eclipse. The sectors were kept.",
+   "change_year": 1883,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards agrees with the new character; report1880 has it fixed."
+  },
+  {
+   "id": "sevenstones-lv",
+   "changed": true,
+   "what_changed": "Two fixed white lights became one white light, revolving every minute: three quick flashes, then 36 s dark",
+   "change_year": 1879,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1879,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Findlay 1879 says 'to be altered in summer of 1879'. Reports begin 1880, after the change."
+  },
+  {
+   "id": "wolf-rock",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'30 secs.' vs '½ min.'; 'red and white' vs 'red and bright'",
+   "confidence": "high",
+   "note": "It is unclear whether ½ min is the interval between flashes or the white-red cycle; see the general note."
+  },
+  {
+   "id": "st-agnes-scilly",
+   "changed": true,
+   "what_changed": "White revolving light: 1 min (Findlay 1879) against ½ min (report1880, Edwards, Findlay 1887)",
+   "change_year": null,
+   "earliest": 1879,
+   "latest": 1880,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1880,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "low",
+   "note": "Only Findlay 1879 says 1 min, and it may simply be stale or wrong. There are no reports from St Agnes in 1879, so the drawings (1880 on) use ½ min either way."
+  },
+  {
+   "id": "bishop-rock",
+   "changed": true,
+   "what_changed": "Fixed white became double-flashing every 1 min: two quick 4 s flashes, then a 48 s eclipse",
+   "change_year": 1886,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1886,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1886,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "Edwards (March 1884) and report1880 have it fixed. The tower was being heightened at the time. Check whether the double flash began in 1886, as Findlay says, or only with the new apparatus on the heightened tower (1887?). The built year is 1853 in 1879 and 1858 in 1887."
+  },
+  {
+   "id": "lizard",
+   "changed": false,
+   "what_changed": "Electric since 1878 (Findlay 1887 '1751 / 1878'), before the period. Still two fixed white lights.",
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 'brilliant fixed' does not mention electric",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "st-anthony-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The green breakwater lights (one in 1879, two in 1887) are separate harbour lights",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "eddystone",
+   "changed": true,
+   "what_changed": "Smeaton's old tower showed one fixed white light. The new tower, beside it to the S. by E. ¾ E., shows a white light double-flashing every ½ min, plus a lower fixed white light over the Hand Deeps.",
+   "change_year": 1882,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1882,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1882,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards agrees. Reports begin 1884, after the change."
+  },
+  {
+   "id": "plymouth-breakwater",
+   "changed": true,
+   "what_changed": "The main light, fixed white or red, became occulting every ½ min with a 3 s eclipse. The lower fixed white light did not change.",
+   "change_year": null,
+   "earliest": 1879,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "There is no alteration year ('1844 ....'). Edwards (March 1884) has it occulting. Reports begin 1884, so the drawings use the new character."
+  },
+  {
+   "id": "start-point-devon",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'brilliant revol. lt., visible every minute' vs 'rev. br. lt., 1 min., and fixed bright light'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "portland-bill",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The low light's arc is re-stated in 1887",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "shambles-lv",
+   "changed": true,
+   "what_changed": "Fixed white became double-flashing every ½ min: flash 5 s, eclipse 6 s, flash 1½ s, eclipse 17½ s",
+   "change_year": 1883,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards agrees."
+  },
+  {
+   "id": "anvil-point",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1881,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Findlay 1887 lists it as Durlston Head",
+   "confidence": "high",
+   "note": "First lit 1881."
+  },
+  {
+   "id": "hurst-castle",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": "The year columns are odd (1887: '1812 1733'), but nothing in them falls within the period."
+  },
+  {
+   "id": "needles",
+   "changed": true,
+   "what_changed": "Fixed, with white and red sectors, became occulting every ½ min with a 3 s eclipse. A green sector toward the land was added.",
+   "change_year": null,
+   "earliest": 1879,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "There is no alteration year. Edwards (March 1884) has it occulting. Reports are from 1886-87 only, so the drawings use the new character."
+  },
+  {
+   "id": "bahama-bank-lv",
+   "changed": true,
+   "what_changed": "Two fixed white lights became one white light, double-flashing every ½ min (2 quick flashes, then 20 s dark)",
+   "change_year": 1879,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1879,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Findlay 1879 says 'To be altered in May, 1879'. Reports begin 1880, after the change."
+  },
+  {
+   "id": "point-of-ayre-iom",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "1879 gives 'flash every minute' in the description; 1887 'One revolving lt., 1 min.'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "douglas-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' vs 'fixed bright'",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "langness",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1880,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Findlay 1879 says 'Light proposed'. First lit 1880."
+  },
+  {
+   "id": "chicken-rock",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "notes": "107 stations: 36 changed, 71 unchanged.\n\nHow I set the years:\n- Where Findlay 1887 gives an alteration year, the change falls in that year, and both the old and new spans include it.\n- For undated changes after Edwards (March 1884), I used 1887 as the latest year. Findlay 1887 already carries 1887 alterations (Hasborough L.V., Flatholm), so the edition was compiled in early 1887.\n- report1880's words often repeat report1879's, so a report may lag behind the light.\n\nTo check:\n1. Revolving lights with colour sequences (Flamborough, Caernarvon Bay, Hartland, Owers, Wolf Rock, Point of Ayre IoM, Farne 1887). Findlay 1887 says outright that Hartland and Farne give 'a flash every 30 s / 20 s'. So the stated period is the interval between flashes, and a white-white-red cycle takes three times as long. Decide this before drawing.\n2. Witnesses that contradict each other:\n   - Outer Dowsing: report1879 says 90 s; Findlay says 20 s.\n   - Leman & Ower: Findlay dates the change 1879, but report1880 still has the old two lights.\n   - North Foreland: report1880 still says fixed in 1880, the change year.\n   - Tees: white in the reports, red in Findlay 1887.\n   - Owers: Findlay 1879 and Edwards have white-white-red; Findlay 1887 has white and red alternately.\n   - St Agnes: Findlay 1879 says 1 min; everything else says ½ min.\n   - South Stack fog light ('North Stack'): report1880 says 1½ min; Findlay 1887 says 1 min.\n   - St Ann's Head Low: report1880 says red; Findlay and Edwards say white.\n   - Point of Ayr (Flintshire): the red-sector bearings disagree.\n3. Undated or doubtful changes:\n   - Farne: the 20 s white-white-red came between 1884 and 1887.\n   - Breaksea: the end of the red riding light rests only on Edwards leaving it out.\n   - Flat Holm: occulting by 1884, then a second alteration in 1887.\n   - Bishop Rock: Findlay says 1886; check against the new apparatus on the heightened tower.\n   - Spurn high light, Plymouth Breakwater and Needles: occulting at some point 1879-84.\n4. Alterations announced for summer 1887 (Royal Sovereign: triple flash every 45 s; Beachy Head: 4 s flash every 15 s) are not in the states. Both stations reported only in 1886.\n5. Missing witnesses:\n   - Casquets and Hanois: no Findlay entries (Channel Islands section).\n   - Point of Ayr (Flintshire): no 1887 or Edwards witness, though the reports run to 1887.\n   - Dee L.V.: only Findlay 1887 (1883).\n6. Two-light stations where the keeper's tower matters: Happisburgh (low light given up 1884), Lowestoft (only the low light became occulting), Spurn, Dungeness, South Foreland, St Ann's, Nash.\n7. Lights shown only some of the time: Berwick low (tidal), Bideford low (half-flood to half-ebb), South Stack fog light (fog only).\n8. Light-vessel moves and sector changes that the keeper wouldn't see are recorded in what_changed but not counted as changes: Hasborough L.V. (1887), English & Welsh Grounds, Usk green sector, Nash red sectors, Landguard.",
+ "_meta": {
+  "group": "ENGLAND",
+  "run": 1,
+  "cost_usd": 1.5420582
+ }
+}

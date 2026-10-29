@@ -1,0 +1,642 @@
+{
+ "air.2m.1879.nc": {
+  "bytes": 1677126,
+  "path": "sources/reanalysis/air.2m.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "f431a54ce265c775605e9cd9c1bb5d870196b30a24edef9c8409d7ff989de1d3",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1879.nc"
+ },
+ "air.2m.1880.nc": {
+  "bytes": 1672015,
+  "path": "sources/reanalysis/air.2m.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "945e27d6c57d0b3a260792619df5f2078596ebb891d62072b383895c44d303dd",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1880.nc"
+ },
+ "air.2m.1881.nc": {
+  "bytes": 1686936,
+  "path": "sources/reanalysis/air.2m.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "b16aead9b3b4a95f8daa21a131f6dfb12a62c3af6b48b990b7fde7fe3cceaa44",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1881.nc"
+ },
+ "air.2m.1882.nc": {
+  "bytes": 1670679,
+  "path": "sources/reanalysis/air.2m.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "cf90a81ae45df397c0500c934c6a81315f768fef80857c35753b31226cb7132b",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1882.nc"
+ },
+ "air.2m.1883.nc": {
+  "bytes": 1670875,
+  "path": "sources/reanalysis/air.2m.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "20f4a38489535c6f4eb94c3a1bd345d9d161b9995ea85c0ee6e662f553244fee",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1883.nc"
+ },
+ "air.2m.1884.nc": {
+  "bytes": 1673944,
+  "path": "sources/reanalysis/air.2m.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "64cb0d93de4ec4deeb95d87f85d1fc44aa1de40912c26960a70b2b5011c9519c",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1884.nc"
+ },
+ "air.2m.1885.nc": {
+  "bytes": 1674273,
+  "path": "sources/reanalysis/air.2m.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "9d86301f4a5a477f80ce253a3d53b3535f4275520cdb35bed761e1cfd0f3437e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1885.nc"
+ },
+ "air.2m.1886.nc": {
+  "bytes": 1680787,
+  "path": "sources/reanalysis/air.2m.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "0f2cc5a13fbf3935dd4bea75815deb649a433dce76696572b7e1e96aeb0919cb",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1886.nc"
+ },
+ "air.2m.1887.nc": {
+  "bytes": 1684612,
+  "path": "sources/reanalysis/air.2m.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "19fb39f7e1883a2ed70bb172ad139f5bdc9984f6f861282985af08c40e9540c9",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1887.nc"
+ },
+ "air.2m.1888.nc": {
+  "bytes": 1688980,
+  "path": "sources/reanalysis/air.2m.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "b95b7a312087efb515b382e74c65dcb068b6545a438c9f69dff7a10e64b63749",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/air.2m.1888.nc"
+ },
+ "apcp.1879.nc": {
+  "bytes": 1060555,
+  "path": "sources/reanalysis/apcp.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c8562876f688cfc4a0baa543ec4cd247af2563bc641391123ec1340638d9ca64",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1879.nc"
+ },
+ "apcp.1880.nc": {
+  "bytes": 1026914,
+  "path": "sources/reanalysis/apcp.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "154c4a35439330b305e0c5b830480858ee36c319b87c04cf8453bec7c7fbd957",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1880.nc"
+ },
+ "apcp.1881.nc": {
+  "bytes": 1030198,
+  "path": "sources/reanalysis/apcp.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "7da0c606be8b8ad724be7e65f129bfa65ee2ac3b5149cccf5cbd2fa3c1f40340",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1881.nc"
+ },
+ "apcp.1882.nc": {
+  "bytes": 1074754,
+  "path": "sources/reanalysis/apcp.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "ba2f8a3e4526d7bc6943024f24e4646c26dff1ad887bcd18ed439b3d2ab6e55a",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1882.nc"
+ },
+ "apcp.1883.nc": {
+  "bytes": 1053572,
+  "path": "sources/reanalysis/apcp.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c550ef78e5526077b1f2bff039cd53724ceba2f60b6fe73ef101fc9d56018c4f",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1883.nc"
+ },
+ "apcp.1884.nc": {
+  "bytes": 1044414,
+  "path": "sources/reanalysis/apcp.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c7f644f461d3f79ef439ff9ac97f06e64220815b1d94a1032fcba150e3c99330",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1884.nc"
+ },
+ "apcp.1885.nc": {
+  "bytes": 1044907,
+  "path": "sources/reanalysis/apcp.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "247f42e5f8fd209a9738eeb1e5baa3f5538bf1188a05f05e829f5cc701dd31ec",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1885.nc"
+ },
+ "apcp.1886.nc": {
+  "bytes": 1073092,
+  "path": "sources/reanalysis/apcp.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "3d58811c3dc37d7301ce24fcb4af64c723070fc7479c89105d4bd90f2d776ef3",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1886.nc"
+ },
+ "apcp.1887.nc": {
+  "bytes": 973188,
+  "path": "sources/reanalysis/apcp.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "10c147d4f70eda833b13415ee57ac2134c86ad19515a154dc87141ea84f618ce",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1887.nc"
+ },
+ "apcp.1888.nc": {
+  "bytes": 1039219,
+  "path": "sources/reanalysis/apcp.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "b91a249ce68ec6261bbdf8f6331aee858ddc6578bfe4f9c8bcaaf7087ad8f84e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/accumsSI/apcp.1888.nc"
+ },
+ "prmsl.1879.nc": {
+  "bytes": 1381693,
+  "path": "sources/reanalysis/prmsl.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "d409eea29a77d14e42caef63296ee15912d37607428c98b6a8cb7c7951bd9004",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1879.nc"
+ },
+ "prmsl.1880.nc": {
+  "bytes": 1381777,
+  "path": "sources/reanalysis/prmsl.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "70a1b72b256ffa02e5abff7a4fe59cda0895602931dd290438baefda410781d5",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1880.nc"
+ },
+ "prmsl.1881.nc": {
+  "bytes": 1384261,
+  "path": "sources/reanalysis/prmsl.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "9a56ec6d51de159104d246e631a4026d91630289175dcfb503dcbde438c5d8e1",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1881.nc"
+ },
+ "prmsl.1882.nc": {
+  "bytes": 1385983,
+  "path": "sources/reanalysis/prmsl.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "1eaa8ad7b588aed509e39cb85dc555c766b7e92b37585bc28d22147968ec6f18",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1882.nc"
+ },
+ "prmsl.1883.nc": {
+  "bytes": 1385442,
+  "path": "sources/reanalysis/prmsl.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "60db9518ead6ab2a0d1fea677a9670961f05bdb9b17e0d999d0b7d13fa7916c6",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1883.nc"
+ },
+ "prmsl.1884.nc": {
+  "bytes": 1383200,
+  "path": "sources/reanalysis/prmsl.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c089e52b2dd1879687cf1c6b635e85838b839ef1806e2d96b8a94740a4d03478",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1884.nc"
+ },
+ "prmsl.1885.nc": {
+  "bytes": 1385248,
+  "path": "sources/reanalysis/prmsl.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "042ecdf4f3b57970714c5339d7345ca4a9e137a929a4af1d3157feefe6881241",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1885.nc"
+ },
+ "prmsl.1886.nc": {
+  "bytes": 1383727,
+  "path": "sources/reanalysis/prmsl.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "fcea4e61ca8ecab434039e6ec3f0ea91a278e50c69beb8890bad8025a2161a40",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1886.nc"
+ },
+ "prmsl.1887.nc": {
+  "bytes": 1378345,
+  "path": "sources/reanalysis/prmsl.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "e9329b86168c73247a3c8006548c2645038fbac633785629888de36b03243a18",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1887.nc"
+ },
+ "prmsl.1888.nc": {
+  "bytes": 1385419,
+  "path": "sources/reanalysis/prmsl.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "e68a2cb17675c5944447216b9d9fcb32a02007410d5baae3dee74698c54aa939",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/prmsl.1888.nc"
+ },
+ "rhum.2m.1879.nc": {
+  "bytes": 642215,
+  "path": "sources/reanalysis/rhum.2m.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "4a8d029b538ac893b6041d229b54ae341b08d2c1c53758d8b0de33404b588633",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1879.nc"
+ },
+ "rhum.2m.1880.nc": {
+  "bytes": 655774,
+  "path": "sources/reanalysis/rhum.2m.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "190dbcf272a96d60a4b2e5917e38b4bdd5c47efd60fa08833f1a05f22aace027",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1880.nc"
+ },
+ "rhum.2m.1881.nc": {
+  "bytes": 675276,
+  "path": "sources/reanalysis/rhum.2m.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "6a871fdfcf163f063b5fdb275fe0d5af39e2c3739fa85717ff376afa442390e1",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1881.nc"
+ },
+ "rhum.2m.1882.nc": {
+  "bytes": 653134,
+  "path": "sources/reanalysis/rhum.2m.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "8bac8eb5c6ea63e8b30c63d05ea0c43d12f66993bc7c4f2ebb669af57d322b2e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1882.nc"
+ },
+ "rhum.2m.1883.nc": {
+  "bytes": 662473,
+  "path": "sources/reanalysis/rhum.2m.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "d88fcab9fa1e2c2960381638835548249a29c61ccac1240856fd6564d27f3818",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1883.nc"
+ },
+ "rhum.2m.1884.nc": {
+  "bytes": 652140,
+  "path": "sources/reanalysis/rhum.2m.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c88e487dcdf70289a0c34db8f6bda08b9fdbd9bc5b07d3df732641ff8fe5a722",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1884.nc"
+ },
+ "rhum.2m.1885.nc": {
+  "bytes": 674372,
+  "path": "sources/reanalysis/rhum.2m.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c53829ab40e836bcc085b60eb9fe94bfff08661dc3f174f3f034b03dd5f91694",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1885.nc"
+ },
+ "rhum.2m.1886.nc": {
+  "bytes": 667600,
+  "path": "sources/reanalysis/rhum.2m.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "2a127fb00bcd0c73080387083ac6ec1a065eea94ec9f4a665d37ea7368e7151f",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1886.nc"
+ },
+ "rhum.2m.1887.nc": {
+  "bytes": 679013,
+  "path": "sources/reanalysis/rhum.2m.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "f5c0c972b1a6ed60ec9ff446d3a734ada048a83a8f3abddb06972c6b55038061",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1887.nc"
+ },
+ "rhum.2m.1888.nc": {
+  "bytes": 653340,
+  "path": "sources/reanalysis/rhum.2m.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "bbcdb6e07d7feecab2241720f337eb8f6db8ee4bfde2a807394191f657779566",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/2mSI/rhum.2m.1888.nc"
+ },
+ "tcdc.eatm.1879.nc": {
+  "bytes": 792514,
+  "path": "sources/reanalysis/tcdc.eatm.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "846f05ac9e0730bbce3663d05fbcdfd0dd74f7c10c9d7d2565c367b2d4712246",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1879.nc"
+ },
+ "tcdc.eatm.1880.nc": {
+  "bytes": 824444,
+  "path": "sources/reanalysis/tcdc.eatm.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "43e01f6858137449c1bba96fd46beb70d69eb39ade3566241527d712f1c3fb03",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1880.nc"
+ },
+ "tcdc.eatm.1881.nc": {
+  "bytes": 852196,
+  "path": "sources/reanalysis/tcdc.eatm.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "f44c11df4e9af9fd2bf0090c850019f936d420d6ee3c510d0448b83bb0080b24",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1881.nc"
+ },
+ "tcdc.eatm.1882.nc": {
+  "bytes": 790346,
+  "path": "sources/reanalysis/tcdc.eatm.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "ca981ddb9d13ba90d57c4c27d4a1d2fab19cc1f388274aa0955ad4202ce74bb4",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1882.nc"
+ },
+ "tcdc.eatm.1883.nc": {
+  "bytes": 856864,
+  "path": "sources/reanalysis/tcdc.eatm.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "ad52b9873b47ea813cd6dcdc0cfd8bb94176934a5e401d5f0b507ef323a27204",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1883.nc"
+ },
+ "tcdc.eatm.1884.nc": {
+  "bytes": 818077,
+  "path": "sources/reanalysis/tcdc.eatm.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "8596211d2d75337a14eecb6d92fe64fea8f1c74c4ac5245ac6cb5377bce5bf1d",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1884.nc"
+ },
+ "tcdc.eatm.1885.nc": {
+  "bytes": 843335,
+  "path": "sources/reanalysis/tcdc.eatm.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "646221ccf7614a4978d3fbd22304df8f6d14575c9c006a8e80b7f476fe02d94f",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1885.nc"
+ },
+ "tcdc.eatm.1886.nc": {
+  "bytes": 799820,
+  "path": "sources/reanalysis/tcdc.eatm.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "ef4372561436209fe9e1624cedb9007ad0cb7acd4828d95139f928dcd6e68bbe",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1886.nc"
+ },
+ "tcdc.eatm.1887.nc": {
+  "bytes": 792219,
+  "path": "sources/reanalysis/tcdc.eatm.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "24e5bc6bd6e6cdd6686a856521c4e69f3238e49a12a5acb62694085b62102f6b",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1887.nc"
+ },
+ "tcdc.eatm.1888.nc": {
+  "bytes": 778284,
+  "path": "sources/reanalysis/tcdc.eatm.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "9aca9b5ce13f41d4500d6c34ae2d942b4c6fd335ebbc3ac25c39e49d56173244",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/miscSI/tcdc.eatm.1888.nc"
+ },
+ "tcdc.lowcld.1879.nc": {
+  "bytes": 844127,
+  "path": "sources/reanalysis/tcdc.lowcld.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "b5d403c4bda7076a5a485138379fe3338a89f425a916982a669535b970a3864e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1879.nc"
+ },
+ "tcdc.lowcld.1880.nc": {
+  "bytes": 831831,
+  "path": "sources/reanalysis/tcdc.lowcld.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "3da7c7a9828270f016c2f1426760b178baeb00721f708106acf07d54f50b6e4e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1880.nc"
+ },
+ "tcdc.lowcld.1881.nc": {
+  "bytes": 839513,
+  "path": "sources/reanalysis/tcdc.lowcld.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "e4a0ca1b6d199a43cf77ba1fcb2ffbccbf296c1f27858096ee4dfb9313f3a34e",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1881.nc"
+ },
+ "tcdc.lowcld.1882.nc": {
+  "bytes": 838212,
+  "path": "sources/reanalysis/tcdc.lowcld.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "51d365b7058c7bf4f2f6aec451022f9012bb3c371d5e1c8f2386ff74fbbb2902",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1882.nc"
+ },
+ "tcdc.lowcld.1883.nc": {
+  "bytes": 844445,
+  "path": "sources/reanalysis/tcdc.lowcld.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "15321af006b73fdbb592779f5aa1e86179cb46d3541a6907ca3e8ef1cdfd0685",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1883.nc"
+ },
+ "tcdc.lowcld.1884.nc": {
+  "bytes": 840079,
+  "path": "sources/reanalysis/tcdc.lowcld.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "1bb8243806a7f19942cf62a4b14ef8fe18380cd645959d4dfd07023f4f6a75b7",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1884.nc"
+ },
+ "tcdc.lowcld.1885.nc": {
+  "bytes": 845782,
+  "path": "sources/reanalysis/tcdc.lowcld.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "93ece8ad47fa6a437330fb738f4af16392181f693176e4a8328618b9b15e84d8",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1885.nc"
+ },
+ "tcdc.lowcld.1886.nc": {
+  "bytes": 844156,
+  "path": "sources/reanalysis/tcdc.lowcld.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "9b86a3ba4953ef4cdfb9177d7b511736eac669e220e60adbac8de1a404f21bd4",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1886.nc"
+ },
+ "tcdc.lowcld.1887.nc": {
+  "bytes": 833587,
+  "path": "sources/reanalysis/tcdc.lowcld.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "032edd2c0e9b0607299d6f5208a3a39a08d920f138816f38c047123253313132",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1887.nc"
+ },
+ "tcdc.lowcld.1888.nc": {
+  "bytes": 837362,
+  "path": "sources/reanalysis/tcdc.lowcld.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "cab10bac093208fc59248ba43ded40894eeb6b6d116597a61eccfffa4e191d09",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/cldLyrSI/tcdc.lowcld.1888.nc"
+ },
+ "uwnd.10m.1879.nc": {
+  "bytes": 2763985,
+  "path": "sources/reanalysis/uwnd.10m.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "f8cfa7039d13abf23291e3cd74ef31a97e2fb9d786bd1922ffa15c6e0bf78135",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1879.nc"
+ },
+ "uwnd.10m.1880.nc": {
+  "bytes": 2745031,
+  "path": "sources/reanalysis/uwnd.10m.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "36c2c39fade9a351cca56453c4d8622da4d16d568f1c479e4eafc6c8ad7ffa63",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1880.nc"
+ },
+ "uwnd.10m.1881.nc": {
+  "bytes": 2745326,
+  "path": "sources/reanalysis/uwnd.10m.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "8b228f7e1b841e1e26db0ba1e9b93fc54c95f85b6cabda3298a49e3d03b7cd86",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1881.nc"
+ },
+ "uwnd.10m.1882.nc": {
+  "bytes": 2754070,
+  "path": "sources/reanalysis/uwnd.10m.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "1b0379e4727ef20464e7da7167841625a63abd36db494ca18cd6a3259c23c20b",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1882.nc"
+ },
+ "uwnd.10m.1883.nc": {
+  "bytes": 2746175,
+  "path": "sources/reanalysis/uwnd.10m.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c35626d1b04f326245d3b7c1244e61f216e26bd4332866c65ae48ec47067d182",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1883.nc"
+ },
+ "uwnd.10m.1884.nc": {
+  "bytes": 2730171,
+  "path": "sources/reanalysis/uwnd.10m.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c80646db36efbfb4f6cc68e9f814fa33954469f0cafd43fe160f06320ffc8f15",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1884.nc"
+ },
+ "uwnd.10m.1885.nc": {
+  "bytes": 2749241,
+  "path": "sources/reanalysis/uwnd.10m.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "e2bd68b972d3aa391708debb67fb79654669dc145eb98040c32c6bdbe7f86411",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1885.nc"
+ },
+ "uwnd.10m.1886.nc": {
+  "bytes": 2726639,
+  "path": "sources/reanalysis/uwnd.10m.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "5b7d6e93cbe80f8aaea7edfb723189fa9da6b195872b051a3542897e775fb443",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1886.nc"
+ },
+ "uwnd.10m.1887.nc": {
+  "bytes": 2725587,
+  "path": "sources/reanalysis/uwnd.10m.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "0999c1079a43a8f992e1ef7de5ad547be03d7d4a6b28cd815d255d939dbfe705",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1887.nc"
+ },
+ "uwnd.10m.1888.nc": {
+  "bytes": 2756264,
+  "path": "sources/reanalysis/uwnd.10m.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "13e09f7d30220dcfa7122f63e8d6852527f6acc1d420fdac06fd8a7363be5c62",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/uwnd.10m.1888.nc"
+ },
+ "vwnd.10m.1879.nc": {
+  "bytes": 2825490,
+  "path": "sources/reanalysis/vwnd.10m.1879.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "2d36aa71e42769063e1f44ef32e901997b509ee452c425870bd2e9780524e79a",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1879.nc"
+ },
+ "vwnd.10m.1880.nc": {
+  "bytes": 2808839,
+  "path": "sources/reanalysis/vwnd.10m.1880.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "ca758b91d3156ccde68d8269367e64afd226fe1e3351384f179d3f76bcf8bffc",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1880.nc"
+ },
+ "vwnd.10m.1881.nc": {
+  "bytes": 2820027,
+  "path": "sources/reanalysis/vwnd.10m.1881.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "857df8ffa2af6add576e6f089f7670e2178bcd45edf6ec226a7ac74cd5651338",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1881.nc"
+ },
+ "vwnd.10m.1882.nc": {
+  "bytes": 2812512,
+  "path": "sources/reanalysis/vwnd.10m.1882.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "24048c28237361ca24996f81f99046e6acd36ec60a3a4ef19b30e2357e96f9d9",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1882.nc"
+ },
+ "vwnd.10m.1883.nc": {
+  "bytes": 2808848,
+  "path": "sources/reanalysis/vwnd.10m.1883.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "567cea0584f7236839805cd668aefd9c1e3d7323400c11d60fa850181d68828d",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1883.nc"
+ },
+ "vwnd.10m.1884.nc": {
+  "bytes": 2810512,
+  "path": "sources/reanalysis/vwnd.10m.1884.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "39a696fba0efac59fe536fd3fe2290da7454d13d1393023b42173fccdac8ef28",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1884.nc"
+ },
+ "vwnd.10m.1885.nc": {
+  "bytes": 2807564,
+  "path": "sources/reanalysis/vwnd.10m.1885.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "5283b9738652cb4e8f6e990c0bbf4096489d23976b1dbb919827190ff79eb0cd",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1885.nc"
+ },
+ "vwnd.10m.1886.nc": {
+  "bytes": 2811172,
+  "path": "sources/reanalysis/vwnd.10m.1886.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "c5c7ce79d9ffe1d2ef58741478329c87ed746f6cf763c44080db7be8e71d5877",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1886.nc"
+ },
+ "vwnd.10m.1887.nc": {
+  "bytes": 2791838,
+  "path": "sources/reanalysis/vwnd.10m.1887.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "41203aee443e75c832a19e04db31f0bab0e723324201228ba73a124e4349a592",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1887.nc"
+ },
+ "vwnd.10m.1888.nc": {
+  "bytes": 2821136,
+  "path": "sources/reanalysis/vwnd.10m.1888.nc",
+  "retrieved": "2026-10-28",
+  "sha256": "b1cec75655a7be2390487f5187412ba288a25ca1ce95447f4872c02da9950dc0",
+  "slice": "lat 48.0..62.0, lon -12.0..10.0, all times",
+  "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/20thC_ReanV3/10mSI/vwnd.10m.1888.nc"
+ }
+}

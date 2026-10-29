@@ -1,0 +1,614 @@
+{
+ "rows": [
+  {
+   "image": "n85.jpg",
+   "printed": "3 * 81. Cape Wrath, Sutherland... III. 400 { W. Wither & H. Morrison.",
+   "number": "81",
+   "marks": "*",
+   "name": "Cape Wrath",
+   "type": null,
+   "place": "Sutherland",
+   "keepers": [
+    "W. Wither",
+    "H. Morrison."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 3; III.; Feet: 400 (one brace joins the two keepers)",
+   "coast": null,
+   "unsure": "The '&' after 'Wither' is partly cut off at the right edge of the page, but it can be read."
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "3 * 82. Rhu Stoir, Do. ...... II. 195 Wm. Wither.",
+   "number": "82",
+   "marks": "*",
+   "name": "Rhu Stoir",
+   "type": null,
+   "place": "Do.",
+   "keepers": [
+    "Wm. Wither."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 3; II.; Feet: 195",
+   "coast": null,
+   "unsure": null
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "5 83. Butt of Lewis ............... I. 170 { T. Edgar. A.Thompson.",
+   "number": "83",
+   "marks": null,
+   "name": "Butt of Lewis",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "T. Edgar.",
+    "A.Thompson."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; I.; Feet: 170 (one brace joins the two keepers)",
+   "coast": "Outer Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "3 84. Stornoway, 2 lights...... { II. I. }56 J. Grierson.",
+   "number": "84",
+   "marks": null,
+   "name": "Stornoway",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "J. Grierson."
+   ],
+   "character": null,
+   "other": "2 lights; Returns in 5 years: 3; II. / I. (braced, one numeral for each light); Feet: 56 (braced, for both)",
+   "coast": "Outer Hebrides",
+   "unsure": "There is a small stray mark (like 'ˇ') just before the brace in front of the class numerals. It looks like ink, not a printed sign."
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "3 85. Island of Ghlais ........... I. 130",
+   "number": "85",
+   "marks": null,
+   "name": "Island of Ghlais",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 3; I.; Feet: 130",
+   "coast": "Outer Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "5 * 86. Monach Isles ........... { I. II. 150 62 } J. Young- clause.",
+   "number": "86",
+   "marks": "*",
+   "name": "Monach Isles",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "J. Youngclause."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; I. / II. (braced, two lights); Feet: 150 / 62",
+   "coast": "Outer Hebrides",
+   "unsure": "The upper class numeral 'I.' is slightly damaged in the print, but it reads as I. The keeper's name is broken across two lines as 'J. Young-' / 'clause.' (a line-break hyphen). The notes on p. 76 call him 'Mr. Youngclause'."
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "2 87. Ushenish .................... VI. 176",
+   "number": "87",
+   "marks": null,
+   "name": "Ushenish",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; VI.; Feet: 176",
+   "coast": "Outer Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n85.jpg",
+   "printed": "1 * 88. Barra Head ..................... II. 683 Wm. Irvine.",
+   "number": "88",
+   "marks": "*",
+   "name": "Barra Head",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "Wm. Irvine."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 1; II.; Feet: 683",
+   "coast": "Outer Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "0 * 89. Rona, Skye ................. IV. 222 Frazer.",
+   "number": "89",
+   "marks": "*",
+   "name": "Rona",
+   "type": null,
+   "place": "Skye",
+   "keepers": [
+    "Frazer."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 0; IV.; Feet: 222",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "4 * 90. Kyleakin, Ross ............ IV. 53 D.M'Culloch.",
+   "number": "90",
+   "marks": "*",
+   "name": "Kyleakin",
+   "type": null,
+   "place": "Ross",
+   "keepers": [
+    "D.M'Culloch."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 4; IV.; Feet: 53",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 91. Isle of Ornsay, Skye ...... I. 58",
+   "number": "91",
+   "marks": null,
+   "name": "Isle of Ornsay",
+   "type": null,
+   "place": "Skye",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; I.; Feet: 58",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 92. Ardnamurchan ............ I.",
+   "number": "92",
+   "marks": null,
+   "name": "Ardnamurchan",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; I.; Feet: none printed",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 { 93. Hynish Signal Tower, Tyree.................. } II. 150 T. Dawson.",
+   "number": "93",
+   "marks": "brace",
+   "name": "Hynish Signal Tower",
+   "type": null,
+   "place": "Tyree",
+   "keepers": [
+    "T. Dawson."
+   ],
+   "character": null,
+   "other": "Braced with 94 Skerryvore. The returns figure 5 (left brace) and II., 150 and T. Dawson. (right brace) are each printed once for the pair; nothing is printed on 93's own line. Returns in 5 years: 5; II.; Feet: 150",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": "There is a tiny mark just after the top of the left brace, before '93.'. It is probably stray ink, not an asterisk."
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 { * 94. Skerryvore, off Tyree... } II. 150 T. Dawson.",
+   "number": "94",
+   "marks": "*, brace",
+   "name": "Skerryvore",
+   "type": null,
+   "place": "off Tyree",
+   "keepers": [
+    "T. Dawson."
+   ],
+   "character": null,
+   "other": "Braced with 93 Hynish Signal Tower, which shares the returns figure 5, II., 150 and T. Dawson. Returns in 5 years: 5; II.; Feet: 150",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 * 95. Dhuheartach, S. of Ross of Mull ................. } I. 146 W. Davidson.",
+   "number": "95",
+   "marks": "*",
+   "name": "Dhuheartach",
+   "type": null,
+   "place": "S. of Ross of Mull",
+   "keepers": [
+    "W. Davidson."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; I.; Feet: 146 (a brace joins the two-line name to the values)",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 96. Sound of Mull.............. V. 55 W. McLellan.",
+   "number": "96",
+   "marks": null,
+   "name": "Sound of Mull",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "W. McLellan."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; V.; Feet: 55",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "0 97. Corran Ferry, Loch Eil ... IV. 38",
+   "number": "97",
+   "marks": null,
+   "name": "Corran Ferry",
+   "type": null,
+   "place": "Loch Eil",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 0; IV.; Feet: 38",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "4 98. Lismore I., Oban............ I. 103",
+   "number": "98",
+   "marks": null,
+   "name": "Lismore I.",
+   "type": null,
+   "place": "Oban",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 4; I.; Feet: 103",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 99. Fladda, Easdale ............ VI. 42",
+   "number": "99",
+   "marks": null,
+   "name": "Fladda",
+   "type": null,
+   "place": "Easdale",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; VI.; Feet: 42",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "3 *100. Rhuvaal, Islay ............ IV. 147 G. Boreham.",
+   "number": "100",
+   "marks": "*",
+   "name": "Rhuvaal",
+   "type": null,
+   "place": "Islay",
+   "keepers": [
+    "G. Boreham."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 3; IV.; Feet: 147",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "4 *101. M'Arthur's Head............ IV. 128 Wm. Maill.",
+   "number": "101",
+   "marks": "*",
+   "name": "M'Arthur's Head",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "Wm. Maill."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 4; IV.; Feet: 128",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 *102. Skervuile, Jura ............ II. 73 John Ewing.",
+   "number": "102",
+   "marks": "*",
+   "name": "Skervuile",
+   "type": null,
+   "place": "Jura",
+   "keepers": [
+    "John Ewing."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; II.; Feet: 73",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 103. Rhinns of Islay ............ IV. 159 P. Anderson.",
+   "number": "103",
+   "marks": null,
+   "name": "Rhinns of Islay",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "P. Anderson."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 5; IV.; Feet: 159",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 104. Lochindaul .................. IV. 50",
+   "number": "104",
+   "marks": null,
+   "name": "Lochindaul",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; IV.; Feet: 50",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "0 105. Mull of Kintyre ............ VI. 297",
+   "number": "105",
+   "marks": null,
+   "name": "Mull of Kintyre",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 0; VI.; Feet: 297",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": "The returns figure is faint and a little open at the top, so it looks somewhat like a 'U', but it is 0."
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "0 106. Devaar, off Kintyre ...... II. 120",
+   "number": "106",
+   "marks": null,
+   "name": "Devaar",
+   "type": null,
+   "place": "off Kintyre",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 0; II.; Feet: 120",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "0 107. Pladda, Arran............... II. 130",
+   "number": "107",
+   "marks": null,
+   "name": "Pladda",
+   "type": null,
+   "place": "Arran",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 0; II.; Feet: 130",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 *108. Lamlash ...................... IV. 46 D. M. Scott.",
+   "number": "108",
+   "marks": "*",
+   "name": "Lamlash",
+   "type": null,
+   "place": null,
+   "keepers": [
+    "D. M. Scott."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 2; IV.; Feet: 46",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 109. Turnberry, Ayrshire ...... IV. 96 Andr. Nisbet.",
+   "number": "109",
+   "marks": null,
+   "name": "Turnberry",
+   "type": null,
+   "place": "Ayrshire",
+   "keepers": [
+    "Andr. Nisbet."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 2; IV.; Feet: 96",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "4 *110. Corsewall, Wigtonshire ... IV. 112 R. Laidlaw.",
+   "number": "110",
+   "marks": "*",
+   "name": "Corsewall",
+   "type": null,
+   "place": "Wigtonshire",
+   "keepers": [
+    "R. Laidlaw."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 4; IV.; Feet: 112",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 111. Loch Ryan, do. ...... I. 46",
+   "number": "111",
+   "marks": null,
+   "name": "Loch Ryan",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 5; I.; Feet: 46",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "5 112. Portpatrick, do. ...... I. 37",
+   "number": "112",
+   "marks": null,
+   "name": "Portpatrick",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 5; I.; Feet: 37",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "4 *113. Mull of Galloway, do. ...... II. 325 Alx. Murray.",
+   "number": "113",
+   "marks": "*",
+   "name": "Mull of Galloway",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Alx. Murray."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 4; II.; Feet: 325",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "1 *114. Little Ross, Kircudbright . IV. 175 Jas. Ferrier.",
+   "number": "114",
+   "marks": "*",
+   "name": "Little Ross",
+   "type": null,
+   "place": "Kircudbright",
+   "keepers": [
+    "Jas. Ferrier."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: 1; IV.; Feet: 175",
+   "coast": "Mainland, Skye, and Inner Hebrides",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "3 115. Point of Ayre, I. of Man . III. 106",
+   "number": "115",
+   "marks": null,
+   "name": "Point of Ayre",
+   "type": null,
+   "place": "I. of Man",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 3; III.; Feet: 106",
+   "coast": "Isle of Man",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 116. Douglas Head, do... I. 104",
+   "number": "116",
+   "marks": null,
+   "name": "Douglas Head",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; I.; Feet: 104",
+   "coast": "Isle of Man",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "*117. Chickens Rock, do... II. 122",
+   "number": "117",
+   "marks": "*",
+   "name": "Chickens Rock",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: no figure printed; II.; Feet: 122",
+   "coast": "Isle of Man",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "2 118. Bahama Bank (L.V.), do... ? ?",
+   "number": "118",
+   "marks": null,
+   "name": "Bahama Bank",
+   "type": "L.V.",
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Returns in 5 years: 2; ? (class); Feet: ?",
+   "coast": "Isle of Man",
+   "unsure": null
+  },
+  {
+   "image": "n86.jpg",
+   "printed": "*119. Langness, do... ? ? Robt. Clyne.",
+   "number": "119",
+   "marks": "*",
+   "name": "Langness",
+   "type": null,
+   "place": "do.",
+   "keepers": [
+    "Robt. Clyne."
+   ],
+   "character": null,
+   "other": "Returns in 5 years: no figure printed; ? (class); Feet: ?",
+   "coast": "Isle of Man",
+   "unsure": null
+  }
+ ],
+ "notes": "WHERE IT IS: The list starts on n85.jpg (p. 74, rows 81–88) and continues on n86.jpg (p. 75, rows 89–119). n83 (p. 72) and n84 (p. 73) are East Coast text. n87 (p. 76) is 'Notes from the Stations'. The section heading is WEST COAST OF SCOTLAND. Rows 81–82 come straight under 'List of Stations', with no sub-heading, so their coast is null. The sub-headings, printed in small caps, are 'Outer Hebrides.' (83–88), 'Mainland, Skye, and Inner Hebrides.' (89–114) and 'Isle of Man.' (115–119). There are 39 stations, numbered 81–119.\n\nCOLUMNS: Returns in 5 years; * (sent returns in 1884); number; name and place; a class numeral I.–VI. (the 'value and brilliancy' the lead-in mentions); Feet (height); keeper. There is no flash or colour description, so character is null everywhere. I put the class numeral in 'other' rather than in character, because it is a rank, not a light's character. In 'printed', the leader dots are approximate and the braces are shown as { }. No station name is in italics. Only Bahama Bank has a type, '(L.V.)', printed in small caps. No row prints 'L.H.'.\n\nCORRECTIONS TO THE OTHER READER'S DESCRIPTION: There is no Sanda in this list. Row 105 is 'Mull of Kintyre', VI., 297 feet. Rows with no feet printed are 92 Ardnamurchan and 93 Hynish (93's values sit on the brace it shares with 94). 118 Bahama Bank and 119 Langness print '?' for both class and feet. 117 Chickens Rock and 119 Langness have no returns figure.\n\nBRACES: Hynish Signal Tower (93) and Skerryvore (94) are braced together. A single '5' on the left and a single 'II. 150 T. Dawson.' on the right serve both lines, so I gave both rows those values. Only 94 has the asterisk. Make sure T. Dawson counts as one keeper on the roll, not two. Within single stations, braces also group: two keepers at Cape Wrath (81) and at Butt of Lewis (83); two class numerals with one height at Stornoway (84, '2 lights'); and two numerals with two heights at Monach Isles (86).\n\nCOPIED AS PRINTED (not corrected):\n- Kircudbright: modern Kirkcudbright.\n- Wigtonshire: a period spelling.\n- Chickens Rock: no apostrophe.\n- Lochindaul: Loch Indaal.\n- Island of Ghlais: Eilean Glas, Scalpay.\n- Dhuheartach: Dubh Artach.\n- Devaar: Davaar.\n- Rhuvaal: Rubh' a' Mhail.\n- Skervuile.\n- Tyree: Tiree.\n- 'A.Thompson.' is printed with no space.\n- 'D.M'Culloch.' is printed with no space. The notes on p. 76 spell it 'Mr. McCulloch, Kyleakin'.\n- 'J. Young-/clause.' is hyphenated across a line break. I joined it as 'J. Youngclause.'. The notes say he has since moved to an East Coast station.\n- 'Frazer.' is a surname only.\n\nI kept each keeper's final full stop as printed; strip it when building the roll if you want. 'Do.'/'do.' is kept as the place: 82 = Sutherland; 111–113 = Wigtonshire; 116–119 = I. of Man. The same keeper Wither is printed 'W. Wither' at 81 and 'Wm. Wither.' at 82, and the notes call Rhu Stoir 'Stoir Head'. 'Lismore I.' is taken as the name and 'Oban' as the place. 'Stornoway, 2 lights': the name is Stornoway, and '2 lights' is in other.\n\nINCONSISTENCIES IN THE PRINT:\n- The lead-in says schedules went to thirty-four stations, but 39 are listed.\n- It says returns came from fifteen, but 17 rows carry the asterisk.\n- 89 Rona shows '0' returns in 5 years yet is starred, and the notes on p. 76 quote a 1884 Rona return. So the 0 looks like a slip.\n- 117 and 119 are starred but have no returns figure.\n- 96 (Sound of Mull), 103 and 109 name keepers but have no asterisk.",
+ "_meta": {
+  "year": 1884,
+  "list": 3,
+  "run": 2,
+  "images": [
+   "cache/scans/1884/n83.jpg",
+   "cache/scans/1884/n84.jpg",
+   "cache/scans/1884/n85.jpg",
+   "cache/scans/1884/n86.jpg",
+   "cache/scans/1884/n87.jpg"
+  ],
+  "ocr_first_line": 4854,
+  "ocr_last_line": 5062,
+  "section": "WEST COAST OF SCOTLAND.",
+  "kind": "section",
+  "cost_usd": 0.4586226
+ }
+}

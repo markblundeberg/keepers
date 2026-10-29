@@ -1,0 +1,136 @@
+{
+ "flags": [
+  {
+   "id": "10:behaviour",
+   "kind": "extraction",
+   "right_value": "caught",
+   "why": "Text says this Nightjar was \"the first ever captured or seen here, and sent to me\", so it was in hand; 'caught' is more specific than 'seen'."
+  },
+  {
+   "id": "10:weather",
+   "kind": "extraction",
+   "right_value": "thick haze, approaching to fog, with a continuous downpour of rain",
+   "why": "The text's weather runs on: \"approaching to fog, with a continuous downpour of rain; wind S.E.\" The extractor dropped the rain."
+  },
+  {
+   "id": "12:behaviour",
+   "kind": "extraction",
+   "right_value": "settled",
+   "why": "The Gutenberg text has it too: \"came from north, stopped on island.\" The extractor stopped the quote short; 'stopped on island' is settled."
+  },
+  {
+   "id": "17:station",
+   "kind": "extraction",
+   "right_value": null,
+   "why": "\"During the first two weeks of October Wild Ducks are reported as passing\" is a general summary; \"At Morecambe\" belongs to the previous sentence."
+  },
+  {
+   "id": "31:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"Great numbers of Larks ... from 2 to 5 a.m.\" is rightly 'seen'; \"great numbers struck\" is its own observation (as in Example 1), not a fix to this one."
+  },
+  {
+   "id": "35:time",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The transcription reads \"11.80\na.m.\" and the record copies it exactly; the print has 11.30."
+  },
+  {
+   "id": "44:wind",
+   "kind": "extraction",
+   "right_value": "N. by E.",
+   "why": "From \"mod. N. by E. breeze\", wind is the bearing; the extractor splits force out elsewhere (67, 69)."
+  },
+  {
+   "id": "44:force",
+   "kind": "extraction",
+   "right_value": "mod.",
+   "why": "\"mod. N. by E. breeze\": \"mod.\" is the force and belongs in force, not lumped into wind."
+  },
+  {
+   "id": "51:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"From the same station\": \"Skerries\" appears in neither the chunk nor the given context, so null is right by the rules."
+  },
+  {
+   "id": "57:at_light",
+   "kind": "extraction",
+   "right_value": "false",
+   "why": "\"caught at lighthouse\": the rules separate the lighthouse from the lantern or light; neither the lantern nor the light is named."
+  },
+  {
+   "id": "58:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"flying N.E. to land, 2 p.m., ... two young ones struck lantern\": whether the entry's 2 p.m. also covers the striking is a reading of how far the time reaches."
+  },
+  {
+   "id": "60:wind",
+   "kind": "extraction",
+   "right_value": "E.S.E.",
+   "why": "\"strong E.S.E. breeze\": the wind is the bearing; \"strong\" goes in force."
+  },
+  {
+   "id": "60:force",
+   "kind": "extraction",
+   "right_value": "strong",
+   "why": "\"strong E.S.E. breeze\": force is stated, so null is wrong."
+  },
+  {
+   "id": "67:force",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"mod. W.N.W. gale\": \"mod.\" alone drops the gale, but \"mod. gale\" isn't an unbroken string in the text, so the rules allow either."
+  },
+  {
+   "id": "69:force",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"fresh E.S.E. gale\": \"fresh gale\" isn't an unbroken string in the text, and \"fresh\" alone drops the gale; same split problem as 67."
+  },
+  {
+   "id": "80:wind",
+   "kind": "extraction",
+   "right_value": "N.",
+   "why": "\"fresh N. breeze\": the wind is the bearing; \"fresh\" goes in force."
+  },
+  {
+   "id": "80:force",
+   "kind": "extraction",
+   "right_value": "fresh",
+   "why": "\"fresh N. breeze\": force is stated, so null is wrong."
+  },
+  {
+   "id": "82:force",
+   "kind": "extraction",
+   "right_value": "fresh",
+   "why": "\"one killed, fresh E.S.E. breeze\": force is \"fresh\" (and wind should be \"E.S.E.\")."
+  },
+  {
+   "id": "90:at_light",
+   "kind": "extraction",
+   "right_value": "false",
+   "why": "\"On one occasion a monster pie ... contained two hundred Larks\" is a separate occasion; the text doesn't tie these Larks to the light."
+  },
+  {
+   "id": "94:count",
+   "kind": "extraction",
+   "right_value": "large flights",
+   "why": "\"large flights of\nRooks rest here ... remain to be caught\": the count is printed and is inside the quote."
+  },
+  {
+   "id": "98:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"a few Sea Gulls each day\": 'each day' is how often more than a time of day; either reading fits the rules."
+  }
+ ],
+ "_meta": {
+  "year": 1881,
+  "run": 1,
+  "cost_usd": 0.4420066,
+  "n_flags": 21
+ }
+}

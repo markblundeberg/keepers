@@ -1,0 +1,1407 @@
+{
+ "items": [
+  {
+   "n": 59,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": "'Arklow Bank, South' = Arklow South light-ship; Arklow North isn't listed until 1883."
+  },
+  {
+   "n": 60,
+   "kind": "station",
+   "ids": [
+    "arklow-north-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 61,
+   "kind": "station",
+   "ids": [
+    "arklow-north-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 62,
+   "kind": "station",
+   "ids": [
+    "arklow-north-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 63,
+   "kind": "station",
+   "ids": [
+    "arklow-north-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 64,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 65,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 66,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 67,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 68,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 69,
+   "kind": "stations",
+   "ids": [
+    "arklow-north-lv",
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: this is one ship, not both. No station is called 'Arklow West'; the printed West is a misprint for North or South. Check the 1884 page, e.g. the order of entries and which ship already has its own entry under that species."
+  },
+  {
+   "n": 70,
+   "kind": "stations",
+   "ids": [
+    "eeragh",
+    "inisheer"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: this is one station, not both. 'Arran Island' has no N./S. qualifier; the qualifier may have been lost in a line break. In 1886 the other Arran items are all North, so Eeragh is more likely. It is not Arranmore, which is printed as 'Arranmore'."
+  },
+  {
+   "n": 74,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 76,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 77,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 78,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 80,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 82,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 83,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 95,
+   "kind": "place",
+   "ids": [],
+   "place": "Ballina, Co. Mayo",
+   "note": "Historical record (1875) in the commentary."
+  },
+  {
+   "n": 107,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 108,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 109,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 110,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 111,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 112,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 113,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 146,
+   "kind": "station",
+   "ids": [
+    "blackrock-mayo"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 148,
+   "kind": "station",
+   "ids": [
+    "blackrock-mayo"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 149,
+   "kind": "station",
+   "ids": [
+    "blacksod-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 182,
+   "kind": "place",
+   "ids": [],
+   "place": "Bull Rock, off Dursey Island, Co. Cork",
+   "note": "Bull Rock lighthouse didn't open until 1889. In 1883 the temporary light was on Dursey Island. This is probably the Dursey keeper describing birds on the Bull Rock ('several hundred'). Check whether these observations belong to the dursey-island section."
+  },
+  {
+   "n": 237,
+   "kind": "station",
+   "ids": [
+    "clare-island"
+   ],
+   "place": null,
+   "note": "OCR garble of 'Clare Island'."
+  },
+  {
+   "n": 250,
+   "kind": "station",
+   "ids": [
+    "coningbeg-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 251,
+   "kind": "station",
+   "ids": [
+    "coningbeg-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 252,
+   "kind": "station",
+   "ids": [
+    "coningbeg-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 253,
+   "kind": "station",
+   "ids": [
+    "coningbeg-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 254,
+   "kind": "station",
+   "ids": [
+    "coningbeg-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 255,
+   "kind": "station",
+   "ids": [
+    "copeland"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 265,
+   "kind": "place",
+   "ids": [],
+   "place": "Corclough Lake, near Belmullet, Co. Mayo",
+   "note": "Corclough is a townland in Erris, near Belmullet. The lake is probably the one mentioned by a Mayo station (Blacksod/Broadhaven/Eagle Island). The exact location is unverified."
+  },
+  {
+   "n": 268,
+   "kind": "place",
+   "ids": [],
+   "place": "Cow Rock, off Dursey Island, Co. Cork",
+   "note": "Cow Rock is one of the Bull, Cow and Calf rocks. 'A few also breed' is a breeding remark, probably from the Dursey Island keeper."
+  },
+  {
+   "n": 309,
+   "kind": "place",
+   "ids": [],
+   "place": "Dublin, Co. Dublin",
+   "note": "Historical record (1843)."
+  },
+  {
+   "n": 317,
+   "kind": "place",
+   "ids": [],
+   "place": "Dunmore East, Co. Waterford",
+   "note": "Historical specimen (1877)."
+  },
+  {
+   "n": 319,
+   "kind": "station",
+   "ids": [
+    "ballinacourty"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 324,
+   "kind": "station",
+   "ids": [
+    "ballinacourty"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 327,
+   "kind": "station",
+   "ids": [
+    "dursey-island"
+   ],
+   "place": null,
+   "note": "'Dursey Head' = the temporary Dursey Island light, which is listed in 1882."
+  },
+  {
+   "n": 331,
+   "kind": "stations",
+   "ids": [
+    "eagle-island-east",
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: no E./W. qualifier, and both lights stand on Eagle Island. Specimen and commentary references ('A Wren in the flesh from Eagle Island'). Check the specimen lists for E. or W."
+  },
+  {
+   "n": 332,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'#' is the usual OCR of 'E.' here (cf. 'Hagle'/'Kagle' for Eagle)."
+  },
+  {
+   "n": 333,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'#.' read as 'E.'"
+  },
+  {
+   "n": 334,
+   "kind": "stations",
+   "ids": [
+    "eagle-island-east",
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: the qualifier was lost in OCR ('Eagle Island, .'). One station, not both. Check the 1886 page."
+  },
+  {
+   "n": 335,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'H' read as 'E' (same OCR error as 'Hagle')."
+  },
+  {
+   "n": 336,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'H.' read as 'E.'"
+  },
+  {
+   "n": 337,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'Kast' = East."
+  },
+  {
+   "n": 338,
+   "kind": "stations",
+   "ids": [
+    "eagle-island-east",
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: 'S.' is not a qualifier Eagle Island has; it is probably a misread of E. One station, not both. Check the 1885 page."
+  },
+  {
+   "n": 339,
+   "kind": "stations",
+   "ids": [
+    "eagle-island-east",
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": "Commentary about the island ('the wren is resident on Eagle Islands'), so both lights are meant. Could equally be treated as a place."
+  },
+  {
+   "n": 424,
+   "kind": "station",
+   "ids": [
+    "fastnet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 425,
+   "kind": "station",
+   "ids": [
+    "fastnet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 477,
+   "kind": "place",
+   "ids": [],
+   "place": "Glaslough, Co. Monaghan",
+   "note": null
+  },
+  {
+   "n": 508,
+   "kind": "station",
+   "ids": [
+    "skellig-michael"
+   ],
+   "place": null,
+   "note": "Great Skellig = Skellig Michael, the station island."
+  },
+  {
+   "n": 520,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 521,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'H' read as 'E'."
+  },
+  {
+   "n": 522,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'L' read as 'E' (cf. 'Lagle'). Fairly but not fully certain."
+  },
+  {
+   "n": 523,
+   "kind": "station",
+   "ids": [
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 600,
+   "kind": "station",
+   "ids": [
+    "baily"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 630,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 632,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 633,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 639,
+   "kind": "place",
+   "ids": [],
+   "place": "Inishvickillane, Blasket Islands, Co. Kerry",
+   "note": "Breeding remark; probably from the Tearaght keeper."
+  },
+  {
+   "n": 640,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 641,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 642,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 655,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'#.' read as 'E.'"
+  },
+  {
+   "n": 668,
+   "kind": "station",
+   "ids": [
+    "rotten-island"
+   ],
+   "place": null,
+   "note": "Killybegs."
+  },
+  {
+   "n": 670,
+   "kind": "place",
+   "ids": [],
+   "place": "Kilkeel, Co. Down",
+   "note": null
+  },
+  {
+   "n": 691,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 692,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 693,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 694,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 695,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 696,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 697,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 698,
+   "kind": "station",
+   "ids": [
+    "rotten-island"
+   ],
+   "place": null,
+   "note": "Killybegs."
+  },
+  {
+   "n": 700,
+   "kind": "station",
+   "ids": [
+    "rotten-island"
+   ],
+   "place": null,
+   "note": "Killybegs."
+  },
+  {
+   "n": 704,
+   "kind": "station",
+   "ids": [
+    "eagle-island-east"
+   ],
+   "place": null,
+   "note": "'H' read as 'E'."
+  },
+  {
+   "n": 705,
+   "kind": "station",
+   "ids": [
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 732,
+   "kind": "station",
+   "ids": [
+    "barrels-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 755,
+   "kind": "place",
+   "ids": [],
+   "place": "Little Skellig, Co. Kerry",
+   "note": "A gannetry, separate from the station on Skellig Michael. The keeper there probably reported it."
+  },
+  {
+   "n": 769,
+   "kind": "place",
+   "ids": [],
+   "place": "Little Skellig, Co. Kerry",
+   "note": "As n 755."
+  },
+  {
+   "n": 785,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 823,
+   "kind": "station",
+   "ids": [
+    "broadhaven"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 834,
+   "kind": "station",
+   "ids": [
+    "maidens-north"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 845,
+   "kind": "place",
+   "ids": [],
+   "place": "Mew Island, Copeland Islands, Co. Down",
+   "note": "In 1882-83 the Copeland light was still on Lighthouse (Cross) Island; it moved to Mew Island in 1884. The example ('this island and Mew Island') treats Mew as a different island from the station's. Check all 5 observations: any that are really the station's own records should go to copeland."
+  },
+  {
+   "n": 852,
+   "kind": "station",
+   "ids": [
+    "mine-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 916,
+   "kind": "place",
+   "ids": [],
+   "place": "Newcastle, Co. Wicklow",
+   "note": null
+  },
+  {
+   "n": 920,
+   "kind": "place",
+   "ids": [],
+   "place": "Newry, Co. Down",
+   "note": null
+  },
+  {
+   "n": 922,
+   "kind": "station",
+   "ids": [],
+   "place": null,
+   "note": "UNRESOLVED. 'Niiyband' (1884) is probably an OCR garble of '<X> Island' ('band' < 'Island'), possibly Tory Island. Read the page image."
+  },
+  {
+   "n": 938,
+   "kind": "station",
+   "ids": [
+    "maidens-north"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 957,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland, England",
+   "note": "A cross-reference in Irish-coast commentary."
+  },
+  {
+   "n": 981,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 983,
+   "kind": "station",
+   "ids": [
+    "fastnet"
+   ],
+   "place": null,
+   "note": "LOW CONFIDENCE: 'Pasta!' read as a garble of 'Fastnet' (P/F, ! for t). Check the 1884 page."
+  },
+  {
+   "n": 1016,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1017,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1019,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1020,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1021,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1040,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1041,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1042,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1043,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1057,
+   "kind": "station",
+   "ids": [],
+   "place": null,
+   "note": "UNRESOLVED. 'Rowe' (1886, gulls in a storm) doesn't match any Irish station. It may be a truncated or garbled name. Read the page image."
+  },
+  {
+   "n": 1104,
+   "kind": "station",
+   "ids": [
+    "skellig-michael"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1115,
+   "kind": "stations",
+   "ids": [
+    "slyne-head-north",
+    "slyne-head-south"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: no N./S. qualifier, and both are listed in 1886. One station, not both. Check the 1886 page."
+  },
+  {
+   "n": 1116,
+   "kind": "station",
+   "ids": [
+    "slyne-head-north"
+   ],
+   "place": null,
+   "note": "'No he' read as North."
+  },
+  {
+   "n": 1117,
+   "kind": "station",
+   "ids": [
+    "slyne-head-south"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1155,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "See the Maidens problem in notes: maidens-south is 'seen' only in 1887, but 'South Maidens' reports run 1882-87."
+  },
+  {
+   "n": 1156,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "As n 1155."
+  },
+  {
+   "n": 1157,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "As n 1155."
+  },
+  {
+   "n": 1158,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "As n 1155."
+  },
+  {
+   "n": 1198,
+   "kind": "place",
+   "ids": [],
+   "place": "St John's Point, Co. Down",
+   "note": "A lighthouse ('struck lantern') that isn't in the scheme's lists; the skin was sent in. St John's Point, Co. Donegal also had a light, but Co. Down is more likely. Check."
+  },
+  {
+   "n": 1230,
+   "kind": "station",
+   "ids": [
+    "straw-island"
+   ],
+   "place": null,
+   "note": "OCR garble of 'Straw Island'."
+  },
+  {
+   "n": 1231,
+   "kind": "station",
+   "ids": [
+    "straw-island"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1252,
+   "kind": "station",
+   "ids": [
+    "inishtearaght"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1253,
+   "kind": "station",
+   "ids": [
+    "inishtearaght"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1254,
+   "kind": "station",
+   "ids": [
+    "inishtearaght"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1277,
+   "kind": "station",
+   "ids": [
+    "tory-island"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1287,
+   "kind": "station",
+   "ids": [
+    "tuskar-rock"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1302,
+   "kind": "station",
+   "ids": [
+    "valentia"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1316,
+   "kind": "place",
+   "ids": [],
+   "place": "Westport, Co. Mayo",
+   "note": null
+  },
+  {
+   "n": 1367,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1368,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1369,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1370,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1371,
+   "kind": "station",
+   "ids": [
+    "arklow-south-lv"
+   ],
+   "place": null,
+   "note": "'Arrow' = Arklow."
+  },
+  {
+   "n": 1372,
+   "kind": "station",
+   "ids": [
+    "blackrock-mayo"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1373,
+   "kind": "station",
+   "ids": [
+    "blacksod-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1379,
+   "kind": "stations",
+   "ids": [
+    "eagle-island-east",
+    "eagle-island-west"
+   ],
+   "place": null,
+   "note": "AMBIGUOUS: a specimen note with no E./W. qualifier. One station, not both. Check the 1885 specimen list."
+  },
+  {
+   "n": 1393,
+   "kind": "station",
+   "ids": [
+    "kish-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1394,
+   "kind": "station",
+   "ids": [
+    "inishtrahull"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1398,
+   "kind": "station",
+   "ids": [
+    "maidens-north"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1400,
+   "kind": "station",
+   "ids": [
+    "maidens-north"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1401,
+   "kind": "station",
+   "ids": [
+    "maidens-north"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1402,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1404,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1411,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "As n 1155."
+  },
+  {
+   "n": 1421,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "An unnamed lake near the reporting station; it can't be resolved to a named place."
+  },
+  {
+   "n": 1425,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1439,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1440,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1441,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1442,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1443,
+   "kind": "station",
+   "ids": [
+    "rathlin-obirne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1444,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1447,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1448,
+   "kind": "station",
+   "ids": [
+    "rockabill"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1449,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1492,
+   "kind": "station",
+   "ids": [
+    "fastnet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1503,
+   "kind": "place",
+   "ids": [],
+   "place": "Saltee Islands, Co. Wexford",
+   "note": "Probably reported from Coningbeg light-ship or Barrels."
+  },
+  {
+   "n": 1508,
+   "kind": "station",
+   "ids": [
+    "inishtearaght"
+   ],
+   "place": null,
+   "note": "Breeding note (Fork-tailed Petrel) from the station island."
+  },
+  {
+   "n": 1524,
+   "kind": "station",
+   "ids": [
+    "arklow-north-lv"
+   ],
+   "place": null,
+   "note": "'tie North Light-ship' = 'the North Light-ship'. Arklow North is the only Irish ship called North. Check the 1884 context."
+  },
+  {
+   "n": 1526,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Ireland",
+   "note": "A general region, not a point."
+  }
+ ],
+ "notes": "What to check:\n1. Maidens (most important; affects 197 observations). 'South Maidens' observations run from 1882 to 1887, but stations.json has maidens-south seen only in 1887. For 1881-86 it puts the single listed 'Maidens' under maidens-north. I resolved South Maidens to maidens-south throughout, going by the name. Either maidens-south's 'seen' years are too narrow, or the earlier 'Maidens' list entry is really the south tower. Check the station lists for 1881-86.\n2. Ambiguous items, resolved as 'stations' with the possible candidates. Each is ONE station, not several, so don't count them as joint observations: n 69 (Arklow 'West'), 70 (Arran Island, no qualifier), 331, 334, 338, 1379 (Eagle Island, qualifier missing, or 'S.' which it doesn't have), 1115 (Slyne Head 1886, no qualifier). n 339 is commentary about the whole of Eagle Island, so both lights really are meant there.\n3. Eagle Island OCR. I read '#', 'H' and 'L' after 'Eagle Island,' as 'E.' (n 332, 333, 335, 336, 520-522, 655, 704). This follows the 'Hagle/Kagle/Lagle' = Eagle pattern; spot-check one or two against the page images.\n4. Unresolved: n 922 'Niiyband' (1884) and n 1057 'Rowe' (1886). Both are left as kind station with empty ids. Low-confidence guess: n 983 'Pasta!' = Fastnet.\n5. Mew Island 1882-83 (n 845): I treated it as a place because the light was still on Lighthouse Island until 1884. Some of the 5 observations may be the station's own.\n6. Places near stations that may be the keeper's remarks (Bull Rock, Cow Rock, Little Skellig, Inishvickillane, the Saltees, Corclough Lake). The observations probably belong to a neighbouring station's section; decide whether to attach them to it.\n7. St John Point (n 1198) is a real lighthouse but not in the scheme. I took it as Co. Down; Co. Donegal is also possible.\n8. Spelling noise not covered by the 'printed' aliases (Laght/Lnght/Inght-ship, fathlin, fockabill, Innshirahull, etc.) could be added as aliases.",
+ "_meta": {
+  "run": 1,
+  "coast": "IRISH COAST",
+  "gen": 0,
+  "cost_usd": 0.9666602000000001,
+  "n_items": 159
+ }
+}

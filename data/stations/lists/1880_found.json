@@ -1,0 +1,65 @@
+{
+ "lists": [
+  {
+   "section": "EAST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 216,
+   "last_line": 248,
+   "lead_quote": "The stations from which co-operation was asked are the following, commencing with the most northerly.",
+   "legend_quotes": [
+    "Those from which returns have been received are marked with a *; those which sent returns both last year and this year have two **; those which sent none last year but have done so this year have a † prefixed; those which sent returns last year but none this year are printed in _italics_.",
+    "Height of centre of light above water."
+   ],
+   "printed_count_quote": "Printed schedules, letters of instructions, and additional remarks were forwarded to twenty-six stations on the East Coast of Scotland and the Shetland and Orkney Islands, making, with the Iceland and Faroe stations, thirty-nine in all for 1880.",
+   "rows_counted": 26,
+   "columns": "map no. (4-29); return mark (*, **, italics); station and county; height of light above water (ft.); keeper's name, with footnote marks †‡§‖¶"
+  },
+  {
+   "section": "EAST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 1151,
+   "last_line": 1217,
+   "lead_quote": "The east coast stations are as follows, those making returns being marked with a *:--",
+   "legend_quotes": [
+    "The east coast stations are as follows, those making returns being marked with a *:--"
+   ],
+   "printed_count_quote": "Altogether, out of forty-four stations, returns have been sent in from thirty-eight; two other stations report no birds seen during the autumn, from the circumstances of their situations in the midst of houses; and only from four have no returns been made.",
+   "rows_counted": 44,
+   "columns": "map no. (40-80, with 44a/b, 48a/b, 55a/b); return mark *; station, Lighthouse/Lightvessel and position; light character; occasional notes (nil return, who returned it); no keepers' names"
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 2947,
+   "last_line": 2995,
+   "lead_quote": "The stations from which co-operation was asked are the following, commencing with the most northerly--Cape Wrath.",
+   "legend_quotes": [
+    "Those from which returns have been received are marked with a *; those which sent returns both last year and this have two **; those which sent none last year but have done so this year have a † prefixed; those which sent returns last year but none this year are printed in _italics_.",
+    "Stations added this year have the date, 1880, preceding them.",
+    "Height of centre of light above water.",
+    "‡ Light-vessels being only a few feet above the sea, I have not indicated the exact elevation, which, however, is usually about 30 feet."
+   ],
+   "printed_count_quote": "Printed forms, letters, and remarks were forwarded to thirty-eight stations on the west coast of Scotland and the Isles, being two more than in 1879, _viz._, Bahama Lightship and Langness Lighthouse, both in Isle of Man.[11]",
+   "rows_counted": 40,
+   "columns": "map no. (81-120); return mark (*, **, †, italics, 1880.--); station and county/island; height of light above water (ft.); keeper's name"
+  },
+  {
+   "section": "WEST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 4000,
+   "last_line": 4097,
+   "lead_quote": "The following are the stations from which co-operation was asked, commencing with the most northerly.",
+   "legend_quotes": [
+    "Returns have been received from those marked with an *, and from those marked with a † letters without returns:--"
+   ],
+   "printed_count_quote": "Forms of enquiry and letters of instruction were sent to thirty-nine lighthouses and light-vessels on the west coast of England; from twenty-nine returns have been received; from five, letters mentioning the scarcity of birds.",
+   "rows_counted": 39,
+   "columns": "map no. (110-148); mark (* returns, † letter only); station, L.H./L.V. and position; light character, visibility and fog signal; keeper's name"
+  }
+ ],
+ "_meta": {
+  "year": 1880,
+  "source": "sources/gutenberg/1880_pg65411.txt",
+  "cost_usd": 0.4930785999999999
+ }
+}

@@ -1,0 +1,26 @@
+year,seg_id,gutenberg_reads,print_reads,changes_a_value,evidence,found_by,confirmed_by
+1887,1887-ENW-0219,striking glass at 12.50 A.M.,striking glass at 12.5 A.M.,yes (00:50 becomes 00:05),"scan n104, p. 91",T3 checker and T6 (OCR reads 12.5),eye on the scan crop
+1887,1887-ENE-0792,"L.V. Crows ... (W.S.W, 2.)","L.V., Crows ... (W.S.W., 2.)",no,"scan n60, p. 47 (the entry starts on p. 46)",page-map check,eye on the scan
+1887,1887-ENE-0797,"(S.W, strong.)","(S.W., strong.)",no,"scan n60, p. 47",T3 checker,
+1887,1887-ENW-0458,"(N.W, 5; B. C. V.)","(N.W., 5; B. C. V.)",no,"scan n116, p. 103",T3 checker,
+1887,1887-ENW-0543,"Oyster-catchers ... (N.E, 4; C. V.)","Oystercatchers ... (N.E., 4; C. V.)",no,"scan n121, p. 108",T3 checker,
+1887,1887-ENE-0149,White throat,Whitethroat,no,"scan n37, p. 24",T3 checker,
+1887,1887-ENE-0063,Blackbird ♀,Blackbird ♂,yes (sex),"scan n34, p. 21",scan helper (symbols check),
+1887,1887-ENE-0104,two ♂ Blackbirds,two ♀ Blackbirds,yes (sex),"scan n35, p. 22",T3 checker; symbols check,eye on the scan crop
+1887,1887-ENE-0519,"Grey Wagtail, ad. ♂","Grey Wagtail, ad. ♀",yes (sex),"scan n50, p. 37",scan helper (symbols check),
+1887,1887-ENE-0940,"Blackcap, ♂, shot","Blackcap, ♀, shot",yes (sex),"scan n64, p. 51",scan helper (symbols check),
+1887,1887-ENE-0945,"Great Grey Shrike, ♂, shot","Great Grey Shrike, ♀, shot",yes (sex),"scan n64, p. 51",T3 checker; symbols check,eye on the scan crop
+1887,1887-ENW-0091,"(N.E. by E, 1; O. P. V.)","(N.E. by E., 1; O. R. V.)",yes (P passing showers becomes R rain),"scan n98, p. 85",T3 checker; scan helper,
+1887,1887-ENW-0492,"(N.N.E., 4; C. M.)","(N.E.N., 4; C. M.)",maybe (N.E.N. is no standard point; N.E. by N. would be 11 degrees from N.N.E.),"scan n118, p. 105",T3 checker (Sonnet run); scan helper,two independent helper reads
+1887,1887-ENE-0239,"(K, 2.)","(N., 2.)",yes (wind direction),"scan n40, p. 27",rules reader (no such point); scan helper,eye on the scan crop
+1887,1887-ENE-0984,"(K, 2.)","(E., 2.)",yes (wind direction),"scan n66, p. 53",rules reader (no such point); scan helper,
+1887,1887-ENW-0316,"(K, 1.)","(E., 1.)",yes (wind direction),"scan n108, p. 95",rules reader (no such point); scan helper,
+1880,gutenberg offset 132187,"Oct. 6th, o.m., rain, 7.80 p.m., one struck","Oct. 6th, o.m., rain, 7.30 p.m., one struck",yes (time 19:30; 7.80 is no time),"scan n62, p. 57",noticed in the stage-3 checks (no such time),eye on the scan crop
+1881,gutenberg offset 28761,"Immense flock flying N.E., 11.80 a.m.","Immense flock flying N.E., 11.30 a.m.",yes (time 11:30; 11.80 is no time),"scan n19, p. 12 (the entry starts on p. 11)",noticed in the stage-3 checks (no such time),eye on the scan crop
+1879,gutenberg offset 9874,_Tardus musicus_,_Turdus musicus_,no (the species is named in English too),"scan n7, p. 164",noticed in the stage-3 checks; then every Tardus in the Gutenberg texts looked up,eye on the scan crop
+1879,gutenberg offset 35464,_Tardus iliacus_,_Turdus iliacus_,yes (the only name for the species in that sentence),"scan n18, p. 175",noticed in the stage-3 checks; then every Tardus in the Gutenberg texts looked up,eye on the scan crop
+1880,gutenberg offset 82588,_Tardus iliacus_,_Turdus iliacus_,no (the species is named in English too),"scan n41, p. 36",noticed in the stage-3 checks; then every Tardus in the Gutenberg texts looked up,eye on the scan crop
+1880,gutenberg offset 85501,_Tardus Naumanii_,_Turdus Naumanii_,yes (the only name for the species in that sentence),"scan n42, p. 37",noticed in the stage-3 checks; then every Tardus in the Gutenberg texts looked up,eye on the scan crop
+1881,gutenberg offset 41615,_Tardus iliacus_,_Turdus iliacus_,no (the species is named in English too),"scan n25, p. 18",noticed in the stage-3 checks; then every Tardus in the Gutenberg texts looked up,eye on the scan crop
+1879,gutenberg offset 79351,seen at 1.80 p.m.; wind N.,seen at 1.30 p.m.; wind N.,yes (time 13:30; 1.80 is no time),"scan n36, p. 193","a search of all six Gutenberg texts for clock times with 60+ minutes (3 found, all 3 read as 8)",eye on the scan crop
+1880,gutenberg offset 61822,"flashes in succession, 86 seconds dark.","flashes in succession, 36 seconds dark.","no (the light characters come from Findlay, which has 36)","scan n32, p. 27; the IA OCR also reads 36",QUIRKS.md (a station list row against 1879 and Findlay),eye on the scan crop

@@ -1,0 +1,2452 @@
+[
+ {
+  "n": 0,
+  "name": "'grey' plover",
+  "printed": "'Grey' Plover",
+  "observations": 1,
+  "example": "'Grey' Plover, 2 to 20"
+ },
+ {
+  "n": 1,
+  "name": "'sepoys'",
+  "printed": "'sepoys'",
+  "observations": 1,
+  "example": "one pair of 'sepoys' on this island"
+ },
+ {
+  "n": 2,
+  "name": "31. alba",
+  "printed": "31. alba",
+  "observations": 1,
+  "example": "31. alba, few"
+ },
+ {
+  "n": 3,
+  "name": "31. flava",
+  "printed": "31. _flava_",
+  "observations": 1,
+  "example": "Some 31. _flava_ and _alba_ and _Anth.\npratensis_"
+ },
+ {
+  "n": 4,
+  "name": "7’. cinerea",
+  "printed": "7’. cinerea",
+  "observations": 1,
+  "example": "May 3rd, 7’. cinerea, EL. “chlowinle hard ; clear."
+ },
+ {
+  "n": 5,
+  "name": "a. alpestris",
+  "printed": "_A. alpestris_",
+  "observations": 1,
+  "example": "_A. alpestris_, small flights"
+ },
+ {
+  "n": 6,
+  "name": "a. arboreus",
+  "printed": "_A. arboreus_",
+  "observations": 2,
+  "example": "all day multitudes of _phœnicurus_, _trochilus_, _luctuosa_, _E. hortulana_, _A. arboreus_"
+ },
+ {
+  "n": 7,
+  "name": "a. arvensis",
+  "printed": "_A. arvensis_",
+  "observations": 2,
+  "example": "_A. arvensis_, flights"
+ },
+ {
+  "n": 8,
+  "name": "a. brachyotus",
+  "printed": "A. brachyotus",
+  "observations": 2,
+  "example": "MHeligoland, A. brachyotus, Sept. 21st, first"
+ },
+ {
+  "n": 9,
+  "name": "a. campestris",
+  "printed": "A. campestris",
+  "observations": 1,
+  "example": "A. campestris; - \nSept. 4th"
+ },
+ {
+  "n": 10,
+  "name": "a. cervinus",
+  "printed": "_A. cervinus_",
+  "observations": 2,
+  "example": "_A. cervinus_ on the 20th"
+ },
+ {
+  "n": 11,
+  "name": "a. obscurus, var. rupestris",
+  "printed": "A. obscurus, var. rupestris",
+  "observations": 1,
+  "example": "on Oct. 1st, great many (A. obscurus, var. rupestris.*)"
+ },
+ {
+  "n": 12,
+  "name": "a. pratensis",
+  "printed": "_A. pratensis_",
+  "observations": 1,
+  "example": "_A. pratensis_, pretty many"
+ },
+ {
+  "n": 13,
+  "name": "a. pusilla",
+  "printed": "_A. pusilla_",
+  "observations": 1,
+  "example": "one each of _A. pusilla_"
+ },
+ {
+  "n": 14,
+  "name": "a. richardi",
+  "printed": "_A. Richardi_",
+  "observations": 2,
+  "example": "two _A. Richardi_ seen"
+ },
+ {
+  "n": 15,
+  "name": "a. richardii",
+  "printed": "_A. richardii_",
+  "observations": 2,
+  "example": "Heligoland, Sept. 28th, S.W., fresh, _A. richardii_, a few"
+ },
+ {
+  "n": 16,
+  "name": "a. rupestris",
+  "printed": "A. rupestris",
+  "observations": 4,
+  "example": "A. rupestris (Nilsson), Sept. 9th, a few"
+ },
+ {
+  "n": 17,
+  "name": "a. segetum",
+  "printed": "A. segetum",
+  "observations": 1,
+  "example": "A. segetum. Two of these were shot"
+ },
+ {
+  "n": 18,
+  "name": "a. wilassai",
+  "printed": "A. wilassai",
+  "observations": 1,
+  "example": "A. wilassai: Sept. \n16th, calm and fine, one"
+ },
+ {
+  "n": 19,
+  "name": "accentor",
+  "printed": "accentor",
+  "observations": 19,
+  "example": "few rubecula, accentor, regulus"
+ },
+ {
+  "n": 20,
+  "name": "accentor modularis",
+  "printed": "Accentor modularis",
+  "observations": 1,
+  "example": "a great many Accentor modularis\non Oct. 29th"
+ },
+ {
+  "n": 21,
+  "name": "accentorinæ",
+  "printed": "Accentorinæ",
+  "observations": 4,
+  "example": "The only records are in October 1885, at XXVII., on 7th"
+ },
+ {
+  "n": 22,
+  "name": "accentors",
+  "printed": "Accentors",
+  "observations": 4,
+  "example": "on 4th a number of Accentors (Hedge-sparrows)"
+ },
+ {
+  "n": 23,
+  "name": "acrocephalus phragmitis",
+  "printed": "Acrocephalus phragmitis",
+  "observations": 2,
+  "example": "Phylloscopus trochilus, Acrocephalus phragmitis, and Sylvia cinerea were killed"
+ },
+ {
+  "n": 24,
+  "name": "ageleus pheniceus",
+  "printed": "Ageleus pheniceus",
+  "observations": 1,
+  "example": "Ageleus pheniceus"
+ },
+ {
+  "n": 25,
+  "name": "al. alpestris",
+  "printed": "_Al. alpestris_",
+  "observations": 20,
+  "example": "_Al. alpestris_, pretty many"
+ },
+ {
+  "n": 26,
+  "name": "al. arvensis",
+  "printed": "_Al. arvensis_",
+  "observations": 42,
+  "example": "stray birds: _Sturnus merula_, _Al. arvensis_"
+ },
+ {
+  "n": 27,
+  "name": "al. brachydactyla",
+  "printed": "_Al.\nbrachydactyla_",
+  "observations": 1,
+  "example": "_Al.\nbrachydactyla_, one male shot"
+ },
+ {
+  "n": 28,
+  "name": "alauda",
+  "printed": "_Alauda_",
+  "observations": 5,
+  "example": "_Alauda_\npassing on overhead"
+ },
+ {
+  "n": 29,
+  "name": "alauda alpestris",
+  "printed": "_Alauda alpestris_",
+  "observations": 4,
+  "example": "_Alauda alpestris_,\ngreat flights"
+ },
+ {
+  "n": 30,
+  "name": "alauda arboreus",
+  "printed": "_Alauda arboreus_",
+  "observations": 1,
+  "example": "At Heligoland, Oct. 29th, S.E., and E., \"_Alauda arboreus_,\nmany.\""
+ },
+ {
+  "n": 31,
+  "name": "alauda arvensis",
+  "printed": "_Alauda arvensis_",
+  "observations": 13,
+  "example": "One hundred in a flock seen at Thorshavn at 9 a.m. on March 8th, 1881"
+ },
+ {
+  "n": 32,
+  "name": "alauda cristata",
+  "printed": "Alauda cristata",
+  "observations": 1,
+  "example": "Alauda cristata, \nSept. 80th and Oct. 1st"
+ },
+ {
+  "n": 33,
+  "name": "alauda — arvensis",
+  "printed": "Alauda — arvensis",
+  "observations": 1,
+  "example": "Alauda — arvensis, were observed—all at the lanterns"
+ },
+ {
+  "n": 34,
+  "name": "alaudidæ",
+  "printed": "Alaudidæ",
+  "observations": 35,
+  "example": "one single bird from the former on 14th"
+ },
+ {
+  "n": 35,
+  "name": "alba",
+  "printed": "_alba_",
+  "observations": 6,
+  "example": "_alba_,\nstill some"
+ },
+ {
+  "n": 36,
+  "name": "albino starling",
+  "printed": "Albino Starling",
+  "observations": 1,
+  "example": "Albino Starling,    Bardsey L.H.,       shot."
+ },
+ {
+  "n": 37,
+  "name": "alca alle",
+  "printed": "_Alca alle_",
+  "observations": 1,
+  "example": "_Alca alle_, thousands flying about on sea"
+ },
+ {
+  "n": 38,
+  "name": "alca torda",
+  "printed": "Alca torda",
+  "observations": 1,
+  "example": "March 15th, Alca torda, N.E.; clear, hard."
+ },
+ {
+  "n": 39,
+  "name": "alcedo ispida",
+  "printed": "_Alcedo ispida_",
+  "observations": 1,
+  "example": "_Alcedo ispida_,\ntwo shot."
+ },
+ {
+  "n": 40,
+  "name": "alcedo ispipa",
+  "printed": "ALcEDO Ispipa",
+  "observations": 1,
+  "example": "ALcEDO Ispipa, Kinatshee TE L.H., September 17th, 6.40 A.M., one"
+ },
+ {
+  "n": 41,
+  "name": "alcidæ",
+  "printed": "Alcidæ",
+  "observations": 1,
+  "example": "Alcidæ, Colymbidæ.--Unusually abundant in Autumn at most stations"
+ },
+ {
+  "n": 42,
+  "name": "alpestris",
+  "printed": "_alpestris_",
+  "observations": 24,
+  "example": "A few _Al. arvensis_ and _alpestris_"
+ },
+ {
+  "n": 43,
+  "name": "alpine swift",
+  "printed": "Alpine Swift",
+  "observations": 3,
+  "example": "About the end of July an Alpine Swift, _C. melba_, Linn., was shot by Mr. Wm. Rogerson, of Newcastle"
+ },
+ {
+  "n": 44,
+  "name": "alsuda arvensis",
+  "printed": "Alsuda arvensis",
+  "observations": 1,
+  "example": "Alsuda arvensis"
+ },
+ {
+  "n": 45,
+  "name": "anas",
+  "printed": "_Anas_",
+  "observations": 2,
+  "example": "_Anser_ and _Anas_, great many passing on"
+ },
+ {
+  "n": 46,
+  "name": "anas boschas",
+  "printed": "Anas boschas",
+  "observations": 1,
+  "example": "Nov. 20th. Anas boschas"
+ },
+ {
+  "n": 47,
+  "name": "anas molissima",
+  "printed": "_Anas molissima_",
+  "observations": 1,
+  "example": "_Anas molissima_, one old male shot"
+ },
+ {
+  "n": 48,
+  "name": "anas nigra",
+  "printed": "_Anas nigra_",
+  "observations": 1,
+  "example": "_Anas nigra_ [male], very\nmany on the sea"
+ },
+ {
+  "n": 49,
+  "name": "anas streperus",
+  "printed": "Anas streperus",
+  "observations": 1,
+  "example": "Anas streperus"
+ },
+ {
+  "n": 50,
+  "name": "anatidæ",
+  "printed": "_Anatidæ_",
+  "observations": 14,
+  "example": "_Anatidæ_ were a month earlier in appearing on Loch Tay in the autumn of 1879"
+ },
+ {
+  "n": 51,
+  "name": "ans. albifrons",
+  "printed": "_Ans.\nalbifrons_",
+  "observations": 1,
+  "example": "_Ans.\nalbifrons_, one, one year old"
+ },
+ {
+  "n": 52,
+  "name": "anser",
+  "printed": "_Anser_",
+  "observations": 2,
+  "example": "_Anser_ and _Anas_, great many passing on"
+ },
+ {
+  "n": 53,
+  "name": "anser brachyrhynchus",
+  "printed": "_Anser brachyrhynchus_",
+  "observations": 1,
+  "example": "_Anser brachyrhynchus_, Oct. 15th, one young bird shot"
+ },
+ {
+  "n": 54,
+  "name": "anser cinereus",
+  "printed": "_Anser cinereus_",
+  "observations": 1,
+  "example": "_Anser cinereus_, seventeen passing\nlow overhead"
+ },
+ {
+  "n": 55,
+  "name": "anth. arborea",
+  "printed": "_Anth. arborea_",
+  "observations": 15,
+  "example": "_Anth. arborea_, one"
+ },
+ {
+  "n": 56,
+  "name": "anth. arboreus",
+  "printed": "_Anth. arboreus_",
+  "observations": 8,
+  "example": "_Anth. arboreus_,\nseveral."
+ },
+ {
+  "n": 57,
+  "name": "anth. campestris",
+  "printed": "_Anth.\ncampestris_",
+  "observations": 1,
+  "example": "_Anth.\ncampestris_, one"
+ },
+ {
+  "n": 58,
+  "name": "anth. pratensis",
+  "printed": "_Anth. pratensis_",
+  "observations": 27,
+  "example": "_Anth. pratensis_, pretty many"
+ },
+ {
+  "n": 59,
+  "name": "anth. richardi",
+  "printed": "_Anth. richardi_",
+  "observations": 1,
+  "example": "_Anth. richardi_ and _cervinus_, of each one"
+ },
+ {
+  "n": 60,
+  "name": "anth. rupestris",
+  "printed": "_Anth. rupestris_",
+  "observations": 4,
+  "example": "_Anth. rupestris_ and _pratensis_"
+ },
+ {
+  "n": 61,
+  "name": "anthidæ",
+  "printed": "Anthidæ",
+  "observations": 15,
+  "example": "at Bell Rock, a few on 20th and 23d"
+ },
+ {
+  "n": 62,
+  "name": "anthipm",
+  "printed": "AntHipm",
+  "observations": 3,
+  "example": "one at Skerryvore rested on rocks on Aug. 24th, \nlight W., haze"
+ },
+ {
+  "n": 63,
+  "name": "anthus",
+  "printed": "_Anthus_",
+  "observations": 17,
+  "example": "_Turdus_, _Fringilla_,\n_Anthus_, stray birds"
+ },
+ {
+  "n": 64,
+  "name": "anthus cervinus",
+  "printed": "_Anthus cervinus_",
+  "observations": 4,
+  "example": "on the 5th, again, _Anthus cervinus_ (seen and heard)"
+ },
+ {
+  "n": 65,
+  "name": "anthus pratensis",
+  "printed": "Anthus pratensis",
+  "observations": 2,
+  "example": "May 24th, Anthus pratensis, N.E., storm; light showers."
+ },
+ {
+  "n": 66,
+  "name": "anthus richardi",
+  "printed": "_Anthus Richardi_",
+  "observations": 4,
+  "example": "_Anthus Richardi_\non the 18th"
+ },
+ {
+  "n": 67,
+  "name": "anthus rupestris",
+  "printed": "Anthus rupestris",
+  "observations": 1,
+  "example": "large numbers of continental species"
+ },
+ {
+  "n": 68,
+  "name": "anthus trivialis",
+  "printed": "Anthus trivialis",
+  "observations": 1,
+  "example": "Anthus trivialis"
+ },
+ {
+  "n": 69,
+  "name": "antu1p#",
+  "printed": "Antu1p#.",
+  "observations": 7,
+  "example": "Aug. 9th—light 8. breeze, fog, one resting"
+ },
+ {
+  "n": 70,
+  "name": "arborea",
+  "printed": "_Arborea_",
+  "observations": 14,
+  "example": "_Arborea_, a couple"
+ },
+ {
+  "n": 71,
+  "name": "arboreus",
+  "printed": "_arboreus_",
+  "observations": 1,
+  "example": "_alpestris_ and\n_arboreus_, a few"
+ },
+ {
+  "n": 72,
+  "name": "archibuteo lagopus",
+  "printed": "Archibuteo lagopus",
+  "observations": 3,
+  "example": "Sept. 15th, one shot"
+ },
+ {
+  "n": 73,
+  "name": "arctic",
+  "printed": "Arctic",
+  "observations": 5,
+  "example": "the Arctic May 15th"
+ },
+ {
+  "n": 74,
+  "name": "arctic bluethroat",
+  "printed": "Arctic Bluethroat",
+  "observations": 26,
+  "example": "September 8th, W.N.W., one"
+ },
+ {
+  "n": 75,
+  "name": "arctic tern",
+  "printed": "Arctic Tern",
+  "observations": 23,
+  "example": "The Arctic Tern was first seen\nMay 10th"
+ },
+ {
+  "n": 76,
+  "name": "arctic terns",
+  "printed": "Arctic Terns",
+  "observations": 13,
+  "example": "Aug. 28th, both the Sandwich\nand Arctic Terns left the islands"
+ },
+ {
+  "n": 77,
+  "name": "ard. cinerea",
+  "printed": "_Ard.\ncinerea_",
+  "observations": 2,
+  "example": "_Ard.\ncinerea_, a couple"
+ },
+ {
+  "n": 78,
+  "name": "ardeidæ",
+  "printed": "Ardeidæ",
+  "observations": 12,
+  "example": "Only one record given at Portpatrick, Nov. 6th, N.W. gale,\nflying N."
+ },
+ {
+  "n": 79,
+  "name": "argentatus",
+  "printed": "argentatus",
+  "observations": 3,
+  "example": "Gulls, chiefly young, L. fuscus and argentatus, \ngoing N.W. in flocks during morning"
+ },
+ {
+  "n": 80,
+  "name": "arvensis",
+  "printed": "_arvensis_",
+  "observations": 1,
+  "example": "_arvensis_, few"
+ },
+ {
+  "n": 81,
+  "name": "ataupip%",
+  "printed": "Ataupip%",
+  "observations": 20,
+  "example": "In spring at Sumburgh Head"
+ },
+ {
+  "n": 82,
+  "name": "ataupipm™",
+  "printed": "AtaupIpm™",
+  "observations": 17,
+  "example": "four \nstruck"
+ },
+ {
+  "n": 83,
+  "name": "atricapilla",
+  "printed": "_atricapilla_",
+  "observations": 9,
+  "example": "_Sy. cinerea_, _curruca_, _atricapilla_,\n_phœnicurus_, [male], all pretty many"
+ },
+ {
+  "n": 84,
+  "name": "aucipa",
+  "printed": "Aucipa",
+  "observations": 1,
+  "example": "At Barra Head, a few seen on Feb. 4th"
+ },
+ {
+  "n": 85,
+  "name": "aucipm",
+  "printed": "Aucipm",
+  "observations": 12,
+  "example": "May 16th, Pentland Skerries, continuous flocks flying E."
+ },
+ {
+  "n": 86,
+  "name": "auks",
+  "printed": "Auks",
+  "observations": 6,
+  "example": "\"Auks\" flying south at Skervuile"
+ },
+ {
+  "n": 87,
+  "name": "auratus",
+  "printed": "_Auratus_",
+  "observations": 6,
+  "example": "_Auratus_, a couple"
+ },
+ {
+  "n": 88,
+  "name": "avocet",
+  "printed": "Avocet",
+  "observations": 1,
+  "example": "Redcar, August 5th, 12.10 Pm, one (I am sure of species.—T. H. N.)"
+ },
+ {
+  "n": 89,
+  "name": "avocets",
+  "printed": "Avocets",
+  "observations": 2,
+  "example": "Avocets, 5 A.M.: six seen"
+ },
+ {
+  "n": 90,
+  "name": "b. gulls",
+  "printed": "B. Gulls",
+  "observations": 1,
+  "example": "B. Gulls arrived at XV. (Dunnet Head)--and left in August\nlast--on 13th March 1885"
+ },
+ {
+  "n": 91,
+  "name": "bald coot",
+  "printed": "Bald Coot",
+  "observations": 4,
+  "example": "Bald Coot"
+ },
+ {
+  "n": 92,
+  "name": "bar-tailed godwit",
+  "printed": "Bar-tailed Godwit",
+  "observations": 24,
+  "example": "Sept. 17th, flock of twenty"
+ },
+ {
+  "n": 93,
+  "name": "bar-tailed godwits",
+  "printed": "Bar-tailed Godwits",
+  "observations": 3,
+  "example": "for about a fortnight afterwards, the number of birds on the Solway banks was most extraordinary. Th"
+ },
+ {
+  "n": 94,
+  "name": "barn owl",
+  "printed": "Barn Owl",
+  "observations": 6,
+  "example": "Oct. 19th, morning, one\nseen coming in from the sea"
+ },
+ {
+  "n": 95,
+  "name": "barn owls",
+  "printed": "Barn\nOwls",
+  "observations": 1,
+  "example": "November (three Barn\nOwls at Rhinns of Islay at lantern)"
+ },
+ {
+  "n": 96,
+  "name": "barnacle",
+  "printed": "Barnacle",
+  "observations": 108,
+  "example": "Earliest \"Barnacle,\" only record, Aug. 12th, at Inch Keith, one flying due N."
+ },
+ {
+  "n": 97,
+  "name": "barnacle (?) geese",
+  "printed": "\"Barnacle\" (?) Geese",
+  "observations": 1,
+  "example": "XIX.--\"Barnacle\" (?) Geese on 18th October"
+ },
+ {
+  "n": 98,
+  "name": "barnacle duck",
+  "printed": "Barnacle Duck",
+  "observations": 1,
+  "example": "Barnacle Duck and Widgeon frequent the head of Lough Swilly from about Oct. 1st to end of March"
+ },
+ {
+  "n": 99,
+  "name": "barnacle geese",
+  "printed": "Barnacle Geese",
+  "observations": 15,
+  "example": "Barnacle Geese, thirteen at Barra Head on Oct. 13th, resting. Wigeon, one female, at Rhinns of Islay"
+ },
+ {
+  "n": 100,
+  "name": "barnacle goose",
+  "printed": "Barnacle Goose",
+  "observations": 12,
+  "example": "one, wounded against lantern and subsequently shot, was a Barnacle Goose"
+ },
+ {
+  "n": 101,
+  "name": "barnacle or wild goose",
+  "printed": "Barnacle or Wild Goose",
+  "observations": 1,
+  "example": "May 3d, one \"Barnacle or Wild Goose\" shot, feeding on island. [Leg and wing of White-fronted Goose r"
+ },
+ {
+  "n": 102,
+  "name": "barnacles",
+  "printed": "Barnacles",
+  "observations": 46,
+  "example": "Barnacles here from October to March"
+ },
+ {
+  "n": 103,
+  "name": "barnacles or wild geese",
+  "printed": "Barnacles or Wild Geese",
+  "observations": 1,
+  "example": "Jan. 9th, 1883, thirteen Barnacles or Wild Geese flying E."
+ },
+ {
+  "n": 104,
+  "name": "barnicle geese",
+  "printed": "Barnicle Geese",
+  "observations": 5,
+  "example": "large numbers of Wigeons and Scaups in the Moray Firth by Noy. 16th, and Barnicle Geese"
+ },
+ {
+  "n": 105,
+  "name": "barred warbler",
+  "printed": "Barred Warbler",
+  "observations": 4,
+  "example": "Spurn, Aug. 28th, one, a female of the year, obtained by Mr. Slater"
+ },
+ {
+  "n": 106,
+  "name": "bartailed godwit",
+  "printed": "Bartailed Godwit",
+  "observations": 1,
+  "example": "The Grey Plover, Knot, and Bartailed Godwit were seen on the 9th"
+ },
+ {
+  "n": 107,
+  "name": "bats",
+  "printed": "Bats",
+  "observations": 1,
+  "example": "Bats about light all night."
+ },
+ {
+  "n": 108,
+  "name": "bea parkas",
+  "printed": "Bea parkas",
+  "observations": 1,
+  "example": "April 1st, several “‘ Puffins and Bea parkas” ) all day round island."
+ },
+ {
+  "n": 109,
+  "name": "bean geese",
+  "printed": "Bean Geese",
+  "observations": 1,
+  "example": "4 p.m., flock of Bean Geese N. to S."
+ },
+ {
+  "n": 110,
+  "name": "bean goose",
+  "printed": "Bean Goose",
+  "observations": 3,
+  "example": "April 27th, about 120 passed over Allonby in a flock"
+ },
+ {
+  "n": 111,
+  "name": "bearded reedling",
+  "printed": "Bearded Reedling",
+  "observations": 2,
+  "example": "Heligoland, Oct. 9th, S.S.E., later thick and hazy, one, a male"
+ },
+ {
+  "n": 112,
+  "name": "bearded tit",
+  "printed": "Bearded Tit",
+  "observations": 1,
+  "example": "Bearded Tit, 7.40 A.M.; very tame; left at noon"
+ },
+ {
+  "n": 113,
+  "name": "bearded tits",
+  "printed": "bearded tits",
+  "observations": 4,
+  "example": "Yarmouth, February, last week, bearded tits, several flocks"
+ },
+ {
+  "n": 114,
+  "name": "bee-eater",
+  "printed": "Bee-eater",
+  "observations": 1,
+  "example": "At Tetney Haven, seven miles S. of Grimsby, one on Aug. 16th"
+ },
+ {
+  "n": 115,
+  "name": "behe itt",
+  "printed": "Behe itt",
+  "observations": 1,
+  "example": "one “‘ Behe itt flying W., 10.20 a.m."
+ },
+ {
+  "n": 116,
+  "name": "bell wigeon",
+  "printed": "Bell Wigeon",
+  "observations": 1,
+  "example": "5 Buoy Tees L.V., Jan. 23rd, 1881, \"Bell Wigeon\" [Scaup], great number to W.N.W."
+ },
+ {
+  "n": 117,
+  "name": "bernacle geese",
+  "printed": "Bernacle Geese",
+  "observations": 1,
+  "example": "Bernacle Geese last seen on\nthe 24th April on this island"
+ },
+ {
+  "n": 118,
+  "name": "bernacle goose",
+  "printed": "Bernacle Goose",
+  "observations": 6,
+  "example": "At Dunnet Head a mixed flock of old and young (twenty-five) seen going W. on Sept. 7th"
+ },
+ {
+  "n": 119,
+  "name": "bernicle goose",
+  "printed": "Bernicle Goose",
+  "observations": 8,
+  "example": "Large flock at Monach April 28th, flying N.W."
+ },
+ {
+  "n": 120,
+  "name": "bewick's swans",
+  "printed": "Bewick's Swans",
+  "observations": 1,
+  "example": "Two Bewick's Swans were shot on the Humber on the 8th"
+ },
+ {
+  "n": 121,
+  "name": "bewick’s swan",
+  "printed": "Bewick’s Swan",
+  "observations": 1,
+  "example": "single bird, Monkhill; sharp frost"
+ },
+ {
+  "n": 122,
+  "name": "binds",
+  "printed": "Binds",
+  "observations": 1,
+  "example": "Binds have not been noticed in such large flocks as last year"
+ },
+ {
+  "n": 123,
+  "name": "bing ouzels",
+  "printed": "Bing Ouzels",
+  "observations": 1,
+  "example": "March 4th, two Bing Ouzels"
+ },
+ {
+  "n": 124,
+  "name": "bird",
+  "printed": "bird",
+  "observations": 19,
+  "example": "At this light-vessel a single bird passed, going west, at daybreak"
+ },
+ {
+  "n": 125,
+  "name": "bird like the great shrike",
+  "printed": "bird Like the Great Shrike",
+  "observations": 1,
+  "example": "a bird Like the Great Shrike was observed."
+ },
+ {
+  "n": 126,
+  "name": "birds",
+  "printed": "birds",
+  "observations": 263,
+  "example": "birds continued passing or flying round lantern between\nmidnight and dawn"
+ },
+ {
+  "n": 127,
+  "name": "birds like crows",
+  "printed": "birds like Crows",
+  "observations": 1,
+  "example": "six birds like Crows which passed on the 20th"
+ },
+ {
+  "n": 128,
+  "name": "birds not known",
+  "printed": "birds not known",
+  "observations": 1,
+  "example": "on Nov. 13th \"a flock of birds not known\" passed inland"
+ },
+ {
+  "n": 129,
+  "name": "birds of passage",
+  "printed": "birds of passage",
+  "observations": 1,
+  "example": "The west end of the island was all alive with birds of passage"
+ },
+ {
+  "n": 130,
+  "name": "birds unknown",
+  "printed": "Birds unknown",
+  "observations": 5,
+  "example": "on Oct. 13th a flock passed inland at 4.20 p.m."
+ },
+ {
+  "n": 131,
+  "name": "bittern",
+  "printed": "Bittern",
+  "observations": 11,
+  "example": "two were seen during the\nday"
+ },
+ {
+  "n": 132,
+  "name": "bitterns",
+  "printed": "Bitterns",
+  "observations": 1,
+  "example": "In the latter part of November and early in December there \nwas a considerable arrival of Bitterns o"
+ },
+ {
+  "n": 133,
+  "name": "blaceehedcarn",
+  "printed": "Blaceehedcarn",
+  "observations": 1,
+  "example": "Blaceehedcarn { Found dead on rock, Oct."
+ },
+ {
+  "n": 134,
+  "name": "black",
+  "printed": "Black",
+  "observations": 5,
+  "example": "Black, Common, and Arctic Terns along shore, and through the month to 31st; in shore only when wind "
+ },
+ {
+  "n": 135,
+  "name": "black - birds",
+  "printed": "Black - birds",
+  "observations": 1,
+  "example": "June 10th, some Black - birds found dead"
+ },
+ {
+  "n": 136,
+  "name": "black - redstart",
+  "printed": "Black - \nRedstart",
+  "observations": 2,
+  "example": "one Black - \nRedstart, old male, shot (in mus. I. of May"
+ },
+ {
+  "n": 137,
+  "name": "black and carrion crows",
+  "printed": "Black and Carrion Crows",
+  "observations": 1,
+  "example": "Black and Carrion Crows, six Jackdaws, Starlings, and Larks during day, S.E. to N.W."
+ },
+ {
+  "n": 138,
+  "name": "black and grey crows",
+  "printed": "Black and Grey Crows",
+  "observations": 5,
+  "example": "Black and Grey Crows"
+ },
+ {
+  "n": 139,
+  "name": "black and grey thrushes",
+  "printed": "Black and Grey Thrushes",
+  "observations": 2,
+  "example": "“a Boomy lot of Black and Grey Thrushes”’"
+ },
+ {
+  "n": 140,
+  "name": "black and hooded crows",
+  "printed": "Black and Hooded Crows",
+  "observations": 3,
+  "example": "a slight rush apparent at Sumburgh Head of Black and Hooded Crows--on 1st 50"
+ },
+ {
+  "n": 141,
+  "name": "black and white wagtails",
+  "printed": "Black and White Wagtails",
+  "observations": 1,
+  "example": "two “ Black and White Wagtails”’ \n\n\non the island at 9a.m."
+ },
+ {
+  "n": 142,
+  "name": "black b. gulls",
+  "printed": "Black B. Gulls",
+  "observations": 1,
+  "example": "two Black B. Gulls sitting on rocks on 30th"
+ },
+ {
+  "n": 143,
+  "name": "black backed gulls",
+  "printed": "Black Backed Gulls",
+  "observations": 2,
+  "example": "Thousands of Black Backed Gulls and other Gulls on 14th September at Rhinns of Islay"
+ },
+ {
+  "n": 144,
+  "name": "black cap warbler",
+  "printed": "Black Cap Warbler",
+  "observations": 1,
+  "example": "Black Cap Warbler"
+ },
+ {
+  "n": 145,
+  "name": "black cormorants",
+  "printed": "Black Cormorants",
+  "observations": 1,
+  "example": "Black Cormorants"
+ },
+ {
+  "n": 146,
+  "name": "black crow",
+  "printed": "Black Crow",
+  "observations": 9,
+  "example": "The Black Crow (?), Hooded Crow, Snipe, Starling, Titlark, and House Sparrow are included amongst re"
+ },
+ {
+  "n": 147,
+  "name": "black crows",
+  "printed": "Black Crows",
+  "observations": 97,
+  "example": "on the 10th, flocks of Black Crows (Rooks ?) seen\nflying W."
+ },
+ {
+  "n": 148,
+  "name": "black crows or rooks",
+  "printed": "Black Crows or Rooks",
+  "observations": 2,
+  "example": "On March 20th, 24th, and 26th, Black Crows or Rooks con- \ntinuous from 5.50 a.m. to 1l a.m., E. to W"
+ },
+ {
+  "n": 149,
+  "name": "black diver",
+  "printed": "Black Diver",
+  "observations": 2,
+  "example": "The 'Black Diver' leaves about May 1st, and returns in October"
+ },
+ {
+  "n": 150,
+  "name": "black divers",
+  "printed": "Black Divers",
+  "observations": 1,
+  "example": "The \"Black Divers\" leave here about May 1st, and begin to return in October"
+ },
+ {
+  "n": 151,
+  "name": "black duck",
+  "printed": "Black Duck",
+  "observations": 8,
+  "example": "Sept. 5th, 6.15 a.m., five flying W."
+ },
+ {
+  "n": 152,
+  "name": "black ducks",
+  "printed": "Black Ducks",
+  "observations": 19,
+  "example": "At Godrevy, on 15th, four \"Black Ducks\" (? Scoters), 1.30 p.m."
+ },
+ {
+  "n": 153,
+  "name": "black gannet",
+  "printed": "Black Gannet",
+  "observations": 1,
+  "example": "The young or Black Gannet have come since the 1st June in \nsmall numbers"
+ },
+ {
+  "n": 154,
+  "name": "black geese",
+  "printed": "black geese",
+  "observations": 2,
+  "example": "At the Corton, Dec. 4th, hundreds of black geese from N.E. to\nS.W. from sunrise to noon"
+ },
+ {
+  "n": 155,
+  "name": "black guillemot",
+  "printed": "Black Guillemot",
+  "observations": 12,
+  "example": "Mr. Agnew's son saw a Black Guillemot a few days before"
+ },
+ {
+  "n": 156,
+  "name": "black guillemots",
+  "printed": "Black Guillemots",
+  "observations": 5,
+  "example": "Black Guillemots amongst water-birds"
+ },
+ {
+  "n": 157,
+  "name": "black h. gulls",
+  "printed": "Black H. Gulls",
+  "observations": 1,
+  "example": "In May, hundreds Black H. Gulls on the lochs\nnear VIII. to breed"
+ },
+ {
+  "n": 158,
+  "name": "black hawk",
+  "printed": "black hawk",
+  "observations": 5,
+  "example": "\"a black hawk\" was seen on July 7th at 3 p.m."
+ },
+ {
+  "n": 159,
+  "name": "black headed gull",
+  "printed": "Black Headed Gull",
+  "observations": 2,
+  "example": "May,\nSkuas, \"Boatswain Birds,\" Black Headed Gull, on six dates at 93 and\n101"
+ },
+ {
+  "n": 160,
+  "name": "black martins",
+  "printed": "Black Martins",
+  "observations": 1,
+  "example": "June 7th, two \"Black Martins\" flying W."
+ },
+ {
+  "n": 161,
+  "name": "black ravens",
+  "printed": "Black Ravens",
+  "observations": 1,
+  "example": "And 13th, Black Ravens"
+ },
+ {
+  "n": 162,
+  "name": "black red- start",
+  "printed": "Black Red- start",
+  "observations": 1,
+  "example": "a Robin and Black Red- start killed at 2.10 am."
+ },
+ {
+  "n": 163,
+  "name": "black redstart",
+  "printed": "Black Redstart",
+  "observations": 57,
+  "example": "Spurn, Oct. 23rd, one seen"
+ },
+ {
+  "n": 164,
+  "name": "black redstarts",
+  "printed": "Black Redstarts",
+  "observations": 5,
+  "example": "October 17th, four Black Redstarts on rock"
+ },
+ {
+  "n": 165,
+  "name": "black scoter",
+  "printed": "Black Scoter",
+  "observations": 13,
+  "example": "They have been seen\nin large numbers during the autumn at various stations on the coast\nand at sea, "
+ },
+ {
+  "n": 166,
+  "name": "black scoters",
+  "printed": "Black Scoters",
+  "observations": 2,
+  "example": "At Teesmouth, Oct.\n2nd, two Black Scoters seen"
+ },
+ {
+  "n": 167,
+  "name": "black surf duck",
+  "printed": "Black Surf Duck",
+  "observations": 1,
+  "example": "Dec. 21st, 9 a.m., light N.N.W. breeze, flocks of the Black Surf Duck were seen on the water"
+ },
+ {
+  "n": 168,
+  "name": "black swallow",
+  "printed": "Black Swallow",
+  "observations": 1,
+  "example": "Aug. 12th, one \"Black Swallow\" (Swift?)"
+ },
+ {
+  "n": 169,
+  "name": "black swallows",
+  "printed": "Black Swallows",
+  "observations": 1,
+  "example": "three Black Swallows flying S.S.E. at 1 P.M."
+ },
+ {
+  "n": 170,
+  "name": "black swan",
+  "printed": "Black Swan",
+  "observations": 4,
+  "example": "A Black Swan shot by the rector"
+ },
+ {
+  "n": 171,
+  "name": "black tern",
+  "printed": "Black Tern",
+  "observations": 16,
+  "example": "One Black Tern (in full black plumage)"
+ },
+ {
+  "n": 172,
+  "name": "black terns",
+  "printed": "Black Terns",
+  "observations": 7,
+  "example": "small parties of Black Terns were passing north"
+ },
+ {
+  "n": 173,
+  "name": "black ~ crows",
+  "printed": "black ~ crows",
+  "observations": 2,
+  "example": "Newarp t.v., Feb. 10th to 13th and 22nd to 23rd, 7.30 to 9 a.m., great numbers of ‘black ~ crows’? t"
+ },
+ {
+  "n": 174,
+  "name": "black- backs",
+  "printed": "Black- \nbacks",
+  "observations": 1,
+  "example": "mixed with Black- \nbacks, the latter one in twenty"
+ },
+ {
+  "n": 175,
+  "name": "black- billed auks",
+  "printed": "Black- \nbilled Auks",
+  "observations": 1,
+  "example": "December, a great number of ‘ Black- \nbilled Auks ”’ fishing."
+ },
+ {
+  "n": 176,
+  "name": "black- birds",
+  "printed": "Black- \nbirds",
+  "observations": 23,
+  "example": "with a few Black- \nbirds,—all flying S."
+ },
+ {
+  "n": 177,
+  "name": "black- headed",
+  "printed": "Black- headed",
+  "observations": 2,
+  "example": "July 18th, numbers of Black- headed"
+ },
+ {
+  "n": 178,
+  "name": "black- headed gulls",
+  "printed": "Black- \nheaded Gulls",
+  "observations": 1,
+  "example": "Black- \nheaded Gulls"
+ },
+ {
+  "n": 179,
+  "name": "black- hedded gulls",
+  "printed": "Black- hedded \nGulls",
+  "observations": 1,
+  "example": "September 11th, thousands of Black- hedded \nGulls fishing"
+ },
+ {
+  "n": 180,
+  "name": "black- tailed godivit",
+  "printed": "Black- tailed Godivit",
+  "observations": 3,
+  "example": "Sept. 6th, one, immature, shot"
+ },
+ {
+  "n": 181,
+  "name": "black- — birds",
+  "printed": "Black- — birds",
+  "observations": 1,
+  "example": "December 17th, numbers of Black- — birds and Thrushes"
+ },
+ {
+  "n": 182,
+  "name": "black-backed",
+  "printed": "Black-backed",
+  "observations": 2,
+  "example": "38rd, three Black-backed"
+ },
+ {
+  "n": 183,
+  "name": "black-backed common shearwaters",
+  "printed": "Black-backed Common Shearwaters",
+  "observations": 1,
+  "example": "At 5 p.m., two Black-backed Common Shearwaters"
+ },
+ {
+  "n": 184,
+  "name": "black-backed do",
+  "printed": "Black-Backed do.",
+  "observations": 1,
+  "example": "a few Black-Backed do."
+ },
+ {
+  "n": 185,
+  "name": "black-backed gull",
+  "printed": "Black-backed Gull",
+  "observations": 1,
+  "example": "a Black-backed Gull passed W.S.W., 10.15 a.m."
+ },
+ {
+  "n": 186,
+  "name": "black-backed gulls",
+  "printed": "Black-backed Gulls",
+  "observations": 19,
+  "example": "five Black-backed Gulls all day, remained during winter"
+ },
+ {
+  "n": 187,
+  "name": "black-backs",
+  "printed": "Black-backs",
+  "observations": 1,
+  "example": "hundreds of Herring Gulls came from \nS.E. all day; fresh W.; also accompanied by smaller numbers \nof"
+ },
+ {
+  "n": 188,
+  "name": "black-bellied dipper",
+  "printed": "Black-Bellied Dipper",
+  "observations": 2,
+  "example": "one shot on morning of 24th"
+ },
+ {
+  "n": 189,
+  "name": "black-billed auk",
+  "printed": "Black-billed Auk",
+  "observations": 5,
+  "example": "Novy. 27th, great numbers \nof the “‘ Black-billed Auk”"
+ },
+ {
+  "n": 190,
+  "name": "black-breasted duulin",
+  "printed": "Black-breasted Duulin",
+  "observations": 1,
+  "example": "Trent Lock, May 9th, 11 aM. twenty to thirty Black-breasted Duulin"
+ },
+ {
+  "n": 191,
+  "name": "black-breasted golden plover",
+  "printed": "Black-breasted Golden Plover",
+  "observations": 1,
+  "example": "eight Black-breasted Golden Plover"
+ },
+ {
+  "n": 192,
+  "name": "black-footed petrel",
+  "printed": "Black-footed Petrel",
+  "observations": 3,
+  "example": "At 8 a.m., one Black-footed Petrel"
+ },
+ {
+  "n": 193,
+  "name": "black-footed petrels",
+  "printed": "Black-footed Petrels",
+  "observations": 1,
+  "example": "Hight Black-footed Petrels"
+ },
+ {
+  "n": 194,
+  "name": "black-headed",
+  "printed": "Black-headed",
+  "observations": 5,
+  "example": "continuous flocks of Gulls, Black-headed, Grey, and different species. Thence to Oct. 19th."
+ },
+ {
+  "n": 195,
+  "name": "black-headed bunting",
+  "printed": "Black-Headed Bunting",
+  "observations": 2,
+  "example": "On March 18th, I saw a Black-Headed Bunting"
+ },
+ {
+  "n": 196,
+  "name": "black-headed gull",
+  "printed": "Black-headed Gull",
+  "observations": 7,
+  "example": "June 11th, two returned to the sea-side"
+ },
+ {
+  "n": 197,
+  "name": "black-headed gulls",
+  "printed": "Black-headed Gulls",
+  "observations": 14,
+  "example": "Sept. 26th, Skuas seen in\nattendance on Black-headed Gulls"
+ },
+ {
+  "n": 198,
+  "name": "black-headed puen",
+  "printed": "Black-headed Puen",
+  "observations": 1,
+  "example": "in May, male and female obtained"
+ },
+ {
+  "n": 199,
+  "name": "black-looking birds",
+  "printed": "black-looking birds",
+  "observations": 1,
+  "example": "At 11 a.m., two black-looking birds, like Gulls (? Skuas) flying rapidly to N.E."
+ },
+ {
+  "n": 200,
+  "name": "black-tailed godwit",
+  "printed": "Black-tailed Godwit",
+  "observations": 5,
+  "example": "Aug. 24th, four seen at Breydon"
+ },
+ {
+  "n": 201,
+  "name": "black-throated diver",
+  "printed": "Black-throated Diver",
+  "observations": 4,
+  "example": "Dec, first week, Red-throated Diver,\n_C. septentrionalis_, Linn., Black-throated Diver, _C. arcticus"
+ },
+ {
+  "n": 202,
+  "name": "black-throated wheatear",
+  "printed": "Black-throated Wheatear",
+  "observations": 1,
+  "example": "Heligoland, Oct. - 2nd, one, probable, not obtained"
+ },
+ {
+  "n": 203,
+  "name": "blackbilled auks",
+  "printed": "Blackbilled Auks",
+  "observations": 1,
+  "example": "two \"Blackbilled Auks\" fishing around rock. First seen since 2d inst."
+ },
+ {
+  "n": 204,
+  "name": "blackbird",
+  "printed": "Blackbird",
+  "observations": 429,
+  "example": "Appeared at North Ronaldshay and the Bell\nRock between Oct. 1st and Nov. 25th"
+ },
+ {
+  "n": 205,
+  "name": "blackbird with a white breast",
+  "printed": "Blackbird with a white breast",
+  "observations": 1,
+  "example": "\"A Blackbird with a white breast\" was observed at Mine Head from the\n8th to the 10th December"
+ },
+ {
+  "n": 206,
+  "name": "blackbirds",
+  "printed": "Blackbirds",
+  "observations": 943,
+  "example": "Oct. 25th, when numbers,\nalong with Blackbirds, struck at North Ronaldshay"
+ },
+ {
+  "n": 207,
+  "name": "blackcap",
+  "printed": "Blackcap",
+  "observations": 45,
+  "example": "at Spurn on morning of 28th a female Blackcap was shot"
+ },
+ {
+  "n": 208,
+  "name": "blackcap warbler",
+  "printed": "Blackcap Warbler",
+  "observations": 1,
+  "example": "May 22nd, in Peasedean"
+ },
+ {
+  "n": 209,
+  "name": "blackcaps",
+  "printed": "Blackcaps",
+  "observations": 24,
+  "example": "less numbers of Blackcaps"
+ },
+ {
+  "n": 210,
+  "name": "blackeap",
+  "printed": "Blackeap",
+  "observations": 3,
+  "example": "Farn u.u. April 29th, several"
+ },
+ {
+  "n": 211,
+  "name": "blackeaps",
+  "printed": "Blackeaps",
+  "observations": 1,
+  "example": "Blackeaps about station"
+ },
+ {
+  "n": 212,
+  "name": "blackheaded gull",
+  "printed": "Blackheaded Gull",
+  "observations": 1,
+  "example": "July 22d, Langness, flock at 7 P.M."
+ },
+ {
+  "n": 213,
+  "name": "blackstart",
+  "printed": "Blackstart",
+  "observations": 7,
+  "example": "Heligoland, March 13th to 14th, one"
+ },
+ {
+  "n": 214,
+  "name": "blue",
+  "printed": "Blue",
+  "observations": 1,
+  "example": "Blue, some"
+ },
+ {
+  "n": 215,
+  "name": "blue janet",
+  "printed": "Blue Janet",
+  "observations": 1,
+  "example": "In autumn, one \"Blue Janet\" on Dec. 3rd"
+ },
+ {
+  "n": 216,
+  "name": "blue janets",
+  "printed": "\"Blue Janets\"",
+  "observations": 2,
+  "example": "\"Blue Janets\" participated in the October rush"
+ },
+ {
+  "n": 217,
+  "name": "blue rock pigeon",
+  "printed": "Blue Rock Pigeon",
+  "observations": 2,
+  "example": "one Blue Rock Pigeon; came on board"
+ },
+ {
+  "n": 218,
+  "name": "blue tit",
+  "printed": "Blue Tit",
+  "observations": 5,
+  "example": "On Oct. 9th we shot a “ Blue Tit” (Parus ceruleus, L.) on I. of May"
+ },
+ {
+  "n": 219,
+  "name": "blue titmouse",
+  "printed": "Blue Titmouse",
+  "observations": 11,
+  "example": "Blue Titmouse (_P. cæruleus_), a great many passed over in the afternoon of Oct. 10th"
+ },
+ {
+  "n": 220,
+  "name": "blue tits",
+  "printed": "Blue Tits",
+  "observations": 2,
+  "example": "3 p.m., mod. N.N.E. breeze, \"a large flock of Blue Tits perched on the trees"
+ },
+ {
+  "n": 221,
+  "name": "blue- headed yellow wagtails",
+  "printed": "Blue- headed Yellow Wagtails",
+  "observations": 1,
+  "example": "a crowd of Pied Flycatchers, Willow Wrens, Redstarts, Bluethroats, Ortolan Buntings, Blue- headed Ye"
+ },
+ {
+  "n": 222,
+  "name": "blue-headed wagtail",
+  "printed": "Blue-headed Wagtail",
+  "observations": 3,
+  "example": "April 23rd, Blue-headed Wagtail, _M. flava_, Linn., some"
+ },
+ {
+  "n": 223,
+  "name": "blue-headed wagtails",
+  "printed": "Blue-headed Wagtails",
+  "observations": 1,
+  "example": "immense numbers with Swallows, Martins, Sand Martins, Swifts, Ortolan Buntings, Tree Pipits, Wheatea"
+ },
+ {
+  "n": 224,
+  "name": "blue-headed yellow wagtail",
+  "printed": "Blue-headed Yellow Wagtail",
+  "observations": 8,
+  "example": "P1ist, 22nd, and 24th, astonishing numbers"
+ },
+ {
+  "n": 225,
+  "name": "blue-throated warbler",
+  "printed": "Blue-throated Warbler",
+  "observations": 9,
+  "example": "one Blue-throated Warbler (_C. Wolfi_)"
+ },
+ {
+  "n": 226,
+  "name": "blue-titmouse",
+  "printed": "Blue-Titmouse",
+  "observations": 1,
+  "example": "Great Cotes, October 11th. Blue and Coal Titmouse, several"
+ },
+ {
+  "n": 227,
+  "name": "blue-winged teal",
+  "printed": "Blue-winged Teal",
+  "observations": 2,
+  "example": "One, a young bird, shot on Sept. 3rd near Redcar"
+ },
+ {
+  "n": 228,
+  "name": "bluethroat",
+  "printed": "Bluethroat",
+  "observations": 4,
+  "example": "At Heligoland, May 22nd, all males--perhaps one in ten a female"
+ },
+ {
+  "n": 229,
+  "name": "bluethroats",
+  "printed": "Bluethroats",
+  "observations": 2,
+  "example": "many Redstarts, Pied Flycatchers, and Bluethroats, also"
+ },
+ {
+  "n": 230,
+  "name": "boatswain bird",
+  "printed": "Boatswain Bird",
+  "observations": 1,
+  "example": "July 17th, \"Boatswain Bird,\" 10 p.m., first seen"
+ },
+ {
+  "n": 231,
+  "name": "boatswain birds",
+  "printed": "Boatswain Birds",
+  "observations": 10,
+  "example": "\"Boatswain Birds\" were\nseen on June 21st, at MacArthur's Head"
+ },
+ {
+  "n": 232,
+  "name": "boatswain gull",
+  "printed": "Boatswain Gull",
+  "observations": 1,
+  "example": "19th, one Boatswain Gull"
+ },
+ {
+  "n": 233,
+  "name": "boatswain gulls",
+  "printed": "Boatswain Gulls",
+  "observations": 3,
+  "example": "July 21st to 27th, \"Boatswain Gulls\" seen"
+ },
+ {
+  "n": 234,
+  "name": "boatswain skua",
+  "printed": "Boatswain Skua",
+  "observations": 1,
+  "example": "Llyn Wells L.V., October 10th, 7 A.M. to\n9.30 P.M., flock of 130 \"Boatswain Skua;\""
+ },
+ {
+  "n": 235,
+  "name": "boatswain skua gull",
+  "printed": "Boatswain Skua Gull",
+  "observations": 1,
+  "example": "June 22nd, one “ Boatswain Skua Gull.”"
+ },
+ {
+  "n": 236,
+  "name": "boatswains",
+  "printed": "Boatswains",
+  "observations": 2,
+  "example": "continuous flocks of ‘“‘ Boatswains” going N.E."
+ },
+ {
+  "n": 237,
+  "name": "boatswains’ birds",
+  "printed": "Boatswains’ birds",
+  "observations": 1,
+  "example": "an abundance of Gulls and Boatswains’ birds up to October"
+ },
+ {
+  "n": 238,
+  "name": "bohemian chatterer",
+  "printed": "Bohemian Chatterer",
+  "observations": 1,
+  "example": "Bohemian Chatterer, Kelso"
+ },
+ {
+  "n": 239,
+  "name": "bonxies",
+  "printed": "Bonxies",
+  "observations": 1,
+  "example": "Three ‘‘ Bonxies”’ seen at N. Unst"
+ },
+ {
+  "n": 240,
+  "name": "books",
+  "printed": "Books",
+  "observations": 13,
+  "example": "two Books flew to the barque 'East.'"
+ },
+ {
+  "n": 241,
+  "name": "both species",
+  "printed": "both species",
+  "observations": 1,
+  "example": "Cockle t.v., 14th, both species"
+ },
+ {
+  "n": 242,
+  "name": "brachydactyla",
+  "printed": "_brachydactyla_",
+  "observations": 1,
+  "example": "_brachydactyla_,\none shot"
+ },
+ {
+  "n": 243,
+  "name": "brambling",
+  "printed": "Brambling",
+  "observations": 74,
+  "example": "Only two present in the great snow on January 15th and\n19th"
+ },
+ {
+  "n": 244,
+  "name": "bramblings",
+  "printed": "Bramblings",
+  "observations": 42,
+  "example": "day-flights have often been observed passing here\nfrom N.N.W. towards S.S.E., or from N.W. to S.W. I"
+ },
+ {
+  "n": 245,
+  "name": "brent",
+  "printed": "Brent",
+  "observations": 1,
+  "example": "One Brent (\"Sly\nGoose\") at Pentland Skerries, in June (marked \"rare\"), flying E."
+ },
+ {
+  "n": 246,
+  "name": "brent geese",
+  "printed": "Brent Geese",
+  "observations": 15,
+  "example": "Sept. 29th, when many years ago one of our coast gunners, still living,\nkilled ten at a shot"
+ },
+ {
+  "n": 247,
+  "name": "brent goose",
+  "printed": "Brent Goose",
+  "observations": 16,
+  "example": "At Teesmouth 5 Buoy L.V., Sept. 25th, 11 a.m., first seen"
+ },
+ {
+  "n": 248,
+  "name": "brent or black geese",
+  "printed": "Brent or \"Black Geese\"",
+  "observations": 3,
+  "example": "the Corton, going south, July 18th, twelve"
+ },
+ {
+  "n": 249,
+  "name": "bridle nebs",
+  "printed": "Bridle Nebs",
+  "observations": 2,
+  "example": "April 12th, ‘‘ Parrots, Bridle Nebs,” &c., \nbegin to arrive"
+ },
+ {
+  "n": 250,
+  "name": "british long-tailed titmouse",
+  "printed": "British Long-tailed Titmouse",
+  "observations": 5,
+  "example": "Oct. 25th, about this date several seen"
+ },
+ {
+  "n": 251,
+  "name": "brown cormorants",
+  "printed": "Brown Cormorants",
+  "observations": 1,
+  "example": "February 19th, two Brown Cormorants on Little Fastnet"
+ },
+ {
+  "n": 252,
+  "name": "brown hawk",
+  "printed": "Brown Hawk",
+  "observations": 5,
+  "example": "a \"Brown Hawk\" was noticed at noon"
+ },
+ {
+  "n": 253,
+  "name": "brown hawks",
+  "printed": "Brown Hawks",
+  "observations": 4,
+  "example": "several ‘‘ Brown Hawks,” which remained most of the month"
+ },
+ {
+  "n": 254,
+  "name": "brown linnets",
+  "printed": "Brown Linnets",
+  "observations": 1,
+  "example": "two Brown Linnets captured."
+ },
+ {
+  "n": 255,
+  "name": "brown owl",
+  "printed": "Brown Owl",
+  "observations": 7,
+  "example": "At Skerryvore, one Brown Owl appeared on 10th May, at 2.30\np.m., in showery weather"
+ },
+ {
+  "n": 256,
+  "name": "brown wrens",
+  "printed": "Brown Wrens",
+  "observations": 2,
+  "example": "\"Brown Wrens\" about lantern"
+ },
+ {
+  "n": 257,
+  "name": "buack repstart",
+  "printed": "Buack Repstart",
+  "observations": 9,
+  "example": "October 23d, “A small bird about size of a Robin"
+ },
+ {
+  "n": 258,
+  "name": "buffon's",
+  "printed": "Buffon's",
+  "observations": 1,
+  "example": "On Sept. 16th a great many Skuas were seen on the fishing grounds, five to six miles out, Richardson"
+ },
+ {
+  "n": 259,
+  "name": "buffon's skua",
+  "printed": "Buffon's Skua",
+  "observations": 2,
+  "example": "a large mixed flock of Pomatorhine and Buffon's Skua was seen near the Breakwater, crouching on the "
+ },
+ {
+  "n": 260,
+  "name": "buffon's skuas",
+  "printed": "Buffon's Skuas",
+  "observations": 1,
+  "example": "Sept. 29th, a great many Richardson's, Pomatorhine, and a few Buffon's Skuas seen from four to twelv"
+ },
+ {
+  "n": 261,
+  "name": "buiackceap",
+  "printed": "BuiackceaP",
+  "observations": 2,
+  "example": "November 7th, one found killed; forwarded"
+ },
+ {
+  "n": 262,
+  "name": "bullfinch",
+  "printed": "Bullfinch",
+  "observations": 31,
+  "example": "At Heligoland, Oct. 7th, one, young"
+ },
+ {
+  "n": 263,
+  "name": "bullfinches",
+  "printed": "Bullfinches",
+  "observations": 22,
+  "example": "\"There are more Bullfinches in this part of Surrey than I think I ever saw.\""
+ },
+ {
+  "n": 264,
+  "name": "bulwer’s petrels",
+  "printed": "Bulwer’s Petrels",
+  "observations": 1,
+  "example": "Bulwer’s Petrels, throughout the morning; \n\n\nOCEAN NOTES. . 5 \n\n\nW., strong, v.c.; about nine or ten"
+ },
+ {
+  "n": 265,
+  "name": "buntings",
+  "printed": "Buntings",
+  "observations": 7,
+  "example": "Almost every day I saw flock after flock of little birds--Larks,\nBuntings, Robins, and even Wrens--f"
+ },
+ {
+  "n": 266,
+  "name": "buonapartian gull",
+  "printed": "Buonapartian Gull",
+  "observations": 1,
+  "example": "Buonapartian Gull, in April 1851 or 1852"
+ },
+ {
+  "n": 267,
+  "name": "burgomasters",
+  "printed": "Burgomasters",
+  "observations": 5,
+  "example": "numerous Snow Birds, Burgomasters, Snow Buntings"
+ },
+ {
+  "n": 268,
+  "name": "buteo",
+  "printed": "_Buteo_",
+  "observations": 3,
+  "example": "_Buteo_, one"
+ },
+ {
+  "n": 269,
+  "name": "buvee tit",
+  "printed": "BuveE Tit",
+  "observations": 2,
+  "example": "February 1886 [wing received.]"
+ },
+ {
+  "n": 270,
+  "name": "buzzard",
+  "printed": "Buzzard",
+  "observations": 8,
+  "example": "On Sept. 27th a Buzzard seen at Douglas Hall"
+ },
+ {
+  "n": 271,
+  "name": "buzzards",
+  "printed": "Buzzards",
+  "observations": 6,
+  "example": "Buzzards one (by description) flying S. at Isle of May, Sept. 27th."
+ },
+ {
+  "n": 272,
+  "name": "c. corax",
+  "printed": "_C. corax_",
+  "observations": 1,
+  "example": "_C. corax_, a\nlittle flight, about fifteen"
+ },
+ {
+  "n": 273,
+  "name": "c. cornix",
+  "printed": "C. cornix",
+  "observations": 31,
+  "example": "C. cornix, frugilegus, and \nmonedula, monstrous numbers; cornix and monedula mixed in \nuninterrupted"
+ },
+ {
+  "n": 274,
+  "name": "c. frugilegus",
+  "printed": "_C. frugilegus_",
+  "observations": 2,
+  "example": "_C. frugilegus_, a great flight"
+ },
+ {
+  "n": 275,
+  "name": "c. graculus",
+  "printed": "C. graculus",
+  "observations": 1,
+  "example": "April 30th, C. graculus, N.E:, light air."
+ },
+ {
+  "n": 276,
+  "name": "c. hiaticula",
+  "printed": "_C. hiaticula_",
+  "observations": 1,
+  "example": "every night, great numbers of _Numenius_, _Totanus_, _Tringa_, and _C. hiaticula_, &c., crossed"
+ },
+ {
+  "n": 277,
+  "name": "c. palumbus",
+  "printed": "C. palumbus",
+  "observations": 4,
+  "example": "Heligoland, C. palumbus, Sept. 80th, some"
+ },
+ {
+  "n": 278,
+  "name": "c. pratensis",
+  "printed": "_C. pratensis_",
+  "observations": 1,
+  "example": "_C. pratensis_, _Scol. gallinago_,\n_gallinula_, and _Col. palumbus_, scattered"
+ },
+ {
+  "n": 279,
+  "name": "calcarius lapponicus",
+  "printed": "Calcarius lapponicus",
+  "observations": 1,
+  "example": "large numbers of continental species"
+ },
+ {
+  "n": 280,
+  "name": "calidris",
+  "printed": "_calidris_",
+  "observations": 2,
+  "example": "_Vanellus_, _Tot. hypoleucus_, _calidris_, and\n_glottis_; _Numenius_, all but stray birds and young "
+ },
+ {
+  "n": 281,
+  "name": "campestris",
+  "printed": "_Campestris_",
+  "observations": 2,
+  "example": "_Campestris_, one"
+ },
+ {
+  "n": 282,
+  "name": "canada geese",
+  "printed": "Canada Geese",
+  "observations": 2,
+  "example": "Farne Inner, Nov. 13th, three Canada Geese shot from flock of eleven"
+ },
+ {
+  "n": 283,
+  "name": "cannabina",
+  "printed": "_cannabina_",
+  "observations": 23,
+  "example": "_cannabina_ and _montium_, fewer"
+ },
+ {
+  "n": 284,
+  "name": "caprimulgidæ",
+  "printed": "Caprimulgidæ",
+  "observations": 1,
+  "example": "Only one record at Isle of May, where the first was observed, Sept. 26th"
+ },
+ {
+  "n": 285,
+  "name": "caprimulgus",
+  "printed": "_Caprimulgus_",
+  "observations": 4,
+  "example": "_Caprimulgus_, one,\nthe first"
+ },
+ {
+  "n": 286,
+  "name": "caprimulgus europæus",
+  "printed": "_Caprimulgus europæus_",
+  "observations": 1,
+  "example": "One _Caprimulgus europæus_ was sent from Gauredal on June 16th"
+ },
+ {
+  "n": 287,
+  "name": "caprimulgus ewropaus",
+  "printed": "Caprimulgus ewropaus",
+  "observations": 1,
+  "example": "perished at the lantern :—Caprimulgus ewropaus"
+ },
+ {
+  "n": 288,
+  "name": "carbo cormoranus",
+  "printed": "Carbo cormoranus",
+  "observations": 1,
+  "example": "April 80th, Carbo cormoranus, N.E., light air."
+ },
+ {
+  "n": 289,
+  "name": "carduelis",
+  "printed": "_carduelis_",
+  "observations": 1,
+  "example": "_carduelis_, one"
+ },
+ {
+  "n": 290,
+  "name": "carpodacus erythrinus",
+  "printed": "Carpodacus erythrinus",
+  "observations": 1,
+  "example": "Carpodacus erythrinus, Sept. 9th"
+ },
+ {
+  "n": 291,
+  "name": "carrier",
+  "printed": "Carrier",
+  "observations": 1,
+  "example": "On the 20th January 1888, another Carrier was seen with a paper attached to it"
+ },
+ {
+  "n": 292,
+  "name": "carrier pigeon",
+  "printed": "Carrier Pigeon",
+  "observations": 2,
+  "example": "July 5th, a Carrier Pigeon, branded on the wings; is alive"
+ },
+ {
+  "n": 293,
+  "name": "carrion",
+  "printed": "Carrion",
+  "observations": 2,
+  "example": "Carrion \nand Hooded Crows attended the rush of migrants on 1st, coming \nfrom the north"
+ },
+ {
+  "n": 294,
+  "name": "carrion (?) crows (hooded?)",
+  "printed": "Carrion (?) Crows (Hooded?)",
+  "observations": 1,
+  "example": "Carrion (?) Crows (Hooded?) frequent the cliffs"
+ },
+ {
+  "n": 295,
+  "name": "carrion and hooded crows",
+  "printed": "Carrion and Hooded Crows",
+  "observations": 4,
+  "example": "Earliest 1st March; latest 29th April. From three or four to eight or ten daily; long straggling mig"
+ },
+ {
+  "n": 296,
+  "name": "carrion crow",
+  "printed": "Carrion Crow",
+  "observations": 28,
+  "example": "At Cockle L.V., June 8th, six to S.E."
+ },
+ {
+  "n": 297,
+  "name": "carrion crows",
+  "printed": "Carrion Crows",
+  "observations": 41,
+  "example": "Thirteen Carrion Crows were observed at the Inner Farne L.H. on Oct. 26th"
+ },
+ {
+  "n": 298,
+  "name": "caspian tern",
+  "printed": "Caspian Tern",
+  "observations": 3,
+  "example": "the Caspian Tern, _Sterna\nCaspia_, on the 22nd"
+ },
+ {
+  "n": 299,
+  "name": "certh. familiaris",
+  "printed": "_Certh. familiaris_",
+  "observations": 1,
+  "example": "_Certh. familiaris_, several"
+ },
+ {
+  "n": 300,
+  "name": "ceruleus",
+  "printed": "ceruleus",
+  "observations": 1,
+  "example": "P. major and ceruleus, very common"
+ },
+ {
+  "n": 301,
+  "name": "cervinus",
+  "printed": "_cervinus_",
+  "observations": 1,
+  "example": "_Anth. richardi_ and _cervinus_, of each one"
+ },
+ {
+  "n": 302,
+  "name": "ch. auratus",
+  "printed": "_Ch. auratus_",
+  "observations": 10,
+  "example": "_Ch. auratus_, one in fine summer\nplumage"
+ },
+ {
+  "n": 303,
+  "name": "ch. hiaticula",
+  "printed": "_Ch. hiaticula_",
+  "observations": 2,
+  "example": "_Vanellus_, _Numenius_, _Tot. calidris_, _glottis_,\n_Ch. hiaticula_, numerous"
+ },
+ {
+  "n": 304,
+  "name": "ch. morinellus",
+  "printed": "_Ch. morinellus_",
+  "observations": 1,
+  "example": "_Ch. morinellus_, some"
+ },
+ {
+  "n": 305,
+  "name": "ch. squatarola",
+  "printed": "_Ch. squatarola_",
+  "observations": 2,
+  "example": "Late in evening, many _Ch. squatarola_ overhead passing"
+ },
+ {
+  "n": 306,
+  "name": "ch. vanellus",
+  "printed": "_Ch. vanellus_",
+  "observations": 3,
+  "example": "_Ch. vanellus_, great many"
+ },
+ {
+  "n": 307,
+  "name": "chaf- finches",
+  "printed": "Chaf- finches",
+  "observations": 1,
+  "example": "28th, 10 P.M.,a number about light, with Blackbirds, Redwings, Chaf- finches"
+ },
+ {
+  "n": 308,
+  "name": "chaffiches",
+  "printed": "Chaffiches",
+  "observations": 1,
+  "example": "24th, Dec. 1st, 2nd to 9th, 15th, 17th, 22nd, and 26th, Chaffiches in small numbers entered on all t"
+ },
+ {
+  "n": 309,
+  "name": "chaffinch",
+  "printed": "Chaffinch",
+  "observations": 286,
+  "example": "Oct. 18th, at\nnoon, going E. to W."
+ },
+ {
+  "n": 310,
+  "name": "chaffinches",
+  "printed": "Chaffinches",
+  "observations": 252,
+  "example": "Great Tits much increased\nin numbers, as also Chaffinches"
+ },
+ {
+  "n": 311,
+  "name": "chaffinches or linnets",
+  "printed": "Chaffinches or\nLinnets",
+  "observations": 1,
+  "example": "Oct. 21st, about \"thirty Chaffinches or\nLinnets.\""
+ },
+ {
+  "n": 312,
+  "name": "chaftinch",
+  "printed": "Chaftinch",
+  "observations": 12,
+  "example": "four at 7.80 a.m."
+ },
+ {
+  "n": 313,
+  "name": "chaftinches",
+  "printed": "Chaftinches",
+  "observations": 1,
+  "example": "Chaftinches, Grey Linnets, and one Sparrow at Pentland Skerries, \nbetween 5th and 22nd"
+ },
+ {
+  "n": 314,
+  "name": "char. auratus",
+  "printed": "_Char. auratus_",
+  "observations": 21,
+  "example": "Extensive migration during the night: _Numenius_,\n_Char. auratus_"
+ },
+ {
+  "n": 315,
+  "name": "char. hiaticula",
+  "printed": "_Char. hiaticula_",
+  "observations": 2,
+  "example": "_Numenius_ and _Char. hiaticula_, returning."
+ },
+ {
+  "n": 316,
+  "name": "char. morinellus",
+  "printed": "_Char. morinellus_",
+  "observations": 4,
+  "example": "_Char. morinellus_, several"
+ },
+ {
+  "n": 317,
+  "name": "char. squatarola",
+  "printed": "_Char. squatarola_",
+  "observations": 2,
+  "example": "_Char. squatarola_, a very fine male"
+ },
+ {
+  "n": 318,
+  "name": "char. vanellus",
+  "printed": "_Char. vanellus_",
+  "observations": 5,
+  "example": "_Char. vanellus_, ten to\nfifteen"
+ },
+ {
+  "n": 319,
+  "name": "charadriadæ",
+  "printed": "Charadriadæ",
+  "observations": 1,
+  "example": "A flock in February"
+ },
+ {
+  "n": 320,
+  "name": "charadrius",
+  "printed": "charadrius",
+  "observations": 5,
+  "example": "Sept. 16th, flight of tringa, totanus, charadrius, all young"
+ },
+ {
+  "n": 321,
+  "name": "charadrius pluvialis",
+  "printed": "Charadrius pluvialis",
+  "observations": 1,
+  "example": "April 17th, Charadrius pluvialis, N.E.., very fresh; clear."
+ },
+ {
+  "n": 322,
+  "name": "chaser",
+  "printed": "Chaser",
+  "observations": 2,
+  "example": "one “Chaser” flying N.W., 2.15 p.m."
+ },
+ {
+  "n": 323,
+  "name": "chasers",
+  "printed": "Chasers",
+  "observations": 4,
+  "example": "\"Chasers\" (Skuas), one on May 28th, at Portland Skerries"
+ },
+ {
+  "n": 324,
+  "name": "chat",
+  "printed": "Chat",
+  "observations": 1,
+  "example": "One Chat and one Wagtail in Garden of\nLamlash on Oct. 27th"
+ },
+ {
+  "n": 325,
+  "name": "chats",
+  "printed": "Chats",
+  "observations": 2,
+  "example": "_Curruca_, Redstarts, and Warblers as Chats, all\ntolerable, but not many"
+ },
+ {
+  "n": 326,
+  "name": "chiff chaff",
+  "printed": "Chiff Chaff",
+  "observations": 4,
+  "example": "March 24th, Ravenglass"
+ },
+ {
+  "n": 327,
+  "name": "chiff- chaff",
+  "printed": "Chiff- chaff",
+  "observations": 1,
+  "example": "One “ Chiff- chaff” also noted on 5th May"
+ },
+ {
+  "n": 328,
+  "name": "chiff-chaff",
+  "printed": "Chiff-Chaff",
+  "observations": 23,
+  "example": "Earliest Chiff-Chaff, 27th July, at XXVII., 11 A.M., E., light fog"
+ },
+ {
+  "n": 329,
+  "name": "chiff-chaffs",
+  "printed": "Chiff-Chaffs",
+  "observations": 8,
+  "example": "Chiff-Chaffs"
+ },
+ {
+  "n": 330,
+  "name": "chiffchaff",
+  "printed": "Chiffchaff",
+  "observations": 31,
+  "example": "East Yorkshire, Chiffchaff, _Phylloscopus collybita_ (Vieill.), March 13th"
+ },
+ {
+  "n": 331,
+  "name": "chiffchaffs",
+  "printed": "Chiffchaffs",
+  "observations": 32,
+  "example": "on the 9th Chiffchaffs commenced migrating"
+ },
+ {
+  "n": 332,
+  "name": "chimney swallows",
+  "printed": "Chimney Swallows",
+  "observations": 7,
+  "example": "on 15th, when thirty arrived"
+ },
+ {
+  "n": 333,
+  "name": "chit-chat",
+  "printed": "Chit-chat",
+  "observations": 1,
+  "example": "October 11th, one \"Chit-chat\" about lantern"
+ },
+ {
+  "n": 334,
+  "name": "chit-chats",
+  "printed": "Chit-chats",
+  "observations": 1,
+  "example": "16th, three \"Chit-chats\" about ship 1 A.M."
+ },
+ {
+  "n": 335,
+  "name": "chloris",
+  "printed": "_Chloris_",
+  "observations": 5,
+  "example": "_Chloris_, fewer"
+ },
+ {
+  "n": 336,
+  "name": "choueh",
+  "printed": "CHoueH",
+  "observations": 7,
+  "example": "April 14th, gathering material for nests"
+ },
+ {
+  "n": 337,
+  "name": "chough",
+  "printed": "Chough",
+  "observations": 21,
+  "example": "\"The Chough\nbreeds upon the island, and never goes away.\""
+ },
+ {
+  "n": 338,
+  "name": "choughs",
+  "printed": "Choughs",
+  "observations": 22,
+  "example": "a small flock of Choughs passed S.W. at 3 p.m."
+ },
+ {
+  "n": 339,
+  "name": "cic, alba",
+  "printed": "_Cic, alba_",
+  "observations": 1,
+  "example": "_Cic, alba_, one"
+ },
+ {
+  "n": 340,
+  "name": "cic. alba",
+  "printed": "_Cic. alba_",
+  "observations": 1,
+  "example": "_Cic. alba_, one"
+ },
+ {
+  "n": 341,
+  "name": "cinc. aquaticus",
+  "printed": "_Cinc. aquaticus_",
+  "observations": 1,
+  "example": "_Cinc. aquaticus_ (_melanogaster_), one"
+ },
+ {
+  "n": 342,
+  "name": "cinc. melanogaster",
+  "printed": "_Cinc. melanogaster_",
+  "observations": 1,
+  "example": "_Cinc. melanogaster_, one fine male\nshot"
+ },
+ {
+  "n": 343,
+  "name": "cinclide",
+  "printed": "Cinclide",
+  "observations": 2,
+  "example": "of Turdide, Cinclide"
+ },
+ {
+  "n": 344,
+  "name": "cinerea",
+  "printed": "_cinerea_",
+  "observations": 17,
+  "example": "_Trochilus_,\n_rubecula_, _cinerea_, _flava_, _rubetra_--_M. luctuosa_, _Fringilla_,\nall very single "
+ },
+ {
+  "n": 345,
+  "name": "cinereous shearwaters",
+  "printed": "Cinereous \nShearwaters",
+  "observations": 1,
+  "example": "Cinereous \nShearwaters"
+ },
+ {
+  "n": 346,
+  "name": "cirl bunting",
+  "printed": "Cirl Bunting",
+  "observations": 2,
+  "example": "Cirl Bunting (one bird sent in spirits was not a Cirl Bunting"
+ },
+ {
+  "n": 347,
+  "name": "citrinella",
+  "printed": "_citrinella_",
+  "observations": 2,
+  "example": "_Emb. schœniclus_ and _citrinella_"
+ },
+ {
+  "n": 348,
+  "name": "co yox borguilla",
+  "printed": "CO YOX BOrguilla",
+  "observations": 1,
+  "example": "CO YOX BOrguilla"
+ },
+ {
+  "n": 349,
+  "name": "coal titmouse",
+  "printed": "Coal Titmouse",
+  "observations": 3,
+  "example": "Coal Titmouse (_Parus ater_), a few"
+ }
+]

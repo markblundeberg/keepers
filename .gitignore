@@ -1,0 +1,13 @@
+cache/
+__pycache__/
+*.pyc
+sources/lights/*.pdf
+sources/reanalysis/*.nc
+sources/reanalysis/*.part
+.venv/
+sources/ephemeris/*.bsp
+sources/geomag/gufm1.txt
+film/scratch/
+film/engine/node_modules
+film/out/
+film/dailies/

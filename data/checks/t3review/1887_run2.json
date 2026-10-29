@@ -1,0 +1,70 @@
+{
+ "flags": [
+  {
+   "id": "3:wind",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "Copies the text's \"(E.S.E, 4, ...\" exactly. The print reads \"E.S.E.,\", so the transcription dropped a stop. \"E.S.E. to E.N.E.\" is the checker's merge and can't be copied as one string."
+  },
+  {
+   "id": "3:force",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The text reads \"E.S.E, 4, to E.N.E., 7\". \"4 to 7\" isn't a printed string; the copy rule forbids that tidying, so \"4\" is right."
+  },
+  {
+   "id": "19:date_iso",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The text reads \"6th, at Butt of Lewis\" and the record copies it. The checker reads \"26th\" in the print, so the transcription dropped the \"2\"."
+  },
+  {
+   "id": "27:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The eighty were among the \"flocks... going N.E.\", so passing holds. But \"The second flock rested about ten minutes on island\" also merits a separate settled observation, which is missing."
+  },
+  {
+   "id": "27:direction",
+   "kind": "extraction",
+   "right_value": "from the westward",
+   "why": "\"eighty in the second. They came from the westward\": the text states a direction for these birds (\"going N.E.\" also applies). Null is wrong."
+  },
+  {
+   "id": "42:species",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The entry names no bird. \"Larks\" is copied from the context (\"Larks at lantern\"), while the checker used the section heading \"Skylark\". Both name the bird."
+  },
+  {
+   "id": "75:species",
+   "kind": "extraction",
+   "right_value": "Blackbirds (plus one dead obs each for Thrushes, Larks, Redwings, Fieldfares, Robin; count \"a few\", count_shared true)",
+   "why": "\"Blackbirds, Thrushes, Larks... at lantern...; a few killed\": the dead birds are named. Give one observation per kind, not null and not the whole list."
+  },
+  {
+   "id": "88:time",
+   "kind": "extraction",
+   "right_value": "9 to 11 P.M.",
+   "why": "\"striking, 9 to 11 P.M. (156 Larks, twelve Starlings... killed.)\": the bracket continues the clause, as in Example 1."
+  },
+  {
+   "id": "95:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"from 7 P.M. to 3 A.M. (9th). Caught eighteen Thrushes...\": a new sentence, so whether the time carries over is a matter of reach."
+  },
+  {
+   "id": "96:time",
+   "kind": "extraction",
+   "right_value": "between 9 and 11 P.M.",
+   "why": "\"A few birds at lantern between 9 and 11 P.M.; eighteen killed--... one Redwing\": the continuing clause shares the time."
+  }
+ ],
+ "_meta": {
+  "year": 1887,
+  "run": 2,
+  "cost_usd": 0.1364668,
+  "n_flags": 10
+ }
+}

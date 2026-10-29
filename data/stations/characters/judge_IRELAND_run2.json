@@ -1,0 +1,886 @@
+{
+ "stations": [
+  {
+   "id": "fastnet",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'bright' to 'rev. light, 1 min.'; Edwards 'white, revolving, one minute interval'.",
+   "confidence": "high",
+   "note": "Findlay 1879 has two rows for this light (p52r0 'FASTNET' and p56r16 'FASTNET ROCK'). They are identical."
+  },
+  {
+   "id": "galley-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Character 'revol. lt. ev. min.' (1879) becomes 'flash. br. lt., 1 min.' (1887). Both descriptions say 6 or 7 flashes in 16 s, then 44 s dark. Edwards: gas, 6 or 7 flashes in quick succession every minute.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "old-head-of-kinsale",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'fix.'. The red ray over Courtmacsherry Bay is the same, described by landmarks instead of bearings. 1887 year column '1683 / 1853' gives the original foundation and the 1853 tower. Neither is an alteration in 1879-87.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "mine-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'Bright 50 s, suddenly dark 10 s' becomes 'bright 50 s, eclipsed 10 s'. Both editions call it intermittent; 1887 adds 'br.'. Edwards notes gas.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "ballinacourty",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'fixed'. One green-sector bearing is refined from 'E.' to 'E. ¼ N.'. Edwards: white fixed with red and green sectors.",
+   "confidence": "high",
+   "note": "The sector refinement does not change what is seen from the station."
+  },
+  {
+   "id": "hook-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Name 'Hook Tower' becomes 'Hook Point'. 'bright fixed' becomes 'fixed bright'. 1887 drops the fog-gun. The year '1791 1859' is not an alteration in the window. Edwards notes gas.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "coningbeg-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'Revol. bright lt., 3 flashes once ev. min.' (1879) becomes '3-flash. br. lt., 1 m.: 3 quick flashes in 23 s, eclipsed 37 s' (1887). Edwards: group flashing, 3 flashes every minute. The alteration year 1878 falls before the window.",
+   "confidence": "high",
+   "note": "The day-marks differ: 1879 has one mast with ball plus a jigger mast, 1887 has three masts with ball at main. The vessel may have been replaced, but the light is the same."
+  },
+  {
+   "id": "barrels-lv",
+   "changed": true,
+   "what_changed": "Single red flash every ½ min (Edwards, March 1884) became two red flashes in quick succession every ½ min (Findlay 1887). Findlay 1887's year column '1880 1885' dates an alteration to 1885.",
+   "change_year": 1885,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1880,
+     "to": 1885,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "medium",
+   "note": "Not in Findlay 1879: the vessel was established 1880, so the states start in 1880. The change rests on Edwards saying only 'flashing every half-minute'. Elsewhere Edwards does mark groups (Coningbeg '3 flashes', Tearaght '2 flashes'), so a single flash is the likely reading, and the 1885 alteration year supports it. But the 1885 alteration might instead be the vessel's position, and Edwards might simply have abbreviated. Check a Notice to Mariners for 1885."
+  },
+  {
+   "id": "tuskar-rock",
+   "changed": true,
+   "what_changed": "Possibly the flash sequence: two white then one red, one flash a minute (Findlay 1879, Edwards March 1884), became 'bright and red alternately', 1 min (Findlay 1887). Findlay 1887's year column dates an alteration to 1885, and the tower height goes from 110 to 113 ft, which suggests a new lantern.",
+   "change_year": 1885,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1885,
+     "source": "edwards1884"
+    },
+    {
+     "from": 1885,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'Red and br. rev. light' becomes 'rev. br. & red lt., 1 m.'.",
+   "confidence": "low",
+   "note": "The witnesses disagree. Findlay 1879 and Edwards 1884 both give white, white, red. Findlay 1887 gives only 'bright and red alternately'. Findlay 1887 may simply have shortened the wording. But it keeps 'once red, & twice bright' for Slyne Head, and it dates a Tuskar alteration to 1885, so I've treated this as a real change at low confidence. If the 1885 work was only structural (the lantern raised), set changed=false and use edwards1884 for 1879-1887. Check the 1885 Notice to Mariners or the Admiralty List."
+  },
+  {
+   "id": "lucifer-shoals-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The position goes from 2½ to 2 miles E. of the shoals, which may be a small move or a re-measurement; the red fixed light itself is unchanged. 1887 drops the gong.",
+   "confidence": "high",
+   "note": "Year column: 1863 in 1879, 1868 in 1887. This is an OCR or print discrepancy; check the scans."
+  },
+  {
+   "id": "arklow-south-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' becomes 'rev. br.'. The depth goes from 25 to 26 fathoms.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arklow-north-lv",
+   "changed": true,
+   "what_changed": "Two fixed white lights (fore and main) became one white light showing 2 quick flashes followed by 45 s dark, period 1 min. Findlay 1879 says 'to be altered in spring of 1879', and Findlay 1887 dates the alteration 1879. The vessel also changed from 3 masts to one mast with a jigger mast.",
+   "change_year": 1879,
+   "earliest": 1879,
+   "latest": 1879,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1879,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "Edwards (1884) says only 'White, flashing one minute' and omits the 2 flashes, which looks like his abbreviation. The reports start in 1883, so every observation falls under the new light."
+  },
+  {
+   "id": "wicklow-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'Intermit.: 10 s bright, 3 s dark' (1879) becomes 'occulting: visible 10 s, eclipsed 3 s' (1887). Edwards: gas, intermittent 10/3.",
+   "confidence": "high",
+   "note": "The 1887 entry adds a second light (2. a fixed light on the pier, red seaward, bright in harbour). That is the Wicklow pier light, dated 1884 in the year column '1818 1867 1884'. It is not the Head's light and does not change what the station shows."
+  },
+  {
+   "id": "kish-bank-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Same character, revolving 1 min. 1887 drops the fog-gun.",
+   "confidence": "high",
+   "note": "The vessel moved: 10 fathoms, ¾ mile off the N. end (1879) became 13 fathoms, 1½ miles N.E. of the N. end (1887). This does not change its own light as seen from on board. It matters only for its map position by year."
+  },
+  {
+   "id": "baily",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'bright fixed' becomes 'fixed bright'. 1887 drops the fog horn. Edwards notes gas.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rockabill",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. and red flash.' becomes 'flash. br. or red'. The white-sector limits are refined (S. ½ E. becomes S. ¾ E.; N.E. by N. becomes N.E. by N. ½ N.). Flash every 12 s in both.",
+   "confidence": "high",
+   "note": "Edwards writes 'red sectors' in the plural; Findlay describes one red arc to the westward."
+  },
+  {
+   "id": "south-rock-lv",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 puts the 1½ min in the description, 1887 in the character. Edwards' 'in- interval' is a hyphenation artefact.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "copeland",
+   "changed": true,
+   "what_changed": "A new lighthouse on Mew Island, 4 cables E. of Copeland, replaced the Copeland light, which was discontinued. Fixed white became a group of 4 white flashes in about 22 s, once a minute. Findlay 1887 dates the change 1884, and Edwards (March 1884) still has Copeland fixed.",
+   "change_year": 1884,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1884,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1884,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "I believe Mew Island was first lit late in 1884 (about November); check the date. Observations from that point on belong to the Mew Island tower, which also moves the station position."
+  },
+  {
+   "id": "maidens-north",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Leading bearing N.W. by W. refined to N.W. by W. ¼ W.",
+   "confidence": "high",
+   "note": "The Findlay and Edwards entries cover both Maidens towers. This station shows one fixed white light."
+  },
+  {
+   "id": "maidens-south",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Leading bearing N.W. by W. refined to N.W. by W. ¼ W.",
+   "confidence": "high",
+   "note": "The Findlay and Edwards entries cover both Maidens towers. This station shows one fixed white light."
+  },
+  {
+   "id": "rathlin-east",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'dark 10 s' becomes 'eclipsed 10 s'. The arcs are re-described ('N.W. ½ N. to S.E. by S.' becomes 'N.W. to S.W. by S.'; 'on Rathlin Island' becomes 'in Rathlin Sound'). 1887 adds the lower light's seaward arc. Upper light intermittent 50/10 and lower light fixed in both.",
+   "confidence": "medium",
+   "note": "The witnesses disagree on which light carries the red sector. Findlay (both editions) puts the red light over Carrickvanan Rock with the upper intermittent light ('intermittent bright or red'). Edwards puts it on the fixed light ('White, fixed, with red sector'). Also, Findlay 1887's year column reads '1856 / ....': there is an alteration year that the transcription did not capture. Check the printed page."
+  },
+  {
+   "id": "inishtrahull",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'br. rev.' becomes 'rev. br.'. The tower is 41 ft in 1879, 42 ft in 1887.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "dunree-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Arc limit 'N.N.E. ½ E.' rewritten as 'N.E. by N. ½ N.', which is the same bearing.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "fanad-head",
+   "changed": true,
+   "what_changed": "Fixed, red seaward and white toward the lough (Findlay 1879, Edwards March 1884), became occulting with a ½ min period: visible 5 s, eclipsed 2½ s, visible 20 s, eclipsed 2½ s. Seaward it is now white to S. by E. and red from there to the land. A second fixed white light was added 55 ft lower, over Limeburner Rock. Findlay 1887 dates the alteration 1886.",
+   "change_year": 1886,
+   "earliest": 1884,
+   "latest": 1887,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1886,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1886,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "The seaward colour changes as well as the character, and the station now shows two lights. The month in 1886 is unknown. The reports have no 1886 or 1887 rows for Fanad, only 1887m, which falls under the new light."
+  },
+  {
+   "id": "tory-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The obscured arc is made precise: 'to S.S.E.' becomes 'between S.E. by E. ¼ E. and S.E. ¾ S.'.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "arranmore",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'fixed' to the lower red light. The point is spelt Rinawros in 1879, Rinrawros in 1887. The upper light shows red and white flashes alternately every 20 s in both. The 1877 alteration falls before the window.",
+   "confidence": "high",
+   "note": "There are two lights: the upper revolving red/white, and a lower fixed red one in the same tower shown over Stag Rocks."
+  },
+  {
+   "id": "rathlin-obirne",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "The white-sector limit 'S.S.E. ½ E.' is rewritten as 'S.E. by S. ½ S.', the same bearing. 1879 'Ono' is a misprint or OCR error for 'One'. The year column is '1864' in 1879 and '1856 / 1864' in 1887.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "rotten-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 gives the character in the description ('One br. fix. lt., with red sector'); 1887 puts it in the character column.",
+   "confidence": "high",
+   "note": "Edwards has 'Killybegs--2 lights, White, fixed', which omits the red sector over Bullockmore Rock and counts two lights. The second is probably another Killybegs harbour light; check that it is not part of this station."
+  },
+  {
+   "id": "oyster-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Two fixed white leading lights in both editions, with the character given in the description.",
+   "confidence": "high",
+   "note": "The leading-line bearing differs by about half a point (S.S.E. ¾ E. in 1879, S.E. ¾ S. in 1887). One light may have been moved, or it may be a correction. Neither affects the lights' character."
+  },
+  {
+   "id": "broadhaven",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'White to seaward' becomes 'Bright to seaward'.",
+   "confidence": "high",
+   "note": "Edwards has 'White, fixed' and omits the red sector toward the W. side of the harbour."
+  },
+  {
+   "id": "eagle-island-east",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Leading bearings refined (E. by N. becomes E. by N. ½ N.). The entries cover both towers; this station shows one fixed white light.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "eagle-island-west",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Leading bearings refined (E. by N. becomes E. by N. ½ N.). The entries cover both towers; this station shows one fixed white light.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "blackrock-mayo",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'Bright seaward'. The red-sector limit moves from S.E. by E. ½ E. to S.E. by E., a small refinement. Flashing every ½ min in both.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "blacksod-point",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1879 gives the red sector as S.W. by W. to S.W. ¾ S.; 1887 gives it as N.E. ¾ N. to N.E. by E. (19°). These are the same 19° arc, with the bearings reversed.",
+   "confidence": "high",
+   "note": "Edwards writes 'red sectors' in the plural."
+  },
+  {
+   "id": "clare-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds the tower description.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "slyne-head-north",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "edwards1884"
+    }
+   ],
+   "wording": "Revolving with a 2 min period, once red and twice white, in all three sources. Edwards states it most clearly ('twice white once red, 2 minutes interval'). Leading bearing N. ¾ E. becomes N. ½ E.",
+   "confidence": "high",
+   "note": "Findlay's year column reads '1836 / ....' (1879) and '1836 / null' (1887): the transcription lost an alteration year. Check the printed pages."
+  },
+  {
+   "id": "slyne-head-south",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Fixed white in all sources. 'bright lt.' becomes 'bright light'.",
+   "confidence": "high",
+   "note": "The year column's alteration year is missing, as for Slyne Head North."
+  },
+  {
+   "id": "eeragh",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'red belts' becomes 'two red belts'. Otherwise identical.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "inisheer",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'fix.'. 'red in direction of Finnis Rock' becomes 'red over Finnis Rock'.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "straw-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Identical light: fixed red, shown W. by N. ½ N. to S.E.",
+   "confidence": "high",
+   "note": "There is no Edwards entry."
+  },
+  {
+   "id": "loop-head",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "'intermit.' (1879, and Edwards) becomes 'occulting' (1887). Bright 20 s, eclipsed 4 s in all three.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "samphire-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds 'fixed'. The white sector starts at N. ½ W. in 1879 and N. ½ E. in 1887.",
+   "confidence": "high",
+   "note": "Year column: 1850 in 1879, 1854 in 1887. The bearing N. ½ W. vs N. ½ E. may be a misprint or OCR error; the 1879 text also has an OCR gap ('E. by S. [?] S.'). 1887 mentions a canal-pier light, which is a separate light. There is no Edwards entry."
+  },
+  {
+   "id": "inishtearaght",
+   "changed": true,
+   "what_changed": "Revolving with a 1½ min period (Findlay 1879) became two white flashes in 15 s followed by 45 s dark, period 1 min (Findlay 1887, with alteration year 1883). Edwards (March 1884) already gives 2 flashes every minute.",
+   "change_year": 1883,
+   "earliest": 1879,
+   "latest": 1884,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1883,
+     "source": "findlay1879"
+    },
+    {
+     "from": 1883,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": null,
+   "confidence": "high",
+   "note": "The month in 1883 is unknown, so 1883 observations could fall under either light. Findlay 1879's year column is blank; 1887 gives 1870 as the year built."
+  },
+  {
+   "id": "valentia",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds the visible arc.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "skellig-michael",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "1887 adds the tower description. In both, the lower tower shows the light and the upper tower is unlit.",
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "calf-rock",
+   "changed": true,
+   "what_changed": "The light was discontinued: the lighthouse was destroyed in the gale of 26 Nov 1881. Its character (white flash every 15 s) did not change while it existed. A temporary light of the same character was then shown from Dursey Island (separate station dursey-island).",
+   "change_year": 1881,
+   "earliest": 1881,
+   "latest": 1881,
+   "states": [
+    {
+     "from": 1879,
+     "to": 1881,
+     "source": "findlay1879"
+    }
+   ],
+   "wording": "'br. flash.' becomes 'flash. br.'.",
+   "confidence": "high",
+   "note": "The Calf Rock light existed only up to late November 1881, and the reports have it only for 1881. Check whether any 1881 observation is dated after 26 Nov. The usually cited date of the disaster is 27 Nov 1881; Findlay gives 26 Nov."
+  },
+  {
+   "id": "dursey-island",
+   "changed": false,
+   "what_changed": null,
+   "change_year": null,
+   "earliest": null,
+   "latest": null,
+   "states": [
+    {
+     "from": 1881,
+     "to": 1887,
+     "source": "findlay1887"
+    }
+   ],
+   "wording": "Edwards gives 'White, flashing every 15 seconds'. Findlay 1887 gives the same character inside the Calf Rock entry, with a 189 ft elevation and an arc from N.E. ½ N. through W. to E.S.E.",
+   "confidence": "medium",
+   "note": "This is a temporary light, set up after Calf Rock was destroyed (26 Nov 1881), so the states start in 1881. Check when it was first exhibited, late 1881 or early 1882; the reports start in 1882. It is not in Findlay 1879, as expected. It ran until Bull Rock was lit, which was after 1887."
+  }
+ ],
+ "notes": "General: none of the 47 Irish stations has a report1879 or report1880 witness, consistent with the Irish rows starting in 1881. So the only mid-period witness is Edwards (March 1884). Findlay 1887 shows the lights as known a little before 1887, so an alteration late in 1886 or in 1887 could be missing for any station.\n\nChanges found (6): Arklow North L.V. 1879 (two fixed lights became a 2-flash light); Calf Rock lost Nov 1881 (Dursey Island temporary light from then on); Inishtearaght 1883 (revolving 1½ min became 2 flashes per minute); Copeland replaced by Mew Island 1884 (fixed became a 4-flash group); Barrels L.V. 1885 (single red flash became 2 red flashes, same ½ min); Fanad Head 1886 (fixed red/white became group occulting, with the colours swapped seaward and a second lower light added). Tuskar 1885 is flagged as a possible change, at low confidence.\n\nThings to check:\n(1) Tuskar 1885: the old sequence was white, white, red; Findlay 1887 says only 'bright and red alternately', and the tower went from 110 to 113 ft. Is this a new sequence or shortened wording?\n(2) Barrels 1885: Edwards gives a single flash, but the 1885 alteration might instead be the vessel's position.\n(3) Rathlin (Altacarry): Findlay puts the red sector on the upper intermittent light, Edwards on the lower fixed light. Findlay 1887's alteration year is unreadable ('....').\n(4) Slyne Head: the 1879 and 1887 alteration years are unreadable ('....' / null).\n(5) Dates the sources don't give: when Mew Island was first lit in 1884, when the Fanad change fell in 1886, and when the Dursey temporary light was first shown.\n(6) Year-column discrepancies: Lucifer Shoals 1863 vs 1868; Samphire 1850 vs 1854, plus N. ½ W. vs N. ½ E. in the sector bearing.\n(7) Edwards's 'Killybegs--2 lights' row for Rotten Island: what is the second light?\n(8) The Kish L.V. moved between editions (about ¾ to 1½ miles off the N. end). This doesn't change its light but does change its map position. The Oyster Island leading-line bearing also changes by half a point.\n(9) The Wicklow 1884 date in Findlay 1887 belongs to the new pier light, not the Head.\n\nWhere a change can't be placed within its year, both spans include that year.",
+ "_meta": {
+  "group": "IRELAND",
+  "run": 2,
+  "cost_usd": 0.6623
+ }
+}

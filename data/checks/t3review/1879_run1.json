@@ -1,0 +1,148 @@
+{
+ "flags": [
+  {
+   "id": "4:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "Text matches checker. Killed birds are those \"in the vicinity of light from 1 to 4 a.m.; six Starlings, four Thrushes...killed\"; the continuing clause shares them (like Example 1)."
+  },
+  {
+   "id": "4:time",
+   "kind": "extraction",
+   "right_value": "from\n1 to 4 a.m.",
+   "why": "Continuing clause shares time: \"Thrushes in the vicinity of light from 1 to 4 a.m.; ...four Thrushes...killed\". Quote should start at the birds."
+  },
+  {
+   "id": "5:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "Record carries \"all night\", so it is the \"were flying about all night\" record (round_station or seen; no object given). \"numbers struck\" needs its own struck record."
+  },
+  {
+   "id": "5:at_light",
+   "kind": "checker",
+   "right_value": null,
+   "why": "For the \"flying about all night\" record, false is right. Only the separate \"numbers struck\" record is at the light."
+  },
+  {
+   "id": "7:weather",
+   "kind": "judgement",
+   "right_value": "severe weather",
+   "why": "\"The burst of severe weather during the early days in December\" is a spell causing the influx. Either reading as observation weather is allowed."
+  },
+  {
+   "id": "16:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "This is the seen record \"11 p.m., Wrens and Whitethroats\" (count null). \"five killed\" belongs in a separate dead record (count_shared), as in Example 1."
+  },
+  {
+   "id": "16:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Rule is one observation per behaviour: seen for \"Wrens and Whitethroats\", plus a separate dead record for \"five killed\"."
+  },
+  {
+   "id": "24:date_iso",
+   "kind": "extraction",
+   "right_value": "1879-10-13",
+   "why": "\"Oct. 13th and 15th\" names two days, not a range. Use 1879-10-13 and put \"and 15th\" in other_dates (or make two records)."
+  },
+  {
+   "id": "30:at_light",
+   "kind": "judgement",
+   "right_value": "true",
+   "why": "North Foreland is listed among \"instances\" of \"immolating itself against the lanterns\". How far that link reaches is interpretation."
+  },
+  {
+   "id": "31:behaviour",
+   "kind": "extraction",
+   "right_value": "dead",
+   "why": "\"one struck the lantern and was killed\"; struck applies only when not stated killed."
+  },
+  {
+   "id": "45:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"invariably mixed with Larks\" states Larks present, so a Larks record is valid. Linnet (the heading) needs its own record; check it exists."
+  },
+  {
+   "id": "55:date_iso",
+   "kind": "gutenberg",
+   "right_value": "1879-09-16",
+   "why": "Text reads \"Sept. 10th\" and the record copies it. Checker reads 16th in print; verify the scan, since 0/6 is an easy misreading."
+  },
+  {
+   "id": "56:time",
+   "kind": "extraction",
+   "right_value": "3 a.m.",
+   "why": "\"Oct. 12th, 3 a.m., dense fog, ...thousands of Larks...many killed\": the entry's time was left out, though its weather was taken."
+  },
+  {
+   "id": "59:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "Same as 4: \"in the vicinity of light from 1 to 4 a.m.; ...one Blackbird killed\"."
+  },
+  {
+   "id": "67:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The \"Sky Lark\" heading is not in the chunk or context. The context's \"immigration of Larks\" supports \"Larks\"."
+  },
+  {
+   "id": "67:direction",
+   "kind": "extraction",
+   "right_value": "going W.",
+   "why": "\"on fourteen days, going W., no particular hour, some striking lantern at night\": the continuing clause shares direction."
+  },
+  {
+   "id": "83:time",
+   "kind": "judgement",
+   "right_value": "very early in the morning (4.30 to 9.20 a.m.)",
+   "why": "Unclear whether \"very early in the morning (4.30 to 9.20 a.m.)\" reaches the hovering \"on foggy, thick nights\"."
+  },
+  {
+   "id": "91:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"round lantern amongst the Flycatchers\" puts Flycatchers at the lantern too, so the record is valid. Titmice need their own record; check it exists."
+  },
+  {
+   "id": "91:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"several\" counts the Titmice, not the Flycatchers. Null is right for this Flycatchers record."
+  },
+  {
+   "id": "95:time",
+   "kind": "extraction",
+   "right_value": "through night",
+   "why": "\"Larks and Chaffinches through night, \"in clouds,\" ...probably double this number falling overboard\": the continuing clause shares time."
+  },
+  {
+   "id": "96:count",
+   "kind": "extraction",
+   "right_value": "an occasional",
+   "why": "\"an occasional bird at the glass\" is a count, like the listed \"a\" or \"a few\". Null leaves it out."
+  },
+  {
+   "id": "96:weather",
+   "kind": "extraction",
+   "right_value": "hazy or rainy weather",
+   "why": "\"always in hazy or rainy weather, generally \"haze and rain\" together\" gives the weather for these birds. The exact span chosen is open."
+  },
+  {
+   "id": "98:time",
+   "kind": "extraction",
+   "right_value": "through night",
+   "why": "\"Larks and Chaffinches through night, \"in clouds,\" sixty picked up on deck\": the continuing clause shares time."
+  }
+ ],
+ "_meta": {
+  "year": 1879,
+  "run": 1,
+  "cost_usd": 0.4793066,
+  "n_flags": 23
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "flags": [
+  {
+   "id": "9:species",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "Text matches print: \"both Grey and Green Linnets\". \"Grey Linnets\" is not a substring here; wording of an elliptical name (\"Grey\" vs \"Grey and Green Linnets\") is a judgement call."
+  },
+  {
+   "id": "11:behaviour",
+   "kind": "extraction",
+   "right_value": "passing",
+   "why": "Same sentence: \"enormous numbers crossed in the autumn, commencing Aug. 7th ...; from thence to Sept. 18th, almost daily\". The crossing covers this clause, so seen is too weak."
+  },
+  {
+   "id": "28:time",
+   "kind": "judgement",
+   "right_value": "late in afternoon",
+   "why": "\"late in afternoon. Meadow Pipits, great flights. Tree Pipits less\": the time must lead what follows, but the full stops leave open how far it reaches."
+  },
+  {
+   "id": "31:count",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"scattered flocks of Wild Ducks, about seven in number\": whether \"about seven\" counts flocks or ducks is unclear. Taking \"scattered flocks\" as the count is allowed."
+  },
+  {
+   "id": "33:time",
+   "kind": "extraction",
+   "right_value": "10\na.m.",
+   "why": "\"Sept. 27th, 10\\na.m., a large flock of small birds containing many Robins\": the time is stated for these birds."
+  },
+  {
+   "id": "50:direction",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"one passing\\nS.E.\": the rules give direction as the verb plus the point (\"passing S.\"), so \"passing S.E.\" is right."
+  },
+  {
+   "id": "56:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"one struck and caught\": struck is stated. Caught should be a separate record (one per behaviour), so this record isn't wrong."
+  },
+  {
+   "id": "56:time",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The record copies the text's \"7.80 p.m.\" exactly; the print reads 7.30, so the slip is in the transcription."
+  },
+  {
+   "id": "57:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"two _Crossbills_ flew on board. Both were captured\": \"Both\" is the printed count for the capture clause."
+  },
+  {
+   "id": "63:species",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The text reads \"_Tardus Naumanii_\" and the record copies it; the print reads Turdus, so the transcription has the slip."
+  },
+  {
+   "id": "65:time",
+   "kind": "extraction",
+   "right_value": "1 to 2 a.m.",
+   "why": "\"Oct. 4th, 1 to 2 a.m., ... and three birds killed\": one sentence, so the time covers the birds killed."
+  },
+  {
+   "id": "83:time",
+   "kind": "judgement",
+   "right_value": "8 p.m.",
+   "why": "\"a great number of Larks, 8 p.m., ... haze. Great numbers struck\": a new sentence, so it's unclear whether the time of the sighting covers the striking."
+  },
+  {
+   "id": "92:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"three and a Starling caught\": the Starling is a separately named bird and gets its own record. The Chaffinches (\"three\") belong in another record."
+  },
+  {
+   "id": "92:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "For the Starling record the count is \"a\" (\"a Starling caught\"). \"three\" belongs to the Chaffinches."
+  },
+  {
+   "id": "92:time",
+   "kind": "extraction",
+   "right_value": "till midnight",
+   "why": "\"till midnight, some struck and fell overboard; three and a Starling caught\": the clause continues after the semicolon, so it shares the time."
+  }
+ ],
+ "_meta": {
+  "year": 1880,
+  "run": 2,
+  "cost_usd": 0.339589,
+  "n_flags": 15
+ }
+}

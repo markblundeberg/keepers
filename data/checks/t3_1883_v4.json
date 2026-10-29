@@ -1,0 +1,9189 @@
+{
+ "year": 1883,
+ "n": 100,
+ "seed": 1883,
+ "items": [
+  {
+   "item": 1,
+   "chunk": "1883-00186",
+   "k": 17,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n114.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n115.jpg"
+   ],
+   "pages": [
+    "107"
+   ],
+   "quote": "April 4th, twenty, to be seen every day.",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-04-04",
+    "species": "Hooprep Crow",
+    "count": "twenty",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-04-04",
+    "species": "Hooprep Crow",
+    "count": "twenty",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 2,
+   "chunk": "1883-00170",
+   "k": 18,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n103.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n104.jpg"
+   ],
+   "pages": [
+    "96"
+   ],
+   "quote": "30th, three",
+   "shown": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-04-30",
+    "species": "Stonechickers",
+    "count": "three",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§8.W.",
+    "force": "gale",
+    "weather": null
+   },
+   "extracted": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-04-30",
+    "species": "Stonechickers",
+    "count": "three",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§8.W.",
+    "force": "gale",
+    "weather": null
+   }
+  },
+  {
+   "item": 3,
+   "chunk": "1883-00105",
+   "k": 2,
+   "stratum": "uniform",
+   "layout": "table",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n63.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n64.jpg"
+   ],
+   "pages": [
+    "56"
+   ],
+   "quote": "Pe nanins COUULIO ’..7--0. 7: 1 young male.",
+   "shown": {
+    "station": null,
+    "date_iso": "1883-09-03",
+    "species": null,
+    "count": "1",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": null,
+    "date_iso": "1883-09-03",
+    "species": null,
+    "count": "1",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 4,
+   "chunk": "1883-00065",
+   "k": 15,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n44.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n45.jpg"
+   ],
+   "pages": [
+    "37"
+   ],
+   "quote": "on 24th with both Redstarts and Snow Buntings",
+   "shown": {
+    "station": "Farn",
+    "date_iso": "1883-09-24",
+    "species": "Snow Buntings",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Farn",
+    "date_iso": "1883-09-24",
+    "species": "Snow Buntings",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 5,
+   "chunk": "1883-00162",
+   "k": 13,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n98.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n99.jpg"
+   ],
+   "pages": [
+    "91"
+   ],
+   "quote": "Dee. 8th, one Brown Hawk",
+   "shown": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-12-08",
+    "species": "Brown Hawk",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-12-08",
+    "species": "Brown Hawk",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 6,
+   "chunk": "1883-00089",
+   "k": 6,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n56.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n57.jpg"
+   ],
+   "pages": [
+    "49"
+   ],
+   "quote": "more than ever, with Sparrowhawks and Merlins",
+   "shown": {
+    "station": "Heligoland",
+    "date_iso": "1883-09-28",
+    "species": "Merlins",
+    "count": "more than ever",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Heligoland",
+    "date_iso": "1883-09-22",
+    "species": "Merlins",
+    "count": "more than ever",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 7,
+   "chunk": "1883-00157",
+   "k": 12,
+   "stratum": "uniform",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n95.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n96.jpg"
+   ],
+   "pages": [
+    "88"
+   ],
+   "quote": "Linnet",
+   "shown": {
+    "station": "Killybegs",
+    "date_iso": null,
+    "species": "Linnet",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Killybegs",
+    "date_iso": null,
+    "species": "Linnet",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 8,
+   "chunk": "1883-00155",
+   "k": 8,
+   "stratum": "uniform",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n94.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n95.jpg"
+   ],
+   "pages": [
+    "87"
+   ],
+   "quote": "Ducks",
+   "shown": {
+    "station": "Copeland Island",
+    "date_iso": null,
+    "species": "Ducks",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Copeland Island",
+    "date_iso": null,
+    "species": "Ducks",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 9,
+   "chunk": "1883-00181",
+   "k": 14,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n111.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg"
+   ],
+   "pages": [
+    "104"
+   ],
+   "quote": "I noticed during April and May nine or ten Grey Linnets.",
+   "shown": {
+    "station": "Killybegs",
+    "date_iso": "1883-04/1883-05",
+    "species": "Grey Linnets",
+    "count": "nine or ten",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Killybegs",
+    "date_iso": "1883-04/1883-05",
+    "species": "Grey Linnets",
+    "count": "nine or ten",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 10,
+   "chunk": "1883-00087",
+   "k": 16,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n55.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n56.jpg"
+   ],
+   "pages": [
+    "48"
+   ],
+   "quote": "Rough-legged Buzzard, Oct. 12th and 18th, one each day",
+   "shown": {
+    "station": "Heligoland",
+    "date_iso": "1883-10-12",
+    "species": "Rough-legged Buzzard",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Heligoland",
+    "date_iso": "1883-10-12",
+    "species": "Rough-legged Buzzard",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 11,
+   "chunk": "1883-00200",
+   "k": 13,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n125.jpg"
+   ],
+   "pages": [
+    "117"
+   ],
+   "quote": "one caught on rock",
+   "shown": {
+    "station": "Rockabill",
+    "date_iso": "1883-07-30",
+    "species": "Corn CRAKE",
+    "count": "two",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Rockabill",
+    "date_iso": "1883-07-30",
+    "species": "Corn CRAKE",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 12,
+   "chunk": "1883-00040",
+   "k": 9,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n29.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n30.jpg"
+   ],
+   "pages": [
+    "22"
+   ],
+   "quote": "one at Pentland Skerries of ‘Falcon Hawk”",
+   "shown": {
+    "station": "Pentland Skerries",
+    "date_iso": "1883-08",
+    "species": "Falcon Hawk",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Pentland Skerries",
+    "date_iso": "1883-08",
+    "species": "Falcon Hawk",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 13,
+   "chunk": "1883-00201",
+   "k": 5,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n125.jpg"
+   ],
+   "pages": [
+    "117"
+   ],
+   "quote": "Oct. 13th, one Wild Goose",
+   "shown": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-10-13",
+    "species": "Wild Goose",
+    "count": "one",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": "fresh",
+    "weather": null
+   },
+   "extracted": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-10-13",
+    "species": "Wild Goose",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": "fresh",
+    "weather": null
+   }
+  },
+  {
+   "item": 14,
+   "chunk": "1883-00029",
+   "k": 13,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n23.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n24.jpg"
+   ],
+   "pages": [
+    "16"
+   ],
+   "quote": "one Chaffinch",
+   "shown": {
+    "station": null,
+    "date_iso": "1883-05-10/1883-05-15",
+    "species": "Chaffinch",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "N.N.E.",
+    "force": "fresh",
+    "weather": null
+   },
+   "extracted": {
+    "station": null,
+    "date_iso": "1883-05-10/1883-05-15",
+    "species": "Chaffinch",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "N.N.E.",
+    "force": "fresh",
+    "weather": null
+   }
+  },
+  {
+   "item": 15,
+   "chunk": "1883-00058",
+   "k": 8,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n39.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n40.jpg"
+   ],
+   "pages": [
+    "32"
+   ],
+   "quote": "Dec. 20th, Isle of May, large numbers",
+   "shown": {
+    "station": "Isle of May",
+    "date_iso": "1883-12-20",
+    "species": null,
+    "count": "large numbers",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.",
+    "force": "fresh",
+    "weather": "haze"
+   },
+   "extracted": {
+    "station": "Isle of May",
+    "date_iso": "1883-12-20",
+    "species": null,
+    "count": "large numbers",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.",
+    "force": "fresh",
+    "weather": "haze"
+   }
+  },
+  {
+   "item": 16,
+   "chunk": "1883-00096",
+   "k": 0,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n59.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n60.jpg"
+   ],
+   "pages": [
+    "52"
+   ],
+   "quote": "The first great rush of Tringe@ xtross Heligoland was Aug. 6th and 7th",
+   "shown": {
+    "station": "Heligoland",
+    "date_iso": "1883-08-06/1883-08-07",
+    "species": "Tringe@",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Heligoland",
+    "date_iso": "1883-08-06/1883-08-07",
+    "species": "Tringe@",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 17,
+   "chunk": "1883-00085",
+   "k": 2,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n54.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n55.jpg"
+   ],
+   "pages": [
+    "47"
+   ],
+   "quote": "Bradwell, Norfolk, Oct. 9th, one shot",
+   "shown": {
+    "station": "Bradwell, Norfolk",
+    "date_iso": "1883-10-09",
+    "species": "Roller",
+    "count": "one",
+    "behaviour": "shot",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Bradwell, Norfolk",
+    "date_iso": "1883-10-09",
+    "species": "Roller",
+    "count": "one",
+    "behaviour": "shot",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 18,
+   "chunk": "1883-00087",
+   "k": 5,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n55.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n56.jpg"
+   ],
+   "pages": [
+    "48"
+   ],
+   "quote": "from Sept. 6th to Jan. 12th, 1884, numerous Buzzards",
+   "shown": {
+    "station": null,
+    "date_iso": "1883-09-06/1884-01-12",
+    "species": "Buzzards",
+    "count": "numerous",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": null,
+    "date_iso": "1883-09-06/1884-01-12",
+    "species": "Buzzards",
+    "count": "numerous",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 19,
+   "chunk": "1883-00157",
+   "k": 14,
+   "stratum": "uniform",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n95.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n96.jpg"
+   ],
+   "pages": [
+    "88"
+   ],
+   "quote": "Snipe, Common Wren",
+   "shown": {
+    "station": "Killybegs",
+    "date_iso": null,
+    "species": "Snipe",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Killybegs",
+    "date_iso": null,
+    "species": "Snipe",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 20,
+   "chunk": "1883-00169",
+   "k": 20,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n103.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n104.jpg"
+   ],
+   "pages": [
+    "96"
+   ],
+   "quote": "three ‘‘ Blackcaps ” dead on deck, 7 a.m.",
+   "shown": {
+    "station": "Arklow South Light-ship",
+    "date_iso": "1883-04-04",
+    "species": "Blackcaps",
+    "count": "three",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": "7 a.m.",
+    "direction": null,
+    "wind": "S.W.",
+    "force": "fresh",
+    "weather": "rain"
+   },
+   "extracted": {
+    "station": "Arklow South Light-ship",
+    "date_iso": "1883-04-04",
+    "species": "Blackcaps",
+    "count": "three",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": "7 a.m.",
+    "direction": null,
+    "wind": "S.W.",
+    "force": "fresh",
+    "weather": "rain"
+   }
+  },
+  {
+   "item": 21,
+   "chunk": "1883-00015",
+   "k": 0,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n17.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n18.jpg"
+   ],
+   "pages": [
+    "10"
+   ],
+   "quote": "Redwings in hundreds",
+   "shown": {
+    "station": null,
+    "date_iso": "1883-10-13/1883-10-15",
+    "species": "Redwings",
+    "count": "in hundreds",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": null,
+    "date_iso": "1883-10-13/1883-10-15",
+    "species": "Redwings",
+    "count": "in hundreds",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 22,
+   "chunk": "1883-00015",
+   "k": 41,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n17.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n18.jpg"
+   ],
+   "pages": [
+    "10"
+   ],
+   "quote": "a great number of Woodcocks struck",
+   "shown": {
+    "station": "Pen \nland Skerries",
+    "date_iso": "1883-10-31/1883-11-01",
+    "species": "Woodcocks",
+    "count": "a great number of",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Bell Rock",
+    "date_iso": "1883-10-31/1883-11-01",
+    "species": "Woodcocks",
+    "count": "a great number of",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 23,
+   "chunk": "1883-00202",
+   "k": 0,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n125.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n126.jpg"
+   ],
+   "pages": [
+    "118"
+   ],
+   "quote": "came from N., and passed over island to §.K.",
+   "shown": {
+    "station": "Rathlin O’Birne",
+    "date_iso": "1883-11-04",
+    "species": "Barnacle",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "to §.K.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Rathlin O’Birne",
+    "date_iso": "1883-11-04",
+    "species": "Barnacle",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "to §.K.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 24,
+   "chunk": "1883-00213",
+   "k": 0,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n132.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n133.jpg"
+   ],
+   "pages": [
+    "125"
+   ],
+   "quote": "Seven to thirty noted at intervals during April and on May 11th and 29th; flight generally W. or N.W.",
+   "shown": {
+    "station": "Dursey Island",
+    "date_iso": "1883-04",
+    "species": "Gannets",
+    "count": "Seven to thirty",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "generally W. or N.W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Dursey Island",
+    "date_iso": "1883-04",
+    "species": "Gannets",
+    "count": "Seven to thirty",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "generally W. or N.W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 25,
+   "chunk": "1883-00182",
+   "k": 20,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n111.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg"
+   ],
+   "pages": [
+    "104"
+   ],
+   "quote": "Apvril 15th, Linnets",
+   "shown": {
+    "station": "Clare Island",
+    "date_iso": "1883-04-15",
+    "species": "Linnets",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Clare Island",
+    "date_iso": "1883-04-15",
+    "species": "Linnets",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 26,
+   "chunk": "1883-00075",
+   "k": 2,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n49.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n50.jpg"
+   ],
+   "pages": [
+    "42"
+   ],
+   "quote": "passing this station in March, April, May, and June, were steering in westerly directions",
+   "shown": {
+    "station": "The Outer Dowsing L.v.",
+    "date_iso": "1883-03-01/1883-06-30",
+    "species": "Tree Sparrows",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "steering in westerly directions",
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "The Outer Dowsing L.v.",
+    "date_iso": "1883-03-01/1883-06-30",
+    "species": "Tree Sparrows",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "steering in westerly directions",
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 27,
+   "chunk": "1883-00102",
+   "k": 7,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n62.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n63.jpg"
+   ],
+   "pages": [
+    "55"
+   ],
+   "quote": "Breydon Water, Oct. 16th, adult Red-throated Diver",
+   "shown": {
+    "station": "Breydon Water",
+    "date_iso": "1883-10-16",
+    "species": "Red-throated Diver",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Breydon Water",
+    "date_iso": "1883-10-16",
+    "species": "Red-throated Diver",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 28,
+   "chunk": "1883-00163",
+   "k": 6,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n98.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n99.jpg"
+   ],
+   "pages": [
+    "91"
+   ],
+   "quote": "Sept. 1st, two small Hawks",
+   "shown": {
+    "station": "Valentia",
+    "date_iso": "1883-09-01",
+    "species": "small Hawks",
+    "count": "two",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§8.E.",
+    "force": "strong",
+    "weather": null
+   },
+   "extracted": {
+    "station": "Valentia",
+    "date_iso": "1883-09-01",
+    "species": "small Hawks",
+    "count": "two",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§8.E.",
+    "force": "strong",
+    "weather": null
+   }
+  },
+  {
+   "item": 29,
+   "chunk": "1883-00015",
+   "k": 18,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n17.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n18.jpg"
+   ],
+   "pages": [
+    "10"
+   ],
+   "quote": "Sandpipers, Snow Buntings, Skylarks, as far as N. Unst",
+   "shown": {
+    "station": "N. Unst",
+    "date_iso": "1883-10/1883-11",
+    "species": "Sandpipers",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "N. Unst",
+    "date_iso": "1883-10/1883-11",
+    "species": "Sandpipers",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 30,
+   "chunk": "1883-00067",
+   "k": 2,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n45.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n46.jpg"
+   ],
+   "pages": [
+    "38"
+   ],
+   "quote": "Llyn Wells © L.v., Nov. 8rd, one killed",
+   "shown": {
+    "station": "Llyn Wells",
+    "date_iso": "1883-11-03",
+    "species": "Redbreast",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Llyn Wells",
+    "date_iso": "1883-11-03",
+    "species": "Redbreast",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 31,
+   "chunk": "1883-00077",
+   "k": 11,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n51.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n52.jpg"
+   ],
+   "pages": [
+    "44"
+   ],
+   "quote": "Great Cotes, Nov. 16th, con- siderable flight",
+   "shown": {
+    "station": "Great Cotes",
+    "date_iso": "1883-11-16",
+    "species": "Reed Bunting",
+    "count": "con- siderable flight",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Great Cotes",
+    "date_iso": "1883-11-16",
+    "species": "Reed Bunting",
+    "count": "con- siderable flight",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 32,
+   "chunk": "1883-00200",
+   "k": 18,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n125.jpg"
+   ],
+   "pages": [
+    "117"
+   ],
+   "quote": "one alighted on ship, 6 a.m.",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-08",
+    "species": "WATERHEN",
+    "count": "one",
+    "behaviour": "settled",
+    "at_light": false,
+    "time": "6 a.m.",
+    "direction": null,
+    "wind": "calm",
+    "force": null,
+    "weather": "thick fog"
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-08",
+    "species": "WATERHEN",
+    "count": "one",
+    "behaviour": "settled",
+    "at_light": false,
+    "time": "6 a.m.",
+    "direction": null,
+    "wind": "calm",
+    "force": null,
+    "weather": "thick fog"
+   }
+  },
+  {
+   "item": 33,
+   "chunk": "1883-00105",
+   "k": 6,
+   "stratum": "uniform",
+   "layout": "table",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n63.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n64.jpg"
+   ],
+   "pages": [
+    "56"
+   ],
+   "quote": "Gree VU, COFQ ULL: oocu5 sass ;",
+   "shown": {
+    "station": null,
+    "date_iso": null,
+    "species": null,
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": null,
+    "date_iso": null,
+    "species": null,
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 34,
+   "chunk": "1883-00215",
+   "k": 3,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n133.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n134.jpg"
+   ],
+   "pages": [
+    "126"
+   ],
+   "quote": "March 12th, Gulls passing",
+   "shown": {
+    "station": "Arranmore",
+    "date_iso": "1883-03-18",
+    "species": "Gulls",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Arranmore",
+    "date_iso": "1883-03-12",
+    "species": "Gulls",
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 35,
+   "chunk": "1883-00013",
+   "k": 13,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n16.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n17.jpg"
+   ],
+   "pages": [
+    "9"
+   ],
+   "quote": "stations, N. Unst, Sumburgh Head, Pentland Skerries, Tarbat Ness, Bell Rock, and Isle of May participated",
+   "shown": {
+    "station": "N. Unst",
+    "date_iso": "1883-10-28/1883-11-05",
+    "species": null,
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "N. Unst",
+    "date_iso": "1883-10-28/1883-11-05",
+    "species": null,
+    "count": null,
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 36,
+   "chunk": "1883-00195",
+   "k": 3,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n120.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n121.jpg"
+   ],
+   "pages": [
+    "113"
+   ],
+   "quote": "Sepoys”’ to the number of thirty or forty",
+   "shown": {
+    "station": "Killybegs",
+    "date_iso": "1883-08/1883-09",
+    "species": "Sepoys",
+    "count": "thirty or forty",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Killybegs",
+    "date_iso": "1883-08/1883-09",
+    "species": "Sepoys",
+    "count": "thirty or forty",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 37,
+   "chunk": "1883-00017",
+   "k": 4,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n18.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n19.jpg"
+   ],
+   "pages": [
+    "11"
+   ],
+   "quote": "and a few at same place",
+   "shown": {
+    "station": "Isle of May",
+    "date_iso": null,
+    "species": "Redstarts",
+    "count": "a few",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Isle of May",
+    "date_iso": null,
+    "species": "Redstarts",
+    "count": "a few",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 38,
+   "chunk": "1883-00206",
+   "k": 9,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n128.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n129.jpg"
+   ],
+   "pages": [
+    "121"
+   ],
+   "quote": "April 21st, continuous flocks flying S.W.",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-04-21",
+    "species": "PuFFIN",
+    "count": "continuous flocks",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "flying \nS.W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-04-21",
+    "species": "PuFFIN",
+    "count": "continuous flocks",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "flying \nS.W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 39,
+   "chunk": "1883-00066",
+   "k": 9,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n45.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n46.jpg"
+   ],
+   "pages": [
+    "38"
+   ],
+   "quote": "Galloper x.v., Oct. 28th, one, young male or old female (wing to J. H. G.)",
+   "shown": {
+    "station": "Galloper x.v.",
+    "date_iso": "1883-10-28",
+    "species": "Black Redstart",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Galloper x.v.",
+    "date_iso": "1883-10-28",
+    "species": "Black Redstart",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 40,
+   "chunk": "1883-00170",
+   "k": 11,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n103.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n104.jpg"
+   ],
+   "pages": [
+    "96"
+   ],
+   "quote": "flocks of Stonechats",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-04-28",
+    "species": "Stonechats",
+    "count": "flocks of",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§.E.",
+    "force": "fresh",
+    "weather": "misty, rain"
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-04-28",
+    "species": "Stonechats",
+    "count": "flocks of",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "§.E.",
+    "force": "fresh",
+    "weather": "misty, rain"
+   }
+  },
+  {
+   "item": 41,
+   "chunk": "1883-00074",
+   "k": 3,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n49.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n50.jpg"
+   ],
+   "pages": [
+    "42"
+   ],
+   "quote": "Oct. 23rd and 24th, large flocks near the coast",
+   "shown": {
+    "station": "Spurn",
+    "date_iso": "1883-10-23",
+    "species": "Greenfinch",
+    "count": "large flocks",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Spurn",
+    "date_iso": "1883-10-23",
+    "species": "Greenfinch",
+    "count": "large flocks",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 42,
+   "chunk": "1883-00218",
+   "k": 3,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n135.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n136.jpg"
+   ],
+   "pages": [
+    "128"
+   ],
+   "quote": "Mackerel Cock” diving about the rock pretty plentifully",
+   "shown": {
+    "station": "Tearaght",
+    "date_iso": "1883-11-21",
+    "species": "Mackerel Cock",
+    "count": "pretty plentifully",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Tearaght",
+    "date_iso": "1883-11-21",
+    "species": "Mackerel Cock",
+    "count": "pretty plentifully",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 43,
+   "chunk": "1883-00175",
+   "k": 20,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n107.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n108.jpg"
+   ],
+   "pages": [
+    "100"
+   ],
+   "quote": "Nov. 3rd, one",
+   "shown": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-11-03",
+    "species": "Larks",
+    "count": "two",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-11-03",
+    "species": "Larks",
+    "count": "one",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 44,
+   "chunk": "1883-00078",
+   "k": 4,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n51.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n52.jpg"
+   ],
+   "pages": [
+    "44"
+   ],
+   "quote": "Redcar, several flights to W.",
+   "shown": {
+    "station": "Redcar",
+    "date_iso": null,
+    "species": "Snow Bunting",
+    "count": "several flights",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "to W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Redcar",
+    "date_iso": null,
+    "species": "Snow Bunting",
+    "count": "several flights",
+    "behaviour": "passing",
+    "at_light": false,
+    "time": null,
+    "direction": "to W.",
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 45,
+   "chunk": "1883-00095",
+   "k": 6,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n59.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n60.jpg"
+   ],
+   "pages": [
+    "52"
+   ],
+   "quote": "Essex coast, August 1st, Colonel Russell shot three from a flock of Oxbirds",
+   "shown": {
+    "station": "Essex coast",
+    "date_iso": "1883-08-05",
+    "species": "Curlew Sandpiper",
+    "count": "three",
+    "behaviour": "shot",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Essex coast",
+    "date_iso": "1883-08-01",
+    "species": "Curlew Sandpiper",
+    "count": "three",
+    "behaviour": "shot",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 46,
+   "chunk": "1883-00201",
+   "k": 4,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n125.jpg"
+   ],
+   "pages": [
+    "117"
+   ],
+   "quote": "15th, six - Barnacle",
+   "shown": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-03-15",
+    "species": "Barnacle",
+    "count": "six",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.",
+    "force": "strong",
+    "weather": "squally"
+   },
+   "extracted": {
+    "station": "Innishtrahull",
+    "date_iso": "1883-03-15",
+    "species": "Barnacle",
+    "count": "six",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.",
+    "force": "strong",
+    "weather": "squally"
+   }
+  },
+  {
+   "item": 47,
+   "chunk": "1883-00195",
+   "k": 9,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n120.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n121.jpg"
+   ],
+   "pages": [
+    "113"
+   ],
+   "quote": "Sept. 4th, four Sea Pies until 15th",
+   "shown": {
+    "station": "Skelligs",
+    "date_iso": "1883-09-04/1883-09-15",
+    "species": "Sea Pies",
+    "count": "four",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Skelligs",
+    "date_iso": "1883-09-04/1883-09-15",
+    "species": "Sea Pies",
+    "count": "four",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 48,
+   "chunk": "1883-00127",
+   "k": 15,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n77.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n78.jpg"
+   ],
+   "pages": [
+    "70"
+   ],
+   "quote": "Dhuheartach, Skervuile, and Rhinns of Islay",
+   "shown": {
+    "station": "Skervuile",
+    "date_iso": null,
+    "species": "AtaupIpm™",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Skervuile",
+    "date_iso": null,
+    "species": "AtaupIpm™",
+    "count": null,
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 49,
+   "chunk": "1883-00093",
+   "k": 10,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n58.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n59.jpg"
+   ],
+   "pages": [
+    "51"
+   ],
+   "quote": "Redcar, 31st, large flock near Teesmouth, fresh arrivals.",
+   "shown": {
+    "station": "Redcar",
+    "date_iso": "1883-08-31",
+    "species": "Turnstone",
+    "count": "large flock",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Redcar",
+    "date_iso": "1883-08-31",
+    "species": "Turnstone",
+    "count": "large flock",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 50,
+   "chunk": "1883-00024",
+   "k": 8,
+   "stratum": "uniform",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n21.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n22.jpg"
+   ],
+   "pages": [
+    "14"
+   ],
+   "quote": "A Waxwing, Ampelis garrula,—a male in full plumage,—was found at North Unst",
+   "shown": {
+    "station": "North Unst",
+    "date_iso": null,
+    "species": "Waxwing",
+    "count": "two",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "North Unst",
+    "date_iso": null,
+    "species": "Waxwing",
+    "count": "A",
+    "behaviour": "seen",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 51,
+   "chunk": "1883-00183",
+   "k": 23,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg"
+   ],
+   "pages": [
+    "105"
+   ],
+   "quote": "Starlings, a considerable number struck lantern, several killed",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-02-24/1883-03-03",
+    "species": "Starlings",
+    "count": "several",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy and overcast, with mist"
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-02-24/1883-03-03",
+    "species": "Starlings",
+    "count": "several",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy and overcast, with mist"
+   }
+  },
+  {
+   "item": 52,
+   "chunk": "1883-00075",
+   "k": 19,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n50.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n51.jpg"
+   ],
+   "pages": [
+    "43"
+   ],
+   "quote": "Cockle u.v., Oct. 11th, and Hasbro’ t.n. , 18th, _ two killed (wings to J. H. G.)",
+   "shown": {
+    "station": "Cockle u.v.",
+    "date_iso": "1883-10-11",
+    "species": "Brambling",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Cockle u.v.",
+    "date_iso": "1883-10-11",
+    "species": "Brambling",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 53,
+   "chunk": "1883-00155",
+   "k": 24,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n94.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n95.jpg"
+   ],
+   "pages": [
+    "87"
+   ],
+   "quote": "eight Titmice, four Thrushes, three Plover, and two Snipe killed striking lantern",
+   "shown": {
+    "station": "Copeland Island",
+    "date_iso": "1883-10-10",
+    "species": "Titmice",
+    "count": "eight",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Copeland Island",
+    "date_iso": "1883-10-10",
+    "species": "Titmice",
+    "count": "eight",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 54,
+   "chunk": "1883-00008",
+   "k": 5,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n14.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n15.jpg"
+   ],
+   "pages": [
+    "7"
+   ],
+   "quote": "at night a Merlin lighted on the fore-topsail-yard, and there fell asleep, and was afterwards caught",
+   "shown": {
+    "station": "69° 53’ north, 5° 30’ west",
+    "date_iso": "1883-04-19",
+    "species": "Merlin",
+    "count": "a",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": "at night",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "69° 53’ north, 5° 30’ west",
+    "date_iso": "1883-04-19",
+    "species": "Merlin",
+    "count": "a",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": "at night",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 55,
+   "chunk": "1883-00177",
+   "k": 5,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n108.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n109.jpg"
+   ],
+   "pages": [
+    "101"
+   ],
+   "quote": "one Titlark striking at 4 a.m.; caught by keeper",
+   "shown": {
+    "station": "Arran Island, South",
+    "date_iso": "1883-11-02",
+    "species": "Titlark",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": true,
+    "time": "4 \na.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Arran Island, South",
+    "date_iso": "1883-11-02",
+    "species": "Titlark",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": true,
+    "time": "4 \na.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 56,
+   "chunk": "1883-00152",
+   "k": 8,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n93.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n94.jpg"
+   ],
+   "pages": [
+    "86"
+   ],
+   "quote": "from one a.m. to seven a.m., there were killed by striking the lantern twenty-two Thrushes, eleven Blackbirds, four Wood- cocks, seventeen Starlings",
+   "shown": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Starlings",
+    "count": "seventeen",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "from one a.m. to seven a.m.",
+    "direction": null,
+    "wind": "8.E.",
+    "force": "light",
+    "weather": "hazy"
+   },
+   "extracted": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Starlings",
+    "count": "seventeen",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "from one a.m. to seven a.m.",
+    "direction": null,
+    "wind": "8.E.",
+    "force": "light",
+    "weather": "hazy"
+   }
+  },
+  {
+   "item": 57,
+   "chunk": "1883-00183",
+   "k": 31,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg"
+   ],
+   "pages": [
+    "105"
+   ],
+   "quote": "some killed",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-28/1883-11-02",
+    "species": "Starlings",
+    "count": "some",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy with mist"
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-28/1883-11-02",
+    "species": "Starlings",
+    "count": "some",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy with mist"
+   }
+  },
+  {
+   "item": 58,
+   "chunk": "1883-00199",
+   "k": 2,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n123.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg"
+   ],
+   "pages": [
+    "116"
+   ],
+   "quote": "Nov. 28th, one killed striking",
+   "shown": {
+    "station": "Rockabill",
+    "date_iso": "1883-11-28",
+    "species": "Woodcock",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": "fresh",
+    "weather": "cloudy and overcast"
+   },
+   "extracted": {
+    "station": "Rockabill",
+    "date_iso": "1883-11-28",
+    "species": "Woodcock",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": "fresh",
+    "weather": "cloudy and overcast"
+   }
+  },
+  {
+   "item": 59,
+   "chunk": "1883-00009",
+   "k": 2,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n14.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n15.jpg"
+   ],
+   "pages": [
+    "7"
+   ],
+   "quote": "numerous Snow Birds, Burgomasters, Snow Buntings",
+   "shown": {
+    "station": "68° 20’ north, 11° 30’ west",
+    "date_iso": "1883-05-02",
+    "species": "Snow Birds",
+    "count": "numerous",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "68° 20’ north, 11° 30’ west",
+    "date_iso": "1883-05-02",
+    "species": "Snow Birds",
+    "count": "numerous",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 60,
+   "chunk": "1883-00106",
+   "k": 20,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n65.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n66.jpg"
+   ],
+   "pages": [
+    "58"
+   ],
+   "quote": "were killed or taken on the vessel, including seven Grey Crows, Larks, Redbreasts, Wrens, Goldcrests",
+   "shown": {
+    "station": "Leman and Ower L.v.",
+    "date_iso": "1883-10-27/1883-11-01",
+    "species": "Goldcrests",
+    "count": null,
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Leman and Ower L.v.",
+    "date_iso": "1883-10-27/1883-11-01",
+    "species": "Goldcrests",
+    "count": null,
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 61,
+   "chunk": "1883-00168",
+   "k": 21,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg"
+   ],
+   "pages": [
+    "94"
+   ],
+   "quote": "one killed striking",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-10-06",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-10-31",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 62,
+   "chunk": "1883-00164",
+   "k": 21,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n99.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n100.jpg"
+   ],
+   "pages": [
+    "92"
+   ],
+   "quote": "Oct. 10th, one killed",
+   "shown": {
+    "station": "Arklow South Light-ship",
+    "date_iso": "1883-10-10",
+    "species": "Thrushes",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "hazy"
+   },
+   "extracted": {
+    "station": "Arklow South Light-ship",
+    "date_iso": "1883-10-10",
+    "species": "Thrushes",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "hazy"
+   }
+  },
+  {
+   "item": 63,
+   "chunk": "1883-00172",
+   "k": 22,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n105.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n106.jpg"
+   ],
+   "pages": [
+    "98"
+   ],
+   "quote": "Aug. 14th, one killed striking, 11 p.m.",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-08-14",
+    "species": "Wrens",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "12 p.m.",
+    "direction": null,
+    "wind": "§.E.",
+    "force": "light",
+    "weather": "misty"
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-08-14",
+    "species": "Wrens",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "11 p.m.",
+    "direction": null,
+    "wind": "§.E.",
+    "force": "light",
+    "weather": "misty"
+   }
+  },
+  {
+   "item": 64,
+   "chunk": "1883-00135",
+   "k": 18,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n81.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n82.jpg"
+   ],
+   "pages": [
+    "74"
+   ],
+   "quote": "one killed",
+   "shown": {
+    "station": "Dhuheartach",
+    "date_iso": "1883-10-31",
+    "species": "Woodcock",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Dhuheartach",
+    "date_iso": "1883-10-31",
+    "species": "Woodcock",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 65,
+   "chunk": "1883-00174",
+   "k": 25,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n106.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n107.jpg"
+   ],
+   "pages": [
+    "99"
+   ],
+   "quote": "constantly striking all night, many killed",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-09/1883-10-10",
+    "species": "Larks",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "all \nnight",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "mist and fog"
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-09/1883-10-10",
+    "species": "Larks",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "all \nnight",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "mist and fog"
+   }
+  },
+  {
+   "item": 66,
+   "chunk": "1883-00164",
+   "k": 16,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n99.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n100.jpg"
+   ],
+   "pages": [
+    "92"
+   ],
+   "quote": "great numbers of Thrushes passed, many killed",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-27/1883-11-02",
+    "species": "Thrushes",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy, with mist"
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-27/1883-11-02",
+    "species": "Thrushes",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "foggy, with mist"
+   }
+  },
+  {
+   "item": 67,
+   "chunk": "1883-00162",
+   "k": 4,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n97.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n98.jpg"
+   ],
+   "pages": [
+    "90"
+   ],
+   "quote": "Aug. 31st, one canght on balcony",
+   "shown": {
+    "station": "Rockabill",
+    "date_iso": "1883-08-31",
+    "species": "Hawks",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Rockabill",
+    "date_iso": "1883-08-31",
+    "species": "Hawks",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 68,
+   "chunk": "1883-00083",
+   "k": 4,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n53.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n54.jpg"
+   ],
+   "pages": [
+    "46"
+   ],
+   "quote": "60 Larks and Chaffinches",
+   "shown": {
+    "station": "Hasbro’ L.v.",
+    "date_iso": "1883-10-10/1884-01-03",
+    "species": "Chaffinches",
+    "count": "60",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Hasbro’ L.v.",
+    "date_iso": "1883-10-10/1884-01-03",
+    "species": "Chaffinches",
+    "count": "60",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 69,
+   "chunk": "1883-00106",
+   "k": 17,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n65.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n66.jpg"
+   ],
+   "pages": [
+    "58"
+   ],
+   "quote": "were killed or taken on the vessel, including seven Grey Crows, Larks",
+   "shown": {
+    "station": "Leman and Ower L.v.",
+    "date_iso": "1883-10-27/1883-11-01",
+    "species": "Larks",
+    "count": null,
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Leman and Ower L.v.",
+    "date_iso": "1883-10-27/1883-11-01",
+    "species": "Larks",
+    "count": null,
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 70,
+   "chunk": "1883-00137",
+   "k": 4,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n82.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n83.jpg"
+   ],
+   "pages": [
+    "75"
+   ],
+   "quote": "on Oct. 38rd, when one was killed",
+   "shown": {
+    "station": "Skervuile",
+    "date_iso": "1883-10-03",
+    "species": "Storm Petrel",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "N.W.",
+    "force": "strong",
+    "weather": "haze"
+   },
+   "extracted": {
+    "station": "Lismore",
+    "date_iso": "1883-10-03",
+    "species": "Storm Petrel",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "N.W.",
+    "force": "strong",
+    "weather": "haze"
+   }
+  },
+  {
+   "item": 71,
+   "chunk": "1883-00120",
+   "k": 32,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n74.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n75.jpg"
+   ],
+   "pages": [
+    "67"
+   ],
+   "quote": "one Water Ouzel was caught at Skervuile on Sept. 18th",
+   "shown": {
+    "station": "Skervuile",
+    "date_iso": "1883-09-18",
+    "species": "Water Ouzel",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Skervuile",
+    "date_iso": "1883-09-18",
+    "species": "Water Ouzel",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 72,
+   "chunk": "1883-00199",
+   "k": 18,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n123.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg"
+   ],
+   "pages": [
+    "116"
+   ],
+   "quote": "one Jack Snipe killed striking",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-08-09",
+    "species": "Jack Snipe",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.E.",
+    "force": "light",
+    "weather": "cloudy"
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-08-09",
+    "species": "Jack Snipe",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.E.",
+    "force": "light",
+    "weather": "cloudy"
+   }
+  },
+  {
+   "item": 73,
+   "chunk": "1883-00167",
+   "k": 10,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg"
+   ],
+   "pages": [
+    "94"
+   ],
+   "quote": "some struck lantern",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-02-24",
+    "species": "Blackbirds",
+    "count": "some",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "fog and mist"
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-02-24",
+    "species": "Blackbirds",
+    "count": "some",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "fog and mist"
+   }
+  },
+  {
+   "item": 74,
+   "chunk": "1883-00129",
+   "k": 7,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n78.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n79.jpg"
+   ],
+   "pages": [
+    "71"
+   ],
+   "quote": "one found dead",
+   "shown": {
+    "station": "Rhinns of \nIslay",
+    "date_iso": "1883-05-24",
+    "species": "CypsrLip“",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.N.W.",
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Dhuheartach",
+    "date_iso": "1883-05-24",
+    "species": "CypsrLip“",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "W.N.W.",
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 75,
+   "chunk": "1883-00165",
+   "k": 2,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n99.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n100.jpg"
+   ],
+   "pages": [
+    "92"
+   ],
+   "quote": "Oct. 29th and 30th, large numbers striking lantern",
+   "shown": {
+    "station": "Arklow North Light-ship",
+    "date_iso": "1883-10-29/1883-10-30",
+    "species": "Thrushes",
+    "count": "large numbers",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "calm",
+    "force": null,
+    "weather": "overcast, hazy"
+   },
+   "extracted": {
+    "station": "Arklow North Light-ship",
+    "date_iso": "1883-10-29/1883-10-30",
+    "species": "Thrushes",
+    "count": "large numbers",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "calm",
+    "force": null,
+    "weather": "overcast, hazy"
+   }
+  },
+  {
+   "item": 76,
+   "chunk": "1883-00198",
+   "k": 26,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n123.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n124.jpg"
+   ],
+   "pages": [
+    "116"
+   ],
+   "quote": "2nd, four killed striking",
+   "shown": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Woopcocx",
+    "count": "four",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Woopcocx",
+    "count": "four",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 77,
+   "chunk": "1883-00083",
+   "k": 47,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n53.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n54.jpg"
+   ],
+   "pages": [
+    "46"
+   ],
+   "quote": "Tree Sparrows, Thrush",
+   "shown": {
+    "station": "Llyn Wells u.v.",
+    "date_iso": null,
+    "species": "Thrush",
+    "count": null,
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Llyn Wells u.v.",
+    "date_iso": null,
+    "species": "Thrush",
+    "count": null,
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 78,
+   "chunk": "1883-00185",
+   "k": 16,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n114.jpg"
+   ],
+   "pages": [
+    "106"
+   ],
+   "quote": "five struck",
+   "shown": {
+    "station": "Arran Island, South",
+    "date_iso": "1883-10-30",
+    "species": "Stares",
+    "count": "five",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": null,
+    "weather": "blue sky"
+   },
+   "extracted": {
+    "station": "Arran Island, South",
+    "date_iso": "1883-10-30",
+    "species": "Stares",
+    "count": "five",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.",
+    "force": null,
+    "weather": "blue sky"
+   }
+  },
+  {
+   "item": 79,
+   "chunk": "1883-00002",
+   "k": 1,
+   "stratum": "lantern",
+   "layout": "prose",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n10.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n11.jpg"
+   ],
+   "pages": [
+    "3"
+   ],
+   "quote": "On April 28th one Gallinula chloropus, Waterhen, taken alive in Vaay in Bordo.",
+   "shown": {
+    "station": "Vaay in Bordo",
+    "date_iso": "1883-04-28",
+    "species": "Gallinula chloropus",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Vaay in Bordo",
+    "date_iso": "1883-04-28",
+    "species": "Gallinula chloropus",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 80,
+   "chunk": "1883-00168",
+   "k": 26,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n103.jpg"
+   ],
+   "pages": [
+    "95"
+   ],
+   "quote": "one killed, 9 p.m.",
+   "shown": {
+    "station": "Tory Island",
+    "date_iso": "1883-10-18",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "9 p.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Tory Island",
+    "date_iso": "1883-10-18",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "9 p.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 81,
+   "chunk": "1883-00152",
+   "k": 11,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n93.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n94.jpg"
+   ],
+   "pages": [
+    "86"
+   ],
+   "quote": "from one a.m. to seven a.m., there were killed by striking the lantern twenty-two Thrushes, eleven Blackbirds, four Wood- cocks, seventeen Starlings, eight Linnets, five Larks, and seven Robins",
+   "shown": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Robins",
+    "count": "seven",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "from one a.m. to seven a.m.",
+    "direction": null,
+    "wind": "8.E.",
+    "force": "light",
+    "weather": "hazy"
+   },
+   "extracted": {
+    "station": "Fastnet",
+    "date_iso": "1883-11-02",
+    "species": "Robins",
+    "count": "seven",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "from one a.m. to seven a.m.",
+    "direction": null,
+    "wind": "8.E.",
+    "force": "light",
+    "weather": "hazy"
+   }
+  },
+  {
+   "item": 82,
+   "chunk": "1883-00127",
+   "k": 5,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n77.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n78.jpg"
+   ],
+   "pages": [
+    "70"
+   ],
+   "quote": "four struck",
+   "shown": {
+    "station": "Skerryvore",
+    "date_iso": "1883-02-10",
+    "species": "AtaupIpm™",
+    "count": "four",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.W.",
+    "force": "strong",
+    "weather": null
+   },
+   "extracted": {
+    "station": "Skerryvore",
+    "date_iso": "1883-02-10",
+    "species": "AtaupIpm™",
+    "count": "four",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "§.W.",
+    "force": "strong",
+    "weather": null
+   }
+  },
+  {
+   "item": 83,
+   "chunk": "1883-00178",
+   "k": 21,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n109.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n110.jpg"
+   ],
+   "pages": [
+    "102"
+   ],
+   "quote": "Nov. 18th, four died on rock.",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-11-18",
+    "species": "Chaffinches",
+    "count": "four",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-11-18",
+    "species": "Chaffinches",
+    "count": "four",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 84,
+   "chunk": "1883-00184",
+   "k": 5,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg"
+   ],
+   "pages": [
+    "105"
+   ],
+   "quote": "some Starlings striking, one killed",
+   "shown": {
+    "station": "Arklow North Light-ship",
+    "date_iso": "1883-11-30",
+    "species": "Starlings",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "hazy, rain"
+   },
+   "extracted": {
+    "station": "Arklow North Light-ship",
+    "date_iso": "1883-11-30",
+    "species": "Starlings",
+    "count": "one",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "hazy, rain"
+   }
+  },
+  {
+   "item": 85,
+   "chunk": "1883-00175",
+   "k": 16,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n107.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n108.jpg"
+   ],
+   "pages": [
+    "100"
+   ],
+   "quote": "30th, five killed",
+   "shown": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-10-30",
+    "species": "Larks",
+    "count": "five",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "overcast, misty"
+   },
+   "extracted": {
+    "station": "Rathlin Island",
+    "date_iso": "1883-10-30",
+    "species": "Larks",
+    "count": "five",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "overcast, misty"
+   }
+  },
+  {
+   "item": 86,
+   "chunk": "1883-00178",
+   "k": 16,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n109.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n110.jpg"
+   ],
+   "pages": [
+    "102"
+   ],
+   "quote": "a great number about light, many killed, and fell overboard",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-29",
+    "species": "CHAFFINCH",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "gloomy"
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-29",
+    "species": "CHAFFINCH",
+    "count": "many",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "gloomy"
+   }
+  },
+  {
+   "item": 87,
+   "chunk": "1883-00165",
+   "k": 20,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n100.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg"
+   ],
+   "pages": [
+    "93"
+   ],
+   "quote": "Oct. 17th, four struck lantern, 10 p.m.",
+   "shown": {
+    "station": "Tory Island",
+    "date_iso": "1883-10-17",
+    "species": "Thrushes",
+    "count": "four",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": "10 p.m.",
+    "direction": null,
+    "wind": "W.",
+    "force": "gale",
+    "weather": null
+   },
+   "extracted": {
+    "station": "Tory Island",
+    "date_iso": "1883-10-17",
+    "species": "Thrushes",
+    "count": "four",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": "10 p.m.",
+    "direction": null,
+    "wind": "W.",
+    "force": "gale",
+    "weather": null
+   }
+  },
+  {
+   "item": 88,
+   "chunk": "1883-00171",
+   "k": 18,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n104.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n105.jpg"
+   ],
+   "pages": [
+    "97"
+   ],
+   "quote": "29th, two killed",
+   "shown": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-29",
+    "species": "GOLDENCRESTED WREN",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Tuskar Rock",
+    "date_iso": "1883-10-29",
+    "species": "GOLDENCRESTED WREN",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 89,
+   "chunk": "1883-00015",
+   "k": 40,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n17.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n18.jpg"
+   ],
+   "pages": [
+    "10"
+   ],
+   "quote": "‘‘Tmmense numbers killed",
+   "shown": {
+    "station": "Bell Rock",
+    "date_iso": "1883-10-31/1883-11-01",
+    "species": null,
+    "count": "Tmmense numbers",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Bell Rock",
+    "date_iso": "1883-10-31/1883-11-01",
+    "species": null,
+    "count": "Tmmense numbers",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 90,
+   "chunk": "1883-00072",
+   "k": 4,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n48.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n49.jpg"
+   ],
+   "pages": [
+    "41"
+   ],
+   "quote": "great many small Flycatchers against lantern every night in the week",
+   "shown": {
+    "station": "Whitby u.u.",
+    "date_iso": "1883-04-07",
+    "species": "small Flycatchers",
+    "count": "great many",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": "every \nnight in the week",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Whitby u.u.",
+    "date_iso": "1883-04-07",
+    "species": "small Flycatchers",
+    "count": "great many",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": "every \nnight in the week",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 91,
+   "chunk": "1883-00009",
+   "k": 0,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n14.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n15.jpg"
+   ],
+   "pages": [
+    "7"
+   ],
+   "quote": "a great many birds about the ship",
+   "shown": {
+    "station": "68° 20’ north, 11° 30’ west",
+    "date_iso": "1883-05-02",
+    "species": "birds",
+    "count": "a great many",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "68° 20’ north, 11° 30’ west",
+    "date_iso": "1883-05-02",
+    "species": "birds",
+    "count": "a great many",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 92,
+   "chunk": "1883-00173",
+   "k": 15,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n105.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n106.jpg"
+   ],
+   "pages": [
+    "98"
+   ],
+   "quote": "Oct. 10th, eight killed striking",
+   "shown": {
+    "station": "Copeland Island",
+    "date_iso": "1883-10-10",
+    "species": "Tits",
+    "count": "eight",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "N.",
+    "force": "lght",
+    "weather": "drizzling rain"
+   },
+   "extracted": {
+    "station": "Copeland Island",
+    "date_iso": "1883-10-10",
+    "species": "Tits",
+    "count": "eight",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": "N.",
+    "force": "lght",
+    "weather": "drizzling rain"
+   }
+  },
+  {
+   "item": 93,
+   "chunk": "1883-00178",
+   "k": 10,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n109.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n110.jpg"
+   ],
+   "pages": [
+    "102"
+   ],
+   "quote": "seven about the rock.",
+   "shown": {
+    "station": "Fastnet",
+    "date_iso": "1884-01-05",
+    "species": "CHAFFINCH",
+    "count": "seven",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Fastnet",
+    "date_iso": "1884-01-05",
+    "species": "CHAFFINCH",
+    "count": "seven",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 94,
+   "chunk": "1883-00167",
+   "k": 7,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg"
+   ],
+   "pages": [
+    "94"
+   ],
+   "quote": "two struck at 9 p.m., killed",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-11-01",
+    "species": "Blackbirds",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "9 p.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-11-01",
+    "species": "Blackbirds",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": true,
+    "time": "9 p.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 95,
+   "chunk": "1883-00167",
+   "k": 3,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg"
+   ],
+   "pages": [
+    "94"
+   ],
+   "quote": "twenty killed",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-28",
+    "species": "Blackbirds",
+    "count": "twenty",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "8.",
+    "force": "light",
+    "weather": "gloomy"
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-28",
+    "species": "Blackbirds",
+    "count": "twenty",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "8.",
+    "force": "light",
+    "weather": "gloomy"
+   }
+  },
+  {
+   "item": 96,
+   "chunk": "1883-00183",
+   "k": 10,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg"
+   ],
+   "pages": [
+    "105"
+   ],
+   "quote": "flocks about ship, nights",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-28/1883-10-29",
+    "species": "Starlings",
+    "count": "flocks",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": "nights",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "gloomy"
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-28/1883-10-29",
+    "species": "Starlings",
+    "count": "flocks",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": "nights",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "gloomy"
+   }
+  },
+  {
+   "item": 97,
+   "chunk": "1883-00010",
+   "k": 1,
+   "stratum": "lantern",
+   "layout": "station",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n15.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n16.jpg"
+   ],
+   "pages": [
+    "8"
+   ],
+   "quote": "two birds known at home as Wheatears and Water Wagtails [‘‘ Watee Wagtails ” (sic) local in Forfar.—J. A. H. B.] came on board and died",
+   "shown": {
+    "station": "about 67° 41’ north",
+    "date_iso": "1883-05-16",
+    "species": "Wheatears",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "very heavy weather"
+   },
+   "extracted": {
+    "station": "about 67° 41’ north",
+    "date_iso": "1883-05-16",
+    "species": "Wheatears",
+    "count": "two",
+    "behaviour": "dead",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": "very heavy weather"
+   }
+  },
+  {
+   "item": 98,
+   "chunk": "1883-00026",
+   "k": 1,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n22.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n23.jpg"
+   ],
+   "pages": [
+    "15"
+   ],
+   "quote": "one Swallow, ‘flying around,’ on 9th",
+   "shown": {
+    "station": "Pentland Skerries",
+    "date_iso": "1883-08-09",
+    "species": "Swallow",
+    "count": "one",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "E.",
+    "force": "fresh",
+    "weather": "showers"
+   },
+   "extracted": {
+    "station": "Pentland Skerries",
+    "date_iso": "1883-08-09",
+    "species": "Swallow",
+    "count": "one",
+    "behaviour": "round_station",
+    "at_light": false,
+    "time": null,
+    "direction": null,
+    "wind": "E.",
+    "force": "fresh",
+    "weather": "showers"
+   }
+  },
+  {
+   "item": 99,
+   "chunk": "1883-00167",
+   "k": 1,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n101.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n102.jpg"
+   ],
+   "pages": [
+    "94"
+   ],
+   "quote": "one caught on deck at 2 a.m.",
+   "shown": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-10",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": "2 a.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Coningbeg Light-ship",
+    "date_iso": "1883-10-10",
+    "species": "Blackbirds",
+    "count": "one",
+    "behaviour": "caught",
+    "at_light": false,
+    "time": "2 a.m.",
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  },
+  {
+   "item": 100,
+   "chunk": "1883-00183",
+   "k": 4,
+   "stratum": "lantern",
+   "layout": "species",
+   "images": [
+    "/home/mark/git/keepers/cache/scans/1883/n112.jpg",
+    "/home/mark/git/keepers/cache/scans/1883/n113.jpg"
+   ],
+   "pages": [
+    "105"
+   ],
+   "quote": "29th, five striking",
+   "shown": {
+    "station": "Fastnet",
+    "date_iso": "1883-10-29",
+    "species": "STARLING",
+    "count": "five",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   },
+   "extracted": {
+    "station": "Fastnet",
+    "date_iso": "1883-10-29",
+    "species": "STARLING",
+    "count": "five",
+    "behaviour": "struck",
+    "at_light": true,
+    "time": null,
+    "direction": null,
+    "wind": null,
+    "force": null,
+    "weather": null
+   }
+  }
+ ],
+ "plants": [
+  {
+   "item": 6,
+   "field": "date_iso",
+   "extracted": "1883-09-22",
+   "planted": "1883-09-28"
+  },
+  {
+   "item": 11,
+   "field": "count",
+   "extracted": "one",
+   "planted": "two"
+  },
+  {
+   "item": 13,
+   "field": "behaviour",
+   "extracted": "seen",
+   "planted": "passing"
+  },
+  {
+   "item": 22,
+   "field": "station",
+   "extracted": "Bell Rock",
+   "planted": "Pen \nland Skerries"
+  },
+  {
+   "item": 34,
+   "field": "date_iso",
+   "extracted": "1883-03-12",
+   "planted": "1883-03-18"
+  },
+  {
+   "item": 43,
+   "field": "count",
+   "extracted": "one",
+   "planted": "two"
+  },
+  {
+   "item": 45,
+   "field": "date_iso",
+   "extracted": "1883-08-01",
+   "planted": "1883-08-05"
+  },
+  {
+   "item": 50,
+   "field": "count",
+   "extracted": "A",
+   "planted": "two"
+  },
+  {
+   "item": 61,
+   "field": "date_iso",
+   "extracted": "1883-10-31",
+   "planted": "1883-10-06"
+  },
+  {
+   "item": 63,
+   "field": "time",
+   "extracted": "11 p.m.",
+   "planted": "12 p.m."
+  },
+  {
+   "item": 70,
+   "field": "station",
+   "extracted": "Lismore",
+   "planted": "Skervuile"
+  },
+  {
+   "item": 73,
+   "field": "behaviour",
+   "extracted": "struck",
+   "planted": "dead"
+  },
+  {
+   "item": 74,
+   "field": "station",
+   "extracted": "Dhuheartach",
+   "planted": "Rhinns of \nIslay"
+  }
+ ],
+ "verdicts": {
+  "31": {
+   "item": 31,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "32": {
+   "item": 32,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "33": {
+   "item": 33,
+   "found": false,
+   "fields": {
+    "station": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "unclear",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "unclear",
+     "print_says": null
+    }
+   }
+  },
+  "34": {
+   "item": 34,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "March 12th (1883-03-12)"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "35": {
+   "item": 35,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "36": {
+   "item": 36,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "37": {
+   "item": 37,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "unclear",
+     "print_says": "These in every instance with light or fresh S.E. winds in April, and light N.E. in May (month of 'a few' not stated)"
+    },
+    "force": {
+     "verdict": "unclear",
+     "print_says": "light or fresh (April) / light (May)"
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "38": {
+   "item": 38,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": "PUFFIN"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "39": {
+   "item": 39,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Galloper L.V."
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "40": {
+   "item": 40,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "21": {
+   "item": 21,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "22": {
+   "item": 22,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Bell Rock"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "23": {
+   "item": 23,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "unclear",
+     "print_says": "entry names no species; neighbouring entries are Barnacle and Wild Geese, heading on previous page"
+    },
+    "count": {
+     "verdict": "wrong",
+     "print_says": "twenty"
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "wrong",
+     "print_says": "to S.E."
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "24": {
+   "item": 24,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "25": {
+   "item": 25,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "wrong",
+     "print_says": "during the day"
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "26": {
+   "item": 26,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "27": {
+   "item": 27,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "28": {
+   "item": 28,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "29": {
+   "item": 29,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "unclear",
+     "print_says": "summary: 'as far as N. Unst' marks the northern extent of the rush, not a station record"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "30": {
+   "item": 30,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "1": {
+   "item": 1,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Hooded Crow"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "2": {
+   "item": 2,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.W."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "3": {
+   "item": 3,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Stevns Fyr (Lighthouse of Stevns)"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Lanius collurio"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "wrong",
+     "print_says": "list of birds 'killed or taken against the lantern' (dead or caught)"
+    },
+    "at_light": {
+     "verdict": "wrong",
+     "print_says": "true: killed or taken against the lantern"
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "4": {
+   "item": 4,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Farn and Longstone lighthouses"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "unclear",
+     "print_says": "'great numbers of both crossing, and on 24th with both Redstarts and Snow Buntings' (the verb 'crossing' may carry over to the 24th, which would make it passing)"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "5": {
+   "item": 5,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "6": {
+   "item": 6,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "Sept. 22nd (1883-09-22)"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "7": {
+   "item": 7,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "8": {
+   "item": 8,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "9": {
+   "item": 9,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "10": {
+   "item": 10,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "41": {
+   "item": 41,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "42": {
+   "item": 42,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "wrong",
+     "print_says": "round_station (diving about the rock)"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "43": {
+   "item": 43,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "wrong",
+     "print_says": "one"
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "44": {
+   "item": 44,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "45": {
+   "item": 45,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "1883-08-01"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "46": {
+   "item": 46,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "47": {
+   "item": 47,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "48": {
+   "item": 48,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Alaudidæ"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "49": {
+   "item": 49,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "50": {
+   "item": 50,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "wrong",
+     "print_says": "A (a male)"
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "11": {
+   "item": 11,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "wrong",
+     "print_says": "one"
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "12": {
+   "item": 12,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "13": {
+   "item": 13,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "wrong",
+     "print_says": "seen - 'Oct. 13th, one Wild Goose; wind S., fresh.' (no flight stated)"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "14": {
+   "item": 14,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Auskerry ('In May a small flock of Sparrows at Auskerry, from the 14th to 31st; one Brambling, one Chaffinch, one Green Linnet, between 10th and 15th, with fresh N.N.E. wind.')"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "15": {
+   "item": 15,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Guillemots and Razorbills ('This completes our data of Guillemots and Razorbills, to which the whole of the above records refer')"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "16": {
+   "item": 16,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Tringæ"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "17": {
+   "item": 17,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "18": {
+   "item": 18,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "19": {
+   "item": 19,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "20": {
+   "item": 20,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "51": {
+   "item": 51,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": "Feb. 24th, 25th, 27th, 28th, and March 3rd"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "52": {
+   "item": 52,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Cockle L.V."
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "53": {
+   "item": 53,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "54": {
+   "item": 54,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "55": {
+   "item": 55,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "56": {
+   "item": 56,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "unclear",
+     "print_says": "earlier in the entry: on the night of Nov. 2nd 'a quantity of all species of birds came from the N.E.'"
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "57": {
+   "item": 57,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "58": {
+   "item": 58,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "59": {
+   "item": 59,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "60": {
+   "item": 60,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "unclear",
+     "print_says": "killed or taken on the vessel"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "wrong",
+     "print_says": "travelling from S., S.E., and E. to N.W., N.N.W., and W."
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "61": {
+   "item": 61,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "Oct. 31st (1883-10-31)"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "62": {
+   "item": 62,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "63": {
+   "item": 63,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "wrong",
+     "print_says": "11 p.m."
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "64": {
+   "item": 64,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "65": {
+   "item": 65,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "66": {
+   "item": 66,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "67": {
+   "item": 67,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "68": {
+   "item": 68,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Larks and Chaffinches (60 is a joint count)"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "69": {
+   "item": 69,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "unclear",
+     "print_says": "killed or taken on the vessel"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "wrong",
+     "print_says": "from S., S.E., and E. to N.W., N.N.W., and W."
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "70": {
+   "item": 70,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Lismore"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "91": {
+   "item": 91,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "92": {
+   "item": 92,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "wrong",
+     "print_says": "light"
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "93": {
+   "item": 93,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "94": {
+   "item": 94,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "95": {
+   "item": 95,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "wrong",
+     "print_says": "9 p.m., until midnight"
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "96": {
+   "item": 96,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "97": {
+   "item": 97,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "about 67° 41′ north, 14° 34′ west"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Wheatears and Water Wagtails"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "98": {
+   "item": 98,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "unclear",
+     "print_says": "\"flying around\" (no object named), and \"flying W.\""
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "wrong",
+     "print_says": "W."
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "99": {
+   "item": 99,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "100": {
+   "item": 100,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "81": {
+   "item": 81,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "82": {
+   "item": 82,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "ALAUDIDÆ"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": "'four struck' (lantern not named; struck taken as at the light)"
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.W."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "83": {
+   "item": 83,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "Nov. 13th -> 1883-11-13"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": "heading CHAFFINCH; entry names 'Chaffinches'"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "84": {
+   "item": 84,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": "'some Starlings striking, one killed' (lantern not named)"
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "85": {
+   "item": 85,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "86": {
+   "item": 86,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "87": {
+   "item": 87,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "88": {
+   "item": 88,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "89": {
+   "item": 89,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "unclear",
+     "print_says": "no species named for the killed birds; passage is in the Turdidæ paragraph, and 'Woodcocks' are named as struck"
+    },
+    "count": {
+     "verdict": "wrong",
+     "print_says": "Immense numbers"
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "wrong",
+     "print_says": "true: 'flying within the influence of the rays of light ... continually striking hard all night'"
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "90": {
+   "item": 90,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Whitby L.H."
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "71": {
+   "item": 71,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "wrong",
+     "print_says": "1883-09-13 (Sept. 13th)"
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "72": {
+   "item": 72,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S.E."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "73": {
+   "item": 73,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "wrong",
+     "print_says": "struck (some struck lantern; no deaths stated)"
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "74": {
+   "item": 74,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Dhuheartach (Three May records, all at Dhuheartach)"
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Cypselidae (CYPSELIDÆ)"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "75": {
+   "item": 75,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "76": {
+   "item": 76,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "wrong",
+     "print_says": "Woodcock"
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "77": {
+   "item": 77,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "wrong",
+     "print_says": "Llyn Wells L.V."
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "78": {
+   "item": 78,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "wrong",
+     "print_says": "11 a.m."
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "S."
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "79": {
+   "item": 79,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "force": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  },
+  "80": {
+   "item": 80,
+   "found": true,
+   "fields": {
+    "station": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "date_iso": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "species": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "count": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "behaviour": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "at_light": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "time": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "direction": {
+     "verdict": "ok",
+     "print_says": null
+    },
+    "wind": {
+     "verdict": "wrong",
+     "print_says": "W.N.W."
+    },
+    "force": {
+     "verdict": "wrong",
+     "print_says": "gale"
+    },
+    "weather": {
+     "verdict": "ok",
+     "print_says": null
+    }
+   }
+  }
+ }
+}

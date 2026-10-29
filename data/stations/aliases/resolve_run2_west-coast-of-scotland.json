@@ -1,0 +1,1208 @@
+{
+ "items": [
+  {
+   "n": 0,
+   "kind": "stations",
+   "ids": [
+    "mcarthurs-head",
+    "skervuile"
+   ],
+   "place": null,
+   "note": "NOT a group: map number 101 means M'Arthur's Head in 1883 (list p.63; example 'April, a few daily seeking food' is the 1883 Gannet entry) and Skervuile in 1885 (1885 list: 101 Skervuile). Split observations by year."
+  },
+  {
+   "n": 1,
+   "kind": "stations",
+   "ids": [
+    "skervuile",
+    "rhinns-of-islay"
+   ],
+   "place": null,
+   "note": "NOT a group: 102 = Skervuile in 1883 (example 'Gannets seen' is the 1883 Gannet entry), Rhinns of Islay in 1885 (text: '102 (Rhinns of Islay)'). Split by year."
+  },
+  {
+   "n": 2,
+   "kind": "station",
+   "ids": [
+    "holy-isle"
+   ],
+   "place": null,
+   "note": "1885 numbering: 108 = Lamlash (text: '108 (Lamlash)')."
+  },
+  {
+   "n": 3,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (at sea, c. 1080 miles from Ireland)",
+   "note": "Ship at sea, 1880 ocean notes; not a station."
+  },
+  {
+   "n": 4,
+   "kind": "stations",
+   "ids": [
+    "holy-isle",
+    "turnberry"
+   ],
+   "place": null,
+   "note": "NOT a group: 109 = Lamlash in 1883 (example 'Feb. 5th, the first seen for some months' is 1883 Gannet entry), Turnberry in 1885 (text: '109 (Turnberry)'). Split by year."
+  },
+  {
+   "n": 5,
+   "kind": "station",
+   "ids": [
+    "corsewall"
+   ],
+   "place": null,
+   "note": "1885 numbering: 110 = Corsewall."
+  },
+  {
+   "n": 6,
+   "kind": "station",
+   "ids": [
+    "corsewall"
+   ],
+   "place": null,
+   "note": "1883 numbering: 111 = Corsewall (Geese list: 'Corsewall (111)')."
+  },
+  {
+   "n": 7,
+   "kind": "station",
+   "ids": [
+    "portpatrick"
+   ],
+   "place": null,
+   "note": "1885 numbering: 112 = Portpatrick."
+  },
+  {
+   "n": 8,
+   "kind": "station",
+   "ids": [
+    "mull-of-galloway"
+   ],
+   "place": null,
+   "note": "1885 numbering: 113 = Mull of Galloway."
+  },
+  {
+   "n": 9,
+   "kind": "station",
+   "ids": [
+    "little-ross"
+   ],
+   "place": null,
+   "note": "1885 numbering: 114 = Little Ross."
+  },
+  {
+   "n": 10,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (at sea, c. 1200 miles from land)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 17,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (c. 400 miles east of Newfoundland)",
+   "note": "Ship at sea (Capt. Roy)."
+  },
+  {
+   "n": 18,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (c. 400-500 miles west of Ireland)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 21,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (c. 550 miles west of Ireland)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 32,
+   "kind": "station",
+   "ids": [
+    "stoer-head"
+   ],
+   "place": null,
+   "note": "1883 list: 82 = Rhu Stoir; Geese and Eider paragraphs agree (Eider '82' entries match the text 'at Rhu Stoir'). But the Gannet paragraph's heading says 'Butt of Lewis (82), Rhu Stoir (83)', so the Gannet '82' entry may be Butt of Lewis."
+  },
+  {
+   "n": 33,
+   "kind": "station",
+   "ids": [
+    "butt-of-lewis"
+   ],
+   "place": null,
+   "note": "1883 list: 83 = Butt of Lewis; Geese list agrees. The Gannet heading swaps 82/83, so the Gannet '83' entry (example) may be Rhu Stoir."
+  },
+  {
+   "n": 34,
+   "kind": "station",
+   "ids": [
+    "arnish-point"
+   ],
+   "place": null,
+   "note": "1883 numbering: 84 = Stornoway."
+  },
+  {
+   "n": 35,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (at sea, c. 850 miles from land)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 36,
+   "kind": "station",
+   "ids": [
+    "monach-isles"
+   ],
+   "place": null,
+   "note": "86 = Monach Isles in both the 1883 and 1885 lists."
+  },
+  {
+   "n": 37,
+   "kind": "station",
+   "ids": [
+    "barra-head"
+   ],
+   "place": null,
+   "note": "1883 numbering: 88 = Barra Head. One 1883 'Wild Duck, only at 83, 88, 90' block prints 88 twice; the first '88' may be OCR for 83 (Butt of Lewis)."
+  },
+  {
+   "n": 38,
+   "kind": "station",
+   "ids": [
+    "rona"
+   ],
+   "place": null,
+   "note": "1885 numbering: 89 = Rona (text: '89 (Rona)')."
+  },
+  {
+   "n": 39,
+   "kind": "station",
+   "ids": [
+    "kyleakin"
+   ],
+   "place": null,
+   "note": "90 = Kyleakin in both 1883 and 1885 lists."
+  },
+  {
+   "n": 40,
+   "kind": "station",
+   "ids": [
+    "skerryvore"
+   ],
+   "place": null,
+   "note": "1885 numbering: 93 = 'Skerryvore and Hynish Signal Tower, Tiree' (text: '93 (Skerryvore)'). In 1883, 93 would be Hynish, but this item is 1885 only."
+  },
+  {
+   "n": 41,
+   "kind": "station",
+   "ids": [
+    "dubh-artach"
+   ],
+   "place": null,
+   "note": "1885 numbering: 94 = Dhuheartach."
+  },
+  {
+   "n": 42,
+   "kind": "station",
+   "ids": [
+    "dubh-artach"
+   ],
+   "place": null,
+   "note": "1883 numbering: 95 = Dhuheartach (Gannet list 'Dhuheartach (95)')."
+  },
+  {
+   "n": 43,
+   "kind": "stations",
+   "ids": [
+    "lismore",
+    "fladda"
+   ],
+   "place": null,
+   "note": "NOT a group: 98 = Lismore in 1883 (example 'Solan Geese' is 1883 Gannet entry), Fladda in 1885. Split by year."
+  },
+  {
+   "n": 45,
+   "kind": "place",
+   "ids": [],
+   "place": "Aberfoyle, Stirling (historic Perthshire)",
+   "note": null
+  },
+  {
+   "n": 48,
+   "kind": "station",
+   "ids": [
+    "ailsa-craig"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 50,
+   "kind": "place",
+   "ids": [],
+   "place": "Airth, Stirlingshire (Falkirk)",
+   "note": null
+  },
+  {
+   "n": 54,
+   "kind": "place",
+   "ids": [],
+   "place": "Alloa, Clackmannanshire",
+   "note": null
+  },
+  {
+   "n": 85,
+   "kind": "place",
+   "ids": [],
+   "place": "Ayrshire coast, Scotland",
+   "note": null
+  },
+  {
+   "n": 86,
+   "kind": "station",
+   "ids": [
+    "bahama-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 93,
+   "kind": "station",
+   "ids": [
+    "bahama-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 94,
+   "kind": "station",
+   "ids": [
+    "bahama-bank-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 96,
+   "kind": "place",
+   "ids": [],
+   "place": "Ballina, County Mayo, Ireland",
+   "note": null
+  },
+  {
+   "n": 123,
+   "kind": "place",
+   "ids": [],
+   "place": "Berwickshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 156,
+   "kind": "place",
+   "ids": [],
+   "place": "Brampton, Cumbria (Cumberland)",
+   "note": null
+  },
+  {
+   "n": 189,
+   "kind": "station",
+   "ids": [
+    "butt-of-lewis"
+   ],
+   "place": null,
+   "note": "'Butt — of Lewis' split across a line."
+  },
+  {
+   "n": 204,
+   "kind": "place",
+   "ids": [],
+   "place": "Callander, Stirling (historic Perthshire)",
+   "note": null
+  },
+  {
+   "n": 217,
+   "kind": "place",
+   "ids": [],
+   "place": "Carloway, Isle of Lewis, Outer Hebrides",
+   "note": null
+  },
+  {
+   "n": 228,
+   "kind": "place",
+   "ids": [],
+   "place": "Castletown, Isle of Man",
+   "note": "Uncertain: the 1884 section discusses Isle of Man stations (Langness is near Castletown), but Castletown, Caithness is possible. Check context."
+  },
+  {
+   "n": 266,
+   "kind": "station",
+   "ids": [
+    "corsewall"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 280,
+   "kind": "place",
+   "ids": [],
+   "place": "Crutherland, East Kilbride, Lanarkshire",
+   "note": null
+  },
+  {
+   "n": 297,
+   "kind": "station",
+   "ids": [
+    "dubh-artach"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 298,
+   "kind": "station",
+   "ids": [
+    "dubh-artach"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 299,
+   "kind": "station",
+   "ids": [
+    "dubh-artach"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 302,
+   "kind": "station",
+   "ids": [
+    "douglas-head"
+   ],
+   "place": null,
+   "note": "1881 West Scotland section includes Isle of Man stations; 'Douglas' read as Douglas Head L.H. Check context."
+  },
+  {
+   "n": 303,
+   "kind": "place",
+   "ids": [],
+   "place": "Douglas Hall, Colvend, Kirkcudbrightshire (Dumfries and Galloway)",
+   "note": "Solway-shore estate, not Douglas Head."
+  },
+  {
+   "n": 310,
+   "kind": "place",
+   "ids": [],
+   "place": "Duddingston Loch, Edinburgh",
+   "note": null
+  },
+  {
+   "n": 316,
+   "kind": "place",
+   "ids": [],
+   "place": "Dumfries, Dumfriesshire",
+   "note": null
+  },
+  {
+   "n": 321,
+   "kind": "place",
+   "ids": [],
+   "place": "Dunipace, Stirlingshire (Falkirk)",
+   "note": null
+  },
+  {
+   "n": 330,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of Orkney",
+   "note": "From a newspaper quotation."
+  },
+  {
+   "n": 351,
+   "kind": "place",
+   "ids": [],
+   "place": "East Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 370,
+   "kind": "place",
+   "ids": [],
+   "place": "Edinburgh",
+   "note": null
+  },
+  {
+   "n": 372,
+   "kind": "place",
+   "ids": [],
+   "place": "Erraid, Isle of Mull, Argyll",
+   "note": "Erraid was the shore station for Dhuheartach keepers; map to dubh-artach only if you treat shore stations as the light."
+  },
+  {
+   "n": 434,
+   "kind": "place",
+   "ids": [],
+   "place": "Firth of Forth, Scotland",
+   "note": null
+  },
+  {
+   "n": 473,
+   "kind": "place",
+   "ids": [],
+   "place": "General Post Office, Edinburgh",
+   "note": null
+  },
+  {
+   "n": 474,
+   "kind": "place",
+   "ids": [],
+   "place": "General Post Office, Edinburgh",
+   "note": null
+  },
+  {
+   "n": 475,
+   "kind": "place",
+   "ids": [],
+   "place": "Gilsland, Cumbria/Northumberland border",
+   "note": null
+  },
+  {
+   "n": 479,
+   "kind": "place",
+   "ids": [],
+   "place": "Glenbervie, near Larbert, Stirlingshire",
+   "note": "'close to this' (Dunipace/Torwood Woodcock passage); not Glenbervie, Kincardineshire. Check context."
+  },
+  {
+   "n": 481,
+   "kind": "place",
+   "ids": [],
+   "place": "Glendoune, Girvan, Ayrshire",
+   "note": null
+  },
+  {
+   "n": 504,
+   "kind": "place",
+   "ids": [],
+   "place": "Great Britain",
+   "note": "Country-wide statement."
+  },
+  {
+   "n": 599,
+   "kind": "place",
+   "ids": [],
+   "place": "Horsley, Northumberland",
+   "note": "Uncertain which Horsley (Tyne valley or Redesdale); 1880 Borders/Cumberland notes nearby."
+  },
+  {
+   "n": 631,
+   "kind": "place",
+   "ids": [],
+   "place": "Inchmickery, Firth of Forth",
+   "note": null
+  },
+  {
+   "n": 638,
+   "kind": "place",
+   "ids": [],
+   "place": "Innerleithen, Peeblesshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 644,
+   "kind": "place",
+   "ids": [],
+   "place": "Ireland",
+   "note": null
+  },
+  {
+   "n": 645,
+   "kind": "station",
+   "ids": [
+    "eilean-glas"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 648,
+   "kind": "place",
+   "ids": [],
+   "place": "Islay, Argyll",
+   "note": "Island holds four stations (Rhinns, Loch Indaal, Rhuvaal, M'Arthur's Head), so not resolvable to one light."
+  },
+  {
+   "n": 649,
+   "kind": "station",
+   "ids": [
+    "isle-ornsay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 651,
+   "kind": "stations",
+   "ids": [
+    "point-of-ayre-iom",
+    "douglas-head",
+    "langness",
+    "chicken-rock"
+   ],
+   "place": null,
+   "note": "'Isle of Man stations' collectively (1884)."
+  },
+  {
+   "n": 652,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Man",
+   "note": "May mean the Isle of Man stations collectively (cf. item 651); 'R. Clyne' cited as source."
+  },
+  {
+   "n": 654,
+   "kind": "place",
+   "ids": [],
+   "place": "Jedburgh, Roxburghshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 659,
+   "kind": "place",
+   "ids": [],
+   "place": "East Kilbride parish, Lanarkshire",
+   "note": "OCR 'Kast' = East."
+  },
+  {
+   "n": 662,
+   "kind": "place",
+   "ids": [],
+   "place": "Kelso, Roxburghshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 669,
+   "kind": "place",
+   "ids": [],
+   "place": "Kilchoan, Ardnamurchan, Argyll",
+   "note": "Village near, but not, Ardnamurchan lighthouse."
+  },
+  {
+   "n": 674,
+   "kind": "place",
+   "ids": [],
+   "place": "Kincardine-on-Forth, Fife",
+   "note": "Sprats context suggests the Forth; uncertain."
+  },
+  {
+   "n": 675,
+   "kind": "place",
+   "ids": [],
+   "place": "Kincardineshire (Aberdeenshire)",
+   "note": null
+  },
+  {
+   "n": 677,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinharvie, near New Abbey, Kirkcudbrightshire",
+   "note": null
+  },
+  {
+   "n": 678,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinnaird House, Larbert, Stirlingshire",
+   "note": "With Airth; not Kinnaird Head."
+  },
+  {
+   "n": 679,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinnaird House, Larbert, Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 682,
+   "kind": "place",
+   "ids": [],
+   "place": "Kinross, Kinross-shire",
+   "note": null
+  },
+  {
+   "n": 685,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkcudbright, Kirkcudbrightshire",
+   "note": null
+  },
+  {
+   "n": 686,
+   "kind": "place",
+   "ids": [],
+   "place": "Kirkcudbrightshire (Dumfries and Galloway)",
+   "note": null
+  },
+  {
+   "n": 701,
+   "kind": "station",
+   "ids": [
+    "kyleakin"
+   ],
+   "place": null,
+   "note": "Kyleakin light stands at the ferry narrows; could be a general area mention. Check context."
+  },
+  {
+   "n": 707,
+   "kind": "station",
+   "ids": [
+    "holy-isle"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 708,
+   "kind": "station",
+   "ids": [
+    "holy-isle"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 710,
+   "kind": "station",
+   "ids": [
+    "hynish-signal-tower"
+   ],
+   "place": null,
+   "note": "Skerryvore's shore 'Land Station' at Hynish, Tiree (1883)."
+  },
+  {
+   "n": 712,
+   "kind": "station",
+   "ids": [
+    "langness"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 717,
+   "kind": "station",
+   "ids": [
+    "langness"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 740,
+   "kind": "place",
+   "ids": [],
+   "place": "Leeds, West Yorkshire",
+   "note": null
+  },
+  {
+   "n": 741,
+   "kind": "place",
+   "ids": [],
+   "place": "Leith, Edinburgh",
+   "note": null
+  },
+  {
+   "n": 754,
+   "kind": "place",
+   "ids": [],
+   "place": "Lerwick, Shetland",
+   "note": "Town, not Bressay light; check if from Bressay keeper."
+  },
+  {
+   "n": 766,
+   "kind": "station",
+   "ids": [
+    "lismore"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 776,
+   "kind": "place",
+   "ids": [],
+   "place": "Loch Assapol, Ross of Mull, Argyll",
+   "note": null
+  },
+  {
+   "n": 777,
+   "kind": "place",
+   "ids": [],
+   "place": "Lochinver, Sutherland",
+   "note": null
+  },
+  {
+   "n": 779,
+   "kind": "place",
+   "ids": [],
+   "place": "Loch Lomond, Dunbartonshire/Stirlingshire",
+   "note": null
+  },
+  {
+   "n": 782,
+   "kind": "station",
+   "ids": [
+    "loch-indaal"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 783,
+   "kind": "station",
+   "ids": [
+    "loch-indaal"
+   ],
+   "place": null,
+   "note": "1879 'At Lochindahl' could mean the loch generally; station listed 1879."
+  },
+  {
+   "n": 784,
+   "kind": "station",
+   "ids": [
+    "loch-indaal"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 831,
+   "kind": "station",
+   "ids": [
+    "rhinns-of-islay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 833,
+   "kind": "station",
+   "ids": [
+    "mcarthurs-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 838,
+   "kind": "place",
+   "ids": [],
+   "place": "Marchmont House, Berwickshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 847,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean (mid-Atlantic)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 854,
+   "kind": "place",
+   "ids": [],
+   "place": "Mingary, Ardnamurchan, Argyll",
+   "note": null
+  },
+  {
+   "n": 855,
+   "kind": "station",
+   "ids": [
+    "monach-isles"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 856,
+   "kind": "station",
+   "ids": [
+    "monach-isles"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 964,
+   "kind": "place",
+   "ids": [],
+   "place": "Old Cambus, Berwickshire (Scottish Borders)",
+   "note": null
+  },
+  {
+   "n": 968,
+   "kind": "place",
+   "ids": [],
+   "place": "Orkney",
+   "note": "From a newspaper quotation."
+  },
+  {
+   "n": 995,
+   "kind": "station",
+   "ids": [
+    "pentland-skerries"
+   ],
+   "place": null,
+   "note": "1883 Black Redstart table: 'Pentland | Skerries' split across table lines."
+  },
+  {
+   "n": 1006,
+   "kind": "station",
+   "ids": [
+    "portpatrick"
+   ],
+   "place": null,
+   "note": "1880 quote from Capt. Fayrer may be a town resident rather than the light; check."
+  },
+  {
+   "n": 1014,
+   "kind": "place",
+   "ids": [],
+   "place": "Priory Farm (unidentified, west of Scotland)",
+   "note": "Unidentified; possibly near Ross Priory (Dunbartonshire) or on Lismore. Check context."
+  },
+  {
+   "n": 1030,
+   "kind": "station",
+   "ids": [
+    "rhinns-of-islay"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1051,
+   "kind": "station",
+   "ids": [
+    "rona"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1052,
+   "kind": "station",
+   "ids": [
+    "rona"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1053,
+   "kind": "place",
+   "ids": [],
+   "place": "Rose Castle / Rosley, near Dalston, Cumbria",
+   "note": "'Rosely Castle' unidentified as printed; likely Rose Castle or Rosley, Cumberland."
+  },
+  {
+   "n": 1054,
+   "kind": "place",
+   "ids": [],
+   "place": "Ross Priory, Gartocharn, Dunbartonshire",
+   "note": null
+  },
+  {
+   "n": 1055,
+   "kind": "place",
+   "ids": [],
+   "place": "Ross of Mull, Argyll",
+   "note": null
+  },
+  {
+   "n": 1058,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Rùm, Lochaber, Highland",
+   "note": null
+  },
+  {
+   "n": 1063,
+   "kind": "place",
+   "ids": [],
+   "place": "South-west Scotland",
+   "note": null
+  },
+  {
+   "n": 1089,
+   "kind": "place",
+   "ids": [],
+   "place": "Shiant Isles, Outer Hebrides",
+   "note": null
+  },
+  {
+   "n": 1108,
+   "kind": "station",
+   "ids": [
+    "skerryvore"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1109,
+   "kind": "station",
+   "ids": [
+    "skervuile"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1114,
+   "kind": "place",
+   "ids": [],
+   "place": "Slogarie, near Laurieston, Kirkcudbrightshire",
+   "note": null
+  },
+  {
+   "n": 1132,
+   "kind": "place",
+   "ids": [],
+   "place": "Solway Firth",
+   "note": null
+  },
+  {
+   "n": 1133,
+   "kind": "place",
+   "ids": [],
+   "place": "Solway Firth",
+   "note": null
+  },
+  {
+   "n": 1134,
+   "kind": "place",
+   "ids": [],
+   "place": "Solway Firth (banks)",
+   "note": null
+  },
+  {
+   "n": 1175,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Scotland south of the Firth of Clyde",
+   "note": null
+  },
+  {
+   "n": 1176,
+   "kind": "place",
+   "ids": [],
+   "place": "Southerness Point, Kirkcudbrightshire",
+   "note": "Has an old light but not a scheme station."
+  },
+  {
+   "n": 1197,
+   "kind": "place",
+   "ids": [],
+   "place": "Saint-Jean-de-Luz, Pyrénées-Atlantiques, France",
+   "note": null
+  },
+  {
+   "n": 1208,
+   "kind": "station",
+   "ids": [
+    "start-point-orkney"
+   ],
+   "place": null,
+   "note": "In West Scotland 1885 section; Sheldrake breeding fits Sanday's Start Point (Orkney) better than Start Point, Devon (also listed 1885). Check context."
+  },
+  {
+   "n": 1227,
+   "kind": "station",
+   "ids": [
+    "stoer-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1228,
+   "kind": "station",
+   "ids": [
+    "arnish-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1279,
+   "kind": "place",
+   "ids": [],
+   "place": "Torwood, Stirlingshire (Falkirk)",
+   "note": null
+  },
+  {
+   "n": 1281,
+   "kind": "place",
+   "ids": [],
+   "place": "Touch estate, near Stirling",
+   "note": null
+  },
+  {
+   "n": 1286,
+   "kind": "station",
+   "ids": [
+    "turnberry"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1292,
+   "kind": "place",
+   "ids": [],
+   "place": "Tiree, Argyll",
+   "note": "Island holds Hynish signal tower (Skerryvore shore station); may be that report. Check 1879 context."
+  },
+  {
+   "n": 1295,
+   "kind": "place",
+   "ids": [],
+   "place": "River Ure near Masham, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1296,
+   "kind": "station",
+   "ids": [
+    "ushenish"
+   ],
+   "place": null,
+   "note": "Printed 'North Uist'; Ushenish is actually on South Uist."
+  },
+  {
+   "n": 1301,
+   "kind": "place",
+   "ids": [],
+   "place": "Vale of Menteith, Stirling (Perthshire)",
+   "note": null
+  },
+  {
+   "n": 1314,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Scotland south of the Clyde",
+   "note": "OCR '8.' = S."
+  },
+  {
+   "n": 1315,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Scotland",
+   "note": null
+  },
+  {
+   "n": 1342,
+   "kind": "place",
+   "ids": [],
+   "place": "Whitehill, Rosewell, Midlothian",
+   "note": null
+  },
+  {
+   "n": 1346,
+   "kind": "place",
+   "ids": [],
+   "place": "Wigtownshire (Dumfries and Galloway)",
+   "note": null
+  },
+  {
+   "n": 1428,
+   "kind": "place",
+   "ids": [],
+   "place": "Coast of Angus (Forfarshire)",
+   "note": null
+  },
+  {
+   "n": 1434,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of Scotland",
+   "note": "'our east coast'."
+  },
+  {
+   "n": 1456,
+   "kind": "place",
+   "ids": [],
+   "place": "North Atlantic Ocean, 42°N 54°W (south of Newfoundland)",
+   "note": "Ship at sea."
+  },
+  {
+   "n": 1465,
+   "kind": "place",
+   "ids": [],
+   "place": "North Mull, Argyll",
+   "note": null
+  },
+  {
+   "n": 1472,
+   "kind": "place",
+   "ids": [],
+   "place": "Moray coast (sandy stretch), Moray",
+   "note": null
+  },
+  {
+   "n": 1475,
+   "kind": "place",
+   "ids": [],
+   "place": "South coast of England",
+   "note": null
+  },
+  {
+   "n": 1499,
+   "kind": "place",
+   "ids": [],
+   "place": "Outer Hebrides (the Long Island)",
+   "note": null
+  },
+  {
+   "n": 1505,
+   "kind": "place",
+   "ids": [],
+   "place": "Sound of Barra, Outer Hebrides",
+   "note": null
+  },
+  {
+   "n": 1511,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "A ship (barque 'East') at sea; position not given in the name."
+  },
+  {
+   "n": 1527,
+   "kind": "place",
+   "ids": [],
+   "place": "West coast of Lewis, Outer Hebrides",
+   "note": null
+  }
+ ],
+ "notes": "Station numbers come from the lists printed in the reports, not stations.json. 1883: sources/ia/1883_reportonmigratio51883harv_djvu.txt line ~3776 (81 Cape Wrath, 82 Rhu Stoir, 83 Butt, 84 Stornoway, 85 Island Glass, 86 Monach, 87 Ushenish, 88 Barra Head, 89 Rona, 90 Kyleakin, 91 Ornsay, 92 Ardnamurchan, 93 Hynish, 94 Skerryvore, 95 Dhuheartach, 96 Sound of Mull, 97 Corran, 98 Lismore, 99 Fladda, 100 Rhuvaal, 101 M'Arthur's, 102 Skervuile, 103 Rhinns, 104 Lochindaul, 105 Kintyre, [106 missing], 107 Devaar, 108 Pladda, 109 Lamlash, 110 Turnberry, 111 Corsewall, 112 Loch Ryan, 113 Portpatrick, 114 Mull of Galloway, 115 Little Ross). 1885: sources/gutenberg/1885_pg65840.txt line ~182 (93 Skerryvore+Hynish, 94 Dhuheartach … 101 Skervuile, 102 Rhinns, 105 Sanda, 108 Lamlash, 109 Turnberry, 109b Ailsa, 110 Corsewall … 114 Little Ross). CHECK: (1) Items 98, 101, 102, 109 (n=43, 0, 1, 4) mean different stations by year and must be split per observation year; I returned both ids as 'stations' only as a carrier. (2) 1883 Gannet heading says 'Butt of Lewis (82), Rhu Stoir (83)', contradicting the list and the Geese/Eider paragraphs; Gannet entries 82/83 may be swapped. (3) 1883 '82, 95, 108' Eider line: 108 is probably OCR for 103 (Rhinns of Islay, per the text), not Pladda. (4) 1885 text says '88 (Fladda)' once (line ~4321); list has 88 Barra Head, 98 Fladda, so check which was meant. (5) Shore stations Erraid (Dhuheartach) and Tiree/Hynish: decide whether to fold into the light; I mapped 'Land Station, Tyree' to hynish-signal-tower but left 'Tyree' (1879) and 'Erraid' as places. (6) Uncertain identifications: Castletown, Douglas (1881), Horsley, Glenbervie, Kincardine, Priory Farm, Rosely Castle, Kyleakin Ferry, Start Point (1885), Port Patrick (1880, Capt. Fayrer). (7) Positions at sea are given as places in the North Atlantic; switch to 'none' if you prefer. (8) Isle of Man items 651/652 are from 1884, when the IoM stations were discussed under West Scotland.",
+ "_meta": {
+  "run": 2,
+  "coast": "WEST COAST OF SCOTLAND",
+  "gen": 0,
+  "cost_usd": 2.364916,
+  "n_items": 153
+ }
+}

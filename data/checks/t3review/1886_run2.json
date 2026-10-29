@@ -1,0 +1,412 @@
+{
+ "flags": [
+  {
+   "id": "1:time",
+   "kind": "judgement",
+   "right_value": "SOCAN day.",
+   "why": "OCR has 'SOCAN day.' where the print has 'All day,'. Leaving it null for an unreadable garble is defensible; copying the garble also fits the rules."
+  },
+  {
+   "id": "3:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Dee u.v.'; 'u.v.' is the usual garble of L.V."
+  },
+  {
+   "id": "8:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Bahama Bank u.vy.'"
+  },
+  {
+   "id": "8:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "The same Larks are 'flying round the heht at 10 p.m.', so the killed Larks are connected to the light."
+  },
+  {
+   "id": "9:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Lddystone L.H.'"
+  },
+  {
+   "id": "9:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR bracket reads '(S. by W., 2; 0. M. R.)', with 0 for o and capitals."
+  },
+  {
+   "id": "12:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Langness U.H.'"
+  },
+  {
+   "id": "14:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Inmishtrahull'"
+  },
+  {
+   "id": "18:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads '10 to 11 a..'"
+  },
+  {
+   "id": "19:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The 'OCTOBER 25TH' heading is not in the chunk or the context, so date is null and date_iso must be null too. The checker used the page."
+  },
+  {
+   "id": "19:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "This is the presence observation ('...Warblers from 6 P.M. to 5 A.M. (26th)'), as in Example 1. Striking belongs to a separate observation."
+  },
+  {
+   "id": "19:at_light",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The quote doesn't mention the light, but 'All the birds struck the windward side of lantern' does connect these birds to it."
+  },
+  {
+   "id": "20:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Carnarvon Bay u.vV.'"
+  },
+  {
+   "id": "22:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Kullybegs'"
+  },
+  {
+   "id": "22:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'wind strong $8.W.'"
+  },
+  {
+   "id": "26:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading in the context reads 'Woopcock (Scolopax rusticula'"
+  },
+  {
+   "id": "33:weather",
+   "kind": "judgement",
+   "right_value": "on the approach of snow",
+   "why": "'on the approach of snow' is a cause rather than a plain weather report. Either reading is allowed."
+  },
+  {
+   "id": "34:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Hddystone u.H.'"
+  },
+  {
+   "id": "34:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Presence observation. 'fifty to sixty striking' is already its own struck observation (item 89)."
+  },
+  {
+   "id": "35:time",
+   "kind": "judgement",
+   "right_value": "About 7 p.m. they commenced, and increased until 10",
+   "why": "The quoted letter gives times for the whole rush; whether they reach each bird in the list is open."
+  },
+  {
+   "id": "35:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'wind §.E. to E.'"
+  },
+  {
+   "id": "36:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Farn L4#.'"
+  },
+  {
+   "id": "37:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Nash (#.) t.u1.'"
+  },
+  {
+   "id": "38:direction",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'large flocks going 8.'"
+  },
+  {
+   "id": "44:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Rockabull'"
+  },
+  {
+   "id": "45:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Hddystone L.u.'"
+  },
+  {
+   "id": "46:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The OCR breaks the table into separate columns, and no station sits next to 'Killed striking, Oct. 21.' The checker aligned the rows from the printed page."
+  },
+  {
+   "id": "46:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "'Skylark' appears nowhere in the chunk or the context, so null is right."
+  },
+  {
+   "id": "51:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Kish LInght-ship'"
+  },
+  {
+   "id": "52:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Longstone L.u.'"
+  },
+  {
+   "id": "52:wind",
+   "kind": "extraction",
+   "right_value": "N.E.",
+   "why": "The entry gives a wind: '12 to 1 A.M., wind shifted to N.E., and birds left'."
+  },
+  {
+   "id": "54:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "'flying round all the evening' is a valid observation in its own right. 'striking top of lantern' belongs to a separate struck observation."
+  },
+  {
+   "id": "54:time",
+   "kind": "judgement",
+   "right_value": "12 P.m.",
+   "why": "'31st, 12 P.m., ... flying round all the evening' gives two times; which one belongs to the flying-round is open."
+  },
+  {
+   "id": "55:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The OCR separates the table's station column from its rows, so pairing a row with 'Mine Head' needs the printed layout."
+  },
+  {
+   "id": "58:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The table columns are separated in the OCR, and no station is printed next to 'Struck, Dec. 25.'"
+  },
+  {
+   "id": "58:species",
+   "kind": "judgement",
+   "right_value": "Thrush",
+   "why": "The row follows 'Thrush,' in the OCR, but so do the Redwing rows (Oct. 26, 28). Leaving species null is defensible."
+  },
+  {
+   "id": "60:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "There is no date heading in the chunk or the context, so null is right. '(26th)' is the end of the time range, not the date."
+  },
+  {
+   "id": "61:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Arklow South Lrght-ship'"
+  },
+  {
+   "id": "62:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The OCR separates the table's columns; the station for this row can't be paired from the text."
+  },
+  {
+   "id": "63:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Nash (£.) L.u#.'"
+  },
+  {
+   "id": "63:direction",
+   "kind": "extraction",
+   "right_value": "flew N.E.",
+   "why": "A verb of motion plus a compass point: 'then left and flew N.E.'"
+  },
+  {
+   "id": "65:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Eddystone L.4.'"
+  },
+  {
+   "id": "71:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Longstone L.u.'"
+  },
+  {
+   "id": "73:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Nash u.u.'"
+  },
+  {
+   "id": "75:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The 'OCTOBER 25TH' heading is not in the chunk or the context, so date and date_iso must be null."
+  },
+  {
+   "id": "76:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Barrels Rock ILight-ship'"
+  },
+  {
+   "id": "77:at_light",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "'Some killed striking' doesn't say what they struck (the birds were 'about ship'). It conventionally means the lantern, but both readings are allowed."
+  },
+  {
+   "id": "79:species",
+   "kind": "extraction",
+   "right_value": "Thrushes",
+   "why": "'A few Thrushes, Blackbirds, and Larks flying about the lights...; six killed': the killed clause shares these birds. It should be three observations with count 'six' and count_shared true."
+  },
+  {
+   "id": "80:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Hddystone L.H.'"
+  },
+  {
+   "id": "80:date_iso",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The 'OCTOBER 26TH' heading is not in the chunk or the context, so date is null and date_iso must be null too."
+  },
+  {
+   "id": "81:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Eddystone t.H'"
+  },
+  {
+   "id": "81:date_iso",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading reads 'APRIL OTH' and its day is garbled beyond reading, so a month-only date is the faithful reading."
+  },
+  {
+   "id": "81:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads '(8.W. by W., 5; 0. p.m)'"
+  },
+  {
+   "id": "81:weather",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads '0. p.m' for the printed 'o. d. m.'"
+  },
+  {
+   "id": "82:species",
+   "kind": "judgement",
+   "right_value": "Larks",
+   "why": "The 'SKYLARK' heading is outside the chunk and the context. 'Larks' in the preceding sentence ('Thrushes and Larks about lantern') is a fair source."
+  },
+  {
+   "id": "83:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'River Dee u.v.'"
+  },
+  {
+   "id": "84:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Bahama Bank u.vy.'"
+  },
+  {
+   "id": "85:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Chickens Rock u.H.'"
+  },
+  {
+   "id": "86:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Bishop Kock u.4.'"
+  },
+  {
+   "id": "89:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Hddystone u.H.'"
+  },
+  {
+   "id": "90:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Bishop Kock u.4.'"
+  },
+  {
+   "id": "94:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads '9 P.M. to 4 AmM.'"
+  },
+  {
+   "id": "95:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'Nash u.u.'"
+  },
+  {
+   "id": "97:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading reads 'PrED FLYCATCHER'"
+  },
+  {
+   "id": "97:time",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'at 4 4.M.'"
+  },
+  {
+   "id": "97:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads 'wind 8.E.'"
+  },
+  {
+   "id": "99:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "OCR reads '(S.E. by 8.,1; B.c. M.)'"
+  }
+ ],
+ "_meta": {
+  "year": 1886,
+  "run": 2,
+  "cost_usd": 1.0723212,
+  "n_flags": 67
+ }
+}

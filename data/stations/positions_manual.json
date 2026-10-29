@@ -1,0 +1,88 @@
+{
+ "_about": "Positions decided by hand, each with its reason (28 Oct 2026). Everything else follows tools/positions.py: Wikidata where both helpers picked the same item; else Findlay 1887, else 1879.",
+ "spurn-point": {
+  "source": "findlay1887",
+  "note": "The 1880s pair (high light of 1776, low light of 1851, 474 ft apart; Findlay) has no Wikidata item for the high light, demolished in 1895; one helper picked the surviving low light, the other none."
+ },
+ "copeland": {
+  "periods": [
+   [
+    1879,
+    1883,
+    "Q126714836",
+    "The light on Lighthouse Island (Findlay 1879 'COPELAND', 1796), 0.14 km from Findlay's position."
+   ],
+   [
+    1884,
+    1887,
+    "Q28465961",
+    "Mew Island lighthouse, first lit 1884 (Findlay 1887 'MEW ISLAND', 1884), replacing it."
+   ]
+  ]
+ },
+ "dursey-island": {
+  "source": "findlay1887",
+  "approximate": true,
+  "note": "The temporary light on Dursey Island after Calf Rock lighthouse was destroyed in the gale of 26 Nov 1881 (Findlay 1887, under CALF ROCK); placed at Calf Rock's position, about 3 km off."
+ },
+ "_extra": "Entries with \"wikidata_extra\" take their coordinates from sources/lights/wikidata_extra_2026-10-28.json (the QID named).",
+ "south-gare": {
+  "wikidata_extra": "Q15278683",
+  "approximate": false,
+  "note": "South Gare Lighthouse (lit 1884; Findlay 1887 gives no position); not in the lighthouse extract, found by name."
+ },
+ "heligoland": {
+  "wikidata_extra": "Q3129772",
+  "approximate": true,
+  "note": "Gätke's station: the island of Heligoland."
+ },
+ "stevns": {
+  "wikidata_extra": "Q10679581",
+  "approximate": false,
+  "note": "Stevns Lighthouse, Denmark (\"Stevns Fyr, Zealand\" in the master lists)."
+ },
+ "fair-isle": {
+  "wikidata_extra": "Q762752",
+  "approximate": true,
+  "note": "An observer on the island (no light until 1892): the island."
+ },
+ "north-stack": {
+  "wikidata_extra": "Q7056816",
+  "approximate": true,
+  "note": "The fog-signal station at North Stack, Holyhead: the islet of that name."
+ },
+ "hynish-signal-tower": {
+  "wikidata_extra": "Q1640745",
+  "approximate": false,
+  "note": "Hynish Harbour, Tiree: Skerryvore's shore station and signal tower."
+ },
+ "teesmouth-1880": {
+  "wikidata_extra": "Q24637888",
+  "approximate": true,
+  "note": "A second 1880 Teesmouth row with no type: the river mouth."
+ },
+ "northrepps": {
+  "wikidata_extra": "Q2191348",
+  "approximate": true,
+  "note": "A village near Cromer (1880 only): the village."
+ },
+ "allonby": {
+  "wikidata_extra": "Q2849195",
+  "approximate": true,
+  "note": "A village on the Solway (1881 only, C. Donald Thompson's): the village."
+ },
+ "lundy-fog-signal": {
+  "wikidata_extra": "Q324812",
+  "approximate": true,
+  "note": "The fog-gun station on Lundy: the island."
+ },
+ "faroe": {
+  "wikidata_extra": "Q4628",
+  "approximate": true,
+  "note": "An observer in the Faroes, place not given: the islands (very approximate)."
+ },
+ "tees-lv": {
+  "source": "findlay1887",
+  "note": "The reports' 'Tees, 5 Buoy' light-vessel is Findlay's Tees entry (lights on the fourth and fifth buoys); one position for both editions (Findlay 1879 prints none)."
+ }
+}

@@ -1,0 +1,8210 @@
+[
+ {
+  "id": "berwick",
+  "name": "Berwick",
+  "kind": "lighthouse",
+  "note": "Only in 1879, first on the list before Longstone; probably the Berwick pier light.",
+  "edits": [],
+  "members": [
+   2
+  ],
+  "printed": [
+   "Berwick."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "longstone",
+  "name": "Longstone",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   61,
+   62,
+   451
+  ],
+  "printed": [
+   "Longstone L.H.",
+   "Longstone,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "30@1885",
+   "30@1887",
+   "40@1880"
+  ]
+ },
+ {
+  "id": "inner-farne",
+  "name": "Inner Farne",
+  "kind": "lighthouse",
+  "note": "'Farn Islands' (1879) sits in the Inner Farne slot between Longstone and Coquet Island, so it is taken to be Inner Farne.",
+  "edits": [],
+  "members": [
+   22,
+   23,
+   24,
+   49,
+   50,
+   441
+  ],
+  "printed": [
+   "Farn Islands",
+   "Farn, Inner, L.H.",
+   "Farne Inner",
+   "Inner Farn L.H.",
+   "Inner Farne L.H."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "31@1885",
+   "31@1887",
+   "41@1880"
+  ]
+ },
+ {
+  "id": "coquet",
+  "name": "Coquet",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   8,
+   9,
+   411
+  ],
+  "printed": [
+   "Coquet Island L.H.",
+   "Coquet Island,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "32@1885",
+   "32@1887",
+   "42@1880"
+  ]
+ },
+ {
+  "id": "souter",
+  "name": "Souter Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   84
+  ],
+  "printed": [
+   "Souter Point."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879",
+   "1880"
+  ],
+  "numbers": [
+   "43@1880"
+  ]
+ },
+ {
+  "id": "tees-lv",
+  "name": "Tees No. 5 Buoy L.V.",
+  "kind": "light-vessel",
+  "note": "'Teesmouth' (Lightvessel, No. 5 Buoy), 'No. 5 Buoy, Teesmouth', 'Tees' L.V. and '5 Buoy Tees' are all one vessel. In 1883 and 1884 it is printed ahead of Coquet Island.",
+  "edits": [],
+  "members": [
+   0,
+   69,
+   100,
+   102,
+   103,
+   486
+  ],
+  "printed": [
+   "5 Buoy Tees L.V.",
+   "No. 5 Buoy, Teesmouth L.V.",
+   "Tees L.V.",
+   "Tees, 5 Buoy L.V.",
+   "Teesmouth, Lightvessel;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "33@1885",
+   "33@1887",
+   "44_a_@1880"
+  ]
+ },
+ {
+  "id": "teesmouth-1880",
+  "name": "Teesmouth (second 1880 entry)",
+  "kind": "other",
+  "note": "1880 only, no. 44b, printed right after the Teesmouth light-vessel (44a). It has no type and it is not the vessel. It may be a shore light at the Tees mouth. It cannot be South Gare, which was not lit until 1884. Kind unknown.",
+  "edits": [],
+  "members": [
+   104
+  ],
+  "printed": [
+   "Teesmouth"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1880"
+  ],
+  "numbers": [
+   "44_b_@1880"
+  ]
+ },
+ {
+  "id": "south-gare",
+  "name": "South Gare (Tees Breakwater)",
+  "kind": "lighthouse",
+  "note": "'Tees Breakwater' L.H., 1885-86.",
+  "edits": [],
+  "members": [
+   101
+  ],
+  "printed": [
+   "Tees Breakwater L.H."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1885",
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "whitby-high",
+  "name": "Whitby High",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   108,
+   109,
+   110,
+   492
+  ],
+  "printed": [
+   "Whitby High L.H.",
+   "Whitby, High Light;",
+   "Whitby, High, L.H."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "34@1885",
+   "34@1887",
+   "45@1880"
+  ]
+ },
+ {
+  "id": "flamborough-head",
+  "name": "Flamborough Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   25,
+   26,
+   27,
+   425
+  ],
+  "printed": [
+   "Flamborough Head L.H.",
+   "Flamborough Head;",
+   "Flamborough L.H."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "35@1885",
+   "35@1887",
+   "46@1880"
+  ]
+ },
+ {
+  "id": "spurn-point",
+  "name": "Spurn Point",
+  "kind": "lighthouse",
+  "note": "'Spurn' printed as L.H. (1882-87) is the lighthouse; it is printed just before the Spurn L.V.",
+  "edits": [],
+  "members": [
+   91,
+   95,
+   96,
+   477
+  ],
+  "printed": [
+   "Spurn L.H.",
+   "Spurn Point L.H.",
+   "Spurn Point."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "36@1885",
+   "36@1887",
+   "47@1880"
+  ]
+ },
+ {
+  "id": "spurn-lv",
+  "name": "Spurn (Newsand) L.V.",
+  "kind": "light-vessel",
+  "note": "'Spurn' Lightvessel, 6 miles S.S.E. of Spurn Point, is the same vessel as 'Spurn (Newsand)'.",
+  "edits": [],
+  "members": [
+   90,
+   92,
+   93,
+   94,
+   478
+  ],
+  "printed": [
+   "Spurn (Newsand) L.V.",
+   "Spurn (Newsand) Lightvessel",
+   "Spurn L.V.",
+   "Spurn, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "37@1885",
+   "37@1887",
+   "48_a_@1880"
+  ]
+ },
+ {
+  "id": "bull-lv",
+  "name": "Bull L.V.",
+  "kind": "light-vessel",
+  "note": "1879 only, mouth of Humber.",
+  "edits": [],
+  "members": [
+   3
+  ],
+  "printed": [
+   "Bull, Lightvessel,"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "great-cotes",
+  "name": "Great Cotes",
+  "kind": "other",
+  "note": "1880 only, no. 48b, with no type. It takes the Bull L.V.'s 1879 place between the Spurn vessel and Outer Dowsing. It might be the Bull vessel under a shore address (Great Coates is near Grimsby), or it might be a Humber shore light. Kept separate; please check.",
+  "edits": [],
+  "members": [
+   32
+  ],
+  "printed": [
+   "Great Cotes"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1880"
+  ],
+  "numbers": [
+   "48_b_@1880"
+  ]
+ },
+ {
+  "id": "outer-dowsing-lv",
+  "name": "Outer Dowsing L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   78,
+   79,
+   464
+  ],
+  "printed": [
+   "Outer Dowsing L.V.",
+   "Outer Dowsing, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "40@1885",
+   "40@1887",
+   "49@1880"
+  ]
+ },
+ {
+  "id": "inner-dowsing-lv",
+  "name": "Inner Dowsing L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   47,
+   48,
+   440
+  ],
+  "printed": [
+   "Inner Dowsing L.V.",
+   "Inner Dowsing, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "38@1885",
+   "38@1887",
+   "50@1880"
+  ]
+ },
+ {
+  "id": "dudgeon-lv",
+  "name": "Dudgeon L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   15,
+   16,
+   416
+  ],
+  "printed": [
+   "Dudgeon L.V.",
+   "Dudgeon, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "39@1885",
+   "39@1887",
+   "51@1880"
+  ]
+ },
+ {
+  "id": "lynn-well-lv",
+  "name": "Lynn Well L.V.",
+  "kind": "light-vessel",
+  "note": "'Llyn Wells' (1882-87) is a misspelling of Lynn Well.",
+  "edits": [],
+  "members": [
+   60,
+   64,
+   65,
+   450
+  ],
+  "printed": [
+   "Llyn Wells L.V.",
+   "Lynn Well L.V.",
+   "Lynn Well Lightvessel"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "41@1885",
+   "41@1887",
+   "52@1880"
+  ]
+ },
+ {
+  "id": "hunstanton",
+  "name": "Hunstanton",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   45,
+   46,
+   438
+  ],
+  "printed": [
+   "Hunstanton L.H.",
+   "Hunstanton, Lighthouse,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "44@1885",
+   "44@1887",
+   "53@1880"
+  ]
+ },
+ {
+  "id": "cromer",
+  "name": "Cromer",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   13,
+   14,
+   415
+  ],
+  "printed": [
+   "Cromer L.H.",
+   "Cromer, Lighthouse;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "45@1885",
+   "45@1887",
+   "54@1880"
+  ]
+ },
+ {
+  "id": "northrepps",
+  "name": "Northrepps",
+  "kind": "other",
+  "note": "1880 only, no. 55a, printed between Cromer and Leman and Ower (55b), with no type. It is not Cromer, which is a separate row (54) in the same list. Kind and identity unknown.",
+  "edits": [],
+  "members": [
+   75
+  ],
+  "printed": [
+   "Northrepps"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1880"
+  ],
+  "numbers": [
+   "55_a_@1880"
+  ]
+ },
+ {
+  "id": "leman-and-ower-lv",
+  "name": "Leman and Ower L.V.",
+  "kind": "light-vessel",
+  "note": "Printed 'L.H.' in 1887, which is a slip: it is still between Winterton and Newarp.",
+  "edits": [],
+  "members": [
+   56,
+   57,
+   58,
+   59,
+   449
+  ],
+  "printed": [
+   "Leman & Ower L.V.",
+   "Leman and Ower L.H.",
+   "Leman and Ower L.V.",
+   "Leman and Ower, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "43@1885",
+   "43@1887",
+   "55_b_@1880"
+  ]
+ },
+ {
+  "id": "happisburgh",
+  "name": "Happisburgh",
+  "kind": "lighthouse",
+  "note": "Hasborough, Hasbrough or Hasbro' printed as L.H. or Lighthouse. Kept apart from the light-vessel by the printed type.",
+  "edits": [],
+  "members": [
+   38,
+   41,
+   43,
+   432
+  ],
+  "printed": [
+   "Hasborough, Lighthouse;",
+   "Hasbro' L.H.",
+   "Hasbrough L.H."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "46@1885",
+   "46@1887",
+   "57@1880"
+  ]
+ },
+ {
+  "id": "happisburgh-lv",
+  "name": "Happisburgh L.V.",
+  "kind": "light-vessel",
+  "note": "Hasborough, Hasbrough or Hasbro' printed as L.V. or Lightvessel ('north end Hasborough Sound').",
+  "edits": [],
+  "members": [
+   39,
+   40,
+   42,
+   433
+  ],
+  "printed": [
+   "Hasborough Lightvessel",
+   "Hasbro' L.V.",
+   "Hasbrough L.V."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "42@1885",
+   "42@1887",
+   "56@1880"
+  ]
+ },
+ {
+  "id": "winterton",
+  "name": "Winterton",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   111,
+   112,
+   493
+  ],
+  "printed": [
+   "Winterton L.H.",
+   "Winterton, Lighthouse;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "47@1885",
+   "47@1887",
+   "59@1880"
+  ]
+ },
+ {
+  "id": "newarp-lv",
+  "name": "Newarp L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   67,
+   68,
+   457
+  ],
+  "printed": [
+   "Newarp L.V.",
+   "Newarp, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "48@1885",
+   "48@1887",
+   "58@1880"
+  ]
+ },
+ {
+  "id": "cockle-lv",
+  "name": "Cockle L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   6,
+   7,
+   408
+  ],
+  "printed": [
+   "Cockle L.V.",
+   "Cockle, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "49@1885",
+   "49@1887",
+   "60@1880"
+  ]
+ },
+ {
+  "id": "corton-lv",
+  "name": "Corton L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   11,
+   12,
+   412
+  ],
+  "printed": [
+   "Corton L.V.",
+   "Corton, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "50@1885",
+   "50@1887",
+   "61@1880"
+  ]
+ },
+ {
+  "id": "lowestoft",
+  "name": "Lowestoft",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   63
+  ],
+  "printed": [
+   "Lowestoft, Lighthouse;"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879",
+   "1880"
+  ],
+  "numbers": [
+   "62@1880"
+  ]
+ },
+ {
+  "id": "orfordness",
+  "name": "Orfordness",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   76,
+   77,
+   463
+  ],
+  "printed": [
+   "Orfordness L.H.",
+   "Orfordness, Lighthouse;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "51@1885",
+   "51@1887",
+   "63@1880"
+  ]
+ },
+ {
+  "id": "shipwash-lv",
+  "name": "Shipwash L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   82,
+   83,
+   471
+  ],
+  "printed": [
+   "Shipwash L.V.",
+   "Shipwash, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "53@1885",
+   "53@1887",
+   "64@1880"
+  ]
+ },
+ {
+  "id": "landguard-point",
+  "name": "Landguard Point",
+  "kind": "lighthouse",
+  "note": "Printed 'Languard'.",
+  "edits": [],
+  "members": [
+   54,
+   55,
+   448
+  ],
+  "printed": [
+   "Languard Point L.H.",
+   "Languard Point, Lighthouse,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "52@1885",
+   "52@1887",
+   "66@1880"
+  ]
+ },
+ {
+  "id": "cork-lv",
+  "name": "Cork L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   10
+  ],
+  "printed": [
+   "Cork, Lightvessel,"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879",
+   "1880"
+  ],
+  "numbers": [
+   "65@1880"
+  ]
+ },
+ {
+  "id": "galloper-lv",
+  "name": "Galloper L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   28,
+   29,
+   427
+  ],
+  "printed": [
+   "Galloper L.V.",
+   "Galloper, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "58@1885",
+   "58@1887",
+   "67@1880"
+  ]
+ },
+ {
+  "id": "kentish-knock-lv",
+  "name": "Kentish Knock L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   51,
+   52,
+   53,
+   444
+  ],
+  "printed": [
+   "Kentish Knock",
+   "Kentish Knock L.V.",
+   "Kentish Knock, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "57@1885",
+   "57@1887",
+   "68@1880"
+  ]
+ },
+ {
+  "id": "swin-middle-lv",
+  "name": "Swin Middle L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   98,
+   99,
+   483
+  ],
+  "printed": [
+   "Swin Middle L.V.",
+   "Swin Middle Lightvessel"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "54@1885",
+   "54@1887",
+   "69@1880"
+  ]
+ },
+ {
+  "id": "tongue-lv",
+  "name": "Tongue L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   105,
+   106,
+   487
+  ],
+  "printed": [
+   "Tongue L.V.",
+   "Tongue Lightvessel"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "56@1885",
+   "56@1887",
+   "70@1880"
+  ]
+ },
+ {
+  "id": "nore-lv",
+  "name": "Nore L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   70,
+   71,
+   458
+  ],
+  "printed": [
+   "Nore L.V.",
+   "Nore, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "55@1885",
+   "55@1887",
+   "71@1880"
+  ]
+ },
+ {
+  "id": "north-foreland",
+  "name": "North Foreland",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   72,
+   73,
+   459
+  ],
+  "printed": [
+   "North Foreland L.H.",
+   "North Foreland, Lighthouse;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "59@1885",
+   "59@1887",
+   "72@1880"
+  ]
+ },
+ {
+  "id": "north-sand-head-lv",
+  "name": "North Sand Head (Goodwin) L.V.",
+  "kind": "light-vessel",
+  "note": "'Goodwin' L.V. and 'North Sand Head' L.V. never appear in the same list. Both come between North Foreland and the Gull, and in the 1885 and 1887 master lists North Sand Head has no. 60, Goodwin's place. So they are taken to be one vessel, the North Sand Head of the Goodwins. Please check.",
+  "edits": [],
+  "members": [
+   30,
+   31,
+   74,
+   429
+  ],
+  "printed": [
+   "Goodwin L.V.",
+   "Goodwin, Lightvessel,",
+   "North Sand Head L.V."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "60@1885",
+   "60@1887",
+   "73@1880"
+  ]
+ },
+ {
+  "id": "gull-lv",
+  "name": "Gull (Gull Stream) L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   33,
+   34,
+   35,
+   430
+  ],
+  "printed": [
+   "Gull L.V.",
+   "Gull Lightvessel",
+   "Gull-stream, Lightvessel,"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "61@1885",
+   "61@1887",
+   "74@1880"
+  ]
+ },
+ {
+  "id": "south-sand-head-lv",
+  "name": "South Sand Head L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   87,
+   88,
+   89,
+   476
+  ],
+  "printed": [
+   "South Sand Head L.V.",
+   "South-sand Head, Lightvessel,",
+   "Southsand Head L.V."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "64@1885",
+   "64@1887",
+   "75@1880"
+  ]
+ },
+ {
+  "id": "east-goodwin-lv",
+  "name": "East Goodwin (East Side) L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   19,
+   20,
+   21,
+   423
+  ],
+  "printed": [
+   "East Side L.V.",
+   "East-side, Lightvessel,",
+   "Eastside L.V."
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "62@1885",
+   "62@1887",
+   "76@1880"
+  ]
+ },
+ {
+  "id": "south-foreland",
+  "name": "South Foreland",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   85,
+   86,
+   475
+  ],
+  "printed": [
+   "South Foreland L.H.",
+   "South Foreland, Lighthouse;"
+  ],
+  "regions": [
+   "england_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "63@1885",
+   "63@1887",
+   "77@1880"
+  ]
+ },
+ {
+  "id": "varne-lv",
+  "name": "Varne L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   107
+  ],
+  "printed": [
+   "Varne L.V."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "65@1885",
+   "65@1887"
+  ]
+ },
+ {
+  "id": "dungeness",
+  "name": "Dungeness",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   17,
+   18
+  ],
+  "printed": [
+   "Dungeness L.H.",
+   "Dungeness Point;"
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1879",
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "royal-sovereign-lv",
+  "name": "Royal Sovereign L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   81
+  ],
+  "printed": [
+   "Royal Sovereign Shoals L.V."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "beachy-head",
+  "name": "Beachy Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   1
+  ],
+  "printed": [
+   "Beachy Head L.H."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "owers-lv",
+  "name": "Owers L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   80
+  ],
+  "printed": [
+   "Owers L.V."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "st-catherines",
+  "name": "St Catherine's",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   97
+  ],
+  "printed": [
+   "St Katherine's L.H."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "nab-lv",
+  "name": "Nab L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   66
+  ],
+  "printed": [
+   "Nab L.V."
+  ],
+  "regions": [
+   "england_east"
+  ],
+  "seen": [
+   "1886"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "casquets",
+  "name": "Casquets",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   4,
+   5,
+   277,
+   405
+  ],
+  "printed": [
+   "Casquets L.H.",
+   "Casquets Lighthouse"
+  ],
+  "regions": [
+   "england_east",
+   "outlying",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "79@1880"
+  ]
+ },
+ {
+  "id": "hanois",
+  "name": "Hanois",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   36,
+   37,
+   281,
+   431
+  ],
+  "printed": [
+   "Hanois L.H.",
+   "Hanois Lighthouse"
+  ],
+  "regions": [
+   "england_east",
+   "outlying",
+   "unknown"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "80@1880"
+  ]
+ },
+ {
+  "id": "heligoland",
+  "name": "Heligoland",
+  "kind": "other",
+  "note": "Printed in the 1880 English east list and in the outlying section of the master lists.",
+  "edits": [
+   "Gätke's island station: the observer was not a light-keeper."
+  ],
+  "members": [
+   44,
+   282
+  ],
+  "printed": [
+   "Heligoland"
+  ],
+  "regions": [
+   "england_east",
+   "outlying"
+  ],
+  "seen": [
+   "1880",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "78@1880"
+  ]
+ },
+ {
+  "id": "allonby",
+  "name": "Allonby",
+  "kind": "other",
+  "note": "1881 only, no. 121, first on the west coast list, printed as L.H. There is no well-known Allonby lighthouse, so it may be a nearby Solway light under a village name. Please check.",
+  "edits": [
+   "Printed 'Allonby, L.H.' once (1881, no. 121) with C. Donald Thompson, who in 1887 is a private observer at Seaton-Carew; checked against Findlay below."
+  ],
+  "members": [
+   114
+  ],
+  "printed": [
+   "Allonby L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1881"
+  ],
+  "numbers": [
+   "121@1881"
+  ]
+ },
+ {
+  "id": "st-bees",
+  "name": "St Bees",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   179,
+   181
+  ],
+  "printed": [
+   "St Bees L.H.",
+   "St. Bees: L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "110@1880",
+   "120@1884",
+   "120@1885",
+   "120@1886",
+   "120@1887",
+   "122@1881"
+  ]
+ },
+ {
+  "id": "selker-lv",
+  "name": "Selker L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   171
+  ],
+  "printed": [
+   "Selker L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "121@1884",
+   "121@1885",
+   "121@1886",
+   "121@1887"
+  ]
+ },
+ {
+  "id": "morecambe-bay-lv",
+  "name": "Morecambe Bay L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   156
+  ],
+  "printed": [
+   "Morecambe Bay, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "111@1880",
+   "122@1884",
+   "122@1885",
+   "122@1886",
+   "122@1887",
+   "123@1881"
+  ]
+ },
+ {
+  "id": "dee-lv",
+  "name": "Dee L.V.",
+  "kind": "light-vessel",
+  "note": "'River Dee' in 1886-87.",
+  "edits": [],
+  "members": [
+   132,
+   168
+  ],
+  "printed": [
+   "Dee L.V.",
+   "River Dee L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "123@1884",
+   "123@1885",
+   "123@1886",
+   "123@1887"
+  ]
+ },
+ {
+  "id": "point-of-ayr-wales",
+  "name": "Point of Ayr (Flintshire)",
+  "kind": "lighthouse",
+  "note": "Printed 'Air'. This is the Dee estuary light, not Point of Ayre in the Isle of Man.",
+  "edits": [],
+  "members": [
+   113
+  ],
+  "printed": [
+   "Air, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "112@1880",
+   "124@1881",
+   "124@1884",
+   "124@1885",
+   "124@1886",
+   "124@1887"
+  ]
+ },
+ {
+  "id": "trwyn-du",
+  "name": "Trwyn Du (Menai / Penmon)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   151
+  ],
+  "printed": [
+   "Menai, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "113@1880",
+   "125@1881",
+   "125@1884",
+   "125@1885",
+   "125@1886",
+   "125@1887"
+  ]
+ },
+ {
+  "id": "skerries",
+  "name": "Skerries",
+  "kind": "lighthouse",
+  "note": "'Skerries Rock' in 1886-87.",
+  "edits": [],
+  "members": [
+   174,
+   175
+  ],
+  "printed": [
+   "Skerries Rock L.H.",
+   "Skerries, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "114@1880",
+   "126@1881",
+   "126@1884",
+   "126@1885",
+   "126@1886",
+   "126@1887"
+  ]
+ },
+ {
+  "id": "holyhead-breakwater",
+  "name": "Holyhead Breakwater",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   142
+  ],
+  "printed": [
+   "Holyhead Breakwater, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "115@1880",
+   "127@1881",
+   "127@1884",
+   "127@1885",
+   "127@1886",
+   "127@1887"
+  ]
+ },
+ {
+  "id": "north-stack",
+  "name": "North Stack",
+  "kind": "other",
+  "note": "Printed as L.H. in 1880 and as 'Fog Horn Station' in 1881. North Stack was a fog signal station.",
+  "edits": [],
+  "members": [
+   164,
+   165
+  ],
+  "printed": [
+   "North Stack Fog Horn Station",
+   "North Stack, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881"
+  ],
+  "numbers": [
+   "116@1880",
+   "128@1881"
+  ]
+ },
+ {
+  "id": "south-stack",
+  "name": "South Stack",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   178
+  ],
+  "printed": [
+   "South Stack, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "117@1880",
+   "128@1884",
+   "128@1885",
+   "128@1886",
+   "128@1887",
+   "129@1881"
+  ]
+ },
+ {
+  "id": "caernarfon-bay-lv",
+  "name": "Caernarfon Bay L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   128,
+   131
+  ],
+  "printed": [
+   "Caernarvon Bay, L.V.",
+   "Carnarvon Bay L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "119@1880",
+   "129@1884",
+   "129@1885",
+   "129@1886",
+   "129@1887",
+   "130@1881"
+  ]
+ },
+ {
+  "id": "st-tudwals",
+  "name": "St Tudwal's",
+  "kind": "lighthouse",
+  "note": "'St. Judwall' (1880, no. 118, between South Stack and Caernarvon Bay) is a misprint.",
+  "edits": [],
+  "members": [
+   180,
+   182,
+   183
+  ],
+  "printed": [
+   "St Tudwal's L.H.",
+   "St. Judwall, L.H.",
+   "St. Tudwal's L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "118@1880",
+   "130@1884",
+   "130@1885",
+   "130@1886",
+   "130@1887",
+   "131@1881"
+  ]
+ },
+ {
+  "id": "bardsey",
+  "name": "Bardsey",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   118,
+   119
+  ],
+  "printed": [
+   "Bardsey Island L.H.",
+   "Bardsey, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "120@1880",
+   "131@1884",
+   "131@1885",
+   "131@1886",
+   "131@1887",
+   "132@1881"
+  ]
+ },
+ {
+  "id": "cardigan-bay-lv",
+  "name": "Cardigan Bay L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   130
+  ],
+  "printed": [
+   "Cardigan Bay, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "121@1880",
+   "132@1884",
+   "132@1885",
+   "132@1886",
+   "132@1887",
+   "133@1881"
+  ]
+ },
+ {
+  "id": "south-bishop",
+  "name": "South Bishop",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   177
+  ],
+  "printed": [
+   "South Bishop, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "123@1880",
+   "133@1884",
+   "133@1885",
+   "133@1886",
+   "133@1887",
+   "135@1881"
+  ]
+ },
+ {
+  "id": "smalls",
+  "name": "Smalls",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   176
+  ],
+  "printed": [
+   "Smalls, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "124@1880",
+   "134@1884",
+   "134@1885",
+   "134@1886",
+   "134@1887",
+   "136@1881"
+  ]
+ },
+ {
+  "id": "great-castle-head",
+  "name": "Great Castle Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   138,
+   139
+  ],
+  "printed": [
+   "Great Castle Head, L.H.",
+   "Great Castlehead L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "125@1880",
+   "135@1884",
+   "135@1885",
+   "135@1886",
+   "135@1887",
+   "137@1881"
+  ]
+ },
+ {
+  "id": "st-anns-head-low",
+  "name": "St Ann's Head Low (Milford Low)",
+  "kind": "lighthouse",
+  "note": "1880-81, its own row.",
+  "edits": [],
+  "members": [
+   154
+  ],
+  "printed": [
+   "Milford (Low), L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881"
+  ],
+  "numbers": [
+   "126@1880",
+   "138@1881"
+  ]
+ },
+ {
+  "id": "st-anns-head-high",
+  "name": "St Ann's Head High (Milford High)",
+  "kind": "lighthouse",
+  "note": "1880-81, its own row.",
+  "edits": [],
+  "members": [
+   153
+  ],
+  "printed": [
+   "Milford (High), L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881"
+  ],
+  "numbers": [
+   "127@1880",
+   "139@1881"
+  ]
+ },
+ {
+  "id": "st-anns-head",
+  "name": "St Ann's Head (Milford), single row",
+  "kind": "lighthouse",
+  "note": "From 1884 on, 'Milford' (no. 136) and in 1886-87 'Milford (St Ann's)' take the place of the two Milford rows. The list does not say which light this row is, so it is kept apart. If the returns show which light it is, merge it into st-anns-head-high or st-anns-head-low.",
+  "edits": [],
+  "members": [
+   152,
+   155
+  ],
+  "printed": [
+   "Milford (St Ann's) L.H.",
+   "Milford L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "136@1884",
+   "136@1885",
+   "136@1886",
+   "136@1887"
+  ]
+ },
+ {
+  "id": "caldey",
+  "name": "Caldey",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   129
+  ],
+  "printed": [
+   "Caldy, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "128@1880",
+   "137@1884",
+   "137@1885",
+   "137@1886",
+   "137@1887",
+   "140@1881"
+  ]
+ },
+ {
+  "id": "helwick-lv",
+  "name": "Helwick L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   141
+  ],
+  "printed": [
+   "Helwick, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "129@1880",
+   "138@1884",
+   "138@1885",
+   "138@1886",
+   "138@1887",
+   "141@1881"
+  ]
+ },
+ {
+  "id": "scarweather-lv",
+  "name": "Scarweather L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   169
+  ],
+  "printed": [
+   "Scarweather, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "130@1880",
+   "139@1884",
+   "139@1885",
+   "139@1886",
+   "139@1887",
+   "142@1881"
+  ]
+ },
+ {
+  "id": "nash-point-low",
+  "name": "Nash Point Low (West)",
+  "kind": "lighthouse",
+  "note": "Own row in 1880-81.",
+  "edits": [],
+  "members": [
+   162,
+   163
+  ],
+  "printed": [
+   "Nash (Low or W.) L.H.",
+   "Nash (Lower W.), L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881"
+  ],
+  "numbers": [
+   "131@1880",
+   "143@1881"
+  ]
+ },
+ {
+  "id": "nash-point-high",
+  "name": "Nash Point High (East)",
+  "kind": "lighthouse",
+  "note": "From 1884 only 'Nash (E.)' is printed, as no. 140. The plain 'Nash' row in the master lists has the same number, so it is put here.",
+  "edits": [],
+  "members": [
+   157,
+   158,
+   159,
+   160,
+   161
+  ],
+  "printed": [
+   "Nash (E. ), L.H.",
+   "Nash (E. or high), L.H.",
+   "Nash (E.) L.H.",
+   "Nash (High or E.) L.H.",
+   "Nash L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "132@1880",
+   "140@1884",
+   "140@1885",
+   "140@1886",
+   "140@1887",
+   "144@1881"
+  ]
+ },
+ {
+  "id": "breaksea-lv",
+  "name": "Breaksea L.V.",
+  "kind": "light-vessel",
+  "note": "Printed 'L.H.' in 1884-85, which is a slip. The other years print it as L.V.",
+  "edits": [],
+  "members": [
+   124,
+   125
+  ],
+  "printed": [
+   "Breaksea L.H.",
+   "Breaksea, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "133@1880",
+   "141@1884",
+   "141@1885",
+   "141@1886",
+   "141@1887",
+   "145@1881"
+  ]
+ },
+ {
+  "id": "flat-holm",
+  "name": "Flat Holm",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   136
+  ],
+  "printed": [
+   "Flatholm, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "134@1880",
+   "142@1884",
+   "142@1885",
+   "142@1886",
+   "142@1887",
+   "146@1881"
+  ]
+ },
+ {
+  "id": "english-and-welsh-grounds-lv",
+  "name": "English and Welsh Grounds L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   134
+  ],
+  "printed": [
+   "English and Welsh Grounds L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "143@1884",
+   "143@1885",
+   "143@1886",
+   "143@1887"
+  ]
+ },
+ {
+  "id": "west-usk",
+  "name": "West Usk",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [
+   "The lists' 'Usk L.H.': East Usk lighthouse was built in 1893, so in 1879-87 the Usk light is West Usk (run 2's reading)."
+  ],
+  "members": [
+   188
+  ],
+  "printed": [
+   "Usk, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "135@1880",
+   "144@1884",
+   "144@1885",
+   "144@1886",
+   "144@1887",
+   "147@1881"
+  ]
+ },
+ {
+  "id": "avonmouth",
+  "name": "Avonmouth (Avon)",
+  "kind": "lighthouse",
+  "note": "Printed 'Avon, E. of entrance'.",
+  "edits": [],
+  "members": [
+   116
+  ],
+  "printed": [
+   "Avon, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "136@1880",
+   "145@1884",
+   "145@1885",
+   "145@1886",
+   "145@1887",
+   "148@1881"
+  ]
+ },
+ {
+  "id": "burnham",
+  "name": "Burnham",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   127
+  ],
+  "printed": [
+   "Burnham, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "137@1880",
+   "146@1884",
+   "146@1885",
+   "146@1886",
+   "146@1887",
+   "149@1881"
+  ]
+ },
+ {
+  "id": "bull-point",
+  "name": "Bull Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   126
+  ],
+  "printed": [
+   "Bull Point, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "122@1880",
+   "134@1881",
+   "147@1884",
+   "147@1885",
+   "147@1886",
+   "147@1887"
+  ]
+ },
+ {
+  "id": "bideford-bar",
+  "name": "Bideford Bar (Instow)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   120,
+   121
+  ],
+  "printed": [
+   "Bideford Bar L.H.",
+   "Bideford, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "138@1880",
+   "148@1884",
+   "148@1885",
+   "148@1886",
+   "148@1887",
+   "150@1881"
+  ]
+ },
+ {
+  "id": "lundy",
+  "name": "Lundy",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   147,
+   150
+  ],
+  "printed": [
+   "Lundy Island L.H.",
+   "Lundy, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "140@1880",
+   "149@1884",
+   "149@1885",
+   "149@1886",
+   "149@1887",
+   "152@1881"
+  ]
+ },
+ {
+  "id": "lundy-fog-signal",
+  "name": "Lundy Fog Gun Station",
+  "kind": "other",
+  "note": "Its own row next to the Lundy light (1880 no. 139, 1881 no. 151).",
+  "edits": [],
+  "members": [
+   148,
+   149
+  ],
+  "printed": [
+   "Lundy Fog Gun Station",
+   "Lundy Fog Gun Station."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881"
+  ],
+  "numbers": [
+   "139@1880",
+   "151@1881"
+  ]
+ },
+ {
+  "id": "hartland-point",
+  "name": "Hartland Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   140
+  ],
+  "printed": [
+   "Hartland Point, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "141@1880",
+   "150@1884",
+   "150@1885",
+   "150@1886",
+   "150@1887",
+   "153@1881"
+  ]
+ },
+ {
+  "id": "trevose-head",
+  "name": "Trevose Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   187
+  ],
+  "printed": [
+   "Trevose Head, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "142@1880",
+   "151@1884",
+   "151@1885",
+   "151@1886",
+   "151@1887",
+   "154@1881"
+  ]
+ },
+ {
+  "id": "godrevy",
+  "name": "Godrevy",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   137
+  ],
+  "printed": [
+   "Godrevy, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "143@1880",
+   "152@1884",
+   "152@1885",
+   "152@1886",
+   "152@1887",
+   "155@1881"
+  ]
+ },
+ {
+  "id": "longships",
+  "name": "Longships",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   146
+  ],
+  "printed": [
+   "Longships, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "147@1880",
+   "153@1884",
+   "153@1885",
+   "153@1886",
+   "153@1887",
+   "156@1881"
+  ]
+ },
+ {
+  "id": "sevenstones-lv",
+  "name": "Sevenstones L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   172
+  ],
+  "printed": [
+   "Sevenstones, L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "146@1880",
+   "154@1884",
+   "154@1885",
+   "154@1886",
+   "154@1887",
+   "157@1881"
+  ]
+ },
+ {
+  "id": "wolf-rock",
+  "name": "Wolf Rock",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   189,
+   190,
+   191
+  ],
+  "printed": [
+   "Wolf Rock L.H.",
+   "Wolf-Rock L.H.",
+   "Wolfrock, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "148@1880",
+   "155@1884",
+   "155@1885",
+   "155@1886",
+   "155@1887",
+   "158@1881"
+  ]
+ },
+ {
+  "id": "st-agnes-scilly",
+  "name": "St Agnes (Scilly)",
+  "kind": "lighthouse",
+  "note": "Printed 'Scilly', St Agnes.",
+  "edits": [],
+  "members": [
+   170
+  ],
+  "printed": [
+   "Scilly, L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "145@1880",
+   "156@1884",
+   "156@1885",
+   "156@1886",
+   "156@1887",
+   "159@1881"
+  ]
+ },
+ {
+  "id": "bishop-rock",
+  "name": "Bishop Rock",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   122,
+   123
+  ],
+  "printed": [
+   "Bishop Rock, L.H.",
+   "Bishop's Rock L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "144@1880",
+   "157@1884",
+   "157@1885",
+   "157@1886",
+   "157@1887",
+   "160@1881"
+  ]
+ },
+ {
+  "id": "lizard",
+  "name": "Lizard",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   144,
+   145
+  ],
+  "printed": [
+   "Lizard L.H.",
+   "Lizard Point L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "158@1884",
+   "158@1885",
+   "158@1886",
+   "158@1887"
+  ]
+ },
+ {
+  "id": "st-anthony-head",
+  "name": "St Anthony Head (Falmouth Harbour)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   135
+  ],
+  "printed": [
+   "Falmouth Harbour L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "159@1884",
+   "159@1885",
+   "159@1886",
+   "159@1887"
+  ]
+ },
+ {
+  "id": "eddystone",
+  "name": "Eddystone",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   133
+  ],
+  "printed": [
+   "Eddystone L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "160@1884",
+   "160@1885",
+   "160@1886",
+   "160@1887"
+  ]
+ },
+ {
+  "id": "plymouth-breakwater",
+  "name": "Plymouth Breakwater",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   166
+  ],
+  "printed": [
+   "Plymouth Breakwater L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "161@1884",
+   "161@1885",
+   "161@1886",
+   "161@1887"
+  ]
+ },
+ {
+  "id": "start-point-devon",
+  "name": "Start Point (Devon)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   184,
+   185
+  ],
+  "printed": [
+   "Start L.H.",
+   "Start Point L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "162@1884",
+   "162@1885",
+   "162@1886",
+   "162@1887"
+  ]
+ },
+ {
+  "id": "portland-bill",
+  "name": "Portland Bill",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   167
+  ],
+  "printed": [
+   "Portland Bill L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "163@1886",
+   "163@1887"
+  ]
+ },
+ {
+  "id": "shambles-lv",
+  "name": "Shambles L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   173
+  ],
+  "printed": [
+   "Shambles L.V."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "164@1886",
+   "164@1887"
+  ]
+ },
+ {
+  "id": "anvil-point",
+  "name": "Anvil Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   115
+  ],
+  "printed": [
+   "Anvil Point L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "165@1886",
+   "165@1887"
+  ]
+ },
+ {
+  "id": "hurst-castle",
+  "name": "Hurst Castle",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   143
+  ],
+  "printed": [
+   "Hurst Castle L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "166@1886",
+   "166@1887"
+  ]
+ },
+ {
+  "id": "needles",
+  "name": "The Needles",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   186
+  ],
+  "printed": [
+   "The Needles L.H."
+  ],
+  "regions": [
+   "england_west"
+  ],
+  "seen": [
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "167@1886",
+   "167@1887"
+  ]
+ },
+ {
+  "id": "bahama-bank-lv",
+  "name": "Bahama Bank L.V.",
+  "kind": "light-vessel",
+  "note": "'Bahama Rock' (1882) is a misprint.",
+  "edits": [],
+  "members": [
+   117,
+   265,
+   266
+  ],
+  "printed": [
+   "Bahama Bank L.V.",
+   "Bahama Bank, L.V.",
+   "Bahama Rock L.V."
+  ],
+  "regions": [
+   "england_west",
+   "isle_of_man"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "118@1884",
+   "119@1880",
+   "119@1881",
+   "119@1882",
+   "119@1884",
+   "119@1885",
+   "119@1886",
+   "119@1887"
+  ]
+ },
+ {
+  "id": "point-of-ayre-iom",
+  "name": "Point of Ayre (Isle of Man)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   274,
+   275,
+   276,
+   375
+  ],
+  "printed": [
+   "Point of Ayr",
+   "Point of Ayre,",
+   "Point of Ayre. L.H."
+  ],
+  "regions": [
+   "isle_of_man",
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "115@1884",
+   "115@1885",
+   "115@1886",
+   "115@1887",
+   "116@1880",
+   "116@1881",
+   "116@1882"
+  ]
+ },
+ {
+  "id": "douglas-head",
+  "name": "Douglas Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   269,
+   270,
+   279,
+   345
+  ],
+  "printed": [
+   "Douglas Head",
+   "Douglas Head. L.H."
+  ],
+  "regions": [
+   "isle_of_man",
+   "outlying",
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "116@1884",
+   "116@1885",
+   "116@1886",
+   "116@1887",
+   "117@1880",
+   "117@1881",
+   "117@1882"
+  ]
+ },
+ {
+  "id": "langness",
+  "name": "Langness",
+  "kind": "lighthouse",
+  "note": "'Longness' L.V. (1882, no. 120, last after Bahama Rock) is Langness. The spelling and the L.V. type are slips, probably carried down from the Bahama row above.",
+  "edits": [],
+  "members": [
+   271,
+   272,
+   273,
+   357,
+   358
+  ],
+  "printed": [
+   "Langness",
+   "Langness Lighthouse, Lighthouse",
+   "Langness, L.H.",
+   "Longness L.V."
+  ],
+  "regions": [
+   "isle_of_man",
+   "scotland_west"
+  ],
+  "seen": [
+   "1880",
+   "1881",
+   "1882",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "117@1885",
+   "117@1886",
+   "117@1887",
+   "119@1884",
+   "120@1880",
+   "120@1881",
+   "120@1882"
+  ]
+ },
+ {
+  "id": "chicken-rock",
+  "name": "Chicken Rock",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   267,
+   268,
+   339
+  ],
+  "printed": [
+   "Chickens Rock",
+   "Chickens Rock, L.H."
+  ],
+  "regions": [
+   "isle_of_man",
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "117@1884",
+   "118@1880",
+   "118@1881",
+   "118@1882",
+   "118@1885",
+   "118@1886",
+   "118@1887"
+  ]
+ },
+ {
+  "id": "fastnet",
+  "name": "Fastnet",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   226,
+   424
+  ],
+  "printed": [
+   "Fastnet"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "1@1881",
+   "1@1882",
+   "1@1883",
+   "1@1884",
+   "1@1885",
+   "1@1886",
+   "1@1887"
+  ]
+ },
+ {
+  "id": "galley-head",
+  "name": "Galley Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   227,
+   426
+  ],
+  "printed": [
+   "Galley Head"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "2@1881",
+   "2@1882",
+   "2@1883",
+   "2@1884",
+   "2@1885",
+   "2@1886",
+   "2@1887"
+  ]
+ },
+ {
+  "id": "old-head-of-kinsale",
+  "name": "Old Head of Kinsale",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   241,
+   242,
+   462
+  ],
+  "printed": [
+   "Old Head",
+   "Old Head, Kinsale"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "3@1881",
+   "3@1882",
+   "3@1883",
+   "3@1884",
+   "3@1885",
+   "3@1886",
+   "3@1887"
+  ]
+ },
+ {
+  "id": "mine-head",
+  "name": "Mine Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   240,
+   454
+  ],
+  "printed": [
+   "Mine Head"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "4@1881",
+   "4@1882",
+   "4@1883",
+   "4@1884",
+   "4@1885",
+   "4@1886",
+   "4@1887"
+  ]
+ },
+ {
+  "id": "ballinacourty",
+  "name": "Ballinacourty (Dungarvan)",
+  "kind": "lighthouse",
+  "note": "Printed 'Dungarvan'. Taken to be the Ballinacourty Point light.",
+  "edits": [],
+  "members": [
+   219,
+   417
+  ],
+  "printed": [
+   "Dungarvan",
+   "Dungarvan,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "5@1882",
+   "5@1883",
+   "5@1884",
+   "5@1885",
+   "5@1886",
+   "5@1887"
+  ]
+ },
+ {
+  "id": "hook-head",
+  "name": "Hook Head (Hook Tower)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   228
+  ],
+  "printed": [
+   "Hook Tower"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1887"
+  ],
+  "numbers": [
+   "5_a_@1887"
+  ]
+ },
+ {
+  "id": "coningbeg-lv",
+  "name": "Coningbeg L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   215,
+   216,
+   409
+  ],
+  "printed": [
+   "Coningbeg LS",
+   "Coningbeg Lt.-ship"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "5*@1883",
+   "5*@1884",
+   "5*@1885",
+   "5*@1886",
+   "5*@1887",
+   "5@1881",
+   "5@1882",
+   "5@1885"
+  ]
+ },
+ {
+  "id": "barrels-lv",
+  "name": "Barrels Rock L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   205,
+   206,
+   207,
+   208,
+   397
+  ],
+  "printed": [
+   "Barrels Rock",
+   "Barrels Rock LS",
+   "Barrels Rock Lt.-ship",
+   "Barrels Rock, do."
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "6@1881",
+   "6@1882",
+   "6@1883",
+   "6@1884",
+   "6@1885",
+   "6@1886",
+   "6@1887"
+  ]
+ },
+ {
+  "id": "tuskar-rock",
+  "name": "Tuskar Rock",
+  "kind": "lighthouse",
+  "note": "The 1883 'Lt.-ship' type is a ditto slip from Barrels Rock.",
+  "edits": [],
+  "members": [
+   261,
+   262,
+   489
+  ],
+  "printed": [
+   "Tuskar",
+   "Tuskar Rock",
+   "Tuskar Rock Lt.-ship"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "7@1881",
+   "7@1882",
+   "7@1883",
+   "7@1884",
+   "7@1885",
+   "7@1886",
+   "7@1887"
+  ]
+ },
+ {
+  "id": "lucifer-shoals-lv",
+  "name": "Lucifer Shoals L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   236
+  ],
+  "printed": [
+   "Lucifer Shoals LS"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1887"
+  ],
+  "numbers": [
+   "7_a_@1887"
+  ]
+ },
+ {
+  "id": "arklow-south-lv",
+  "name": "Arklow South L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   195,
+   196,
+   197,
+   198,
+   392
+  ],
+  "printed": [
+   "Arklow S. Lt.-ship",
+   "Arklow Sth. LS",
+   "Arklow Sth. Lt.-ship",
+   "ArklowSth. Lt.-ship"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "8@1881",
+   "8@1882",
+   "8@1883",
+   "8@1884",
+   "8@1885",
+   "8@1886",
+   "8@1887"
+  ]
+ },
+ {
+  "id": "arklow-north-lv",
+  "name": "Arklow North L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   192,
+   193,
+   194,
+   391
+  ],
+  "printed": [
+   "Arklow N. Lt.-ship",
+   "Arklow North LS",
+   "Arklow North Lt.-ship"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "8*@1883",
+   "8*@1884",
+   "8*@1885",
+   "8*@1886",
+   "8*@1887",
+   "8@1885"
+  ]
+ },
+ {
+  "id": "wicklow-head",
+  "name": "Wicklow Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   264
+  ],
+  "printed": [
+   "Wicklow Head"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1881",
+   "1882"
+  ],
+  "numbers": [
+   "9@1881",
+   "9@1882"
+  ]
+ },
+ {
+  "id": "kish-bank-lv",
+  "name": "Kish Bank L.V.",
+  "kind": "light-vessel",
+  "note": "'Kirk Bank' (1881, no. 10, between Arklow S. and Howth Baily) is a misprint.",
+  "edits": [
+   "Run 1."
+  ],
+  "members": [
+   232,
+   233,
+   447
+  ],
+  "printed": [
+   "Kirk Bank, do.",
+   "Kish Bank Lt.-ship"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "10@1881",
+   "10@1882",
+   "10@1883",
+   "10@1884",
+   "10@1885",
+   "10@1886",
+   "10@1887"
+  ]
+ },
+ {
+  "id": "baily",
+  "name": "Baily (Howth)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   229,
+   435
+  ],
+  "printed": [
+   "Howth Baily"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "11@1881",
+   "11@1882",
+   "11@1883",
+   "11@1884",
+   "11@1885",
+   "11@1886",
+   "11@1887"
+  ]
+ },
+ {
+  "id": "rockabill",
+  "name": "Rockabill",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   249,
+   469
+  ],
+  "printed": [
+   "Rockabill"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "12@1881",
+   "12@1882",
+   "12@1883",
+   "12@1884",
+   "12@1885",
+   "12@1886",
+   "12@1887"
+  ]
+ },
+ {
+  "id": "south-rock-lv",
+  "name": "South Rock L.V.",
+  "kind": "light-vessel",
+  "note": null,
+  "edits": [],
+  "members": [
+   256
+  ],
+  "printed": [
+   "South Rock Lt.-ship"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1887"
+  ],
+  "numbers": [
+   "12_b_@1887"
+  ]
+ },
+ {
+  "id": "copeland",
+  "name": "Copeland / Mew Island",
+  "kind": "lighthouse",
+  "note": "The Copeland light moved from Lighthouse Island to Mew Island in 1884, hence 'Copeland (Mew) Island' in 1885-86. The station keeps its number 13 throughout, so all forms are put together. Split them if you want the two towers apart.",
+  "edits": [],
+  "members": [
+   217,
+   218,
+   410
+  ],
+  "printed": [
+   "Copeland (Mew) Island",
+   "Copeland Island"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "13@1881",
+   "13@1882",
+   "13@1883",
+   "13@1884",
+   "13@1885",
+   "13@1886",
+   "13@1887"
+  ]
+ },
+ {
+  "id": "maidens-north",
+  "name": "Maidens North",
+  "kind": "lighthouse",
+  "note": "Until 1886 there is one 'Maidens' row, no. 14. In 1887 the list has 'Maidens, North' (14) and 'Maidens, South' (14*). The plain row goes with North because it has the same number; the starred number marks the added row. It may in fact stand for the pair. Please check.",
+  "edits": [],
+  "members": [
+   237,
+   238,
+   453
+  ],
+  "printed": [
+   "Maidens",
+   "Maidens, North"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "14@1881",
+   "14@1882",
+   "14@1883",
+   "14@1884",
+   "14@1885",
+   "14@1886",
+   "14@1887"
+  ]
+ },
+ {
+  "id": "maidens-south",
+  "name": "Maidens South",
+  "kind": "lighthouse",
+  "note": "Only in 1887, no. 14*.",
+  "edits": [],
+  "members": [
+   239
+  ],
+  "printed": [
+   "Maidens, South"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1887"
+  ],
+  "numbers": [
+   "14*@1887"
+  ]
+ },
+ {
+  "id": "rathlin-east",
+  "name": "Rathlin (Altacarry)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   246,
+   467
+  ],
+  "printed": [
+   "Rathlin"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "15@1881",
+   "15@1882",
+   "15@1883",
+   "15@1884",
+   "15@1885",
+   "15@1886",
+   "15@1887"
+  ]
+ },
+ {
+  "id": "inishtrahull",
+  "name": "Inishtrahull",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   230,
+   442
+  ],
+  "printed": [
+   "Innishtrahull"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "16@1881",
+   "16@1882",
+   "16@1883",
+   "16@1884",
+   "16@1885",
+   "16@1886",
+   "16@1887"
+  ]
+ },
+ {
+  "id": "dunree-head",
+  "name": "Dunree Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   220,
+   419
+  ],
+  "printed": [
+   "Dunree Head"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "17@1881",
+   "17@1882",
+   "17@1883",
+   "17@1884",
+   "17@1885",
+   "17@1886",
+   "17@1887"
+  ]
+ },
+ {
+  "id": "fanad-head",
+  "name": "Fanad Head (Lough Swilly)",
+  "kind": "lighthouse",
+  "note": "Printed 'Lough Swilly'. Taken to be Fanad Head, the Lough Swilly entrance light. Please check.",
+  "edits": [],
+  "members": [
+   235,
+   452
+  ],
+  "printed": [
+   "Lough Swilly"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "18@1881",
+   "18@1882",
+   "18@1883",
+   "18@1884",
+   "18@1885",
+   "18@1887"
+  ]
+ },
+ {
+  "id": "tory-island",
+  "name": "Tory Island",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   260,
+   488
+  ],
+  "printed": [
+   "Tory Island"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "19@1881",
+   "19@1882",
+   "19@1883",
+   "19@1884",
+   "19@1885",
+   "19@1886",
+   "19@1887"
+  ]
+ },
+ {
+  "id": "arranmore",
+  "name": "Arranmore",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   204,
+   395
+  ],
+  "printed": [
+   "Arranmore"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "20@1881",
+   "20@1882",
+   "20@1883",
+   "20@1884",
+   "20@1885",
+   "20@1886",
+   "20@1887"
+  ]
+ },
+ {
+  "id": "rathlin-obirne",
+  "name": "Rathlin O'Birne",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   247,
+   248,
+   468
+  ],
+  "printed": [
+   "Rathlin O'Birne",
+   "Rathlin O’Birne"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "21@1881",
+   "21@1882",
+   "21@1883",
+   "21@1884",
+   "21@1885",
+   "21@1886",
+   "21@1887"
+  ]
+ },
+ {
+  "id": "rotten-island",
+  "name": "Rotten Island (Killybegs)",
+  "kind": "lighthouse",
+  "note": "Printed 'Killybegs'. Taken to be the Rotten Island harbour light. Please check.",
+  "edits": [
+   "Both runs: the lists' 'Killybegs' is the light at the harbour entrance."
+  ],
+  "members": [
+   231,
+   445
+  ],
+  "printed": [
+   "Killybegs"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "22@1881",
+   "22@1882",
+   "22@1883",
+   "22@1884",
+   "22@1885",
+   "22@1886",
+   "22@1887"
+  ]
+ },
+ {
+  "id": "oyster-island",
+  "name": "Oyster Island",
+  "kind": "lighthouse",
+  "note": "'Oyster Island N.' appears twice for 1881 (two readings, both no. 23). Merged.",
+  "edits": [],
+  "members": [
+   243,
+   244,
+   245,
+   465
+  ],
+  "printed": [
+   "Oyster Island",
+   "Oyster Island N.",
+   "Oyster Island,",
+   "Oyster Island, N."
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "23@1881",
+   "23@1882",
+   "23@1883",
+   "23@1884",
+   "23@1885",
+   "23@1886",
+   "23@1887"
+  ]
+ },
+ {
+  "id": "broadhaven",
+  "name": "Broadhaven",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   212,
+   402
+  ],
+  "printed": [
+   "Broadhaven"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "24@1881",
+   "24@1882",
+   "24@1883",
+   "24@1884",
+   "24@1885",
+   "24@1886",
+   "24@1887"
+  ]
+ },
+ {
+  "id": "eagle-island-east",
+  "name": "Eagle Island East",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   222,
+   224,
+   421
+  ],
+  "printed": [
+   "Eagle Island E.",
+   "Eagle Island, E.",
+   "Eagle Island, E.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "25@1881",
+   "25@1882",
+   "25@1883",
+   "25@1884",
+   "25@1885",
+   "25@1886",
+   "25@1887"
+  ]
+ },
+ {
+  "id": "eagle-island-west",
+  "name": "Eagle Island West",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   223,
+   225,
+   422
+  ],
+  "printed": [
+   "Eagle Island W.",
+   "Eagle Island, W.",
+   "Eagle Island, W.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "26@1881",
+   "26@1882",
+   "26@1883",
+   "26@1884",
+   "26@1885",
+   "26@1886",
+   "26@1887"
+  ]
+ },
+ {
+  "id": "blackrock-mayo",
+  "name": "Blackrock (Mayo)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   209,
+   210,
+   399
+  ],
+  "printed": [
+   "Black Rock",
+   "Blackrock"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "27@1881",
+   "27@1882",
+   "27@1883",
+   "27@1884",
+   "27@1885",
+   "27@1886",
+   "27@1887"
+  ]
+ },
+ {
+  "id": "blacksod-point",
+  "name": "Blacksod Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   211,
+   400
+  ],
+  "printed": [
+   "Blacksod Point"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "28@1881",
+   "28@1882",
+   "28@1883",
+   "28@1884",
+   "28@1885",
+   "28@1886",
+   "28@1887"
+  ]
+ },
+ {
+  "id": "clare-island",
+  "name": "Clare Island",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   214,
+   407
+  ],
+  "printed": [
+   "Clare Island"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "29@1881",
+   "29@1882",
+   "29@1883",
+   "29@1884",
+   "29@1885",
+   "29@1886",
+   "29@1887"
+  ]
+ },
+ {
+  "id": "slyne-head-north",
+  "name": "Slyne Head North",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   252,
+   254,
+   473
+  ],
+  "printed": [
+   "Slyne Head N.",
+   "Slyne Head, N.",
+   "Slyne Head, N.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "30@1881",
+   "30@1882",
+   "30@1883",
+   "30@1884",
+   "30@1885",
+   "30@1886",
+   "30@1887"
+  ]
+ },
+ {
+  "id": "slyne-head-south",
+  "name": "Slyne Head South",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   253,
+   255,
+   474
+  ],
+  "printed": [
+   "Slyne Head S.",
+   "Slyne Head, S.",
+   "Slyne Head, S.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "31@1881",
+   "31@1882",
+   "31@1883",
+   "31@1884",
+   "31@1885",
+   "31@1886",
+   "31@1887"
+  ]
+ },
+ {
+  "id": "eeragh",
+  "name": "Eeragh (Aran North)",
+  "kind": "lighthouse",
+  "note": "'Arran Island, Is.' (1887, no. 32, between Slyne Head S. and Arran Island S.) is a misprint for 'N.'",
+  "edits": [],
+  "members": [
+   199,
+   201,
+   202,
+   393
+  ],
+  "printed": [
+   "Arran Island N.",
+   "Arran Island, Is.",
+   "Arran Island, N.",
+   "Arran Island, N.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "32@1881",
+   "32@1882",
+   "32@1883",
+   "32@1884",
+   "32@1885",
+   "32@1886",
+   "32@1887"
+  ]
+ },
+ {
+  "id": "inisheer",
+  "name": "Inisheer (Aran South)",
+  "kind": "lighthouse",
+  "note": "'Straw Island, S.' (1882, no. 34, between Straw Island and Loop Head) is a misprint. No. 34 is Aran South's number in every year, and 1882 has no other Aran South row.",
+  "edits": [],
+  "members": [
+   200,
+   203,
+   258,
+   394
+  ],
+  "printed": [
+   "Arran Island S.",
+   "Arran Island, S.",
+   "Straw Island, S.,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "34@1881",
+   "34@1882",
+   "34@1883",
+   "34@1884",
+   "34@1885",
+   "34@1886",
+   "34@1887"
+  ]
+ },
+ {
+  "id": "straw-island",
+  "name": "Straw Island",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   257,
+   481
+  ],
+  "printed": [
+   "Straw Island"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "33@1881",
+   "33@1882",
+   "33@1883",
+   "33@1884",
+   "33@1885",
+   "33@1886",
+   "33@1887"
+  ]
+ },
+ {
+  "id": "loop-head",
+  "name": "Loop Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   234
+  ],
+  "printed": [
+   "Loop Head"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1881",
+   "1882"
+  ],
+  "numbers": [
+   "35@1881",
+   "35@1882"
+  ]
+ },
+ {
+  "id": "samphire-island",
+  "name": "Samphire Island",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   250,
+   470
+  ],
+  "printed": [
+   "Samphire Island"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "36@1881",
+   "36@1882",
+   "36@1883",
+   "36@1884",
+   "36@1885",
+   "36@1886",
+   "36@1887"
+  ]
+ },
+ {
+  "id": "inishtearaght",
+  "name": "Inishtearaght",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   259,
+   485
+  ],
+  "printed": [
+   "Tearaght"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "37@1881",
+   "37@1882",
+   "37@1883",
+   "37@1884",
+   "37@1885",
+   "37@1886",
+   "37@1887"
+  ]
+ },
+ {
+  "id": "valentia",
+  "name": "Valentia",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   263,
+   490
+  ],
+  "printed": [
+   "Valentia"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "38@1881",
+   "38@1882",
+   "38@1883",
+   "38@1884",
+   "38@1885",
+   "38@1886",
+   "38@1887"
+  ]
+ },
+ {
+  "id": "skellig-michael",
+  "name": "Skelligs",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   251,
+   472
+  ],
+  "printed": [
+   "Skelligs"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "39@1881",
+   "39@1882",
+   "39@1883",
+   "39@1884",
+   "39@1885",
+   "39@1886",
+   "39@1887"
+  ]
+ },
+ {
+  "id": "calf-rock",
+  "name": "Calf Rock",
+  "kind": "lighthouse",
+  "note": "Only in 1881, no. 40. The tower was wrecked in November 1881.",
+  "edits": [],
+  "members": [
+   213
+  ],
+  "printed": [
+   "Calf Rock"
+  ],
+  "regions": [
+   "ireland"
+  ],
+  "seen": [
+   "1881"
+  ],
+  "numbers": [
+   "40@1881"
+  ]
+ },
+ {
+  "id": "dursey-island",
+  "name": "Dursey Island",
+  "kind": "lighthouse",
+  "note": "From 1882, no. 40, in Calf Rock's place. This is probably the replacement light on Dursey for the wrecked Calf Rock. It is kept separate because it is a different light at a different place; merge it with calf-rock if you want the station's run unbroken.",
+  "edits": [],
+  "members": [
+   221,
+   420
+  ],
+  "printed": [
+   "Dursey Island",
+   "Dursey Island,"
+  ],
+  "regions": [
+   "ireland",
+   "unknown"
+  ],
+  "seen": [
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "numbers": [
+   "40@1882",
+   "40@1883",
+   "40@1884",
+   "40@1885",
+   "40@1886",
+   "40@1887"
+  ]
+ },
+ {
+  "id": "iceland",
+  "name": "Iceland",
+  "kind": "other",
+  "note": "Master lists only, no. 1. Possibly Reykjanes, Iceland's only lighthouse then, but it may be an observer. Kind unknown.",
+  "edits": [],
+  "members": [
+   283
+  ],
+  "printed": [
+   "Iceland"
+  ],
+  "regions": [
+   "outlying"
+  ],
+  "seen": [
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "1@1885",
+   "1@1887"
+  ]
+ },
+ {
+  "id": "iceland-2",
+  "name": "Iceland (second station, 'Do.')",
+  "kind": "other",
+  "note": "'Do.' under Iceland, no. 2, is a second Iceland station. Its place is not named; check the reports.",
+  "edits": [],
+  "members": [
+   278
+  ],
+  "printed": [
+   "Do."
+  ],
+  "regions": [
+   "outlying"
+  ],
+  "seen": [
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "2@1885",
+   "2@1887"
+  ]
+ },
+ {
+  "id": "faroe",
+  "name": "Faroe",
+  "kind": "other",
+  "note": "Faroe had no lighthouse before 1893, so this is presumably an observer. Kind unknown.",
+  "edits": [],
+  "members": [
+   280
+  ],
+  "printed": [
+   "Faroe"
+  ],
+  "regions": [
+   "outlying"
+  ],
+  "seen": [
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "3@1885",
+   "3@1887"
+  ]
+ },
+ {
+  "id": "stevns",
+  "name": "Stevns Fyr",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   285
+  ],
+  "printed": [
+   "Stevns Fyr"
+  ],
+  "regions": [
+   "outlying"
+  ],
+  "seen": [
+   "1885m",
+   "1887m"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "malmo",
+  "name": "Malmö",
+  "kind": "other",
+  "note": "Kind assumed from the name; check.",
+  "edits": [
+   "An outlying station; observer unknown."
+  ],
+  "members": [
+   284
+  ],
+  "printed": [
+   "Malmo"
+  ],
+  "regions": [
+   "outlying"
+  ],
+  "seen": [
+   "1885m",
+   "1887m"
+  ],
+  "numbers": []
+ },
+ {
+  "id": "muckle-flugga",
+  "name": "Muckle Flugga (North Unst)",
+  "kind": "lighthouse",
+  "note": "'North Uist' (1881-82, Shetland, no. 4, first on the list) is a misprint for North Unst.",
+  "edits": [],
+  "members": [
+   314,
+   316,
+   317,
+   460
+  ],
+  "printed": [
+   "N. Unst",
+   "North Uist",
+   "North Unst"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "4@1880",
+   "4@1881",
+   "4@1882",
+   "4@1883",
+   "4@1884",
+   "4@1885",
+   "4@1886",
+   "4@1887"
+  ]
+ },
+ {
+  "id": "out-skerries",
+  "name": "Out Skerries (Whalsey Skerries)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   329,
+   491
+  ],
+  "printed": [
+   "Whalsey Skerries"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "5@1880",
+   "5@1881",
+   "5@1882",
+   "5@1883",
+   "5@1884",
+   "5@1885",
+   "5@1886",
+   "5@1887"
+  ]
+ },
+ {
+  "id": "bressay",
+  "name": "Bressay",
+  "kind": "lighthouse",
+  "note": "Also printed 'Bressay Sound'.",
+  "edits": [],
+  "members": [
+   289,
+   290,
+   401
+  ],
+  "printed": [
+   "Bressay",
+   "Bressay Sound",
+   "Bressay."
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "6@1880",
+   "6@1881",
+   "6@1882",
+   "6@1883",
+   "6@1884",
+   "6@1885",
+   "6@1886",
+   "6@1887"
+  ]
+ },
+ {
+  "id": "sumburgh-head",
+  "name": "Sumburgh Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   325,
+   482
+  ],
+  "printed": [
+   "Sumburgh Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "7@1880",
+   "7@1881",
+   "7@1882",
+   "7@1883",
+   "7@1884",
+   "7@1885",
+   "7@1886",
+   "7@1887"
+  ]
+ },
+ {
+  "id": "fair-isle",
+  "name": "Fair Isle",
+  "kind": "other",
+  "note": "Numbered 7B (1881-83) and 3b (master lists). Fair Isle had no lighthouse until 1892, so this is an observer. Kind is 'other'.",
+  "edits": [],
+  "members": [
+   300
+  ],
+  "printed": [
+   "Fair Isle"
+  ],
+  "regions": [
+   "scotland_east"
+  ],
+  "seen": [
+   "1881",
+   "1882",
+   "1883",
+   "1885m",
+   "1887m"
+  ],
+  "numbers": [
+   "3_b_@1885",
+   "3_b_@1887",
+   "7B@1881",
+   "7B@1882",
+   "7b@1883"
+  ]
+ },
+ {
+  "id": "north-ronaldsay",
+  "name": "North Ronaldsay",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   312,
+   313,
+   315,
+   456
+  ],
+  "printed": [
+   "N Ronaldshay",
+   "N. Ronaldshay",
+   "North Ronaldshay"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "8@1880",
+   "8@1881",
+   "8@1882",
+   "8@1883",
+   "8@1884",
+   "8@1885",
+   "8@1886",
+   "8@1887"
+  ]
+ },
+ {
+  "id": "start-point-orkney",
+  "name": "Start Point (Orkney)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   324,
+   480
+  ],
+  "printed": [
+   "Start Point"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "9@1880",
+   "9@1881",
+   "9@1882",
+   "9@1883",
+   "9@1884",
+   "9@1885",
+   "9@1886",
+   "9@1887"
+  ]
+ },
+ {
+  "id": "auskerry",
+  "name": "Auskerry",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   287,
+   396
+  ],
+  "printed": [
+   "Auskerry"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "10@1880",
+   "10@1881",
+   "10@1882",
+   "10@1883",
+   "10@1884",
+   "10@1885",
+   "10@1886",
+   "10@1887"
+  ]
+ },
+ {
+  "id": "hoy-low",
+  "name": "Hoy Low (Hoy Sound Low)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   305,
+   437
+  ],
+  "printed": [
+   "Hoy Sound (Low)"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "11@1880",
+   "11@1881",
+   "11@1882",
+   "11@1883",
+   "11@1884",
+   "11@1885",
+   "11@1886",
+   "11@1887"
+  ]
+ },
+ {
+  "id": "hoy-high",
+  "name": "Hoy High (Hoy Sound High)",
+  "kind": "lighthouse",
+  "note": "The 1879 ditto line '\"     (High)' under Hoy Sound (Low).",
+  "edits": [],
+  "members": [
+   286,
+   304,
+   436
+  ],
+  "printed": [
+   "\"     (High)",
+   "Hoy Sound (High)",
+   "Hoy Sound (High)."
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "12@1880",
+   "12@1881",
+   "12@1882",
+   "12@1883",
+   "12@1884",
+   "12@1885",
+   "12@1886",
+   "12@1887"
+  ]
+ },
+ {
+  "id": "cantick-head",
+  "name": "Cantick Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   292,
+   404
+  ],
+  "printed": [
+   "Cantick Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "13@1880",
+   "13@1881",
+   "13@1882",
+   "13@1883",
+   "13@1884",
+   "13@1885",
+   "13@1886",
+   "13@1887"
+  ]
+ },
+ {
+  "id": "pentland-skerries",
+  "name": "Pentland Skerries",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   319,
+   466
+  ],
+  "printed": [
+   "Pentland Skerries"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "14@1880",
+   "14@1881",
+   "14@1882",
+   "14@1883",
+   "14@1884",
+   "14@1885",
+   "14@1886",
+   "14@1887"
+  ]
+ },
+ {
+  "id": "dunnet-head",
+  "name": "Dunnet Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   299,
+   418
+  ],
+  "printed": [
+   "Dunnet Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "15@1880",
+   "15@1881",
+   "15@1882",
+   "15@1883",
+   "15@1884",
+   "15@1885",
+   "15@1886",
+   "15@1887"
+  ]
+ },
+ {
+  "id": "holborn-head",
+  "name": "Holborn Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   303,
+   434
+  ],
+  "printed": [
+   "Holborn Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "16@1880",
+   "16@1881",
+   "16@1882",
+   "16@1883",
+   "16@1884",
+   "16@1885",
+   "16@1886",
+   "16@1887"
+  ]
+ },
+ {
+  "id": "noss-head",
+  "name": "Noss Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   318,
+   461
+  ],
+  "printed": [
+   "Noss Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "17@1880",
+   "17@1881",
+   "17@1882",
+   "17@1883",
+   "17@1884",
+   "17@1885",
+   "17@1886",
+   "17@1887"
+  ]
+ },
+ {
+  "id": "tarbat-ness",
+  "name": "Tarbat Ness",
+  "kind": "lighthouse",
+  "note": "Also printed 'Tarbat Head' (1885) and 'Tarbet Ness'.",
+  "edits": [],
+  "members": [
+   326,
+   327,
+   328,
+   484
+  ],
+  "printed": [
+   "Tarbat Head",
+   "Tarbat Ness",
+   "Tarbat Ness,",
+   "Tarbet Ness"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "18@1880",
+   "18@1881",
+   "18@1882",
+   "18@1883",
+   "18@1884",
+   "18@1885",
+   "18@1886",
+   "18@1887"
+  ]
+ },
+ {
+  "id": "cromarty",
+  "name": "Cromarty",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   298,
+   414
+  ],
+  "printed": [
+   "Cromarty"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "19@1880",
+   "19@1881",
+   "19@1882",
+   "19@1883",
+   "19@1884",
+   "19@1885",
+   "19@1886",
+   "19@1887"
+  ]
+ },
+ {
+  "id": "chanonry-point",
+  "name": "Chanonry Point",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   295,
+   296,
+   406
+  ],
+  "printed": [
+   "Chanonry",
+   "Chanonry Point"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "20@1880",
+   "20@1881",
+   "20@1882",
+   "20@1883",
+   "20@1884",
+   "20@1885",
+   "20@1886",
+   "20@1887"
+  ]
+ },
+ {
+  "id": "covesea-skerries",
+  "name": "Covesea Skerries",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   297,
+   413
+  ],
+  "printed": [
+   "Covesea Skerries"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "21@1880",
+   "21@1881",
+   "21@1882",
+   "21@1883",
+   "21@1884",
+   "21@1885",
+   "21@1886",
+   "21@1887"
+  ]
+ },
+ {
+  "id": "kinnaird-head",
+  "name": "Kinnaird Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   310,
+   446
+  ],
+  "printed": [
+   "Kinnaird Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "22@1880",
+   "22@1881",
+   "22@1882",
+   "22@1883",
+   "22@1884",
+   "22@1885",
+   "22@1886",
+   "22@1887"
+  ]
+ },
+ {
+  "id": "buchan-ness",
+  "name": "Buchan Ness",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   291,
+   403
+  ],
+  "printed": [
+   "Buchan Ness"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "23@1880",
+   "23@1881",
+   "23@1882",
+   "23@1883",
+   "23@1884",
+   "23@1885",
+   "23@1886",
+   "23@1887"
+  ]
+ },
+ {
+  "id": "girdle-ness",
+  "name": "Girdle Ness",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   302,
+   428
+  ],
+  "printed": [
+   "Girdleness"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "24@1880",
+   "24@1881",
+   "24@1882",
+   "24@1883",
+   "24@1884",
+   "24@1885",
+   "24@1886",
+   "24@1887"
+  ]
+ },
+ {
+  "id": "scurdie-ness",
+  "name": "Scurdie Ness (Montrose)",
+  "kind": "lighthouse",
+  "note": "Printed 'Montroseness'.",
+  "edits": [],
+  "members": [
+   311,
+   455
+  ],
+  "printed": [
+   "Montroseness"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "25@1880",
+   "25@1881",
+   "25@1882",
+   "25@1883",
+   "25@1884",
+   "25@1885",
+   "25@1886",
+   "25@1887"
+  ]
+ },
+ {
+  "id": "bell-rock",
+  "name": "Bell Rock",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   288,
+   398
+  ],
+  "printed": [
+   "Bell Rock"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "26@1880",
+   "26@1881",
+   "26@1882",
+   "26@1883",
+   "26@1884",
+   "26@1885",
+   "26@1886",
+   "26@1887"
+  ]
+ },
+ {
+  "id": "north-carr-lv",
+  "name": "North Carr L.V.",
+  "kind": "light-vessel",
+  "note": "Printed 'Carr Rock', Light-ship, no. 26B.",
+  "edits": [],
+  "members": [
+   293,
+   294
+  ],
+  "printed": [
+   "Carr Rock Light-ship",
+   "Carr Rock Lightship"
+  ],
+  "regions": [
+   "scotland_east"
+  ],
+  "seen": [
+   "1885",
+   "1886",
+   "1887"
+  ],
+  "numbers": [
+   "26B@1885",
+   "26B@1886",
+   "26B@1887"
+  ]
+ },
+ {
+  "id": "isle-of-may",
+  "name": "Isle of May",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   306,
+   309,
+   443
+  ],
+  "printed": [
+   "I. of May",
+   "Isle of May"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "27@1880",
+   "27@1881",
+   "27@1882",
+   "27@1883",
+   "27@1884",
+   "27@1885",
+   "27@1886",
+   "27@1887"
+  ]
+ },
+ {
+  "id": "inchkeith",
+  "name": "Inchkeith",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   307,
+   308,
+   439
+  ],
+  "printed": [
+   "Inch Keith",
+   "Inchkeith"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "28@1880",
+   "28@1881",
+   "28@1882",
+   "28@1883",
+   "28@1884",
+   "28@1885",
+   "28@1886",
+   "28@1887"
+  ]
+ },
+ {
+  "id": "fidra",
+  "name": "Fidra",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   301
+  ],
+  "printed": [
+   "Fidra"
+  ],
+  "regions": [
+   "scotland_east"
+  ],
+  "seen": [
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "27B@1885",
+   "28B@1886",
+   "28B@1887",
+   "28_b_@1885",
+   "28_b_@1887"
+  ]
+ },
+ {
+  "id": "st-abbs-head",
+  "name": "St Abb's Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   320,
+   321,
+   322,
+   323,
+   479
+  ],
+  "printed": [
+   "St Abb's Head",
+   "St Abbs Head",
+   "St. Abb's Head,",
+   "St. Abbs Head"
+  ],
+  "regions": [
+   "scotland_east",
+   "unknown"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "29@1880",
+   "29@1881",
+   "29@1882",
+   "29@1883",
+   "29@1884",
+   "29@1885",
+   "29@1886",
+   "29@1887"
+  ]
+ },
+ {
+  "id": "cape-wrath",
+  "name": "Cape Wrath",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   338
+  ],
+  "printed": [
+   "Cape Wrath"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "81@1880",
+   "81@1881",
+   "81@1882",
+   "81@1883",
+   "81@1884",
+   "81@1885",
+   "81@1886",
+   "81@1887"
+  ]
+ },
+ {
+  "id": "stoer-head",
+  "name": "Stoer Head (Rhu Stoir)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   379
+  ],
+  "printed": [
+   "Rhu Stoir"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "82@1880",
+   "82@1881",
+   "82@1882",
+   "82@1883",
+   "82@1884",
+   "82@1885",
+   "82@1886",
+   "82@1887"
+  ]
+ },
+ {
+  "id": "butt-of-lewis",
+  "name": "Butt of Lewis",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   337
+  ],
+  "printed": [
+   "Butt of Lewis"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "83@1880",
+   "83@1881",
+   "83@1882",
+   "83@1883",
+   "83@1884",
+   "83@1885",
+   "83@1886",
+   "83@1887"
+  ]
+ },
+ {
+  "id": "arnish-point",
+  "name": "Arnish Point (Stornoway)",
+  "kind": "lighthouse",
+  "note": "'Stornoway (2 Lights)' in 1887 is a single row, so it is one station.",
+  "edits": [],
+  "members": [
+   387,
+   388
+  ],
+  "printed": [
+   "Stornoway",
+   "Stornoway (2 Lights),"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "84@1880",
+   "84@1881",
+   "84@1882",
+   "84@1883",
+   "84@1884",
+   "84@1885",
+   "84@1886",
+   "84@1887"
+  ]
+ },
+ {
+  "id": "eilean-glas",
+  "name": "Eilean Glas",
+  "kind": "lighthouse",
+  "note": "Printed 'Island Glass', 'Island Ghlais' and 'Island of Ghlais'.",
+  "edits": [],
+  "members": [
+   349,
+   350,
+   351
+  ],
+  "printed": [
+   "Island Ghlais",
+   "Island Glass",
+   "Island of Ghlais"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "85@1880",
+   "85@1881",
+   "85@1882",
+   "85@1883",
+   "85@1884",
+   "85@1885",
+   "85@1886",
+   "85@1887"
+  ]
+ },
+ {
+  "id": "monach-isles",
+  "name": "Monach Isles",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [
+   "Fuller id (run 2)."
+  ],
+  "members": [
+   367,
+   368,
+   369
+  ],
+  "printed": [
+   "Monach Island",
+   "Monach Islands",
+   "Monach Isles"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "86@1880",
+   "86@1881",
+   "86@1882",
+   "86@1883",
+   "86@1884",
+   "86@1885",
+   "86@1886",
+   "86@1887"
+  ]
+ },
+ {
+  "id": "ushenish",
+  "name": "Ushenish",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   390
+  ],
+  "printed": [
+   "Ushenish"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "87@1880",
+   "87@1881",
+   "87@1882",
+   "87@1883",
+   "87@1884",
+   "87@1885",
+   "87@1886",
+   "87@1887"
+  ]
+ },
+ {
+  "id": "barra-head",
+  "name": "Barra Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   335
+  ],
+  "printed": [
+   "Barra Head"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "88@1880",
+   "88@1881",
+   "88@1882",
+   "88@1883",
+   "88@1884",
+   "88@1885",
+   "88@1886",
+   "88@1887"
+  ]
+ },
+ {
+  "id": "rona",
+  "name": "Rona (South Rona)",
+  "kind": "lighthouse",
+  "note": "'Bona' (1881, no. 89, between Barra Head and Kyleakin) is a misprint. Rona itself is missing from 1881.",
+  "edits": [],
+  "members": [
+   336,
+   381
+  ],
+  "printed": [
+   "Bona",
+   "Rona"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "89@1880",
+   "89@1881",
+   "89@1882",
+   "89@1883",
+   "89@1884",
+   "89@1885",
+   "89@1886",
+   "89@1887"
+  ]
+ },
+ {
+  "id": "kyleakin",
+  "name": "Kyleakin",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   355
+  ],
+  "printed": [
+   "Kyleakin"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "90@1880",
+   "90@1881",
+   "90@1882",
+   "90@1883",
+   "90@1884",
+   "90@1885",
+   "90@1886",
+   "90@1887"
+  ]
+ },
+ {
+  "id": "isle-ornsay",
+  "name": "Isle Ornsay",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   352,
+   353,
+   354
+  ],
+  "printed": [
+   "Isle Ornsay",
+   "Isle Oronsay,",
+   "Isle of Ornsay"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "91@1880",
+   "91@1881",
+   "91@1882",
+   "91@1883",
+   "91@1884",
+   "91@1885",
+   "91@1886",
+   "91@1887"
+  ]
+ },
+ {
+  "id": "ardnamurchan",
+  "name": "Ardnamurchan",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   331,
+   332,
+   333,
+   334
+  ],
+  "printed": [
+   "Ardnamurchan",
+   "Ardnamurchan Point",
+   "Ardnamurchan Pt.",
+   "Ardnamurchan, Pt."
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "92@1880",
+   "92@1881",
+   "92@1882",
+   "92@1883",
+   "92@1884",
+   "92@1885",
+   "92@1886",
+   "92@1887"
+  ]
+ },
+ {
+  "id": "hynish-signal-tower",
+  "name": "Hynish Signal Tower",
+  "kind": "other",
+  "note": "The Skerryvore shore station on Tiree. It has its own row (no. 93) in 1879-84, next to Skerryvore.",
+  "edits": [],
+  "members": [
+   347,
+   348
+  ],
+  "printed": [
+   "Hynish",
+   "Hynish Signal Tower,"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884"
+  ],
+  "numbers": [
+   "93@1880",
+   "93@1881",
+   "93@1882",
+   "93@1883",
+   "93@1884"
+  ]
+ },
+ {
+  "id": "skerryvore",
+  "name": "Skerryvore",
+  "kind": "lighthouse",
+  "note": "In 1885-87 the two rows are joined as 'Skerryvore and Hynish Signal Tower' (no. 93). The joined row is put with the light, but it stands for both stations. Split it out if you prefer.",
+  "edits": [],
+  "members": [
+   383,
+   384
+  ],
+  "printed": [
+   "Skerryvore",
+   "Skerryvore and Hynish Signal Tower"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "93@1885",
+   "93@1886",
+   "93@1887",
+   "94@1880",
+   "94@1881",
+   "94@1882",
+   "94@1883",
+   "94@1884"
+  ]
+ },
+ {
+  "id": "dubh-artach",
+  "name": "Dubh Artach",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   344
+  ],
+  "printed": [
+   "Dhuheartach"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "94@1885",
+   "94@1886",
+   "94@1887",
+   "95@1880",
+   "95@1881",
+   "95@1882",
+   "95@1883",
+   "95@1884"
+  ]
+ },
+ {
+  "id": "rubha-nan-gall",
+  "name": "Rubha nan Gall (Sound of Mull)",
+  "kind": "lighthouse",
+  "note": "Printed 'Sound of Mull', Tobermory.",
+  "edits": [],
+  "members": [
+   386
+  ],
+  "printed": [
+   "Sound of Mull"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "95@1885",
+   "95@1886",
+   "95@1887",
+   "96@1880",
+   "96@1881",
+   "96@1882",
+   "96@1883",
+   "96@1884"
+  ]
+ },
+ {
+  "id": "corran-point",
+  "name": "Corran Point (Corran Ferry)",
+  "kind": "lighthouse",
+  "note": "'Conan Ferry' (1881, Loch Eil, no. 97) is a misprint.",
+  "edits": [],
+  "members": [
+   340,
+   341
+  ],
+  "printed": [
+   "Conan Ferry",
+   "Corran Ferry"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "96@1885",
+   "96@1886",
+   "96@1887",
+   "97@1880",
+   "97@1881",
+   "97@1882",
+   "97@1883",
+   "97@1884"
+  ]
+ },
+ {
+  "id": "lismore",
+  "name": "Lismore",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   359,
+   360,
+   361
+  ],
+  "printed": [
+   "Lismore",
+   "Lismore I.",
+   "Lismore Island"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "97@1885",
+   "97@1886",
+   "97@1887",
+   "98@1880",
+   "98@1881",
+   "98@1882",
+   "98@1883",
+   "98@1884"
+  ]
+ },
+ {
+  "id": "fladda",
+  "name": "Fladda",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   346
+  ],
+  "printed": [
+   "Fladda"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "98@1885",
+   "98@1886",
+   "98@1887",
+   "99@1880",
+   "99@1881",
+   "99@1882",
+   "99@1883",
+   "99@1884"
+  ]
+ },
+ {
+  "id": "rhuvaal",
+  "name": "Rhuvaal (Rubh' a' Mhàil)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   380
+  ],
+  "printed": [
+   "Rhuvaal"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "100@1880",
+   "100@1881",
+   "100@1882",
+   "100@1883",
+   "100@1884",
+   "99@1885",
+   "99@1886",
+   "99@1887"
+  ]
+ },
+ {
+  "id": "mcarthurs-head",
+  "name": "McArthur's Head",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   365,
+   366,
+   373
+  ],
+  "printed": [
+   "M'Arthur's Head",
+   "Mac Arthur's Head",
+   "M‘Arthur’s Head"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "100@1885",
+   "100@1886",
+   "100@1887",
+   "101@1880",
+   "101@1881",
+   "101@1882",
+   "101@1883",
+   "101@1884"
+  ]
+ },
+ {
+  "id": "skervuile",
+  "name": "Skervuile",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   385
+  ],
+  "printed": [
+   "Skervuile"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "101@1885",
+   "101@1886",
+   "101@1887",
+   "102@1880",
+   "102@1881",
+   "102@1882",
+   "102@1883",
+   "102@1884"
+  ]
+ },
+ {
+  "id": "rhinns-of-islay",
+  "name": "Rhinns of Islay",
+  "kind": "lighthouse",
+  "note": "'Rhinns of May' (1887 master list, no. 102, between Skervuile and Lochindaul) is a misprint.",
+  "edits": [],
+  "members": [
+   377,
+   378
+  ],
+  "printed": [
+   "Rhinns of Islay",
+   "Rhinns of May"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "102@1885",
+   "102@1886",
+   "102@1887",
+   "103@1880",
+   "103@1881",
+   "103@1882",
+   "103@1883",
+   "103@1884"
+  ]
+ },
+ {
+  "id": "loch-indaal",
+  "name": "Loch Indaal",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   364
+  ],
+  "printed": [
+   "Lochindaul"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "103@1885",
+   "103@1886",
+   "103@1887",
+   "104@1880",
+   "104@1881",
+   "104@1882",
+   "104@1883",
+   "104@1884"
+  ]
+ },
+ {
+  "id": "mull-of-kintyre",
+  "name": "Mull of Kintyre",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   370,
+   372
+  ],
+  "printed": [
+   "Mull of Cantyre",
+   "Mull of Kintyre"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "104@1885",
+   "104@1886",
+   "104@1887",
+   "105@1880",
+   "105@1881",
+   "105@1882",
+   "105@1883",
+   "105@1884"
+  ]
+ },
+ {
+  "id": "sanda",
+  "name": "Sanda",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   382
+  ],
+  "printed": [
+   "Sanda"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "105@1885",
+   "105@1886",
+   "105@1887",
+   "106@1880",
+   "106@1881",
+   "106@1882"
+  ]
+ },
+ {
+  "id": "davaar",
+  "name": "Davaar",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   343
+  ],
+  "printed": [
+   "Devaar"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "106@1884",
+   "106@1885",
+   "106@1886",
+   "106@1887",
+   "107@1880",
+   "107@1881",
+   "107@1882",
+   "107@1883"
+  ]
+ },
+ {
+  "id": "pladda",
+  "name": "Pladda",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   374
+  ],
+  "printed": [
+   "Pladda"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "107@1884",
+   "107@1885",
+   "107@1886",
+   "107@1887",
+   "108@1880",
+   "108@1881",
+   "108@1882",
+   "108@1883"
+  ]
+ },
+ {
+  "id": "holy-isle",
+  "name": "Holy Isle (Lamlash)",
+  "kind": "lighthouse",
+  "note": "Printed 'Lamlash', Arran. Taken to be the Holy Isle light at Lamlash, lit 1877. Please check.",
+  "edits": [
+   "Both runs: the lists' 'Lamlash'."
+  ],
+  "members": [
+   356
+  ],
+  "printed": [
+   "Lamlash"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "108@1884",
+   "108@1885",
+   "108@1886",
+   "108@1887",
+   "109@1880",
+   "109@1881",
+   "109@1882",
+   "109@1883"
+  ]
+ },
+ {
+  "id": "turnberry",
+  "name": "Turnberry",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   389
+  ],
+  "printed": [
+   "Turnberry"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "109@1884",
+   "109@1885",
+   "109@1886",
+   "109@1887",
+   "110@1880",
+   "110@1881",
+   "110@1882",
+   "110@1883"
+  ]
+ },
+ {
+  "id": "ailsa-craig",
+  "name": "Ailsa Craig",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   330
+  ],
+  "printed": [
+   "Ailsa Craig"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "109B@1885",
+   "109B@1886",
+   "109B@1887",
+   "109_b_@1885",
+   "109_b_@1887"
+  ]
+ },
+ {
+  "id": "corsewall",
+  "name": "Corsewall",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   342
+  ],
+  "printed": [
+   "Corsewall"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "110@1884",
+   "110@1885",
+   "110@1886",
+   "110@1887",
+   "111@1880",
+   "111@1881",
+   "111@1882",
+   "111@1883"
+  ]
+ },
+ {
+  "id": "loch-ryan",
+  "name": "Loch Ryan (Cairn Point)",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   363
+  ],
+  "printed": [
+   "Loch Ryan"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "111@1884",
+   "111@1885",
+   "111@1886",
+   "111@1887",
+   "112@1880",
+   "112@1881",
+   "112@1882",
+   "112@1883"
+  ]
+ },
+ {
+  "id": "portpatrick",
+  "name": "Portpatrick",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   376
+  ],
+  "printed": [
+   "Portpatrick"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "112@1884",
+   "112@1885",
+   "112@1886",
+   "112@1887",
+   "113@1880",
+   "113@1881",
+   "113@1882",
+   "113@1883"
+  ]
+ },
+ {
+  "id": "mull-of-galloway",
+  "name": "Mull of Galloway",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   371
+  ],
+  "printed": [
+   "Mull of Galloway"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "113@1884",
+   "113@1885",
+   "113@1886",
+   "113@1887",
+   "114@1880",
+   "114@1881",
+   "114@1882",
+   "114@1883"
+  ]
+ },
+ {
+  "id": "little-ross",
+  "name": "Little Ross",
+  "kind": "lighthouse",
+  "note": null,
+  "edits": [],
+  "members": [
+   362
+  ],
+  "printed": [
+   "Little Ross"
+  ],
+  "regions": [
+   "scotland_west"
+  ],
+  "seen": [
+   "1879",
+   "1880",
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "numbers": [
+   "114@1884",
+   "114@1885",
+   "114@1886",
+   "114@1887",
+   "115@1880",
+   "115@1881",
+   "115@1882",
+   "115@1883"
+  ]
+ }
+]

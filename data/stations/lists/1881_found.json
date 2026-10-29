@@ -1,0 +1,94 @@
+{
+ "lists": [
+  {
+   "section": "EAST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 183,
+   "last_line": 217,
+   "lead_quote": "The stations are as follows, commencing in the north.",
+   "legend_quotes": [
+    "The dates upon which the various stations have sent in returns are shown in the list by the positions of the asterisks preceding the consecutive numbers.",
+    "The numbers are the same as in the 2nd Report, 1880, but another for Fair Isle has been inserted as \"7B.\"",
+    "The only addition to the list of stations is Fair Isle, No. 7 b."
+   ],
+   "printed_count_quote": "The usual papers were sent to twenty-six stations, as before.",
+   "rows_counted": 27,
+   "columns": "Table heading 'East Coast of Scotland.' (line 180), with sub-heads Orkney (190) and Mainland (201). Return asterisks under 1879, '80, '81; number (4-29 plus 7B); station and county; height in feet; keeper. Rows are 4-29 plus 7B; the 12 asterisks for 1881 match the text."
+  },
+  {
+   "section": "EAST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 736,
+   "last_line": 773,
+   "lead_quote": "The east coast stations are as follows, those making returns being marked with a star (*):--",
+   "legend_quotes": [
+    "The east coast stations are as follows, those making returns being marked with a star (*):--",
+    "† For nature of light, and position and description of station, see previous Reports."
+   ],
+   "printed_count_quote": "Printed forms of enquiry and letters of instruction were sent to thirty-four lighthouses and light-vessels on the east coast of England, and two stations on the Channel Islands, thirty-six altogether against thirty-seven in 1880, and returns have been received from twenty-five.",
+   "rows_counted": 36,
+   "columns": "* for a return; station (L.H./L.V.); keeper(s). No numbers. The † appears only on Longstone. 25 stars, matching the text. Gull and Southsand Head each name two keepers over two lines."
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND.",
+   "kind": "section",
+   "first_line": 1830,
+   "last_line": 1882,
+   "lead_quote": "The dates upon which the various stations have sent us returns are shown in the following list of the stations by the positions of the asterisks preceding the consecutive numbers.",
+   "legend_quotes": [
+    "The dates upon which the various stations have sent us returns are shown in the following list of the stations by the positions of the asterisks preceding the consecutive numbers.",
+    "Stations added have the dates preceding the names."
+   ],
+   "printed_count_quote": "Schedules, &c., were sent to thirty-eight stations, the same number as in 1880.",
+   "rows_counted": 40,
+   "columns": "Table heading 'West Coast of Scotland.' (line 1825), with sub-heads Mainland, Outer Hebrides, and Mainland, Skye, and Inner Hebrides. Return asterisks under 1879, '80, '81; number (81-120); station and place; height in feet; keeper. Nos. 93 and 94 share one bracket; 119 and 120 are the '1880' additions. 27 stars for 1881 against the 26 returns the text gives."
+  },
+  {
+   "section": "WEST COAST OF ENGLAND.",
+   "kind": "section",
+   "first_line": 2433,
+   "last_line": 2494,
+   "lead_quote": "The following is the list, those from which returns have been received being marked with an asterisk (*):--",
+   "legend_quotes": [
+    "The numbers of the stations differ from those of last year's report, beginning at 121 instead of 110 (the last included in Report of West Coast of Scotland being 120).",
+    "The following is the list, those from which returns have been received being marked with an asterisk (*):--",
+    "(These two are looked upon as one station).",
+    "In the above list particulars of colour and height of lights, &c., are given where omitted from list of last year or where there have been alterations."
+   ],
+   "printed_count_quote": "Schedules, &c., were forwarded to forty lighthouses and light-vessels on the west coast of England; from twenty-four returns have been received.",
+   "rows_counted": 40,
+   "columns": "Number (121-160); * for a return; station (L.H./L.V.), sometimes with the light's character, colour and height; keeper. Only 23 asterisks, against 24 returns in the text."
+  },
+  {
+   "section": "IRISH COAST: AUTUMN.",
+   "kind": "section",
+   "first_line": 3267,
+   "last_line": 3307,
+   "lead_quote": "Names of Stations to which Schedules were sent in the Autumn of 1881.",
+   "legend_quotes": [
+    "A table showing the number of birds striking each lantern, the number of daily entries in each return, the number of species of birds mentioned in each schedule in the daily entries, the height of each lantern above high-water mark, and its approximate distance from the mainland is given."
+   ],
+   "printed_count_quote": "Printed schedules were forwarded to forty light stations around the coast.",
+   "rows_counted": 40,
+   "columns": "No. and name of light-station, and situation on coast; birds striking lantern; no. of daily entries; no. of species in entries; height of lantern above sea-level; miles from shore. 'No reply.' or 'Do.' for non-returning stations. Tuskar takes two lines (3273-3274)."
+  },
+  {
+   "section": "IRISH COAST: AUTUMN.",
+   "kind": "other",
+   "first_line": 3315,
+   "last_line": 3344,
+   "lead_quote": "Table showing Date on which Entries were made in Schedules, with No. of Station making same.",
+   "legend_quotes": [
+    "A table showing the days on which entries were made in the schedules has been drawn up in, the hope that, if the extent of the migratory movement on any particular day varied with the number of entries, some inference could be drawn; but here also generalisation is premature."
+   ],
+   "printed_count_quote": "Thirty stations replied by returning the schedules wholly or partially filled with daily entries, or by sending letters remarking on the absence of migratory birds or on their general movements.",
+   "rows_counted": 30,
+   "columns": "Sub-heading 'Nos. and Names of Stations.' (line 3313). Station number and name only: the key to the day grid that follows (lines 3346-3414). Printed variants: 'Kirk Bank' for Kish Bank and 'Black Rock (Mayo)'."
+  }
+ ],
+ "_meta": {
+  "year": 1881,
+  "source": "sources/gutenberg/1881_pg65471.txt",
+  "cost_usd": 0.4070758
+ }
+}

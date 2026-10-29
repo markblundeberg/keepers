@@ -1,0 +1,1029 @@
+{
+ "matches": [
+  {
+   "id": "berwick",
+   "row": 240,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Berwick-on-Tweed pier-head light",
+   "row_id": "p62r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "longstone",
+   "row": 239,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p62r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inner-farne",
+   "row": 238,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'FARN ISLAND': the high and low towers are printed in one row",
+   "row_id": "p62r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "coquet",
+   "row": 235,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p62r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "souter",
+   "row": 228,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p62r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "tees-lv",
+   "row": 222,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Findlay row 222 has no name. It is the Tees entry (54 37.6N 1 10.5W) and lists '2. Fifth buoy, fix. red lt.', but Findlay doesn't call it a light-vessel. It comes right after South Gare in the coast order.",
+   "row_id": "p61r22",
+   "extra_row_ids": []
+  },
+  {
+   "id": "teesmouth-1880",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "low",
+   "note": "Second Teesmouth entry in 1880, marked 'other'. If it was a light, the candidate is row 222 (the Tees lights: Fourth buoy and Seal Sand). The South Gare light (row 221) was set up in 1884, so it cannot be this one.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-gare",
+   "row": 221,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "South Gare Breakwater, 1884; Findlay prints no position",
+   "row_id": "p61r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "whitby-high",
+   "row": 219,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'HIGH WHITBY' (two lights on Ling Hill), not row 220 (Whitby Harbour)",
+   "row_id": "p61r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "flamborough-head",
+   "row": 217,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p61r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "spurn-point",
+   "row": 211,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The high and low lighthouses are printed in one row",
+   "row_id": "p61r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "spurn-lv",
+   "row": 210,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Spurn Lightvessel, off the point (53 34N 0 13E). Not the same as row 211, the lighthouse.",
+   "row_id": "p61r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bull-lv",
+   "row": 212,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Bull Sand Lightvessel, off Spurn",
+   "row_id": "p61r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "great-cotes",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Great Coates, near Grimsby: an observer's place, not a light. Findlay has no entry for it.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "outer-dowsing-lv",
+   "row": 209,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p61r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inner-dowsing-lv",
+   "row": 207,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dudgeon-lv",
+   "row": 208,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r22",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lynn-well-lv",
+   "row": 204,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Not row 205, the Lynn Channel light-vessel",
+   "row_id": "p60r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hunstanton",
+   "row": 203,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cromer",
+   "row": 202,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "northrepps",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "A village near Cromer, not a light",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "leman-and-ower-lv",
+   "row": 201,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "happisburgh",
+   "row": 198,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'HASBOROUGH': a white tower on shore at 52 49N 1 32E",
+   "row_id": "p60r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "happisburgh-lv",
+   "row": 199,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'HASBOROUGH LT.-VES.', off the north end of the sand (52 58.8N 1 35.5E)",
+   "row_id": "p60r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "winterton",
+   "row": 195,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'WINTERTON NESS'",
+   "row_id": "p60r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "newarp-lv",
+   "row": 196,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cockle-lv",
+   "row": 194,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "corton-lv",
+   "row": 190,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p60r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lowestoft",
+   "row": 188,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The high and low lights are printed in one row",
+   "row_id": "p60r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "orfordness",
+   "row": 186,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Two lights printed in one row",
+   "row_id": "p59r22",
+   "extra_row_ids": []
+  },
+  {
+   "id": "shipwash-lv",
+   "row": 185,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p59r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "landguard-point",
+   "row": 182,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p59r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cork-lv",
+   "row": 184,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p59r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "galloper-lv",
+   "row": 17,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "kentish-knock-lv",
+   "row": 16,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "swin-middle-lv",
+   "row": 12,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p50r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "tongue-lv",
+   "row": 8,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p50r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "nore-lv",
+   "row": 5,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p50r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "north-foreland",
+   "row": 18,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "north-sand-head-lv",
+   "row": 20,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'GOODWIN LT.-VESSEL', 'off North end of the Goodwin Sands', so this is the North Sand Head vessel",
+   "row_id": "p51r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "gull-lv",
+   "row": 22,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Gull Stream Lightvessel",
+   "row_id": "p51r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-sand-head-lv",
+   "row": 23,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "east-goodwin-lv",
+   "row": 21,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'EAST GOODWIN LT.-V.', the reports' 'East Side'",
+   "row_id": "p51r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-foreland",
+   "row": 24,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The high and low electric lights are printed in one row",
+   "row_id": "p51r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "varne-lv",
+   "row": 28,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dungeness",
+   "row": 29,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p51r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "royal-sovereign-lv",
+   "row": 32,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'R. SOVEREIGN SHOALS', a light-vessel",
+   "row_id": "p52r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "beachy-head",
+   "row": 33,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Belle Tout",
+   "row_id": "p52r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "owers-lv",
+   "row": 40,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p52r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-catherines",
+   "row": 42,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p52r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "nab-lv",
+   "row": 41,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p52r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "casquets",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "This England file has no Channel Islands entries. Findlay probably prints the Casquets in another section (France or the Channel Islands).",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "hanois",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "This England file has no Channel Islands entries. Findlay probably prints Hanois in another section.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "heligoland",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Not in England. Findlay would print it under Germany or Denmark, if anywhere.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "allonby",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "low",
+   "note": "Allonby, on the Solway between Maryport and Silloth, had no light. Nearby Findlay rows: 161 Maryport, 162 Solway Lightvessel, 163 Lee Scar, 164 Skinburness. If the report actually came from one of these lights, the row should be its entry.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-bees",
+   "row": 157,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p58r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "selker-lv",
+   "row": 156,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p58r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "morecambe-bay-lv",
+   "row": 151,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Not row 149 (Grange Channel) or row 150 (Morecambe Harbour)",
+   "row_id": "p58r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dee-lv",
+   "row": 130,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "River Dee Lightvessel, 1883, at 53 22.1N 3 22.1W",
+   "row_id": "p57r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "point-of-ayr-wales",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Findlay 1887 has no Point of Air entry. As I understand it, the Talacre tower went out of use in 1844 and its offshore pile light was replaced by the River Dee light-vessel (row 130, 1883), which lies about 2 miles off the point. The reports still list 'Air, L.H.' separately from the Dee L.V. from 1884 to 1887.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "trwyn-du",
+   "row": 127,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'MENAI, TRWYN-DU PT.'",
+   "row_id": "p57r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "skerries",
+   "row": 123,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p57r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "holyhead-breakwater",
+   "row": 122,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The Holyhead row; part 1 is the breakwater lighthouse (flashing red, 1872)",
+   "row_id": "p56r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "north-stack",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "A fog-signal station; Findlay gives it no light entry",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-stack",
+   "row": 121,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "caernarfon-bay-lv",
+   "row": 120,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-tudwals",
+   "row": 115,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'ST. TUDWALL ROADS'",
+   "row_id": "p56r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bardsey",
+   "row": 116,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "cardigan-bay-lv",
+   "row": 113,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-bishop",
+   "row": 111,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "smalls",
+   "row": 110,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "great-castle-head",
+   "row": 108,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints no position",
+   "row_id": "p56r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-anns-head-low",
+   "row": 107,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "One row ('MILFORD HAVEN ST. ANN'S POINT', two fixed lights) covers both the high and the low light",
+   "row_id": "p56r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-anns-head-high",
+   "row": 107,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Same row as the low light",
+   "row_id": "p56r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-anns-head",
+   "row": 107,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "caldey",
+   "row": 106,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "helwick-lv",
+   "row": 103,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "scarweather-lv",
+   "row": 101,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "nash-point-low",
+   "row": 98,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Both Nash towers are printed in one row",
+   "row_id": "p55r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "nash-point-high",
+   "row": 98,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Same row as the low light",
+   "row_id": "p55r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "breaksea-lv",
+   "row": 90,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "flat-holm",
+   "row": 95,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "english-and-welsh-grounds-lv",
+   "row": 93,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "west-usk",
+   "row": 96,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'Usk (Newport)'",
+   "row_id": "p55r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "avonmouth",
+   "row": 91,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'Avon' (white tower, 51 30.0N 2 42.2W). Not row 92, the Avonmouth leading lights of 1880.",
+   "row_id": "p55r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "burnham",
+   "row": 89,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The upper and lower lights are printed in one row",
+   "row_id": "p55r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bull-point",
+   "row": 87,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bideford-bar",
+   "row": 86,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Two towers on Braunton Sands, printed in one row",
+   "row_id": "p54r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lundy",
+   "row": 85,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lundy-fog-signal",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "A fog-gun station; Findlay gives it no light entry",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "hartland-point",
+   "row": 84,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "trevose-head",
+   "row": 83,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "godrevy",
+   "row": 82,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "longships",
+   "row": 76,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "sevenstones-lv",
+   "row": 77,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "wolf-rock",
+   "row": 74,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-agnes-scilly",
+   "row": 78,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'SCILLY', on St Agnes",
+   "row_id": "p54r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bishop-rock",
+   "row": 79,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lizard",
+   "row": 73,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Both towers are printed in one row",
+   "row_id": "p54r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "st-anthony-head",
+   "row": 72,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'FALMOUTH', part 1 (St Anthony Point)",
+   "row_id": "p54r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "eddystone",
+   "row": 71,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p54r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "plymouth-breakwater",
+   "row": 69,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p53r20",
+   "extra_row_ids": []
+  },
+  {
+   "id": "start-point-devon",
+   "row": 68,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Devon (50 13.3N 3 38.5W), not Start Point in Orkney",
+   "row_id": "p53r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "portland-bill",
+   "row": 59,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'PORTLAND', two lights printed in one row",
+   "row_id": "p53r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "shambles-lv",
+   "row": 61,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p53r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "anvil-point",
+   "row": 57,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'DURLSTON HEAD': 'on Anvil Point', 1881",
+   "row_id": "p53r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hurst-castle",
+   "row": 55,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'Hurst Beach', two towers printed in one row",
+   "row_id": "p53r3",
+   "extra_row_ids": []
+  },
+  {
+   "id": "needles",
+   "row": 54,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'NEEDLES OUTER ROCK'",
+   "row_id": "p53r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "bahama-bank-lv",
+   "row": 179,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p59r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "point-of-ayre-iom",
+   "row": 166,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Isle of Man (54 24.9N 4 22W), not Point of Air in Flintshire",
+   "row_id": "p59r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "douglas-head",
+   "row": 174,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay 'DOUGLAS', on Douglas Head; not rows 175 or 176 (Douglas Harbour, Douglas Bay)",
+   "row_id": "p59r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "langness",
+   "row": 172,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The reports once print 'Longness L.V.'; it is the lighthouse (1880)",
+   "row_id": "p59r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "chicken-rock",
+   "row": 169,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p59r3",
+   "extra_row_ids": []
+  }
+ ],
+ "notes": "Things to check:\n(1) Casquets and Hanois: this England file has no Channel Islands entries. Look in Findlay's France or Channel Islands pages for their rows.\n(2) Point of Ayr (Flintshire): Findlay 1887 has no entry for it. The River Dee light-vessel (row 130, 1883) lies about 2 miles off the point and may have taken its place, yet the reports list 'Air, L.H.' and 'Dee L.V.' separately in 1884-87. Check what the 'Air' observer was actually at.\n(3) Tees No. 5 Buoy: row 222 has no name in the transcription. It holds the Tees lights, and part 2 is 'Fifth buoy, fix. red lt.', but Findlay doesn't say it is a light-vessel. Check the scan for the name and description.\n(4) Teesmouth (second 1880 entry) and Allonby: I left both null. If either is in fact a light, the candidates are row 222 (Tees) and rows 161-164 (Maryport, Solway LV, Lee Scar, Skinburness).\n(5) Rows covering two stations: St Ann's Head low, high and single (all row 107) and Nash Point low and high (row 98). No station needed extra_rows, because Findlay prints each high-and-low pair here in a single row (Spurn, Lowestoft, South Foreland, Lizard, Portland, Hurst, Farne, Orfordness, Bideford).\n(6) Many rows have no position (Great Castle Head, South Gare, Tees 222 has one, Holyhead has one). Positions for those must come from elsewhere.\n(7) Heligoland, Northrepps, Great Coates, North Stack and Lundy Fog Gun are null because they are not lights.",
+ "_meta": {
+  "edition": "findlay1887",
+  "country": "ENGLAND",
+  "run": 2,
+  "cost_usd": 0.5735272,
+  "converted": "row -> row_id added 28 Oct 2026, after the merge fix (tools/merge_lights.py: pairing by order, rows with only a description kept); row indexes refer to the pre-fix CSV"
+ }
+}

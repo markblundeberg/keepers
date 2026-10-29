@@ -1,0 +1,4664 @@
+[
+ {
+  "chunk": "1880-00000",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-03-10/1880-03-16",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00000",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "settled",
+  "chosen": "settled",
+  "why": "\"took shelter at Fair Isle\": resting on the island"
+ },
+ {
+  "chunk": "1880-00000",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-03-10/1880-03-16",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00000",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "common Black Crows",
+  "second": "Black Crows",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00000",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-03-10/1880-03-16",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00000",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "a large increase",
+  "chosen": null,
+  "why": "\"a large increase\" is a change in numbers, not a count"
+ },
+ {
+  "chunk": "1880-00003",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "several kinds of",
+  "chosen": null,
+  "why": "\"several kinds of hawks\" counts kinds, not birds; no count of individuals given"
+ },
+ {
+  "chunk": "1880-00003",
+  "kind": "lone second: dropped",
+  "quote": "in the morning when the rock-birds are first seen on\narrival in spring",
+  "why": "\"it is usually in the morning when the rock-birds are first seen\" describes the usual pattern, not a sighting"
+ },
+ {
+  "chunk": "1880-00003",
+  "kind": "lone second: kept",
+  "quote": "out in\nthe S.S. 'Fiery Cross' the previous Thursday, \"thought\" he saw one",
+  "why": "\"the previous Thursday, \\\"thought\\\" he saw one\": a separate dated sighting of the Black Guillemot, though uncertain"
+ },
+ {
+  "chunk": "1880-00005",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "more",
+  "chosen": "more",
+  "why": "\"more\nGoldcrests appeared\": \"more\" is the only quantity word printed for these birds, so it is copied as the count."
+ },
+ {
+  "chunk": "1880-00005",
+  "kind": "lone second: kept",
+  "quote": "In the autumn migrations, they are recorded from two stations, _viz._, Tarbat Ness",
+  "why": "\"recorded from two stations, _viz._, Tarbat Ness\": this is the chunk's only record of Goldcrests at Tarbat Ness. The other reader didn't cover it, and summaries count as observations."
+ },
+ {
+  "chunk": "1880-00002",
+  "kind": "lone first: kept",
+  "quote": "chasing small birds, seen on Pentland Skerries at 9 a.m.",
+  "why": "\"one Sparrowhawk, chasing small birds, seen on Pentland Skerries at 9 a.m.\" places small birds at the station on Sept. 3rd. That makes them a bird kind of their own, \"seen\". The Sparrowhawk observation doesn't carry them."
+ },
+ {
+  "chunk": "1880-00006",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "during the night",
+  "chosen": "during the night",
+  "why": "\"having arrived during the night\": the chunk gives when this migration came in, and reading 2's quote includes it"
+ },
+ {
+  "chunk": "1880-00007",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "the same",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00008",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "struck",
+  "second": "seen",
+  "chosen": "struck",
+  "why": "\"came to the lights, and one was wounded\": wounded at the lights means it hit the lantern. That is more specific than seen."
+ },
+ {
+  "chunk": "1880-00008",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "all",
+  "chosen": null,
+  "why": "\"they all again departed\": 'all' only points back to the flocks. It gives no quantity."
+ },
+ {
+  "chunk": "1880-00008",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "haze to fog",
+  "second": "from\nhaze to fog",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00008",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "very large migration",
+  "second": "very large",
+  "chosen": "very large migration",
+  "why": "\"A very large migration of Titlarks\": a quantity phrase with its noun, like 'large flocks' or 'great number of'."
+ },
+ {
+  "chunk": "1880-00011",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"remained two days at Isle of May\": the rules list \"remained about the lighthouse\" as settled, and an island counts."
+ },
+ {
+  "chunk": "1880-00011",
+  "kind": "lone second: dropped",
+  "quote": "The only record on the west coast agrees with this, however, at Bahama L. V.",
+  "why": "\"at Bahama L. V. (_q. v._)\" only points to the west-coast entry, so keeping it would count that record twice. It gives no date or count of its own."
+ },
+ {
+  "chunk": "1880-00013",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "all",
+  "second": null,
+  "chosen": "all",
+  "why": "\"all left\": 'all' is the quantity words as printed; the rules say copy quantity words, don't null them"
+ },
+ {
+  "chunk": "1880-00013",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"all left, not one to be seen\": the birds left, i.e. migrated away, which is more specific than seen"
+ },
+ {
+  "chunk": "1880-00013",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "seen",
+  "chosen": "round_station",
+  "why": "\"five seen hovering round at 1.30 p.m.\": circling the station by day, nothing about the light"
+ },
+ {
+  "chunk": "1880-00015",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"two arrived ... and remained\": the birds stayed at the island station, like the rule's \"remained about the lighthouse\""
+ },
+ {
+  "chunk": "1880-00015",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"twelve arrived at 11.30 a.m.; wind light N., and remained\": they stayed on the island"
+ },
+ {
+  "chunk": "1880-00015",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"five at 1 p.m.; ... and remained\": they stayed at Auskerry"
+ },
+ {
+  "chunk": "1880-00015",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"had been on the island for weeks\": resting on the island"
+ },
+ {
+  "chunk": "1880-00012",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"remained twenty-four hours\": the flock stayed at Inch Keith, like the rule's \"remained about the lighthouse\""
+ },
+ {
+  "chunk": "1880-00014",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"all left after the fog... cleared away\": a migratory departure is more specific than seen"
+ },
+ {
+  "chunk": "1880-00014",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"as did other species, including Wheatears\": they left too, so departure (migrating)"
+ },
+ {
+  "chunk": "1880-00014",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"as did other species, including... Wagtails\": they left too, so departure (migrating)"
+ },
+ {
+  "chunk": "1880-00014",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"as did other species, including... Rock-birds\": they left too, so departure (migrating)"
+ },
+ {
+  "chunk": "1880-00016",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "clear",
+  "second": "sky was clear and the sun shining",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00020",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"all left Whalsey on Aug. 28th\": a departure on migration, which is more specific than plain 'seen'."
+ },
+ {
+  "chunk": "1880-00020",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "fog",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00018",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-12-23",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00019",
+  "kind": "lone first: kept",
+  "quote": "Eiders said to leave about August",
+  "why": "\"Eiders said to leave about August\" is one of the autumn entries the chunk counts. Summaries and remarks count as observations. The station is unstated (null) and the date words are copied exactly."
+ },
+ {
+  "chunk": "1880-00022",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "white Sea Gull of the Kittiwake variety",
+  "second": "Sea Gull",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00025",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "from the north",
+  "second": "apparently from the north",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "flying N.W.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "at 7 a.m.",
+  "chosen": null,
+  "why": "\"left flying N.E., at 7 a.m.\" is when the crow left, not when it was \"seen asleep on balcony rail\"; the time goes with the passing observation (a6)."
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "flying N.E.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "lone first: dropped",
+  "quote": "25th, great number of Larks\nduring the night",
+  "why": "\"great number of Larks during the night; ... striking\": the struck observation already has these Larks, \"great number of\" and \"during the night\". A plain sighting adds nothing."
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "lone first: kept",
+  "quote": "Larks\nduring the night; wind light W.; striking, but none found dead;\nleft, flying N.W.",
+  "why": "\"left, flying N.W.\" is a separate passing event with a direction. No struck observation records it as passing."
+ },
+ {
+  "chunk": "1880-00028",
+  "kind": "lone first: kept",
+  "quote": "one Black Crow seen asleep on balcony\nrail; left flying N.E., at 7 a.m.",
+  "why": "\"left flying N.E., at 7 a.m.\" is a passing event with its own direction and time, apart from \"seen asleep on balcony rail\" (settled)."
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "daily",
+  "chosen": null,
+  "why": "\"observed daily\" says how often, not what time of day"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "flocks",
+  "second": null,
+  "chosen": "flocks",
+  "why": "\"observed daily in flocks going E., ...; and going W.\": the flocks cover both clauses"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "lone first: dropped",
+  "quote": "Golden-crested Wren and the Common Wren have not visited us as usual.\nI have seen these small birds thick on the windows, night after\nnight, during the fall of the year",
+  "why": "\"have not visited us as usual\": it reports their absence; the rest recalls past years with no date"
+ },
+ {
+  "chunk": "1880-00027",
+  "kind": "lone first: dropped",
+  "quote": "Golden-crested Wren and the Common Wren have not visited us as usual.\nI have seen these small birds thick on the windows, night after\nnight, during the fall of the year",
+  "why": "\"have not visited us as usual\": it reports their absence; the rest recalls past years with no date"
+ },
+ {
+  "chunk": "1880-00024",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "six or eight",
+  "second": null,
+  "chosen": "six or eight",
+  "why": "\"About the same number is counted, _viz._, six or eight each year\": this is the number given for the Skuas at North Unst, so keep it rather than null."
+ },
+ {
+  "chunk": "1880-00024",
+  "kind": "lone second: kept",
+  "quote": "and on the 29th these all left",
+  "why": "\"and on the 29th these all left\": a separate dated record of the Bell Rock Terns leaving. The Aug. 28th record of \"about thirty old and young\" feeding doesn't cover the 29th."
+ },
+ {
+  "chunk": "1880-00042",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "S.W.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00042",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "fine",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00044",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "same_as",
+  "second": "seen",
+  "chosen": "same_as",
+  "why": "\"(see Blackbird)\": the entry only points to another entry"
+ },
+ {
+  "chunk": "1880-00044",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": false,
+  "why": "\"killed and stunned during night\": the Sky Lark entry never mentions the lantern"
+ },
+ {
+  "chunk": "1880-00044",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": false,
+  "why": "\"with Starlings killed and stunned during night\": no lantern or light in this sentence"
+ },
+ {
+  "chunk": "1880-00044",
+  "kind": "lone second: dropped",
+  "quote": "several struck lantern and killed along with Larks",
+  "why": "\"struck lantern and killed\": the text says they were killed, so `struck` doesn't apply (it is for strikes not stated killed). The dead observation covers it."
+ },
+ {
+  "chunk": "1880-00045",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Kilnsea",
+  "second": "Spurn L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00043",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "o.m.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00043",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "o.m.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00043",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-04-23",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00043",
+  "kind": "lone second: kept",
+  "quote": "Thenceforward females increasing",
+  "why": "\"Thenceforward females increasing\": a separate statement about Redstarts at Heligoland after May 10th, not covered by \"all males\" or \"19th, all females\""
+ },
+ {
+  "chunk": "1880-00056",
+  "kind": "lone first: dropped",
+  "quote": "Oct. 2nd, 11 p.m. to 2 a.m., with Ring Ouzels and Larks going W., six\nMistletoe Thrushes",
+  "why": "The text says \"six Mistletoe Thrushes striking\": the six were striking, not passing. \"going W.\" goes with the Ring Ouzels and Larks. The other reading's striking observation already has this kind and count."
+ },
+ {
+  "chunk": "1880-00051",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "greater or less numbers",
+  "second": null,
+  "chosen": "greater or less numbers",
+  "why": "\"almost daily in greater or less numbers\" is quantity wording, copied as printed"
+ },
+ {
+  "chunk": "1880-00051",
+  "kind": "lone second: dropped",
+  "quote": "Sparrowhawks\noften arrive towards evening.",
+  "why": "\"Mr. Gätke says Sparrowhawks often arrive towards evening\" is a general habit, with no date or count, not an event"
+ },
+ {
+  "chunk": "1880-00053",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "east coast",
+  "second": "our east coast",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00053",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "north",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00053",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"the Woodcock arriving\": arrival in the rush is migration, so passing."
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Ring Ouzels",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Ring Ouzels",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "early part of day foggy",
+  "second": "foggy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "early part of day foggy",
+  "second": "foggy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Song Thrush",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "early part of day foggy",
+  "second": "foggy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "small birds",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Blackbirds",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "Great rush",
+  "chosen": null,
+  "why": "\"Great rush\" names an event and gives no number or quantity"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "second rush",
+  "chosen": null,
+  "why": "\"second rush\" is an ordinal for an event, not a count"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone first: dropped",
+  "quote": "Redwings going E. to W., great many stopped\non board",
+  "why": "\"great many stopped on board\" doesn't say Redwings; under the heading these are the Thrushes"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone first: kept",
+  "quote": "10 p.m., with a great many\nsmall birds, some killed",
+  "why": "Thrushes \"with a great many small birds, some killed\": the Song Thrush dead obs"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone first: kept",
+  "quote": "10 p.m. to\nsunrise, with Larks, Starlings, and Blackbirds, from E.S.E. to N.W.,\nabout 120 killed",
+  "why": "\"about 120 killed\" includes the Thrushes, the heading species"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone first: kept",
+  "quote": "10 p.m. to\nsunrise, with Larks, Starlings, and Blackbirds, from E.S.E. to N.W.,\nabout 120 killed",
+  "why": "\"with Larks ... about 120 killed\": shared count"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone first: kept",
+  "quote": "10 p.m. to\nsunrise, with Larks, Starlings, and Blackbirds, from E.S.E. to N.W.,\nabout 120 killed",
+  "why": "\"Starlings ... about 120 killed\": shared count"
+ },
+ {
+  "chunk": "1880-00057",
+  "kind": "lone second: dropped",
+  "quote": "Thrushes occurred at twelve stations covering the entire length of coast",
+  "why": "\"occurred at twelve stations\" is a general summary with no station or date"
+ },
+ {
+  "chunk": "1880-00059",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-17",
+  "second": "1880-10-17/1880-10-18",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00059",
+  "kind": "lone first: dropped",
+  "quote": "Oct. 17th and 18th, with Fieldfares, very high",
+  "why": "\"with Fieldfares\" refers to Fieldfare entry in context: \"At Yarmouth, Oct. 17th and 18th, early morning, very high\""
+ },
+ {
+  "chunk": "1880-00059",
+  "kind": "lone first: dropped",
+  "quote": "\"great\nrush\" middle of October",
+  "why": "\"great rush\" middle of October summarises the dated entries above; no station or new record"
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H.",
+  "second": "Casquets L.H., Alderney",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "on to the English coast",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "on to the English coast",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": null,
+  "second": "Spurn",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "A \"second rush\" is a wave of migrants moving through, so passing fits better than seen."
+ },
+ {
+  "chunk": "1880-00060",
+  "kind": "lone first: dropped",
+  "quote": "At Hasbro' L.H., 11 p.m., two\nstruck",
+  "why": "\"two struck, killed\": these birds were killed, so this is a dead observation with count two. The rule keeps struck for birds not stated killed."
+ },
+ {
+  "chunk": "1880-00061",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Ring Ouzel",
+  "second": "Ring-Thrushes",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00061",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Ring Ouzel",
+  "second": "Ring-Thrushes",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00061",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Ring Ouzel",
+  "second": "Ring-Thrushes",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00061",
+  "kind": "lone second: dropped",
+  "quote": "Ring Ouzels were moving along the\nFrench coast as early as Aug. 16th",
+  "why": "'moving along the French coast as early as Aug. 16th' only sums up the Casquets Aug. 16th 'four striking' entry, which is already extracted."
+ },
+ {
+  "chunk": "1880-00061",
+  "kind": "lone second: dropped",
+  "quote": "over Heligoland Sept. 9th to Oct.\n27th",
+  "why": "'over Heligoland Sept. 9th to Oct. 27th' sums up the Heligoland entries already given (Sept. 9th ... Oct. 27th, some)."
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-28/1880-12-07",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-28/1880-12-07",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-28/1880-12-07",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-26",
+  "second": "1880-10-26/1880-10-28",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-17",
+  "second": "1880-10-17/1880-10-18",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "lone first: dropped",
+  "quote": "At Flamborough L.H., Oct. 21st, day and night",
+  "why": "\"day and night, five killed\": no separate sighting with its own count or bird; the time goes with the killed observation"
+ },
+ {
+  "chunk": "1880-00058",
+  "kind": "lone first: kept",
+  "quote": "\"Great rush\" Oct. 21st to 28th.",
+  "why": "\"Great rush\" Oct. 21st to 28th: a summary of heavy passage, and the rules count summaries"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Willow Wrens",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "calm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, sunny, warm",
+  "second": "sunny, warm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "calm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, sunny, warm",
+  "second": "sunny, warm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "calm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, sunny, warm",
+  "second": "sunny, warm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "calm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, sunny, warm",
+  "second": "sunny, warm",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00066",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "other birds",
+  "second": "birds",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"and then went S.\" is migration with a direction; the settled part survives as Robins 'remained' (a5)"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "went S.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "10\na.m.",
+  "chosen": "10\na.m.",
+  "why": "the continuing clause shares the flock's time \"10 a.m.\""
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Hanois L.H.",
+  "second": "Hanois L.H., Guernsey",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Hanois L.H.",
+  "second": "Hanois L.H., Guernsey",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "birds",
+  "second": "other birds",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "lone first: kept",
+  "quote": "Sept. 27th, 10\na.m., a large flock of small birds containing many Robins remained\na few hours",
+  "why": "\"many Robins remained a few hours\": reading 2 has no settled observation"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "lone first: kept",
+  "quote": "Aug. 14th, midnight. Redbreasts\nwith many other birds, some killed",
+  "why": "\"some killed\" refers to the whole group, \"Redbreasts with many other birds\", so species \"birds\" fits"
+ },
+ {
+  "chunk": "1880-00062",
+  "kind": "lone second: dropped",
+  "quote": "midnight. Redbreasts\nwith many other birds, some killed",
+  "why": "\"some killed\" isn't said to be Redbreasts; a11 already records the dead with count \"some\""
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "_R. ignicapillus_",
+  "second": "Fire-crested Wrens",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-09",
+  "second": "1880-10-09/1880-10-18",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "lone second: kept",
+  "quote": "At Hanois L.H.,\nAug. 14th, o.m., N., Goldcrests",
+  "why": "\"Goldcrests, some killed\": the birds present plus a dead count. This follows Example 1, where \"Titlarks at night; five killed\" gives a seen and a dead observation."
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "lone second: dropped",
+  "quote": "First observed at the\nGuernsey lighthouse, Aug. 14th",
+  "why": "\"First observed at the Guernsey lighthouse, Aug. 14th\" is a summary of the Hanois L.H. Aug. 14th entry, which is already extracted."
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "lone second: dropped",
+  "quote": "last at Coquet Island, Nov. 9th",
+  "why": "\"last at Coquet Island, Nov. 9th\" is a summary of \"Nov. 9th, 11 p.m., N.W., gale, one caught on glass\", which is already extracted."
+ },
+ {
+  "chunk": "1880-00067",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "At Hanois L.H.,\nAug. 14th, o.m., N., Goldcrests",
+  "repeats": "At Hanois L.H., Aug. 14th, o.m., N., Goldcrests, some killed."
+ },
+ {
+  "chunk": "1880-00070",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "young\nbirds",
+  "chosen": null,
+  "why": "\"young birds\" says what age the birds were, not how many. No count is given."
+ },
+ {
+  "chunk": "1880-00070",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Tree",
+  "second": "Tree Pipit",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00070",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "late\nin afternoon",
+  "chosen": "late\nin afternoon",
+  "why": "In \"late in afternoon. Meadow Pipits, great flights. Tree Pipits less\", the time leads into these sightings. Compare \"late in afternoon in great flights overhead\" in the context."
+ },
+ {
+  "chunk": "1880-00070",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Titlarks",
+  "second": "Tree Pipit",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00070",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Titlarks",
+  "second": "Tree Pipit",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00071",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10",
+  "second": "1880-10-25/1880-10-31",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00071",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "others",
+  "chosen": null,
+  "why": "\"others near Yarmouth\": \"others\" points back to the Blakeney flock but gives no number, so count stays null."
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "10 a.m.",
+  "chosen": null,
+  "why": "\"10 a.m.\" is when they arrived; they went south only after \"remaining a few hours\", so 10 a.m. isn't the passing time"
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "10 a.m.",
+  "chosen": null,
+  "why": "Same as f0: \"remaining a few hours and then going south\" puts the passing hours after 10 a.m."
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "N.E.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "windy",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "passing",
+  "why": "\"Migratory flocks\" says they were migrating, which the rules count as passing"
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "lone first: kept",
+  "quote": "10 a.m., Wrens with many other small birds, remaining a few hours",
+  "why": "\"10 a.m., Wrens ... remaining a few hours\" means the birds stayed at the station, a different behaviour from going south; reading 2 only has the passing record"
+ },
+ {
+  "chunk": "1880-00068",
+  "kind": "lone first: kept",
+  "quote": "10 a.m., Wrens with many other small birds, remaining a few hours",
+  "why": "\"many other small birds, remaining a few hours\": a settled record for the small birds that reading 2 doesn't have"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-11",
+  "second": "1880-10-11/1880-10-13",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1881-01-01",
+  "second": "1881-01-01/1881-01-03",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1881-01-01",
+  "second": "1881-01-01/1881-01-03",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00073",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Lark",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sparrows",
+  "second": "House Sparrow",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sparrows",
+  "second": "House Sparrow",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sparrows",
+  "second": "House Sparrow",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "squall",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H., Alderney",
+  "second": "Casquets L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H., Alderney",
+  "second": "Casquets L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H., Alderney",
+  "second": "Casquets L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H., Alderney",
+  "second": "Casquets L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00080",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Casquets L.H., Alderney",
+  "second": "Casquets L.H.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00084",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "rush",
+  "chosen": "rush",
+  "why": "\"(Oct. 15th, rush)\": 'rush' is the only word giving how many, so it counts as quantity words copied as printed."
+ },
+ {
+  "chunk": "1880-00084",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "\"11 p.m. to midnight, with Larks, twenty stunned\": at night at the lighthouse, stunned means they struck the lantern. Both readers coded this 'struck', which is defined as striking the lantern, so at_light is true."
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "caught",
+  "chosen": "passing",
+  "why": "\"one same, going W.\" — moving west, not said caught"
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": "night",
+  "second": null,
+  "chosen": null,
+  "why": "\"night of Oct. 9th\" is date words per rules"
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": "night",
+  "second": null,
+  "chosen": null,
+  "why": "\"night of Oct. 9th\" is date words per rules"
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "9 to 11 a.m.",
+  "chosen": "9 to 11 a.m.",
+  "why": "\"9 to 11 a.m., continuous flocks ... many of each on deck\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "9 to 11 a.m.",
+  "chosen": "9 to 11 a.m.",
+  "why": "\"9 to 11 a.m., continuous flocks ... many of each on deck\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "9 to 11 a.m.",
+  "chosen": "9 to 11 a.m.",
+  "why": "\"9 to 11 a.m., continuous flocks ... many of each on deck\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "9 to 11 a.m.",
+  "chosen": "9 to 11 a.m.",
+  "why": "\"9 to 11 a.m., continuous flocks ... many of each on deck\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09/1880-10",
+  "second": "1880-09-15/1880-10-31",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept",
+  "quote": "At Lynn Well L.V., Oct. 5th and 23rd, many S.E. to N.W.",
+  "why": "\"Oct. 5th and 23rd, many S.E. to N.W.\" — 23rd a dated sighting"
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept",
+  "quote": "At Newarp L.V., 2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W.",
+  "why": "\"Oct. 6th, 14th, and 18th, each day to S.W.\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept",
+  "quote": "At Newarp L.V., 2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W.",
+  "why": "\"Oct. 6th, 14th, and 18th, each day to S.W.\""
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "At Lynn Well L.V., Oct. 5th and 23rd, many S.E. to N.W.",
+  "repeats": "Oct. 5th and 23rd, many S.E. to N.W."
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "At Newarp L.V., 2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W.",
+  "repeats": "2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W."
+ },
+ {
+  "chunk": "1880-00077",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "At Newarp L.V., 2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W.",
+  "repeats": "2 to 3 p.m., Oct. 6th, 14th, and 18th, each day to S.W."
+ },
+ {
+  "chunk": "1880-00078",
+  "kind": "lone second: kept",
+  "quote": "On the English coast few have\nbeen observed",
+  "why": "\"On the English coast few have been observed\" is a summary remark about Bramblings, and the rules say summaries count. No single station or date is given, so both stay null. Reading 1 has no observation that covers it."
+ },
+ {
+  "chunk": "1880-00085",
+  "kind": "lone second: dropped",
+  "quote": "Oct. 10th, continuous with others",
+  "why": "\"continuous with others\": 'others' only means the Starlings had company here. It names no bird kind, and the Starling observation for Oct. 10th already holds this entry."
+ },
+ {
+  "chunk": "1880-00085",
+  "kind": "lone second: dropped",
+  "quote": "Aug. 14th, night, with many others",
+  "why": "\"with many others\": the entry is about Starlings and the companions are unnamed. 'others' isn't a printed bird name like \"small birds\", and the Starling observation already covers Aug. 14th, night."
+ },
+ {
+  "chunk": "1880-00074",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10",
+  "second": "1880-10-18/1880-10-31",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00074",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "severe weather",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00074",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-10-22",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00074",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "N.E. to S.W.",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "every day",
+  "chosen": null,
+  "why": "\"continuous every day\" covers dates Oct. 10th to 14th, not a time of day"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "to W.N.W., and E.N.E.",
+  "second": "to W.N.W.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "E.N.E.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-11",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "the greatest number",
+  "second": "The main body",
+  "chosen": "the greatest number",
+  "why": "\"the greatest number on any given day\"; keeping reading 1's observation consistent"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "from E. to W., N.E. to S.W., and S.E. and S. to N.W.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "northerly and easterly",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00087",
+  "kind": "lone second: kept",
+  "quote": "On the English coast they were noticed at seventeen stations, extending from the Farne Islands to the mouth of the Thames",
+  "why": "\"noticed at seventeen stations\": a summary remark, and summaries count"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Skegness",
+  "second": "Lincolnshire coast",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "east\ncoast",
+  "second": "Flamborough to Yarmouth",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-18",
+  "second": "1880-10-18/1880-10-19",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": null,
+  "second": "on to the east\ncoast",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "with snow in the north",
+  "second": "snow in the north",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "east\ncoast",
+  "second": "Flamborough to Yarmouth",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00098",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-10-18/1880-10-19",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00092",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Wood Pigeon",
+  "second": "King Dove or Wood Pigeon",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00089",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "all day",
+  "second": null,
+  "chosen": "all day",
+  "why": "\"all day young Swallows passing ... each flock followed by Pipits\": Pipits share the time"
+ },
+ {
+  "chunk": "1880-00089",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "6 a.m.",
+  "second": null,
+  "chosen": "6 a.m.",
+  "why": "\"6 a.m., numbers passed, ... one struck and killed\": continuing clause shares time"
+ },
+ {
+  "chunk": "1880-00089",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "every day",
+  "chosen": null,
+  "why": "\"every day\" is frequency over \"Sept. 3rd to 9th\", not time of day"
+ },
+ {
+  "chunk": "1880-00089",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09",
+  "second": "1880-09-24/1880-09-30",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00089",
+  "kind": "lone second: kept",
+  "quote": "amongst the birds striking the glass",
+  "why": "\"amongst the birds striking the glass\": birds other than Swallows struck; Swallow obs doesn't carry kind \"birds\""
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Hanois L.H.",
+  "second": "Hanois L.H., Guernsey",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": null,
+  "second": "Dublin",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "little wind",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "clear",
+  "second": "clear, little wind, warm",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "little wind",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "clear",
+  "second": "clear, little wind, warm",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "lone second: kept",
+  "quote": "Swallows were noticed migrating",
+  "why": "\"from July 10th, at Coquet Island\": the rules count summaries as observations"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "lone second: kept",
+  "quote": "Swallows were noticed migrating",
+  "why": "\"to Oct. 7th, at the Casquets\": a summary counts as an observation"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "lone second: kept",
+  "quote": "but at Swin Middle L.V.,\nS.E. to N.W.",
+  "why": "\"but at Swin Middle L.V., S.E. to N.W.\": a stated direction at a named station"
+ },
+ {
+  "chunk": "1880-00090",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "Swallows were noticed migrating",
+  "repeats": "Swallows were noticed migrating"
+ },
+ {
+  "chunk": "1880-00101",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Grimsby",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00101",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Land-Rail",
+  "second": "Water-Rail and Land-Rail",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00101",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Land-Rail",
+  "second": "Water-Rail and Land-Rail",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00108",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"Terns left the islands\": a departure is migration, which is more specific than plain seen."
+ },
+ {
+  "chunk": "1880-00108",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"Arctic Terns left the islands\": a departure is migration, which is more specific than plain seen."
+ },
+ {
+  "chunk": "1880-00108",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "this day",
+  "chosen": null,
+  "why": "\"great numbers this day\" names the date, not a time of day."
+ },
+ {
+  "chunk": "1880-00108",
+  "kind": "lone first: kept",
+  "quote": "The main migration appears to have taken place in October, from\nN. to S. along the east coast",
+  "why": "\"The main migration ... in October, from N. to S. along the east coast\": the rules count summary remarks, and no other observation covers it."
+ },
+ {
+  "chunk": "1880-00107",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "seen",
+  "chosen": "seen",
+  "why": "\"six \"speckled\" about island\": flying isn't stated. Divers are most likely on the sea nearby, so the rule \"don't infer\" gives seen."
+ },
+ {
+  "chunk": "1880-00107",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"in great numbers on the cliff, their breeding quarters\": the birds are resting on the island's rock."
+ },
+ {
+  "chunk": "1880-00107",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"cliffs covered\": the Guillemots are resting on the cliffs."
+ },
+ {
+  "chunk": "1880-00110",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "great gale",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00106",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-07-22",
+  "second": "1880-07-22/1880-07-23",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00111",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "passing",
+  "why": "\"great rush of small birds\": a rush is birds on the move (migrating past), more specific than merely seen; no lantern is mentioned."
+ },
+ {
+  "chunk": "1880-00123",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "showery weather",
+  "second": "showery",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00123",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "clear weather",
+  "second": "clear",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00124",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, hazy and rainy weather",
+  "second": "calm, hazy and rainy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00124",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "calm, hazy weather",
+  "second": "calm, hazy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00109",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "caught",
+  "second": "seen",
+  "chosen": "caught",
+  "why": "\"was also obtained\": the bird was taken in hand, so captured; how is not stated"
+ },
+ {
+  "chunk": "1880-00109",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-07-29",
+  "second": "1880-07-29/1880-07-30",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00109",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-08-21",
+  "second": "1880-08-21/1880-08-23",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00109",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Gulls",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00109",
+  "kind": "lone first: kept",
+  "quote": "27th, same",
+  "why": "\"27th, same\" at Cockle L.V. is a separate dated entry, same_as Oct. 16th"
+ },
+ {
+  "chunk": "1880-00126",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "with showers, and clear",
+  "second": "showers, and clear",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00126",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "foggy",
+  "second": "night foggy",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "variable E., N.W. to S.W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "variable E., N.W. to S.W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "variable E., N.W. to S.W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "variable E., N.W. to S.W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "variable E., N.W. to S.W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00127",
+  "kind": "lone first: kept",
+  "quote": "April 14th and 17th, 8 and 10 a.m., ten and seventeen resting or feeding",
+  "why": "\"April 14th and 17th ... ten and seventeen resting or feeding\" describes a second date with its own count (seventeen on the 17th), so it is a separate observation"
+ },
+ {
+  "chunk": "1880-00128",
+  "kind": "lone first: kept",
+  "quote": "they\nbecame scarcer between April 20th and 30th",
+  "why": "\"they became scarcer between April 20th and 30th\": the Rhuvaal ducks reported again for a later span of dates, which the rules count as an observation. The March 8th entry (\"great numbers daily seen\") doesn't carry this lower number."
+ },
+ {
+  "chunk": "1880-00131",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Loch Ryan",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00131",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Swallows",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00131",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Swallows",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00129",
+  "kind": "lone second: kept",
+  "quote": "on June 14th, lots of nests",
+  "why": "\"on June 14th, lots of nests containing two to three eggs were seen\": a separate dated record showing the Monach Terns breeding there. Behaviour 'seen' with count null is right, because \"lots\" counts nests, not birds."
+ },
+ {
+  "chunk": "1880-00125",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "between 8.30 p.m. and 3 a.m.",
+  "second": null,
+  "chosen": "between 8.30 p.m. and 3 a.m.",
+  "why": "\"were seen and two killed between 8.30 p.m. and 3 a.m.\": the time covers both verbs, the seeing as well as the killing"
+ },
+ {
+  "chunk": "1880-00125",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "between 8.30 p.m. and 3 a.m.",
+  "second": null,
+  "chosen": "between 8.30 p.m. and 3 a.m.",
+  "why": "The Larks are part of the \"about twenty ... were seen\" group, so they share its time, \"between 8.30 p.m. and 3 a.m.\""
+ },
+ {
+  "chunk": "1880-00125",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "between 8.30 p.m. and 3 a.m.",
+  "second": null,
+  "chosen": "between 8.30 p.m. and 3 a.m.",
+  "why": "The Wagtails are part of the same group \"were seen ... between 8.30 p.m. and 3 a.m.\", so they share its time"
+ },
+ {
+  "chunk": "1880-00130",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Swift",
+  "second": "local birds",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00130",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "The most of",
+  "chosen": null,
+  "why": "'The most of the local birds' is a share of an uncounted local population, not a number of birds seen."
+ },
+ {
+  "chunk": "1880-00135",
+  "kind": "lone second: dropped",
+  "quote": "records came from Monach Island and Dhuheartach.\nEarliest Aug. 17th, latest Dec. 9th.",
+  "why": "\"In the autumn migration of 1879 ... records came from Monach Island\": this points back to the 1879 Report and is not a sighting from 1880. It also gives no date for this station."
+ },
+ {
+  "chunk": "1880-00135",
+  "kind": "lone second: dropped",
+  "quote": "records came from Monach Island and Dhuheartach.\nEarliest Aug. 17th, latest Dec. 9th.",
+  "why": "\"In the autumn migration of 1879 ... and Dhuheartach\": this points back to the 1879 records. The 1880 Dhuheartach Wrens (Aug. 18th, Oct. 1st) are already their own observations."
+ },
+ {
+  "chunk": "1880-00135",
+  "kind": "lone second: dropped",
+  "quote": "Corsewall, Sept. 27th till\n30th, there appears to have been a migration",
+  "why": "\"there appears to have been a migration\" just sums up the dated entries that follow (\"On 27th, two...\", \"on 28th, two...\", \"on 30th, eight...\"). Those already give the Goldcrests and their counts."
+ },
+ {
+  "chunk": "1880-00135",
+  "kind": "lone second: dropped",
+  "quote": "numbers were reported (see\nReport, 1879) at Mull of Galloway on July 18th",
+  "why": "\"In 1879, numbers were reported (see Report, 1879)\": this points back to the 1879 Report and is not a sighting from 1880."
+ },
+ {
+  "chunk": "1880-00136",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "settled",
+  "chosen": "settled",
+  "why": "\"stayed for a few days\" at Rhuvaal is like the rule's \"remained about the lighthouse\", which is settled. That beats plain seen."
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "all",
+  "chosen": "all",
+  "why": "\"and all left on the 10th\": 'all' is the quantity word as printed"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "all",
+  "chosen": "all",
+  "why": "\"and all left on the 10th\": 'all' is the quantity word as printed"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "all",
+  "chosen": "all",
+  "why": "\"and all left on the 10th\": 'all' is the quantity word as printed"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09-21",
+  "second": "1880-09-21/1880-09-30",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09-21",
+  "second": "1880-09-21/1880-09-30",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09-21",
+  "second": "1880-09-21/1880-09-30",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Thrushes, Blackbirds, and Ring Ouzels",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Thrushes, Blackbirds, and Ring Ouzels",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "lone first: kept",
+  "quote": "a good many Blackbirds and Thrushes arrived on Sept. 21st and left on 30th",
+  "why": "\"left on 30th\": a separate departure; reading 2's observation is a 'seen' on Sept. 21st, not the leaving"
+ },
+ {
+  "chunk": "1880-00140",
+  "kind": "lone first: kept",
+  "quote": "a good many Blackbirds and Thrushes arrived on Sept. 21st and left on 30th",
+  "why": "\"left on 30th\": a separate departure; reading 2's observation is a 'seen' on Sept. 21st, not the leaving"
+ },
+ {
+  "chunk": "1880-00139",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "flying in a south-easterly direction",
+  "second": "in a south-easterly direction",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00139",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "flying in a south-easterly direction",
+  "second": "in a south-easterly direction",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00139",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "a rush of",
+  "chosen": null,
+  "why": "\"a rush of Wagtails\" names a migratory movement, not a number; the rush on 17th is \"twelve\", so \"rush\" isn't a quantity."
+ },
+ {
+  "chunk": "1880-00139",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "seen",
+  "why": "For 26th the text only says \"was observed\"; no flight or direction is stated, and the rules say don't infer."
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-11-03",
+  "second": "1881-01",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "seen",
+  "why": "'flight was noted', no fuller behaviour stated for January"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: 2",
+  "field": "time",
+  "first": "about 7.30 a.m.",
+  "second": null,
+  "chosen": null,
+  "why": "no time given for the January flight"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "S. to\nS.E.",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "very foggy",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Thrushes",
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "lone first: kept",
+  "quote": "they were seen to pass off about 7.30 a.m.",
+  "why": "'Blackbirds and Thrushes... seen to pass off about 7.30 a.m.': reading 2 left this passing obs without a species"
+ },
+ {
+  "chunk": "1880-00141",
+  "kind": "lone first: dropped",
+  "quote": "a still\nlater flight was noted in January, 1881, at Point of Ayre",
+  "why": "In the Blackbird section, 'a still later flight' means Blackbirds. Reading 2's January observation already covers it"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "to and fro between the island and North Uist",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "lone first: kept",
+  "quote": "In 1879, the most northerly record comes from Ardnamurchan",
+  "why": "'the most northerly record comes from Ardnamurchan' is a real station record. Both readers kept the other 1879 summary records (Loch Ryan, Skervuile), so keep this too. Species should be null, not 'Starlings'."
+ },
+ {
+  "chunk": "1880-00147",
+  "kind": "lone first: dropped",
+  "quote": "This year, in December, at Stornoway.",
+  "why": "'This year, in December, at Stornoway' repeats the 'Dec. 19th and 20th, large flocks' record (f2), which already has the kind and the count."
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400 miles on this side of\nNewfoundland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "east",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "heavy gales",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "Mid-Atlantic",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "400-500\nmiles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "Heavy\nrains",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "550 miles from the Irish coast",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "550 miles from the Irish coast",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "850 miles from land",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "850 miles from land",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "1200 miles from land",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "1200 miles from land",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "lat. 42°\nN., long. 54° W.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "1080 miles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": "1080 miles from Ireland",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00142",
+  "kind": "lone second: dropped",
+  "quote": "Many died",
+  "why": "reading 1's dead obs \"Many died, and many were killed\" already has birds, \"Many\""
+ },
+ {
+  "chunk": "1880-00144",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "round_station",
+  "chosen": "seen",
+  "why": "\"flocks flying round\" doesn't say round what: no ship, rock, island or lighthouse is named, so round_station would be an inference; \"probably only a local movement\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Cape Wrath has dated entries: \"Sept. 14th, twenty young\"; \"on 17th, a large flock\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: kept",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "\"I have returns from ... Rhu Stoir\": the only record of Starlings at this station"
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: kept",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "\"I have returns from ... Stornoway\": the only record of Starlings at this station"
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: kept",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "\"Island Ghlais (or Glas)\" appears only in the returns list"
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: kept",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "\"I have returns from ... Monach\": the only record of Starlings at this station"
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Kyleakin has dated entries: \"Sept. 12th, three\"; \"Nov. 3rd and 5th, forty\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: kept",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "\"I have returns from ... Fladda\": the only record of Starlings at this station"
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Covered later: \"at Rhinns of Islay ... arrive in September and remain\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Covered later: \"arrive and remain ... at Lochindaul\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Corsewall has dated entries: \"Aug. 4th, a flock flying south\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Covered later: \"flying round Point of Ayre lights ... thirty-six were killed\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Covered later: \"hovering round the lights of Douglas Head\""
+ },
+ {
+  "chunk": "1880-00146",
+  "kind": "lone first: dropped",
+  "quote": "I have returns from Cape Wrath, Rhu Stoir, Stornoway, Island Ghlais (or Glas), Monach, Kyleakin, Fladda, Rhinns of Islay, Lochindaul, Corsewall, Point of Ayre, Douglas Head, and Bahama (L.V.)",
+  "why": "Covered later: \"six killed and fell overboard at Bahama L.V.\""
+ },
+ {
+  "chunk": "1880-00148",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "S.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00148",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "strong",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00148",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "haze and rain",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00148",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": null,
+  "second": "Rhu Stoir",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00149",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light and fresh",
+  "second": "light",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00149",
+  "kind": "lone first: dropped",
+  "quote": "Returns from Skerryvore, Lismore, and Point of Ayre.",
+  "why": "\"Returns from Skerryvore...\" only lists which stations sent returns. Skerryvore's actual observation comes later (\"Oct. 14th, twelve 'Grey Linnets'\")."
+ },
+ {
+  "chunk": "1880-00149",
+  "kind": "lone first: dropped",
+  "quote": "Returns from Skerryvore, Lismore, and Point of Ayre.",
+  "why": "Only a list of stations that sent returns. Lismore's observations come later (\"Nov. 13th, a small flock\"; \"Dec. 15th\")."
+ },
+ {
+  "chunk": "1880-00149",
+  "kind": "lone first: dropped",
+  "quote": "Returns from Skerryvore, Lismore, and Point of Ayre.",
+  "why": "Only a list of stations that sent returns. Point of Ayre's observations come later (\"Sept. 12th and 20th ... fifty or sixty\")."
+ },
+ {
+  "chunk": "1880-00154",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "flying north and also south",
+  "second": "south",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00154",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-08-23",
+  "second": "1880-08-19",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00154",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "flying north and also south",
+  "second": "flying north",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00154",
+  "kind": "lone second: dropped",
+  "quote": "They occurred, or are recorded",
+  "why": "\"They occurred, or are recorded, at ... Island Ghlais\": undated, no count; already covered by the Curlew record \"July 15th ... forty were seen flying W. ... at Island Ghlais\""
+ },
+ {
+  "chunk": "1880-00154",
+  "kind": "lone second: dropped",
+  "quote": "They occurred, or are recorded",
+  "why": "\"They occurred, or are recorded, at ... Portpatrick\": undated, no count; already covered by the Curlew records \"at Portpatrick, on Aug. 19th and 23rd, flocks\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "between 10 and 11 p.m.",
+  "second": null,
+  "chosen": "between 10 and 11 p.m.",
+  "why": "\"two struck, and one killed between 10 and 11 p.m.\": the time covers the whole sentence"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "seen",
+  "chosen": "round_station",
+  "why": "\"seen flying about the garden and shores at Monach\": flying about the station"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": "young Starlings",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "seen",
+  "chosen": "round_station",
+  "why": "\"along with young Starlings\": the same flock flying about the garden and shores"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "at 1 p.m.",
+  "second": null,
+  "chosen": "at 1 p.m.",
+  "why": "\"along with young Starlings and two Blackbirds, at 1 p.m.\": the time covers all of them"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "seen",
+  "chosen": "round_station",
+  "why": "\"two Blackbirds\" were with the flock \"flying about the garden and shores\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: kept",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir",
+  "why": "\"A good many returns from... Rhu Stoir\": no other observation for this station"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: kept",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin",
+  "why": "\"returns from... Kyleakin\": no other observation for this station"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: dropped",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach",
+  "why": "already covered by \"On 13th twenty seen at Dhuheartach\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: dropped",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile",
+  "why": "already covered by \"on the 1st, at Skervuile, some were seen\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: kept",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile, Rhinns of\nIslay",
+  "why": "\"returns from... Rhinns of Islay\": no other observation for this station"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: dropped",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile, Rhinns of\nIslay, Turnberry",
+  "why": "already covered by \"at Turnberry, two struck\" and the Jan. 4th strike"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: dropped",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile, Rhinns of\nIslay, Turnberry, Corsewall",
+  "why": "already covered by \"Sept. 30th, at Corsewall... two were seen\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: dropped",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile, Rhinns of\nIslay, Turnberry, Corsewall, and Bahama L.V.",
+  "why": "already covered by \"at Bahama L.V. a flock seen flying W.\""
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin",
+  "repeats": "A good many returns from the following\nstations:--Rhu Stoir"
+ },
+ {
+  "chunk": "1880-00151",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "A good many returns from the following\nstations:--Rhu Stoir, Kyleakin, Dhuheartach, Skervuile, Rhinns of\nIslay",
+  "repeats": "A good many returns from the following\nstations:--Rhu Stoir"
+ },
+ {
+  "chunk": "1880-00152",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-12-15",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00152",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "calm",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00152",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "hazy",
+  "second": "calm hazy weather",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00152",
+  "kind": "lone first: dropped",
+  "quote": "Earliest date Aug. 20th",
+  "why": "\"More northerly in 1879 ... Earliest date Aug. 20th\": a date for 1879 (the 1880 entries already have Aug. 4th), with no station."
+ },
+ {
+  "chunk": "1880-00152",
+  "kind": "lone first: dropped",
+  "quote": "latest Dec. 11th",
+  "why": "\"latest Dec. 11th\": the 1879 comparison (the 1880 entries run to Dec. 27th at Monach), not an 1880 observation."
+ },
+ {
+  "chunk": "1880-00153",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "light airs",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00153",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light airs",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00153",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Dotterels",
+  "second": "Ringed Plover",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00153",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "Common",
+  "second": null,
+  "chosen": "Common",
+  "why": "\"Common and of daily occurrence\": \"Common\" says how many, like \"abundant\""
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "field: 2",
+  "field": "count",
+  "first": "occasional birds",
+  "second": "occasional",
+  "chosen": "occasional",
+  "why": "\"occasional birds\": 'occasional' is the quantity word and 'birds' is the noun. Like 'thousands of', the count leaves the bird out."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Rhu Stoir has its own dated records: \"Dec. 25th, 26th and 27th... Jan. 12th, two\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Island Ghlais has its own record: \"Sept. 23rd, seen half a mile from lighthouse\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Kyleakin has its own record: \"Dec. 11th, when two were seen\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Ardnamurchan has its own record: \"Dec. 10th, when one was killed\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Lismore has its own record: \"Nov. 20th, one seen at 11 a.m.\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "records of occasional birds",
+  "why": "Summary list. Point of Ayre has its own record: \"one was killed at the lantern on nights of Nov. 2nd and 3rd\"."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "Earliest record,\nOct. 11th (Rhinns of Islay), 1879",
+  "why": "\"Earliest record, Oct. 11th (Rhinns of Islay), 1879\": a comparison with last year's report, not a record from 1880."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "latest record, Dec. 12th, 1879",
+  "why": "\"latest record, Dec. 12th, 1879\": a comparison with last year, and no station is given."
+ },
+ {
+  "chunk": "1880-00157",
+  "kind": "lone second: dropped",
+  "quote": "numbers\nof Woodcock are recorded as settling about the lamps of the northern\nlighthouses",
+  "why": "\"date of the 'Lays of the Deer Forest,' 1848\": a citation from a book, not a keeper's return."
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "neither"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "neither"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": null,
+  "second": "1880-09",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "neither"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-08-04/1880-08-05",
+  "second": "1880-08-04",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "neither"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "seen",
+  "why": "'\"Bushes\"... locally, at Lochindaul' gives no flight stated; don't infer passing"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "neither"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "passing",
+  "second": "seen",
+  "chosen": "seen",
+  "why": "'in September, as 10th and 25th, at Dhuheartach' gives no flight"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Curlew",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00155",
+  "kind": "lone first: kept",
+  "quote": "in September, as 10th and 25th, at Dhuheartach",
+  "why": "'as 10th and 25th, at Dhuheartach': reader 2 kept only the 10th, so the 25th is a separate dated observation"
+ },
+ {
+  "chunk": "1880-00158",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Brent Geese",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00158",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "\"passed through quarter-inch glass\": lighthouse glass that thick is the lantern glazing, so it struck the lantern"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": null,
+  "second": "N.E.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "sleet",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-28",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "forty",
+  "second": null,
+  "chosen": "forty",
+  "why": "\"Oct. 28th, forty fishing round\"; the heading only lists stations"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "N.E.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Ducks",
+  "second": "Eiders",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "the same\nflock",
+  "chosen": null,
+  "why": "\"the same flock\" refers back and gives no number"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "lone second: dropped",
+  "quote": "Ducks, _Anatidæ_.--At Monach",
+  "why": "heading \"At Monach, Skerryvore and Dhuheartach\" only lists stations; Monach Oct. 27th entry covers it"
+ },
+ {
+  "chunk": "1880-00159",
+  "kind": "lone second: dropped",
+  "quote": "At Dhuheartach,\nOct. 28th, forty fishing round",
+  "why": "reading 1 already has \"Oct. 28th, forty fishing round\", N.E., light"
+ },
+ {
+  "chunk": "1880-00156",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "breeze",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00165",
+  "kind": "field: not adopted (first kept)",
+  "field": "station",
+  "first": null,
+  "second": "South Spain",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00165",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "acres of",
+  "second": "acres of them",
+  "chosen": "acres of",
+  "why": "\"passed through acres of them\": the quantity words are \"acres of\", like the rule's \"thousands of\". \"them\" is a pronoun, not part of the count."
+ },
+ {
+  "chunk": "1880-00165",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "from dawn till dusk",
+  "chosen": "from dawn till dusk",
+  "why": "\"impossible to count them from dawn till dusk: they passed in long strings\": this gives the hours when they passed, like the rule's \"during day\"."
+ },
+ {
+  "chunk": "1880-00164",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "hazy",
+  "second": "hazy weather",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00164",
+  "kind": "lone first: dropped",
+  "quote": "by 20th all were gone",
+  "why": "\"by 20th all were gone\" says the birds were absent, not seen; the \"Aug. 15th to 20th, great flocks\" observation already covers Monach up to the 20th"
+ },
+ {
+  "chunk": "1880-00173",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Falcon (Peregrine?)",
+  "second": "Falcon",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00173",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "7.30 a.m.",
+  "chosen": "7.30 a.m.",
+  "why": "\"Oct. 4th, 7.30 a.m., a Sparrowhawk\": the time is printed and is inside reading 2's quote"
+ },
+ {
+  "chunk": "1880-00173",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "a",
+  "chosen": null,
+  "why": "\"a hawk or two ... occasionally\" is vague; \"a\" alone would wrongly read as exactly one"
+ },
+ {
+  "chunk": "1880-00173",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "little Horned Owl",
+  "second": "Horned Owl",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00173",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "little Horned Owl",
+  "second": "Horned Owl",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00174",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "fresh",
+  "second": "afresh",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00174",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Song Thrush",
+  "second": "Thrushes",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00174",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Song Thrush",
+  "second": "Thrushes",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09-29",
+  "second": "1880-09-29/1880-09-30",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Blackbirds",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "light",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "struck",
+  "second": "seen",
+  "chosen": "struck",
+  "why": "\"struck\" carries over to Godrevy, so \"not killed\" means they struck"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "they struck the light, \"not killed\""
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "struck",
+  "second": "seen",
+  "chosen": "struck",
+  "why": "\"with two Starlings ... not killed\" goes with \"struck\""
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "struck at the light"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "struck",
+  "second": "seen",
+  "chosen": "struck",
+  "why": "\"one Thrush, not killed\" goes with \"struck\""
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "struck at the light"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "dead",
+  "second": "seen",
+  "chosen": "dead",
+  "why": "\"several killed, with Larks\": killed along with them"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "dead",
+  "second": "seen",
+  "chosen": "dead",
+  "why": "\"killed, with Larks and Starlings\""
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "fresh",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "fresh",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00176",
+  "kind": "lone second: dropped",
+  "quote": "At Skerries, Dec. 4th, a few",
+  "why": "repeats \"Skerries, Dec. 4th ... a few were killed\" given earlier"
+ },
+ {
+  "chunk": "1880-00166",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Scarts",
+  "second": "Cormorants",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00178",
+  "kind": "lone second: dropped",
+  "quote": "These little birds generally make their appearance about the beginning of October, and remain till about the middle of November",
+  "why": "\"generally make their appearance about the beginning of October\" is Mr. Dale's general account of the usual season, not a sighting with a date. \"These little birds\" points back to the birds already named and isn't a bird name itself."
+ },
+ {
+  "chunk": "1880-00177",
+  "kind": "lone second: kept",
+  "quote": "the _Turdidæ_ have been noticed from Morecambe Bay",
+  "why": "\"the _Turdidæ_ have been noticed from Morecambe Bay\" is a summary remark, and summaries count. The sentence spans several stations, so each end gets its own observation. It is seen, with the movement's dates \"from Aug. 12th to Jan. 14th\"."
+ },
+ {
+  "chunk": "1880-00177",
+  "kind": "lone second: kept",
+  "quote": "the _Turdidæ_ have been noticed from Morecambe Bay (from St.\nBees we have the general remarks that an occasional Blackbird or\nThrush is to be seen) to Godrevy",
+  "why": "\"...to Godrevy\" is the other end of the same summary span. Godrevy is a named station where _Turdidæ_ were \"noticed\", and no other observation covers it."
+ },
+ {
+  "chunk": "1880-00177",
+  "kind": "lone second: kept",
+  "quote": "a decided rush on Nov. 2nd\nand 3rd",
+  "why": "\"a decided rush on Nov. 2nd and 3rd\" is a dated statement of _Turdidæ_ movement. The S. Bishop killed entries count the dead at one station and don't cover this coast-wide rush."
+ },
+ {
+  "chunk": "1880-00177",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "the _Turdidæ_ have been noticed from Morecambe Bay (from St.\nBees we have the general remarks that an occasional Blackbird or\nThrush is to be seen) to Godrevy",
+  "repeats": "the _Turdidæ_ have been noticed from Morecambe Bay"
+ },
+ {
+  "chunk": "1880-00175",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "birds",
+  "second": "Redwing",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00175",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "7.30 p.m.",
+  "second": null,
+  "chosen": "7.30 p.m.",
+  "why": "'Oct. 8th, 7.30 p.m., some were seen... twenty of the birds killed': the killing continues the 7.30 p.m. clause, so it shares that time"
+ },
+ {
+  "chunk": "1880-00175",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Redwing",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00175",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Redwing",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00175",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": null,
+  "second": "Redwing",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00182",
+  "kind": "lone second: kept",
+  "quote": "Throughout October the movement appears to have been active and pretty general along the coast; the time of occurrence in the greater number of cases between 9 a.m. and 4 p.m.; the direction of flight, when recorded, generally easterly",
+  "why": "Summary remark with its own content, which the rules count as an observation: \"Throughout October the movement appears to have been active and pretty general along the coast\", \"between 9 a.m. and 4 p.m.\", \"generally easterly\", \"moderate E.N.E. to E. breezes\". Reader 1 has no observation carrying it."
+ },
+ {
+  "chunk": "1880-00186",
+  "kind": "lone second: kept",
+  "quote": "on Oct. 30th have left the island",
+  "why": "\"on Oct. 30th have left the island\": a dated departure from Lundy, separate from the daily sightings \"from 8th Sept.\"; leaving is migration, so passing"
+ },
+ {
+  "chunk": "1880-00186",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "on Oct. 30th have left the island",
+  "repeats": "from 8th Sept., a great many Linnets \"mixed\" have been seen\ndaily, and on Oct. 30th have left the island"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "\"some struck and fell overboard\": struck the lantern at night"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "\"three and a Starling caught\" from those that struck"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "\"three and a Starling caught\" from those that struck"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "count",
+  "first": "flocks",
+  "second": null,
+  "chosen": null,
+  "why": "\"flocks, with Starlings\": the flocks are Chaffinches; Starlings only accompany them"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "count",
+  "first": "flocks",
+  "second": null,
+  "chosen": null,
+  "why": "\"flocks, with ... Larks\": no count given for Larks"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "field: 2",
+  "field": "count",
+  "first": "flocks",
+  "second": null,
+  "chosen": null,
+  "why": "\"flocks, with ... Linnets\": no count given for Linnets"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "lone second: dropped",
+  "quote": "The direction of flight, judging from the instances given, seems to have been chiefly towards S.E. and S.",
+  "why": "\"judging from the instances given\": a general summary, not a sighting; 'Sky Larks' isn't in the chunk"
+ },
+ {
+  "chunk": "1880-00184",
+  "kind": "lone second: dropped",
+  "quote": "till midnight, some struck",
+  "why": "\"struck ... fell overboard\" is lost_over by rule; f0 already has count and at_light"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "young Lark",
+  "second": "Lark",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "passed to N.E.",
+  "second": "to N.E.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": null,
+  "second": "overcast and misty",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "young Larks",
+  "second": "Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00183",
+  "kind": "lone first: kept",
+  "quote": "on 13th, a large quantity was on the island all day",
+  "why": "\"a large quantity was on the island\" refers back to \"Larks and Starlings\"; this is the Larks half, which reader 2 didn't give"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "1 to 2 a.m.",
+  "chosen": "1 to 2 a.m.",
+  "why": "\"Oct. 4th, 1 to 2 a.m., ... and three birds killed\": the time covers the whole entry"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": false,
+  "why": "\"struck the roof\": the text doesn't say lantern or light"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": false,
+  "why": "\"struck the roof (with Starlings)\": roof, not lantern"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Larks",
+  "second": "Sky Larks",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "lone second: kept",
+  "quote": "9th, midnight to 5 a.m., Sky Larks and Redwings",
+  "why": "\"9th, midnight to 5 a.m., Sky Larks and Redwings\": birds present, separate from \"eleven struck\", as in Example 1"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "lone second: kept",
+  "quote": "9th, midnight to 5 a.m., Sky Larks and Redwings",
+  "why": "\"Sky Larks and Redwings\": Redwings present on the 9th, separate from the struck observation"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "9th, midnight to 5 a.m., Sky Larks and Redwings",
+  "repeats": "midnight to 5 a.m., Sky Larks and Redwings, eleven struck"
+ },
+ {
+  "chunk": "1880-00181",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "9th, midnight to 5 a.m., Sky Larks and Redwings",
+  "repeats": "midnight to 5 a.m., Sky Larks and Redwings, eleven struck"
+ },
+ {
+  "chunk": "1880-00187",
+  "kind": "lone second: kept",
+  "quote": "Sept. 28th before we hear from a station as\nfar north as Skerries",
+  "why": "\"Sept. 28th before we hear from a station as far north as Skerries\": a dated Starling sighting at a named station"
+ },
+ {
+  "chunk": "1880-00187",
+  "kind": "lone second: dropped",
+  "quote": "The greatest number of individuals are recorded from Oct.\n16th to 21st, and again Oct. 29th to Nov. 3rd",
+  "why": "\"greatest number of individuals are recorded\": a summary across all stations with no station or count, not an observation"
+ },
+ {
+  "chunk": "1880-00188",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-09-17",
+  "second": "1880-09-17/1880-09-19",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00188",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "3.30 p.m.",
+  "chosen": "3.30 p.m.",
+  "why": "\"3.30 p.m., ... there was a small flight, and _four old birds were killed_\": the killed birds share the flight's time"
+ },
+ {
+  "chunk": "1880-00188",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-06",
+  "second": "1880-10-06/1880-10-29",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00188",
+  "kind": "lone second: kept",
+  "quote": "after which only one or two seen",
+  "why": "\"after which only one or two seen\": a separate count after the 29th; reading 1's observation has only \"a great number\""
+ },
+ {
+  "chunk": "1880-00188",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "after which only one or two seen",
+  "repeats": "a great number appeared and were seen\ndaily till 29th, after which only one or two seen"
+ },
+ {
+  "chunk": "1880-00191",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "overland",
+  "second": "passing overland",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00191",
+  "kind": "lone second: dropped",
+  "quote": "a decided \"rush\" lasting from Oct. 29th, 7 a.m., to Nov. 3rd, 9 a.m.",
+  "why": "\"Thus there appears to have been a decided 'rush'\" sums up the station reports given before it. It names no station and adds no new sighting."
+ },
+ {
+  "chunk": "1880-00191",
+  "kind": "lone second: dropped",
+  "quote": "From Nov. 1st to 3rd alone, we hear from no less than eleven stations.",
+  "why": "\"we hear from no less than eleven stations\" counts reports, not birds. Those station returns are separate observations."
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Sky Larks",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "\"several struck and many were killed\": birds hitting the light, as with the other 'struck' entries"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "\"several struck and many were killed\": killed by striking the light"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "\"several struck and many were killed\": killed by striking the light"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: 2",
+  "field": "count",
+  "first": null,
+  "second": "a flock",
+  "chosen": "a flock",
+  "why": "\"a flock with Larks passed S.E.\": the quantity words are printed"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "settled",
+  "second": "seen",
+  "chosen": "settled",
+  "why": "\"appeared and remained till Oct. 26th\" on Flatholm island, like the rule's 'remained about'"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "lone first: kept",
+  "quote": "7.30 to midnight, fresh N.E. to E. breeze, misty. Starlings,\nRedwings, and Sky Larks passed in continuous flocks (about twenty\nstruck)",
+  "why": "\"Starlings, Redwings, and Sky Larks ... (about twenty struck)\": Starlings are a separate kind, missed by reading 2"
+ },
+ {
+  "chunk": "1880-00189",
+  "kind": "lone first: kept",
+  "quote": "7.30 to midnight, fresh N.E. to E. breeze, misty. Starlings,\nRedwings, and Sky Larks passed in continuous flocks (about twenty\nstruck)",
+  "why": "\"Redwings\" is a separate kind in the struck flocks, missed by reading 2"
+ },
+ {
+  "chunk": "1880-00195",
+  "kind": "lone first: dropped",
+  "quote": "very few the roof",
+  "why": "\"a large number striking the glass, but very few the roof\": the same Smalls strikes on the 15th, split by where they hit the lantern. Reader 2's struck records for the listed birds (\"a large number striking the glass\") already cover this kind of event. Keeping it would count the same strikes twice, and it has no species even though the birds are named in the sentence."
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "overland",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "overland",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": "male Starlings",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 2",
+  "field": "behaviour",
+  "first": "round_station",
+  "second": "round_lantern",
+  "chosen": "round_lantern",
+  "why": "'four struck, several others hovering around': 'others' ties them to the birds striking the light"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 2",
+  "field": "at_light",
+  "first": false,
+  "second": true,
+  "chosen": true,
+  "why": "'several others hovering around' the light the four struck"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": "young Starlings",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Starlings",
+  "second": "male Starlings",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "several",
+  "second": "four",
+  "chosen": "several",
+  "why": "'several struck'"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "struck",
+  "second": "seen",
+  "chosen": "struck",
+  "why": "'several struck and went overboard'"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 1",
+  "field": "at_light",
+  "first": true,
+  "second": false,
+  "chosen": true,
+  "why": "'struck': hitting the lantern"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: 1",
+  "field": "time",
+  "first": null,
+  "second": "before sunrise",
+  "chosen": null,
+  "why": "the quote 'several struck and went overboard' holds no time; 'before sunrise' is outside it"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "overland",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00190",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "overland",
+  "second": null,
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "various",
+  "second": "various winds",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": null,
+  "second": "not strong",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "lone second: kept",
+  "quote": "21st, 26th and 30th,\nSwallows are reported from Caldy",
+  "why": "\"21st, 26th and 30th, Swallows are reported from Caldy\": the 26th is its own date, and reading 1 doesn't show it in other_dates"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "lone second: kept",
+  "quote": "21st, 26th and 30th,\nSwallows are reported from Caldy",
+  "why": "\"21st, 26th and 30th\": the 30th is a separate reported date, and reading 1 doesn't carry it"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "21st, 26th and 30th,\nSwallows are reported from Caldy",
+  "repeats": "21st, 26th and 30th, Swallows are reported from Caldy"
+ },
+ {
+  "chunk": "1880-00196",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "21st, 26th and 30th,\nSwallows are reported from Caldy",
+  "repeats": "21st, 26th and 30th, Swallows are reported from Caldy"
+ },
+ {
+  "chunk": "1880-00199",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": "gale",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00199",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": "gale",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00199",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "flocks",
+  "chosen": null,
+  "why": "'flocks of Peewits, with Plovers': the flocks are counted as Peewits. No number is given for the Plovers that came with them."
+ },
+ {
+  "chunk": "1880-00199",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Peewits",
+  "second": "Lapwing",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00199",
+  "kind": "field: 1",
+  "field": "count",
+  "first": null,
+  "second": "flocks",
+  "chosen": null,
+  "why": "'flocks, with Starlings': the flocks are the Peewits' flocks. No number is given for the Starlings."
+ },
+ {
+  "chunk": "1880-00201",
+  "kind": "field: not adopted (first kept)",
+  "field": "wind",
+  "first": "calm",
+  "second": null,
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00201",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "clear",
+  "second": "clear and calm",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00201",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "seen",
+  "why": "\"some seen, and thereafter daily\": seen is the stated verb; they come to the mussel-beds, not migrating past"
+ },
+ {
+  "chunk": "1880-00201",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "seen",
+  "why": "\"with hundreds of Sea-pies and Gulls\": these share the verb \"seen\"; no flying past is stated"
+ },
+ {
+  "chunk": "1880-00201",
+  "kind": "field: 1",
+  "field": "behaviour",
+  "first": "seen",
+  "second": "passing",
+  "chosen": "seen",
+  "why": "\"with hundreds of Sea-pies and Gulls\": these share the verb \"seen\"; no flying past is stated"
+ },
+ {
+  "chunk": "1880-00202",
+  "kind": "lone second: dropped",
+  "quote": "three Snipes and four Woodcocks\nwere seen",
+  "why": "Same Lundy sighting as in the Woodcock entry, 'four Woodcocks and three Snipes were seen', which both readers already have with the kind and count (three Snipes, seen). The Snipe paragraph repeats it, so keeping it would count it twice."
+ },
+ {
+  "chunk": "1880-00202",
+  "kind": "lone second: dropped",
+  "quote": "three Snipes and four Woodcocks\nwere seen",
+  "why": "Repeats 'At Lundy, Nov. 19th ... four Woodcocks and three Snipes were seen' from the Woodcock entry, already extracted with the kind and count (four Woodcocks, seen). Keeping it would count it twice."
+ },
+ {
+  "chunk": "1880-00204",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "9 a.m.",
+  "second": null,
+  "chosen": "9 a.m.",
+  "why": "\"Dec. 21st, 9 a.m., light N.N.W. breeze\" gives the time for the Burnham entry"
+ },
+ {
+  "chunk": "1880-00204",
+  "kind": "lone first: kept",
+  "quote": "10th, 7.15 a.m., wind from same quarter, one flock, S.W.",
+  "why": "\"10th, 7.15 a.m., ... one flock, S.W.\" is a separate Godrevy date with its own count; the Oct. 8th \"two flocks\" observation doesn't include it"
+ },
+ {
+  "chunk": "1880-00198",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "gale",
+  "second": "mod.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00198",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "gale",
+  "second": "mod.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00198",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "gale",
+  "second": "fresh",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "a similar flight",
+  "second": null,
+  "chosen": "a similar flight",
+  "why": "\"a similar flight E.\" echoes the earlier \"a large quantity\", so it works as quantity words"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "E.",
+  "second": "flight E.",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: not adopted (first kept)",
+  "field": "weather",
+  "first": "cloudy",
+  "second": "cloudy, but clear horizon",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "during the day",
+  "chosen": "during the day",
+  "why": "\"two were seen during the day (with numbers of Lapwings\": the Lapwings were seen in the same sighting"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "during the day",
+  "chosen": "during the day",
+  "why": "\"seen during the day (with numbers of ... Starlings\": same sighting"
+ },
+ {
+  "chunk": "1880-00200",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "during the day",
+  "chosen": "during the day",
+  "why": "\"seen during the day (with numbers of ... Thrushes)\": same sighting"
+ },
+ {
+  "chunk": "1880-00208",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "about 10 a.m.",
+  "second": null,
+  "chosen": "about 10 a.m.",
+  "why": "\"these occurrences noted about 10 a.m.\" covers all three Caernarvon Bay sightings; reading 1's quote includes it"
+ },
+ {
+  "chunk": "1880-00208",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "about 10 a.m.",
+  "second": null,
+  "chosen": "about 10 a.m.",
+  "why": "\"these occurrences noted about 10 a.m.\" also covers the 11th"
+ },
+ {
+  "chunk": "1880-00208",
+  "kind": "field: not adopted (first kept)",
+  "field": "direction",
+  "first": "N.E.",
+  "second": "passed N.E.",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00208",
+  "kind": "field: 2",
+  "field": "time",
+  "first": null,
+  "second": "in the daytime",
+  "chosen": "in the daytime",
+  "why": "\"These instances all occurred in the daytime\" covers the Scarweather sightings, including the 12th"
+ },
+ {
+  "chunk": "1880-00207",
+  "kind": "field: not adopted (first kept)",
+  "field": "species",
+  "first": "Shag",
+  "second": "Cormorant, or Shag",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00207",
+  "kind": "lone first: dropped",
+  "quote": "the Cormorant, or Shag and Large Gull(?), resort all the year round",
+  "why": "\"Cormorant, or Shag\" is one kind; reading 2's single observation already covers it, so a separate Cormorant would count it twice"
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "field: 1",
+  "field": "count",
+  "first": "few",
+  "second": "few in number",
+  "chosen": "few",
+  "why": "\"few in number\": \"few\" is the quantity word; \"in number\" adds nothing to the count"
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "lone second: kept",
+  "quote": "very few birds are seen\nat Bull Point",
+  "why": "\"very few birds are seen at Bull Point\": a summary remark with a station and a count"
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "lone second: kept",
+  "quote": "very few land-birds\nare seen",
+  "why": "\"From Flatholm and Usk we hear 'very few land-birds are seen'\": one observation per station"
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "lone second: kept",
+  "quote": "very few land-birds\nare seen",
+  "why": "\"Flatholm and Usk\": Usk's own observation of \"very few land-birds\""
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "lone second: kept",
+  "quote": "The land-birds to be seen in the immediate neighbourhood of Trevose\nHead are very scarce",
+  "why": "\"land-birds ... of Trevose Head are very scarce\": a summary remark that counts"
+ },
+ {
+  "chunk": "1880-00213",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "very few land-birds\nare seen",
+  "repeats": "very few land-birds\nare seen"
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": "gale",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "field: not adopted (first kept)",
+  "field": "date_iso",
+  "first": "1880-10-13",
+  "second": "1880-10-13/1880-10-17",
+  "decided": "1"
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "field: not adopted (first kept)",
+  "field": "force",
+  "first": "mod.",
+  "second": "gale",
+  "decided": "2"
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "field: 1",
+  "field": "time",
+  "first": "at sunrise",
+  "second": "8.15 a.m.",
+  "chosen": "at sunrise",
+  "why": "The keeper writes \"noticed at sunrise passing westward\". \"8.15 a.m.\" is when the entry and its weather were recorded."
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "lone second: kept",
+  "quote": "three struck and fell\noverboard",
+  "why": "\"three struck and fell overboard\" is a separate event with its own count, apart from the flocks \"flying round the light\". Its behaviour may fit lost_over better than struck."
+ },
+ {
+  "chunk": "1880-00212",
+  "kind": "lone second: kept, but repeats a first-reading observation (dropped)",
+  "quote": "three struck and fell\noverboard",
+  "repeats": "three struck and fell overboard"
+ },
+ {
+  "chunk": "1880-00214",
+  "kind": "lone first: kept",
+  "quote": "At Morecambe, Caernarvon, and other stations where there\nare fog signals, however, we hear of birds striking or killed",
+  "why": "\"At Morecambe, Caernarvon... we hear of birds striking or killed\": a summary remark that birds struck or were killed at Morecambe. Remarks count, so it's an observation."
+ },
+ {
+  "chunk": "1880-00214",
+  "kind": "lone first: kept",
+  "quote": "At Morecambe, Caernarvon, and other stations where there\nare fog signals, however, we hear of birds striking or killed",
+  "why": "Same sentence, second station named: \"Caernarvon\". One sentence covering several stations gives one observation per station."
+ }
+]

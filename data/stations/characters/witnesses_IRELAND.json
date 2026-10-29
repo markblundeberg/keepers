@@ -1,0 +1,1736 @@
+[
+ {
+  "id": "fastnet",
+  "name": "Fastnet",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r0",
+    "name": "FASTNET",
+    "character": "One rev. light, 1 min.",
+    "description": "Circular white tower, 92 ft. high, with red belt, on the summit of the rock",
+    "year": "1854"
+   },
+   {
+    "row_id": "p56r16",
+    "name": "FASTNET ROCK",
+    "character": "One rev. light, 1 min.",
+    "description": "Circular white tower, 92 ft. high, with red belt, on the summit of the rock",
+    "year": "1854"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p68r25",
+    "name": "FASTNET ROCK",
+    "character": "One rev. bright lt., 1 m.",
+    "description": "Circular white tower, 92 feet high, with red belt, on the summit of the rock",
+    "year": "1854"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r0",
+   "name": "Fastnet Rock",
+   "character": "White, revolving, one minute interval"
+  }
+ },
+ {
+  "id": "galley-head",
+  "name": "Galley Head",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r1",
+    "name": "GALLEY HEAD",
+    "character": "One revol. lt. ev. min.",
+    "description": "White lt.-ho. on extr. of head. Lt. shows 6 or 7 flashes during 16 secs., and is obscured 44 secs. Visible between W. and E. by S.",
+    "year": "1877"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p68r27",
+    "name": "GALLEY HEAD",
+    "character": "One flash. br. lt., 1 min.",
+    "description": "White lighthouse, 69 ft. high, on summit of head. Light shows 6 or 7 flashes during 16 secs., and is obscured 44 secs. Visible between West and E. by S.",
+    "year": "1877"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r1",
+   "name": "Galley Head",
+   "character": "Gas; white, flashing, 6 or 7 flashes in quick succession every min."
+  }
+ },
+ {
+  "id": "old-head-of-kinsale",
+  "name": "Old Head of Kinsale",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r2",
+    "name": "KINSALE OLD HEAD",
+    "character": "One bright or red light",
+    "description": "A white tower, 100 ft. high, with two red belts. A red ray is sent over the outer part of Courtmacsherry Bay, between N.W. by W. ¼ W. to W. ¾ N., or from the Seven Heads to the Horse Rocks.",
+    "year": "1853"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p68r28",
+    "name": "KINSALE OLD HEAD",
+    "character": "One fix. bright or red lt.",
+    "description": "White tower, 100 ft. high, with two red belts, on South point. A red ray over outer part of Courtmacsherry Bay, from the Seven Heads to Horse Rocks",
+    "year": "1683 / 1853"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r2",
+   "name": "Kinsale Old Head",
+   "character": "White fixed, with red sector"
+  }
+ },
+ {
+  "id": "mine-head",
+  "name": "Mine Head",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r14",
+    "name": "MINEHEAD",
+    "character": "Interm. light, 1 min.",
+    "description": "On S. side of head. Bright, 50 secs.; suddenly dark, 10 secs. Shown from W. by S. ½ S. to E. ¾ N.",
+    "year": "1850"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r7",
+    "name": "MINE HEAD",
+    "character": "One interm. br. lt., 1 m.",
+    "description": "Lt.-ho., 68 ft. high, on S. side of head. Lt. is bright 50 secs., eclipsed 10 secs. Shown from W. by S. ½ S. to E. ¾ N.",
+    "year": "1850"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r6",
+   "name": "Mine Head",
+   "character": "Gas: white, intermittent, 50 sec. visible, 10 seconds dark"
+  }
+ },
+ {
+  "id": "ballinacourty",
+  "name": "Ballinacourty (Dungarvan)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r15",
+    "name": "Dungarvan",
+    "character": "Red, green, and br. lt.",
+    "description": "On Ballinacourty Pt. Red over Carrickapane Rock; green, over rocks from Ballinacourty Pt., from E. to S.E. by E.; and bright in other directions",
+    "year": "1858"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r8",
+    "name": "Dungarvan",
+    "character": "One fixed red, green, or bright light",
+    "description": "White tower, 44 ft. high, on Ballinacourty Pt. Lt. is red over Carrickapane Rk.; green over rocks from Ballinacourty Pt., from E. ¼ N. to S.E. by E.; and bright in other directions",
+    "year": "1858"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r7",
+   "name": "Dungarvan",
+   "character": "White, fixed, with red and green sectors"
+  }
+ },
+ {
+  "id": "hook-head",
+  "name": "Hook Head (Hook Tower)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1887"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p52r17",
+    "name": "HOOK TOWER",
+    "character": "One bright fixed lt.",
+    "description": "Tower, 115 ft. high, striped red and white horizontally, on E. side of entrance. Fog-gun every 10 min.",
+    "year": "1859"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r10",
+    "name": "HOOK POINT",
+    "character": "One fixed bright lt.",
+    "description": "Tower, 115 ft. high, red and white belts, on East side of entrance",
+    "year": "1791 1859"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r8",
+   "name": "Hook Tower, Waterford",
+   "character": "Gas: white, fixed"
+  }
+ },
+ {
+  "id": "coningbeg-lv",
+  "name": "Coningbeg L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r0",
+    "name": "SALTEES LIGHT-VES.",
+    "character": "One revol. bright lt., 3 flashes once ev. min.",
+    "description": "By day shows one mast with ball, and jigger mast. Fog-trumpet, blowing 5 secs., silent 29 secs., then blowing 5 secs., silent 4½ min.",
+    "year": "1824 1878"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r18",
+    "name": "SALTEES LT.-VESSEL",
+    "character": "One 3-flash. br. lt., 1 m.",
+    "description": "In 29 fathoms, off Coningbeg Rock. Painted black; three masts, with ball at main. Lt. shows 3 quick flashes in 23 secs., eclipsed 37 s.",
+    "year": "1824 1878"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r11",
+   "name": "Coningbeg (Saltees) light vessel",
+   "character": "White, group flashing, 3 flashes every minute"
+  }
+ },
+ {
+  "id": "barrels-lv",
+  "name": "Barrels Rock L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r19",
+    "name": "BARRELS ROCK LT.-V.",
+    "character": "One 2-flash. red lt., ½ m.",
+    "description": "In 27 fathoms, 2¼ miles S.W. by S. ¼ S. from Barrels Rock. Two red flashes in quick succession; a black barrel on mainmast head",
+    "year": "1880 1885"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r12",
+   "name": "Barrels Rock light vessel",
+   "character": "Red, flashing every half-minute"
+  }
+ },
+ {
+  "id": "tuskar-rock",
+  "name": "Tuskar Rock",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r1",
+    "name": "TUSKAR",
+    "character": "Red and br. rev. light",
+    "description": "Circular white tower, 110 ft. high. A flash of 10 secs. every 1 min.; bright, bright, and red alternately. Fog-bell and rockets",
+    "year": "1815"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r20",
+    "name": "TUSKAR ROCK",
+    "character": "One rev. br. & red lt., 1 m.",
+    "description": "Circular white tower, 113 ft. high. Light bright and red alternately",
+    "year": "1815 1885"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r13",
+   "name": "Tuskar Rock",
+   "character": "White and red, revolving, one minute interval, twice white once red"
+  }
+ },
+ {
+  "id": "lucifer-shoals-lv",
+  "name": "Lucifer Shoals L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1887"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r2",
+    "name": "LUCIFER SHOALS LT.-V.",
+    "character": "One fixed red light",
+    "description": "In 21 fathoms, 2½ miles E. of shoals; has 3 masts; globe, and light, at main. Gong",
+    "year": "1863"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r21",
+    "name": "LUCIFER SHOALS LT.-V.",
+    "character": "One fixed red light",
+    "description": "In 21 fathoms, 2 miles East of shoals. Black, with 3 masts; globe and light at main",
+    "year": "1868"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r14",
+   "name": "Lucifer Shoals light vessel",
+   "character": "Red, fixed"
+  }
+ },
+ {
+  "id": "arklow-south-lv",
+  "name": "Arklow South L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r4",
+    "name": "ARKLOW BANK S. LT.-VESSEL",
+    "character": "One br. rev. lt., ½ min.",
+    "description": "In 25 fathoms, 2 miles from S. end of bank; has 3 masts; light, and half globe, over globe at main. Gong",
+    "year": "1824 1867"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p69r23",
+    "name": "ARKLOW S. LT.-VESSEL",
+    "character": "One rev. br. lt., ½ min.",
+    "description": "In 26 fathoms, 2 miles from South end of Arklow Bank. Black, with 3 masts; half globe over globe at main",
+    "year": "1824 1867"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r16",
+   "name": "Arklow, South Bank light vessel",
+   "character": "White, revolving, half-minute interval"
+  }
+ },
+ {
+  "id": "arklow-north-lv",
+  "name": "Arklow North L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r5",
+    "name": "ARKLOW BANK N. LT.-VESSEL",
+    "character": "Two bright fixed lights",
+    "description": "In 18 fathoms, 3½ miles S.E. by E. from N. end of bank; has 3 masts, lights, and globes, on main and fore. Gong. (To be altered in spring of 1879 to revol. lt., showing 2 flashes once in every minute.",
+    "year": "1867 ...."
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r0",
+    "name": "ARKLOW N. LT.-VESSEL",
+    "character": "One 2-flash. br. lt., 1 m.",
+    "description": "In 18 fms., 3½ miles S.E. by E. ¾ E. from North buoy of Arklow Bank. Light shows 2 quick flashes, followed by 45 secs. darkness. One mast with ball, and jigger mast",
+    "year": "1867 1879"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r17",
+   "name": "Arklow, North Bank light vessel",
+   "character": "White, flashing one minute"
+  }
+ },
+ {
+  "id": "wicklow-head",
+  "name": "Wicklow Head",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r6",
+    "name": "WICKLOW HEAD",
+    "character": "One bright intermit. lt.",
+    "description": "Ten secs. bright; 3 secs. dark",
+    "year": "1818 1867"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r2",
+    "name": "WICKLOW HEAD",
+    "character": "1. One occulting br. lt. 2. One fix. br. or red lt.",
+    "description": "1. White tower, 46 ft. high. Lt. vis. 10 secs., eclipsed 3 secs. Two towers to W.N.W. 2. On pier, red seaward, bright in harbour",
+    "year": "1818 1867 1884"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r18",
+   "name": "Wicklow Head",
+   "character": "Gas; white, intermittent, 10 seconds bright, 3 seconds dark"
+  }
+ },
+ {
+  "id": "kish-bank-lv",
+  "name": "Kish Bank L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r9",
+    "name": "KISH LIGHTVESSEL",
+    "character": "One rev. br. lt., 1 min.",
+    "description": "In 10 fms., ¾ mile off N. end of Kish Bank. Fog-gun, 2 discharges once in every ½ hour",
+    "year": "1811 1865"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r5",
+    "name": "KISH LIGHTVESSEL",
+    "character": "One rev. br. lt., 1 min.",
+    "description": "In 13 fms., 1½ mile N.E. of North end of Kish Bank. Has three masts, with ball at main",
+    "year": "1811 1865"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r20",
+   "name": "Kish Bank light vessel",
+   "character": "White, revolving, one minute interval"
+  }
+ },
+ {
+  "id": "baily",
+  "name": "Baily (Howth)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r15",
+    "name": "HOWTH-BAILEY",
+    "character": "One bright fixed light",
+    "description": "White tower, 42 ft. high, on S.E. pt. of Howth Peninsula. Fog Horn, 5 secs. every 20 secs.",
+    "year": "1671 1813"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r11",
+    "name": "HOWTH-BAILEY",
+    "character": "One fixed bright lt.",
+    "description": "White tower, 42 feet high, on S.E. point of Howth Peninsula",
+    "year": "1671 1813"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p190r23",
+   "name": "Howth Bailey",
+   "character": "Gas, white, fixed"
+  }
+ },
+ {
+  "id": "rockabill",
+  "name": "Rockabill",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p53r18",
+    "name": "ROCKABILL",
+    "character": "One br. and red flash. lt.",
+    "description": "Tower, 105 ft. high; flash every 12 secs.; br. seaward, from S. ½ E. to N.E. by N.; red to westward",
+    "year": "1860"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r15",
+    "name": "ROCKABILL",
+    "character": "One flash. br. or red lt.",
+    "description": "Gray tower, 105 ft. high. Lt. shows a flash every 12 secs.; bright seaward from S. ¾ E. to N.E. by N. ½ N.; red to westward",
+    "year": "1860"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r0",
+   "name": "Rockabill",
+   "character": "Gas; white, flashing every 12 seconds, with red sectors"
+  }
+ },
+ {
+  "id": "south-rock-lv",
+  "name": "South Rock L.V.",
+  "kind": "light-vessel",
+  "years_in_reports": [
+   "1887"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p54r5",
+    "name": "SOUTH ROCK LT.-VES.",
+    "character": "One revol. bright lt.",
+    "description": "Supersedes S. Rock lt.-ho., and shows revol. lt. every 1½ min. In 30 fms., 1 mile E. of Ridge Shoal. Fog-gun every ½ hour",
+    "year": "1877"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p70r23",
+    "name": "SOUTH ROCK LT.-VES,",
+    "character": "One rev. br. lt., 1½ min.",
+    "description": "Supersedes S. Rock lt.-ho. In 30 fms., 1 mile E. of Ridge Shoal. Black, with ball at main",
+    "year": "1877"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r4",
+   "name": "South Rock, light vessel",
+   "character": "White, revolving, 1½ minutes in- interval"
+  }
+ },
+ {
+  "id": "copeland",
+  "name": "Copeland / Mew Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p54r7",
+    "name": "COPELAND",
+    "character": "One fixed bright light",
+    "description": "A white tower, 52 ft. high, on Small Copeland Island. Fog-bell",
+    "year": "1796"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r2",
+    "name": "MEW ISLAND",
+    "character": "One 4-flashing bright light, 1 minute",
+    "description": "Gray lt.-ho. on E. point. A group of 4 flashes in quick succession in every min., occupying about 22 secs. Obscured by Copeland Ids. Weak reflected flashes may be observed in the interval. Lt.-ho. is 4 cables East of Copeland lt.-ho., the latter light being discontinued...",
+    "year": "1884"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r6",
+   "name": "Copeland Island",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "maidens-north",
+  "name": "Maidens North",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p54r10",
+    "name": "MAIDENS",
+    "character": "Two fixed bright lights",
+    "description": "Towers, 76 and 68 ft. high, white, with red belt. In one, N.W. by W., 800 yds. apart",
+    "year": "1828"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r6",
+    "name": "MAIDENS",
+    "character": "Two fixed bright lights",
+    "description": "Towers, 76 & 68 ft. high, white, with red belt. In one, N.W. by W. ¼ W., 800 yds. apart ...",
+    "year": "1828"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r8",
+   "name": "Maiden's Rock--2 lights, north and south",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "maidens-south",
+  "name": "Maidens South",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1887"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p54r10",
+    "name": "MAIDENS",
+    "character": "Two fixed bright lights",
+    "description": "Towers, 76 and 68 ft. high, white, with red belt. In one, N.W. by W., 800 yds. apart",
+    "year": "1828"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r6",
+    "name": "MAIDENS",
+    "character": "Two fixed bright lights",
+    "description": "Towers, 76 & 68 ft. high, white, with red belt. In one, N.W. by W. ¼ W., 800 yds. apart ...",
+    "year": "1828"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r8",
+   "name": "Maiden's Rock--2 lights, north and south",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "rathlin-east",
+  "name": "Rathlin (Altacarry)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p54r11",
+    "name": "RATHLIN",
+    "character": "One interm., 1 fixed lt.",
+    "description": "Tower, 88 ft. high, with red belt, on Altacarry or N.E. point. Upper lt. intermit., br. 50 secs.; dark, 10 secs. Shown northward, from N.W. ½ N. to S.E. by S., and to S. on Rathlin Island, from S.W. by W. ½ W. to W. ½ S. Red lt. over Carrickvanan Rock. Lower fixed lt. does not show in Rathlin Sound. A fog-gun every 15 minutes",
+    "year": "1856"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r7",
+    "name": "RATHLIN",
+    "character": "One intermittent bright or red light, and one fixed bright light",
+    "description": "White tower, 88 feet high, with red belt, on Altacarry or N.E. point. Upper light intermittent, bright 50 secs., eclipsed 10 secs. Shown to N. and E., from N.W. to S.W. by S., and in Rathlin Sound from S.W. by W. ¼ W. to W. ½ S. Red light over Carrickvanan Rock. Lower fixed light visible seaward between N.W. by N. and S.W. by S. ½ S., but does not show in Rathlin Sound",
+    "year": "1856 / ...."
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r9",
+   "name": "Rathlin Island--2 lights",
+   "character": "White, intermittent, 50 seconds bright, 10 seconds dark; White, fixed, with red sector"
+  }
+ },
+ {
+  "id": "inishtrahull",
+  "name": "Inishtrahull",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r4",
+    "name": "INNISTRAHULL",
+    "character": "One br. rev. lt., ½ min.",
+    "description": "A white tower, 41 ft. high; on N.E. part of island",
+    "year": "1812"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r23",
+    "name": "INNISTRAHULL",
+    "character": "One rev. br. lt., ½ min.",
+    "description": "White tower, 42 feet high, on N.E. part of island",
+    "year": "1812"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r11",
+   "name": "Inishtrahull",
+   "character": "White, revolving, half-minute interval"
+  }
+ },
+ {
+  "id": "dunree-head",
+  "name": "Dunree Head",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r5",
+    "name": "Dunree Head",
+    "character": "One fixed bright lt.",
+    "description": "Shown from a dwelling-house, visible betw. N.N.E. ½ E. and S. ½ E.",
+    "year": "1876"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r25",
+    "name": "Dunree Head",
+    "character": "One fixed bright lt.",
+    "description": "Shown from a dwelling-house, visible between N.E. by N. ½ N. and S. ½ E. ....................",
+    "year": "1876"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r12",
+   "name": "Dunree Head, Lough Swilly",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "fanad-head",
+  "name": "Fanad Head (Lough Swilly)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r7",
+    "name": "Fannet Point",
+    "character": "One red or bright lt.",
+    "description": "Tower, 26 ft. high; light red seaward; bright towards the Lough",
+    "year": "1816"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r27",
+    "name": "FANNET POINT",
+    "character": "1. One occult. bright or red light, ½ min. 2. One fixed bright lt.",
+    "description": "1. White tower, 26 feet high. Light is visible 5 secs., eclipsed 2½ secs., visible 20 secs., and eclipsed 2½ secs. Bright seaward to S. by E., and thence red to the land. 2. At 55 feet below main light; shown over Limeburner Rock, between N. 44° W. and N. 54° W.",
+    "year": "1816 / 1886"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r13",
+   "name": "Fanad Point, Lough Swilly",
+   "character": "Red, fixed (white, towards Harbour)"
+  }
+ },
+ {
+  "id": "tory-island",
+  "name": "Tory Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r8",
+    "name": "TORY ISLAND",
+    "character": "One fixed bright light",
+    "description": "White tower, 87 ft. high, on the N.W. point of island. Obscured by island to S.S.E.",
+    "year": "1832"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p71r28",
+    "name": "TORY ISLAND",
+    "character": "One fixed bright light",
+    "description": "White tower, 87 ft. high, on the N.W. point. Obscured by island between S.E. by E. ¼ E. and S.E. ¾ S.",
+    "year": "1832"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r14",
+   "name": "Tory Island",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "arranmore",
+  "name": "Arranmore",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r9",
+    "name": "ARANMORE ISLAND",
+    "character": "One rev. red and br. lt. Lower red light",
+    "description": "Tower, 76 ft. high, on Rinawros Pt. Lt. shows altern. red & br. flashes (of equal intensity) ev. 20 secs. Lower lt. red to eastward over Stag Rocks, betw. N.E. by E. ½ E. & E. by N.",
+    "year": "1865 / 1877"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r0",
+    "name": "ARANMORE ISLAND",
+    "character": "One rev. red and br. lt. Lower fixed red light",
+    "description": "White tower, 76 ft. high, on Rinrawros Pt. Lt. shows alternate red and bright flashes (of equal intensity) every 20 secs. Lower lt. red to eastward over Stag Rocks, between N.E. by E. ½ E. and E. by N.",
+    "year": "1865 / 1877"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r15",
+   "name": "Aranmore Island--2 lights",
+   "character": "Alternate, red and white, revolving, 20 seconds interval; Red, fixed, in same tower"
+  }
+ },
+ {
+  "id": "rathlin-obirne",
+  "name": "Rathlin O'Birne",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r10",
+    "name": "RATHLIN-O-BIRNE",
+    "character": "Ono fixed br. or red lt.",
+    "description": "Tower, 65 ft. high, on W. side. Lt. is bright seaward from N.E. ½ N. to S.S.E. ½ E. Red towards mainland and sound",
+    "year": "1864"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r1",
+    "name": "RATHLIN-O-BIRNE",
+    "character": "One fixed br. or red lt.",
+    "description": "White tower, 65 ft. high, on West side. Lt. is bright seaward from N.E. ½ N. to S.E. by S. ½ S. Red towards mainland and sound",
+    "year": "1856 / 1864"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r16",
+   "name": "Rathlin O'Beirne",
+   "character": "White, fixed, with red sector"
+  }
+ },
+ {
+  "id": "rotten-island",
+  "name": "Rotten Island (Killybegs)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r12",
+    "name": "Rotten Island",
+    "character": "",
+    "description": "One br. fix. lt., with red sector, over Bullockmore Rk., betw. S.W. ¾ S. & S.W. by W. ¾ W.",
+    "year": "1838"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r3",
+    "name": "Rotten Island",
+    "character": "One fix. br. or red lt.",
+    "description": "White tower, 47 feet high. Red sector over Bullockmore Rock, between S.W. ¾ S. and S.W. by W. ¾ W.",
+    "year": "1838"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r17",
+   "name": "Killybegs--2 lights",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "oyster-island",
+  "name": "Oyster Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r14",
+    "name": "Oyster Island",
+    "character": "",
+    "description": "Two fixed bright lights; in one, S.S.E. ¾ E.",
+    "year": "1837"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r6",
+    "name": "Oyster Island",
+    "character": "",
+    "description": "Two fixed bright lights; in one, S.E. ¾ S.",
+    "year": "1837"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r18",
+   "name": "Sligo Bay, Oyster Island",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "broadhaven",
+  "name": "Broadhaven",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r15",
+    "name": "Broadhaven",
+    "character": "One br. or red fixed lt.",
+    "description": "On Gubacashel Point. White to seaward; red towards West side of harbour",
+    "year": "1855"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r8",
+    "name": "Broadhaven",
+    "character": "One fix. bright or red lt.",
+    "description": "Lt.-ho., 50 ft. high, on Gubacashel Pt. Bright to seaward; red toward W. side of harbour",
+    "year": "1855"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r19",
+   "name": "Broadhaven",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "eagle-island-east",
+  "name": "Eagle Island East",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r16",
+    "name": "EAGLE ISLAND",
+    "character": "Two bright fixed lights",
+    "description": "White towers, 87 and 64 ft. high. In one, E. by N. and W. by S., 132 yds. apart, clears all rocks off Black Sod Bay and Broadhaven",
+    "year": ""
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r9",
+    "name": "EAGLE ISLAND",
+    "character": "Two fixed bright lights",
+    "description": "White towers, 87 & 64 ft. high. In one, E. by N. ½ N. or W. by S. ½ S., 132 yds. apart, clear all rocks off Black Sod Bay and Broadhaven",
+    "year": ""
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r20",
+   "name": "Eagle Island--2 lights",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "eagle-island-west",
+  "name": "Eagle Island West",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r16",
+    "name": "EAGLE ISLAND",
+    "character": "Two bright fixed lights",
+    "description": "White towers, 87 and 64 ft. high. In one, E. by N. and W. by S., 132 yds. apart, clears all rocks off Black Sod Bay and Broadhaven",
+    "year": ""
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r9",
+    "name": "EAGLE ISLAND",
+    "character": "Two fixed bright lights",
+    "description": "White towers, 87 & 64 ft. high. In one, E. by N. ½ N. or W. by S. ½ S., 132 yds. apart, clear all rocks off Black Sod Bay and Broadhaven",
+    "year": ""
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r20",
+   "name": "Eagle Island--2 lights",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "blackrock-mayo",
+  "name": "Blackrock (Mayo)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r17",
+    "name": "BLACK ROCK",
+    "character": "One flashing lt., ½ min.",
+    "description": "Tower, 50 ft. high, on W. extremity of Black Rock; red toward land, from N.E. by E. ½ E. to S.E. by E. ½ E.",
+    "year": "1864"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r10",
+    "name": "BLACK ROCK",
+    "character": "One flashing lt., ½ min.",
+    "description": "White tower, 50 ft. high, on West extremity. Light red toward land, from N.E. byE. ½ E. to S.E. by E. Bright seaward",
+    "year": "1864"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r21",
+   "name": "Black Rock",
+   "character": "White, flashing every half-minute"
+  }
+ },
+ {
+  "id": "blacksod-point",
+  "name": "Blacksod Point",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r18",
+    "name": "Black Sod Quay",
+    "character": "One fixed br. or red lt.",
+    "description": "On Blacksod Point. Light bright, but red between S.W. by W. and S.W. ¾ S.",
+    "year": "1866"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r11",
+    "name": "Black Sod Quay",
+    "character": "One fixed br. or red lt.",
+    "description": "House on Black Sod Point. Light red between N.E. ¾ N. & N.E. by E. (19°); thence bright to S.W.",
+    "year": "1866"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r22",
+   "name": "Blacksod Point",
+   "character": "White, fixed, with red sectors"
+  }
+ },
+ {
+  "id": "clare-island",
+  "name": "Clare Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r19",
+    "name": "CLARE ISLAND",
+    "character": "One fixed bright light",
+    "description": "On North Point",
+    "year": "1806"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r13",
+    "name": "CLARE ISLAND",
+    "character": "One fixed bright light",
+    "description": "White lighthouse, 39 ft. high, on North Point",
+    "year": "1806"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r23",
+   "name": "Clare Island",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "slyne-head-north",
+  "name": "Slyne Head North",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r21",
+    "name": "SLYNE HEAD",
+    "character": "One rev. light, 2 min. One fixed bright lt.",
+    "description": "On Illaunimmul Island. N. light-tower, 79 ft. high. Lt. rev.; once red, and twice bright. S. light-tower, 79 ft. high; fixed light. In one, N. ¾ E., 142 yds. apart, lead outside of rocks",
+    "year": "1836 / ...."
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r15",
+    "name": "SLYNE HEAD",
+    "character": "One rev. light, 2 min. One fixed bright light",
+    "description": "Two towers, 79 ft. high, on Illaunimmul Id. N. light rev.; once red, & twice bright. S. light fixed. In one, N. ½ E., 142 yds. apart, lead outside of rocks",
+    "year": "1836 / null"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r24",
+   "name": "Slyne Head--2 lights",
+   "character": "White and red, revolving, twice white once red, 2 minutes interval; White, fixed"
+  }
+ },
+ {
+  "id": "slyne-head-south",
+  "name": "Slyne Head South",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p55r21",
+    "name": "SLYNE HEAD",
+    "character": "One rev. light, 2 min. One fixed bright lt.",
+    "description": "On Illaunimmul Island. N. light-tower, 79 ft. high. Lt. rev.; once red, and twice bright. S. light-tower, 79 ft. high; fixed light. In one, N. ¾ E., 142 yds. apart, lead outside of rocks",
+    "year": "1836 / ...."
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r15",
+    "name": "SLYNE HEAD",
+    "character": "One rev. light, 2 min. One fixed bright light",
+    "description": "Two towers, 79 ft. high, on Illaunimmul Id. N. light rev.; once red, & twice bright. S. light fixed. In one, N. ½ E., 142 yds. apart, lead outside of rocks",
+    "year": "1836 / null"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p191r24",
+   "name": "Slyne Head--2 lights",
+   "character": "White and red, revolving, twice white once red, 2 minutes interval; White, fixed"
+  }
+ },
+ {
+  "id": "eeragh",
+  "name": "Eeragh (Aran North)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r0",
+    "name": "EERAGH ISLAND",
+    "character": "One rev. br. lt., 1 m.",
+    "description": "Tower, 101 ft. high, white, with red belts, on West point",
+    "year": "1857"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r17",
+    "name": "EERAGH ISLAND",
+    "character": "One rev. br. lt., 1 m.",
+    "description": "White tower, 101 ft. high, with two red belts, on West point",
+    "year": "1857"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r0",
+   "name": "Eeragh Island, Galway Bay",
+   "character": "White, revolving, one minute interval"
+  }
+ },
+ {
+  "id": "inisheer",
+  "name": "Inisheer (Aran South)",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r2",
+    "name": "Inisheer",
+    "character": "One bright or red lt.",
+    "description": "Tower, 112 ft. high, with broad red belt, on S. pt. Lt. is red in direction of Finnis Rock",
+    "year": "1857"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r19",
+    "name": "Inisheer Island",
+    "character": "One fix. br. or red lt.",
+    "description": "White tower, 112 ft. high, with broad red belt, on S. point. Light is red over Finnis Rock",
+    "year": "1857"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r1",
+   "name": "Inisheer Isl., Galway Bay",
+   "character": "White, fixed, with red sector"
+  }
+ },
+ {
+  "id": "straw-island",
+  "name": "Straw Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r1",
+    "name": "Straw Island",
+    "character": "One fixed red light",
+    "description": "Shown betw. W. by N. ½ N. & S.E. Vis. from inside Arran Isles. Buildings white",
+    "year": "1878"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r18",
+    "name": "Straw Island",
+    "character": "One fixed red light",
+    "description": "White buildings, Killeany B. Shown betw. W. by N. ½ N. & S.E. Vis. from inside Arran Is.",
+    "year": "1878"
+   }
+  ]
+ },
+ {
+  "id": "loop-head",
+  "name": "Loop Head",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r4",
+    "name": "LOOP HEAD",
+    "character": "One intermit. br. lt.",
+    "description": "White tower, 75 ft. high, 500 yds. from extr. of head. Lt. bright 20 secs., eclipsed 4 secs. Shown from N.E. by E. ½ E. to S.E. by E.",
+    "year": "1853"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r22",
+    "name": "LOOP HEAD",
+    "character": "One occulting br. lt.",
+    "description": "White tower, 75 ft. high, 500 yds. from extr. of head. Lt. bright 20 secs., eclipsed 4 secs. Shown from N.E. by E. ½ E. to S.E. by E.",
+    "year": "1853"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r3",
+   "name": "Loop Head",
+   "character": "White, intermittent, 20 seconds visible, 4 seconds dark"
+  }
+ },
+ {
+  "id": "samphire-island",
+  "name": "Samphire Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r9",
+    "name": "Tralee",
+    "character": "One bright or red light",
+    "description": "On Little Samphire Island. Br. lt. seaward, from N. ½ W. to W. by N. ½ N., and red over anchorage from W. by N. ½ N. to E. by S. [?] S.",
+    "year": "1850"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r27",
+    "name": "Tralee",
+    "character": "One fixed br. or red lt.",
+    "description": "On Little Samphire Island. Lt. bright seaward, from N. ½ E. to W. by N. ½ N., thence red over anchorage to E. by S. ¾ S. Also a lt. on end of canal North pier",
+    "year": "1854"
+   }
+  ]
+ },
+ {
+  "id": "inishtearaght",
+  "name": "Inishtearaght",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r10",
+    "name": "TEARAGHT ISLAND",
+    "character": "Light revolving 1½ min.",
+    "description": "Lighthouse, 57 ft. high. Lt. shown between S. ¾ E. to E. by N. ¾ N.",
+    "year": ""
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r28",
+    "name": "TEARAGHT ISLAND",
+    "character": "One 2-flash. br. lt., 1 m.",
+    "description": "White lt.-ho., 57 ft. high. Lt. shown betw. S. ¾ E. and E. by N. ¾ N.; two flashes in 15 secs., followed by 45 secs. darkness",
+    "year": "1870 / 1883"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r8",
+   "name": "Tearaght Island",
+   "character": "White, flashing, 2 flashes every minute"
+  }
+ },
+ {
+  "id": "valentia",
+  "name": "Valentia",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r11",
+    "name": "Valentia",
+    "character": "One fixed bright light",
+    "description": "White tower, 48 ft. high, on Cromwell's Fort",
+    "year": "1841"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p72r29",
+    "name": "Valentia",
+    "character": "One fixed bright light",
+    "description": "White tower, 48 ft. high, on Cromwell's Fort. Lt. vis. betw. N.E. by N. ¾ N. & N.W. ¼ W.",
+    "year": "1841"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r9",
+   "name": "Valentia",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "skellig-michael",
+  "name": "Skelligs",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881",
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887",
+   "1887m"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r12",
+    "name": "SKELLIGS",
+    "character": "One fixed bright light",
+    "description": "On highest rock, 7½ miles from shore. Lt. shown from lower tower, only visible to the southward between N.W. ½ N. and E. by S. ½ S. Upper tower not lighted",
+    "year": "1826"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p73r0",
+    "name": "SKELLIGS",
+    "character": "One fixed bright light",
+    "description": "White tower, 46 ft. high, on highest rock, 7½ miles from shore. Lt. shown from lower tower, only vis. to southwd. betw. N.W. ½ N. and E. by S. ½ S. Upper tower not lighted",
+    "year": "1826"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r10",
+   "name": "Skelligs Rock",
+   "character": "White, fixed"
+  }
+ },
+ {
+  "id": "calf-rock",
+  "name": "Calf Rock",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1881"
+  ],
+  "findlay1879": [
+   {
+    "row_id": "p56r13",
+    "name": "CALF ROCK",
+    "character": "One br. flash. lt. 15 secs.",
+    "description": "Tower red, with white belt, 102 ft. high",
+    "year": "1866"
+   }
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p73r1",
+    "name": "CALF ROCK",
+    "character": "One flash. br. lt., 15 secs. (Lighthouse destroyed)",
+    "description": "Red tower, 102 ft. high, with white belt. (Lt.-house destroyed by gale of Nov. 26, 1881. A temporary lt. of same character is shown from lt.-ho. on S.W. extr. of Dursey Id., betw. N.E. ½ N. and E.S.E., through W.; elevated 189 ft., visible 16 miles). Lighthouse building on Bull Rock .........",
+    "year": "1866"
+   }
+  ]
+ },
+ {
+  "id": "dursey-island",
+  "name": "Dursey Island",
+  "kind": "lighthouse",
+  "years_in_reports": [
+   "1882",
+   "1883",
+   "1884",
+   "1885",
+   "1885m",
+   "1886",
+   "1887m"
+  ],
+  "findlay1887": [
+   {
+    "row_id": "p73r1",
+    "name": "CALF ROCK",
+    "character": "One flash. br. lt., 15 secs. (Lighthouse destroyed)",
+    "description": "Red tower, 102 ft. high, with white belt. (Lt.-house destroyed by gale of Nov. 26, 1881. A temporary lt. of same character is shown from lt.-ho. on S.W. extr. of Dursey Id., betw. N.E. ½ N. and E.S.E., through W.; elevated 189 ft., visible 16 miles). Lighthouse building on Bull Rock .........",
+    "year": "1866"
+   }
+  ],
+  "edwards1884": {
+   "row_id": "p192r11",
+   "name": "Dursey Head",
+   "character": "White, flashing every 15 seconds"
+  }
+ }
+]

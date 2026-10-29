@@ -1,0 +1,138 @@
+{
+ "items": [
+  {
+   "n": 71,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": "Aran Islands, Galway Bay, north light (Eeragh). Not Arranmore in Donegal, and not Arran in Scotland."
+  },
+  {
+   "n": 72,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": "Aran Islands, south light (Inisheer)."
+  },
+  {
+   "n": 73,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 75,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 79,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 81,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 145,
+   "kind": "station",
+   "ids": [
+    "blackrock-mayo"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 601,
+   "kind": "station",
+   "ids": [
+    "baily"
+   ],
+   "place": null,
+   "note": "'Daily' is an OCR misreading of 'Baily'. The station list prints 'Howth Baily'."
+  },
+  {
+   "n": 846,
+   "kind": "station",
+   "ids": [
+    "copeland"
+   ],
+   "place": null,
+   "note": "Mew Island is where the Copeland light stands. The example ('Terns breed on Mew Island') may be the keeper's remark naming the island, not a station heading. Either way it points to the Copeland station."
+  },
+  {
+   "n": 980,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": "Oyster Island had north and south lights, but the station file has a single entry, which already includes 'Oyster Island N.'."
+  },
+  {
+   "n": 982,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": "Same as n=980."
+  },
+  {
+   "n": 1015,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": "Rathlin Island, Antrim: the only Rathlin station that isn't Rathlin O'Birne."
+  },
+  {
+   "n": 1018,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1154,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "Uncertain. The words name the South Maiden tower, but maidens-south is only 'seen' in 1887. The 1881 list prints just 'Maidens', which is under maidens-north. If the 1881 'Maidens' return came from the south tower, maidens-south is right. If 'South Maiden lighthouse' is only mentioned in a Maidens North remark, use maidens-north."
+  }
+ ],
+ "notes": "Things to check: (1) n=1154 'South Maiden lighthouse', 1881: find out which Maidens tower sent the 1881 return. The station file lists maidens-south only for 1887, and the 1881 'Maidens' entry sits under maidens-north. (2) n=846 'Mew Island': check whether it is an observation heading or just part of a remark ('Terns breed on Mew Island') inside the Copeland entry. (3) Oyster Island has one entry in the station file even though it had two lights (N/S). If the reports ever separate them, the file may need an oyster-island-south. (4) The Arran items with a line break inside ('Arran Island\\nNorth/South', 'Rathlin\\nIsland') are the same stations as the one-line forms. Only the extraction differs.",
+ "_meta": {
+  "run": 2,
+  "coast": "IRISH COAST: AUTUMN",
+  "gen": 0,
+  "cost_usd": 0.380734,
+  "n_items": 14
+ }
+}

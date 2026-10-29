@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "n": 1531,
+   "kind": "station",
+   "ids": [
+    "monach-isles"
+   ],
+   "place": null,
+   "note": "Word-order variant of 'Monach Isles', which is listed in 1886."
+  },
+  {
+   "n": 1532,
+   "kind": "station",
+   "ids": [
+    "holy-isle"
+   ],
+   "place": null,
+   "note": "The station lists print it as 'Lamlash' (Holy Isle light, Lamlash Bay, Arran), and it is listed in 1884."
+  }
+ ],
+ "notes": "Both names point to one station each, and both stations are on the 1886/1884 West of Scotland lists. Item 1531's example ('the four left in August', after nesting) sounds like birds that stayed and bred on the island. That fits the lighthouse well enough, but check the full text if you want 'at the station' rather than 'around the islands'. Nothing else needs checking.",
+ "_meta": {
+  "run": 2,
+  "coast": "WEST COAST OF SCOTLAND",
+  "gen": 1,
+  "cost_usd": 0.4826686,
+  "n_items": 2
+ }
+}

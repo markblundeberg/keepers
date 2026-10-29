@@ -1,0 +1,120 @@
+{
+ "items": [
+  {
+   "n": 49,
+   "kind": "station",
+   "ids": [
+    "point-of-ayr-wales"
+   ],
+   "place": null,
+   "note": "'Air' is the 1880-81 list's own spelling ('Air, L.H.') for Point of Ayr, Flintshire, at the mouth of the Dee. It is not the Dee L.V., which is listed only from 1884, and not Point of Ayre on the Isle of Man."
+  },
+  {
+   "n": 193,
+   "kind": "station",
+   "ids": [
+    "caernarfon-bay-lv"
+   ],
+   "place": null,
+   "note": "Caernarfon Bay L.V. is the only Caernarvon station. The example passage groups it with Morecambe as 'stations where there are fog signals', which fits the light-vessels."
+  },
+  {
+   "n": 194,
+   "kind": "station",
+   "ids": [
+    "caernarfon-bay-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 593,
+   "kind": "station",
+   "ids": [
+    "holyhead-breakwater"
+   ],
+   "place": null,
+   "note": "Not fully certain. The 1880-81 lists include three Holyhead-area stations: Holyhead Breakwater, North Stack and South Stack. Plain 'Holyhead' most likely means the Breakwater light, and 'passed E. across the bay' fits a station in Holyhead Bay. Check the source pages to see whether any of the 7 observations sit in North Stack or South Stack entries."
+  },
+  {
+   "n": 793,
+   "kind": "station",
+   "ids": [
+    "longships"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 861,
+   "kind": "station",
+   "ids": [
+    "morecambe-bay-lv"
+   ],
+   "place": null,
+   "note": "Morecambe Bay L.V. is the only Morecambe station. With 54 observations, it is worth checking that none of them are about the town."
+  },
+  {
+   "n": 867,
+   "kind": "station",
+   "ids": [
+    "morecambe-bay-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 880,
+   "kind": "station",
+   "ids": [
+    "north-stack"
+   ],
+   "place": null,
+   "note": "North Stack fog-signal station, which is distinct from South Stack L.H."
+  },
+  {
+   "n": 902,
+   "kind": "station",
+   "ids": [
+    "nash-point-low"
+   ],
+   "place": null,
+   "note": "The low (west) Nash light, as opposed to the high (east) light, nash-point-high."
+  },
+  {
+   "n": 1061,
+   "kind": "station",
+   "ids": [
+    "south-bishop"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1062,
+   "kind": "station",
+   "ids": [
+    "south-stack"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1193,
+   "kind": "station",
+   "ids": [
+    "st-tudwals"
+   ],
+   "place": null,
+   "note": "OCR/print garble of St Tudwal's; the 1880 list prints 'St. Judwall, L.H.'. The words contain a line break."
+  }
+ ],
+ "notes": "I read only lines 1-2916 of stations.json. That part holds the whole England-west, Isle of Man and early Ireland blocks; the remaining lines (Scotland and the rest of Ireland) are unlikely to hold West Coast of England names. All 12 items resolve to stations. Things to check: (1) Holyhead (n 593): whether any of the 7 observations really belong to North Stack or South Stack rather than the Breakwater. (2) Morecambe (n 861, 54 observations): that none refer to the town rather than the light-vessel. (3) Caernarvon (n 193, 1880): confirm in the 1880 text that it means the Bay light-vessel. (4) Air (River Dee) (n 49): this goes to the Flintshire Point of Ayr L.H.; keep it apart from point-of-ayre-iom and from dee-lv, which is listed only from 1884.",
+ "_meta": {
+  "run": 2,
+  "coast": "WEST COAST OF ENGLAND",
+  "gen": 0,
+  "cost_usd": 0.3081576,
+  "n_items": 12
+ }
+}

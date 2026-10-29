@@ -1,0 +1,4833 @@
+{
+ "items": [
+  {
+   "n": 22,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 23,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 52,
+   "kind": "place",
+   "ids": [],
+   "place": "Alloa, Clackmannanshire, Scotland",
+   "note": null
+  },
+  {
+   "n": 56,
+   "kind": "place",
+   "ids": [],
+   "place": "Alnmouth, Northumberland",
+   "note": null
+  },
+  {
+   "n": 57,
+   "kind": "place",
+   "ids": [],
+   "place": "Alnwick, Northumberland",
+   "note": null
+  },
+  {
+   "n": 58,
+   "kind": "place",
+   "ids": [],
+   "place": "Arden, Loch Lomond, Dunbartonshire, Scotland",
+   "note": null
+  },
+  {
+   "n": 114,
+   "kind": "place",
+   "ids": [],
+   "place": "Bassingham, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 117,
+   "kind": "place",
+   "ids": [],
+   "place": "Beesby, Lincolnshire",
+   "note": "Probably Beesby (Hawerby cum Beesby), near Grainsby; the keepers mentioned are likely the Grainsby keepers."
+  },
+  {
+   "n": 118,
+   "kind": "place",
+   "ids": [],
+   "place": "Beccles, Suffolk",
+   "note": "The report says Norfolk, but Beccles is in Suffolk, on the Norfolk border."
+  },
+  {
+   "n": 119,
+   "kind": "place",
+   "ids": [],
+   "place": "Bedford, Bedfordshire",
+   "note": null
+  },
+  {
+   "n": 127,
+   "kind": "place",
+   "ids": [],
+   "place": "Bishop Auckland, County Durham",
+   "note": null
+  },
+  {
+   "n": 150,
+   "kind": "place",
+   "ids": [],
+   "place": "Blakeney, Norfolk",
+   "note": null
+  },
+  {
+   "n": 154,
+   "kind": "place",
+   "ids": [],
+   "place": "Bradwell, Norfolk",
+   "note": "Bradwell near Gorleston (historically in Suffolk)."
+  },
+  {
+   "n": 160,
+   "kind": "place",
+   "ids": [],
+   "place": "South Gare breakwater, Redcar, North Yorkshire",
+   "note": "Guess from the 1881 Teesmouth/Redcar context (skuas on the ground near 'the Breakwater'). The South Gare lighthouse wasn't listed until 1885. Check the source."
+  },
+  {
+   "n": 162,
+   "kind": "place",
+   "ids": [],
+   "place": "Breydon Water, Norfolk",
+   "note": null
+  },
+  {
+   "n": 163,
+   "kind": "place",
+   "ids": [],
+   "place": "Breydon Water, Norfolk",
+   "note": null
+  },
+  {
+   "n": 164,
+   "kind": "place",
+   "ids": [],
+   "place": "Breydon Water, Norfolk",
+   "note": null
+  },
+  {
+   "n": 165,
+   "kind": "place",
+   "ids": [],
+   "place": "Breydon Water, Norfolk",
+   "note": null
+  },
+  {
+   "n": 166,
+   "kind": "place",
+   "ids": [],
+   "place": "Breydon Water, Norfolk",
+   "note": null
+  },
+  {
+   "n": 170,
+   "kind": "place",
+   "ids": [],
+   "place": "Bridlington, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 171,
+   "kind": "place",
+   "ids": [],
+   "place": "Bridlington Bay, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 172,
+   "kind": "place",
+   "ids": [],
+   "place": "Brigg, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 173,
+   "kind": "place",
+   "ids": [],
+   "place": "Brighton, East Sussex",
+   "note": null
+  },
+  {
+   "n": 190,
+   "kind": "place",
+   "ids": [],
+   "place": "Butterwick, Lincolnshire",
+   "note": "Uncertain which Butterwick: near Boston, or East/West Butterwick in north Lincolnshire."
+  },
+  {
+   "n": 191,
+   "kind": "place",
+   "ids": [],
+   "place": "Buxey Sand, Essex coast (Thames Estuary)",
+   "note": "'Buxby Sand' is read as Buxey Sand, a sandbank near the Swin. Check."
+  },
+  {
+   "n": 192,
+   "kind": "place",
+   "ids": [],
+   "place": "Cadeby (Wyham cum Cadeby), Lincolnshire",
+   "note": "Read as the Cadeby near Grainsby because 1886 keeper reports come from there, not Cadeby in Yorkshire or Leicestershire."
+  },
+  {
+   "n": 195,
+   "kind": "place",
+   "ids": [],
+   "place": "Caister-on-Sea, Norfolk",
+   "note": "Caister Denes, north of Great Yarmouth."
+  },
+  {
+   "n": 206,
+   "kind": "place",
+   "ids": [],
+   "place": "Cambridge, Cambridgeshire",
+   "note": null
+  },
+  {
+   "n": 227,
+   "kind": "station",
+   "ids": [
+    "casquets"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 230,
+   "kind": "place",
+   "ids": [],
+   "place": "Chester, Cheshire",
+   "note": null
+  },
+  {
+   "n": 231,
+   "kind": "place",
+   "ids": [],
+   "place": "Cheviot Hills, Northumberland",
+   "note": null
+  },
+  {
+   "n": 238,
+   "kind": "place",
+   "ids": [],
+   "place": "Cleethorpes, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 239,
+   "kind": "place",
+   "ids": [],
+   "place": "Cley next the Sea, Norfolk",
+   "note": null
+  },
+  {
+   "n": 240,
+   "kind": "place",
+   "ids": [],
+   "place": "Cley next the Sea, Norfolk",
+   "note": null
+  },
+  {
+   "n": 241,
+   "kind": "place",
+   "ids": [],
+   "place": "Durham coast, County Durham",
+   "note": null
+  },
+  {
+   "n": 242,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland coast, Northumberland",
+   "note": "Truncated 'Coast of Northumber[land]'."
+  },
+  {
+   "n": 246,
+   "kind": "station",
+   "ids": [
+    "cockle-lv"
+   ],
+   "place": null,
+   "note": "The plural belongs to a list ('Outer Dowsing, Corton and Cockle L.V.'s'). Only Cockle is in this item."
+  },
+  {
+   "n": 247,
+   "kind": "station",
+   "ids": [
+    "cockle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 248,
+   "kind": "station",
+   "ids": [
+    "cockle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 249,
+   "kind": "station",
+   "ids": [
+    "cockle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 256,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 257,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Coquet light-vessel. Taken as the lighthouse."
+  },
+  {
+   "n": 258,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 259,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 260,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": "'Lv.' is probably a misreading of L.H.; there is no Coquet light-vessel."
+  },
+  {
+   "n": 261,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 262,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 263,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 264,
+   "kind": "station",
+   "ids": [
+    "coquet"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 269,
+   "kind": "place",
+   "ids": [],
+   "place": "Cowpen Marsh, County Durham (Teesside)",
+   "note": null
+  },
+  {
+   "n": 270,
+   "kind": "place",
+   "ids": [],
+   "place": "Cresswell, Northumberland",
+   "note": null
+  },
+  {
+   "n": 271,
+   "kind": "place",
+   "ids": [],
+   "place": "Crofton, West Yorkshire",
+   "note": null
+  },
+  {
+   "n": 274,
+   "kind": "station",
+   "ids": [
+    "cromer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 275,
+   "kind": "station",
+   "ids": [
+    "cromer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 276,
+   "kind": "station",
+   "ids": [
+    "cromer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 277,
+   "kind": "station",
+   "ids": [
+    "cromer"
+   ],
+   "place": null,
+   "note": "'Lv.' is probably a misreading; there is no Cromer light-vessel."
+  },
+  {
+   "n": 278,
+   "kind": "station",
+   "ids": [
+    "cromer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 287,
+   "kind": "place",
+   "ids": [],
+   "place": "Dartford, Kent",
+   "note": null
+  },
+  {
+   "n": 295,
+   "kind": "place",
+   "ids": [],
+   "place": "East Dereham, Norfolk",
+   "note": null
+  },
+  {
+   "n": 300,
+   "kind": "place",
+   "ids": [],
+   "place": "Dogmersfield, Hampshire",
+   "note": null
+  },
+  {
+   "n": 301,
+   "kind": "place",
+   "ids": [],
+   "place": "Donna Nook, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 305,
+   "kind": "place",
+   "ids": [],
+   "place": "Dover, Kent",
+   "note": null
+  },
+  {
+   "n": 306,
+   "kind": "place",
+   "ids": [],
+   "place": "Dovercourt, Essex",
+   "note": null
+  },
+  {
+   "n": 307,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": "Printed 'Dowsing' without Outer or Inner. The choice of Outer is a guess."
+  },
+  {
+   "n": 312,
+   "kind": "station",
+   "ids": [
+    "dudgeon-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 313,
+   "kind": "station",
+   "ids": [
+    "dudgeon-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 314,
+   "kind": "station",
+   "ids": [
+    "dudgeon-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 325,
+   "kind": "place",
+   "ids": [],
+   "place": "Durham, County Durham",
+   "note": "'Near Durham': could mean the city or the county."
+  },
+  {
+   "n": 326,
+   "kind": "place",
+   "ids": [],
+   "place": "Durham coast, County Durham",
+   "note": null
+  },
+  {
+   "n": 329,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 342,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 343,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 344,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of Scotland",
+   "note": null
+  },
+  {
+   "n": 345,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "Means the east-coast stations as a group; the stations aren't named."
+  },
+  {
+   "n": 346,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 347,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 348,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 349,
+   "kind": "place",
+   "ids": [],
+   "place": "East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 350,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with South Sand Head ('South Sand Head and East Side L.V.'s')."
+  },
+  {
+   "n": 352,
+   "kind": "place",
+   "ids": [],
+   "place": "East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 353,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 371,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "'English coast'"
+  },
+  {
+   "n": 373,
+   "kind": "place",
+   "ids": [],
+   "place": "Essex",
+   "note": null
+  },
+  {
+   "n": 374,
+   "kind": "place",
+   "ids": [],
+   "place": "Essex coast",
+   "note": null
+  },
+  {
+   "n": 375,
+   "kind": "place",
+   "ids": [],
+   "place": "Essex coast",
+   "note": null
+  },
+  {
+   "n": 376,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 377,
+   "kind": "place",
+   "ids": [],
+   "place": "Fårö lighthouse, Gotland, Sweden",
+   "note": "'Alfoglar' is Swedish (alfåglar), so this is read as Fårö, not the Faroe Islands (station 'faroe'). Check."
+  },
+  {
+   "n": 379,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 380,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 381,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 382,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 383,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 384,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 385,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 386,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 387,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 388,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 389,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 390,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 391,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "'L.v.' is probably a misreading; there is no Farne light-vessel."
+  },
+  {
+   "n": 392,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 393,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 394,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 395,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 396,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 397,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 398,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 399,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 400,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 401,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 402,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 403,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 404,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 405,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 406,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "'u.v.' here can't mean a light-vessel (Farne has none). It is probably a misreading of L.H."
+  },
+  {
+   "n": 407,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 408,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 409,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 410,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 411,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 412,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 413,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 414,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 415,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 416,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "'Farne Isles' (a King Eider report) could mean the island group rather than the light."
+  },
+  {
+   "n": 417,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Farne light-vessel."
+  },
+  {
+   "n": 418,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 419,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "The station lists print 'Farn Islands' for Inner Farne, but in the narrative this may cover Longstone too."
+  },
+  {
+   "n": 420,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 421,
+   "kind": "stations",
+   "ids": [
+    "inner-farne",
+    "longstone"
+   ],
+   "place": null,
+   "note": "The plural 'Farns' is taken to mean both Farne lights."
+  },
+  {
+   "n": 422,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 423,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 426,
+   "kind": "place",
+   "ids": [],
+   "place": "Felixstowe, Suffolk",
+   "note": null
+  },
+  {
+   "n": 427,
+   "kind": "place",
+   "ids": [],
+   "place": "Felthorpe, Norfolk",
+   "note": null
+  },
+  {
+   "n": 429,
+   "kind": "place",
+   "ids": [],
+   "place": "Fylingdales, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 432,
+   "kind": "place",
+   "ids": [],
+   "place": "Filey, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 437,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 438,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 439,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 440,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 441,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 442,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 443,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 444,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 463,
+   "kind": "place",
+   "ids": [],
+   "place": "Friskney, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 464,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 465,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with Corton ('Corton and Galloper light-vessels')."
+  },
+  {
+   "n": 466,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 467,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 468,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 472,
+   "kind": "place",
+   "ids": [],
+   "place": "Gedney Marsh, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 490,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": "The four Goodwin light-vessels."
+  },
+  {
+   "n": 491,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 492,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": "'The four lightships on the Goodwin Sands'."
+  },
+  {
+   "n": 493,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 494,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 495,
+   "kind": "station",
+   "ids": [
+    "north-sand-head-lv"
+   ],
+   "place": null,
+   "note": "The station lists print 'Goodwin L.V.' for North Sand Head."
+  },
+  {
+   "n": 496,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 497,
+   "kind": "place",
+   "ids": [],
+   "place": "Goole, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 498,
+   "kind": "place",
+   "ids": [],
+   "place": "Goole, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 499,
+   "kind": "place",
+   "ids": [],
+   "place": "Grainsby, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 500,
+   "kind": "place",
+   "ids": [],
+   "place": "Grainsby, Lincolnshire",
+   "note": "'Grainsby Healing' may be a field or covert name, or Grainsby plus the village of Healing."
+  },
+  {
+   "n": 501,
+   "kind": "place",
+   "ids": [],
+   "place": "Grainsby Park, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 502,
+   "kind": "place",
+   "ids": [],
+   "place": "Grainsby, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 505,
+   "kind": "station",
+   "ids": [
+    "great-cotes"
+   ],
+   "place": null,
+   "note": "Great Cotes appears only in the 1880 list (Cordeaux's station); this is from 1886. Could be a place instead."
+  },
+  {
+   "n": 506,
+   "kind": "station",
+   "ids": [
+    "great-cotes"
+   ],
+   "place": null,
+   "note": "Great Cotes is listed only in 1880; this is from 1882 and 1884."
+  },
+  {
+   "n": 507,
+   "kind": "station",
+   "ids": [
+    "great-cotes"
+   ],
+   "place": null,
+   "note": "Great Cotes is listed only in 1880; this is from 1881."
+  },
+  {
+   "n": 509,
+   "kind": "place",
+   "ids": [],
+   "place": "Great Yarmouth, Norfolk",
+   "note": null
+  },
+  {
+   "n": 510,
+   "kind": "place",
+   "ids": [],
+   "place": "Gresham, Norfolk",
+   "note": null
+  },
+  {
+   "n": 512,
+   "kind": "place",
+   "ids": [],
+   "place": "Grimsby, Lincolnshire",
+   "note": "Some uses are 'brought in to Grimsby' from boats at sea."
+  },
+  {
+   "n": 513,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "On board a Grimsby fishing smack at sea; position unknown."
+  },
+  {
+   "n": 516,
+   "kind": "station",
+   "ids": [
+    "gull-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with the Goodwins ('Goodwin and Gull L.V.'s')."
+  },
+  {
+   "n": 517,
+   "kind": "station",
+   "ids": [
+    "gull-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 518,
+   "kind": "station",
+   "ids": [
+    "gull-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 524,
+   "kind": "place",
+   "ids": [],
+   "place": "Haileybury, Hertfordshire",
+   "note": null
+  },
+  {
+   "n": 525,
+   "kind": "place",
+   "ids": [],
+   "place": "Hampton Court Palace, London (formerly Middlesex)",
+   "note": null
+  },
+  {
+   "n": 526,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 527,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 528,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 529,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 530,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 531,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": "'L.v.' is a misreading; Hanois is a lighthouse."
+  },
+  {
+   "n": 532,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 533,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 534,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 535,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 536,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": "'t.v.' is a misreading; Hanois is a lighthouse."
+  },
+  {
+   "n": 537,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 538,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 539,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 540,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": "'u.v.' is a misreading; Hanois is a lighthouse."
+  },
+  {
+   "n": 541,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 543,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 545,
+   "kind": "place",
+   "ids": [],
+   "place": "Harrogate, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 546,
+   "kind": "place",
+   "ids": [],
+   "place": "Hartlepool, County Durham",
+   "note": null
+  },
+  {
+   "n": 547,
+   "kind": "place",
+   "ids": [],
+   "place": "Harwich, Essex",
+   "note": null
+  },
+  {
+   "n": 548,
+   "kind": "place",
+   "ids": [],
+   "place": "Harwich Harbour (Stour–Orwell estuary), Essex",
+   "note": null
+  },
+  {
+   "n": 549,
+   "kind": "station",
+   "ids": [
+    "happisburgh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 550,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 551,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 552,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 553,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 554,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": "No type word. The example continues 'L.v., ... one on deck', so it's the light-vessel. Check the second observation, which may be the lighthouse."
+  },
+  {
+   "n": 555,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 556,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with Inner Dowsing."
+  },
+  {
+   "n": 557,
+   "kind": "station",
+   "ids": [
+    "happisburgh"
+   ],
+   "place": null,
+   "note": "Elsewhere '.n.' reads as L.H. (e.g. Longstone u.n. 'kitchen window'). L.H. or L.V. is uncertain."
+  },
+  {
+   "n": 558,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 559,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": "'caught on deck'"
+  },
+  {
+   "n": 560,
+   "kind": "station",
+   "ids": [
+    "happisburgh"
+   ],
+   "place": null,
+   "note": "'u.n.' is read as L.H."
+  },
+  {
+   "n": 561,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 562,
+   "kind": "station",
+   "ids": [
+    "happisburgh"
+   ],
+   "place": null,
+   "note": "'uu.' is read as L.H., as it is for Farn, Whitby and Hunstanton."
+  },
+  {
+   "n": 563,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": "'resting on rigging' points to the light-vessel."
+  },
+  {
+   "n": 570,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 571,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 580,
+   "kind": "place",
+   "ids": [],
+   "place": "Henley-on-Thames, Oxfordshire",
+   "note": null
+  },
+  {
+   "n": 583,
+   "kind": "place",
+   "ids": [],
+   "place": "Hertfordshire",
+   "note": null
+  },
+  {
+   "n": 585,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": "Read as a garble of 'HELIGOLAND' in small capitals at the head of a dates table. Check."
+  },
+  {
+   "n": 588,
+   "kind": "place",
+   "ids": [],
+   "place": "Holderness, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 590,
+   "kind": "place",
+   "ids": [],
+   "place": "Hollesley, Suffolk",
+   "note": null
+  },
+  {
+   "n": 591,
+   "kind": "place",
+   "ids": [],
+   "place": "Holmpton, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 592,
+   "kind": "place",
+   "ids": [],
+   "place": "Holt, Norfolk",
+   "note": null
+  },
+  {
+   "n": 597,
+   "kind": "place",
+   "ids": [],
+   "place": "Hornsea, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 598,
+   "kind": "place",
+   "ids": [],
+   "place": "Horsey, Norfolk",
+   "note": null
+  },
+  {
+   "n": 603,
+   "kind": "place",
+   "ids": [],
+   "place": "Kingston upon Hull, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 604,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 605,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 606,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 607,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 608,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 609,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 610,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 611,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 612,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 613,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 614,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 615,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 616,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 617,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": "The plural is shared with Whitby ('Whitby and Hunstanton L.H.'s')."
+  },
+  {
+   "n": 618,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Hunstanton light-vessel and the example says 'on lighthouse'."
+  },
+  {
+   "n": 619,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 620,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 621,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 622,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 623,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 624,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 625,
+   "kind": "station",
+   "ids": [
+    "hunstanton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 634,
+   "kind": "station",
+   "ids": [
+    "inner-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 635,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 636,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "Birds shot off the island. This could be treated as the place rather than the light."
+  },
+  {
+   "n": 637,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Farne light-vessel."
+  },
+  {
+   "n": 653,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Thanet, Kent",
+   "note": null
+  },
+  {
+   "n": 657,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "'Karn' is read as an OCR error for 'Farn'."
+  },
+  {
+   "n": 658,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "'Kast Coast' is an OCR error for 'East Coast'."
+  },
+  {
+   "n": 663,
+   "kind": "place",
+   "ids": [],
+   "place": "Kent",
+   "note": null
+  },
+  {
+   "n": 664,
+   "kind": "station",
+   "ids": [
+    "kentish-knock-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with Cockle."
+  },
+  {
+   "n": 665,
+   "kind": "station",
+   "ids": [
+    "kentish-knock-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 666,
+   "kind": "station",
+   "ids": [
+    "kentish-knock-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 667,
+   "kind": "place",
+   "ids": [],
+   "place": "Keswick Hall, Norfolk (near Norwich)",
+   "note": null
+  },
+  {
+   "n": 671,
+   "kind": "place",
+   "ids": [],
+   "place": "Kilnsea, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 672,
+   "kind": "place",
+   "ids": [],
+   "place": "Kilnsea, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 702,
+   "kind": "place",
+   "ids": [],
+   "place": "Laceby, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 703,
+   "kind": "place",
+   "ids": [],
+   "place": "Laceby, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 709,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 718,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 719,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 720,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 721,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 722,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 723,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 724,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 725,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 726,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 727,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 728,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 729,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 730,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 731,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 743,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with Dudgeon."
+  },
+  {
+   "n": 744,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 745,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 746,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 747,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 748,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with Dudgeon."
+  },
+  {
+   "n": 749,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 750,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 751,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 757,
+   "kind": "place",
+   "ids": [],
+   "place": "Lewes, East Sussex",
+   "note": null
+  },
+  {
+   "n": 760,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire coast",
+   "note": "OCR garble of 'Lincolnshire coast'."
+  },
+  {
+   "n": 761,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 762,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 763,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire coast",
+   "note": null
+  },
+  {
+   "n": 764,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire coastal marshes",
+   "note": null
+  },
+  {
+   "n": 765,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire shore of the Humber",
+   "note": "'The Lincolnshire side' of the Humber."
+  },
+  {
+   "n": 771,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 772,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 773,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 774,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 775,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 786,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 787,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 789,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 790,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 791,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 792,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 805,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 806,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 807,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 808,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 809,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 810,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 811,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 812,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 813,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 814,
+   "kind": "stations",
+   "ids": [
+    "longstone",
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "The plural 'lighthouses' and 'both crossing' suggest the full phrase was 'Farn and Longstone lighthouses'. Check the source; it may be Longstone alone."
+  },
+  {
+   "n": 815,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 816,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 817,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 818,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 819,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 820,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 821,
+   "kind": "station",
+   "ids": [
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 825,
+   "kind": "place",
+   "ids": [],
+   "place": "King's Lynn, Norfolk",
+   "note": null
+  },
+  {
+   "n": 826,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 827,
+   "kind": "station",
+   "ids": [
+    "lynn-well-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 828,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 829,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 830,
+   "kind": "station",
+   "ids": [
+    "heligoland"
+   ],
+   "place": null,
+   "note": "The leading 'M' is OCR noise."
+  },
+  {
+   "n": 832,
+   "kind": "place",
+   "ids": [],
+   "place": "Mablethorpe, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 836,
+   "kind": "station",
+   "ids": [
+    "malmo"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 837,
+   "kind": "station",
+   "ids": [
+    "malmo"
+   ],
+   "place": null,
+   "note": "Also used in 1884, but Malmo is listed only for 1885m and 1887m."
+  },
+  {
+   "n": 840,
+   "kind": "place",
+   "ids": [],
+   "place": "County Mayo, Ireland",
+   "note": null
+  },
+  {
+   "n": 869,
+   "kind": "place",
+   "ids": [],
+   "place": "Deben estuary (Felixstowe Ferry), Suffolk",
+   "note": null
+  },
+  {
+   "n": 870,
+   "kind": "place",
+   "ids": [],
+   "place": "Deben estuary (Felixstowe Ferry), Suffolk",
+   "note": null
+  },
+  {
+   "n": 871,
+   "kind": "place",
+   "ids": [],
+   "place": "Deben estuary (Felixstowe Ferry), Suffolk",
+   "note": null
+  },
+  {
+   "n": 872,
+   "kind": "place",
+   "ids": [],
+   "place": "Mouth of the River Stour (Pegwell Bay), Kent",
+   "note": "Could be the Kent Stour (the Thanet observer, 1884) or the Stour at Harwich. Check the source."
+  },
+  {
+   "n": 873,
+   "kind": "place",
+   "ids": [],
+   "place": "Muckton, near Louth, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 875,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 882,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 883,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 884,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire coastal marshes",
+   "note": null
+  },
+  {
+   "n": 915,
+   "kind": "place",
+   "ids": [],
+   "place": "Brigg, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 917,
+   "kind": "station",
+   "ids": [
+    "newarp-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 918,
+   "kind": "station",
+   "ids": [
+    "newarp-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 919,
+   "kind": "place",
+   "ids": [],
+   "place": "Newcastle upon Tyne, Northumberland",
+   "note": null
+  },
+  {
+   "n": 921,
+   "kind": "place",
+   "ids": [],
+   "place": "Niederkaufungen, Hesse, Germany",
+   "note": null
+  },
+  {
+   "n": 923,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 925,
+   "kind": "station",
+   "ids": [
+    "nore-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 927,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk",
+   "note": null
+  },
+  {
+   "n": 928,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 929,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 930,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 931,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk",
+   "note": null
+  },
+  {
+   "n": 932,
+   "kind": "place",
+   "ids": [],
+   "place": "North Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 933,
+   "kind": "place",
+   "ids": [],
+   "place": "North Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 935,
+   "kind": "station",
+   "ids": [
+    "happisburgh-lv"
+   ],
+   "place": null,
+   "note": "The Hasbro' light-vessel lay on the North Haisborough sand."
+  },
+  {
+   "n": 936,
+   "kind": "place",
+   "ids": [],
+   "place": "North Kelsey, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 937,
+   "kind": "place",
+   "ids": [],
+   "place": "North Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 939,
+   "kind": "place",
+   "ids": [],
+   "place": "North Northamptonshire",
+   "note": null
+  },
+  {
+   "n": 940,
+   "kind": "place",
+   "ids": [],
+   "place": "North Northumberland",
+   "note": null
+  },
+  {
+   "n": 942,
+   "kind": "place",
+   "ids": [],
+   "place": "North Sea",
+   "note": "Birds on boats at sea."
+  },
+  {
+   "n": 943,
+   "kind": "place",
+   "ids": [],
+   "place": "North Sunderland (Seahouses), Northumberland",
+   "note": null
+  },
+  {
+   "n": 944,
+   "kind": "place",
+   "ids": [],
+   "place": "North Wales",
+   "note": null
+  },
+  {
+   "n": 945,
+   "kind": "place",
+   "ids": [],
+   "place": "North-east Lancashire",
+   "note": null
+  },
+  {
+   "n": 946,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 947,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 948,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 949,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 950,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 951,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire coastal marshes",
+   "note": null
+  },
+  {
+   "n": 952,
+   "kind": "place",
+   "ids": [],
+   "place": "Northampton, Northamptonshire",
+   "note": null
+  },
+  {
+   "n": 953,
+   "kind": "station",
+   "ids": [
+    "northrepps"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 954,
+   "kind": "stations",
+   "ids": [
+    "inner-farne",
+    "longstone",
+    "coquet"
+   ],
+   "place": null,
+   "note": "Stations listed in Northumberland in 1884; Berwick was listed only in 1879."
+  },
+  {
+   "n": 955,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland",
+   "note": null
+  },
+  {
+   "n": 958,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland coast",
+   "note": null
+  },
+  {
+   "n": 959,
+   "kind": "place",
+   "ids": [],
+   "place": "Northumberland and Durham coast",
+   "note": null
+  },
+  {
+   "n": 960,
+   "kind": "place",
+   "ids": [],
+   "place": "Norwich, Norfolk",
+   "note": null
+  },
+  {
+   "n": 965,
+   "kind": "station",
+   "ids": [
+    "orfordness"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 966,
+   "kind": "station",
+   "ids": [
+    "orfordness"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 970,
+   "kind": "place",
+   "ids": [],
+   "place": "Oulton Broad, Suffolk",
+   "note": null
+  },
+  {
+   "n": 971,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": "Truncated 'Outer' with no other word. Taken as Outer Dowsing by guess; check the source."
+  },
+  {
+   "n": 972,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 973,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 974,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 975,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 976,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 977,
+   "kind": "stations",
+   "ids": [
+    "outer-dowsing-lv",
+    "inner-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 978,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": "'omsin'' is an OCR error for 'Dowsing'."
+  },
+  {
+   "n": 979,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 984,
+   "kind": "place",
+   "ids": [],
+   "place": "Patrington, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1023,
+   "kind": "place",
+   "ids": [],
+   "place": "Redcar, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1024,
+   "kind": "place",
+   "ids": [],
+   "place": "Coast between Redcar and Marske-by-the-Sea, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1026,
+   "kind": "place",
+   "ids": [],
+   "place": "Redcar, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1027,
+   "kind": "place",
+   "ids": [],
+   "place": "Redcar, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1028,
+   "kind": "place",
+   "ids": [],
+   "place": "Reigate, Surrey",
+   "note": null
+  },
+  {
+   "n": 1029,
+   "kind": "station",
+   "ids": [
+    "outer-dowsing-lv"
+   ],
+   "place": null,
+   "note": "Low-confidence guess: 'Resin' read as a fragment of '[Dow]sin[g]' (compare 'Outer omsin''). Could be Inner Dowsing or something else. Check the source."
+  },
+  {
+   "n": 1033,
+   "kind": "place",
+   "ids": [],
+   "place": "River Bure, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1038,
+   "kind": "place",
+   "ids": [],
+   "place": "Robin Hood's Bay, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1049,
+   "kind": "place",
+   "ids": [],
+   "place": "Roker, Sunderland, County Durham",
+   "note": null
+  },
+  {
+   "n": 1050,
+   "kind": "place",
+   "ids": [],
+   "place": "Roker, Sunderland, County Durham",
+   "note": null
+  },
+  {
+   "n": 1059,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Probably the word 'rush' at the start of an entry, not a place. Check."
+  },
+  {
+   "n": 1060,
+   "kind": "place",
+   "ids": [],
+   "place": "Rye, East Sussex",
+   "note": null
+  },
+  {
+   "n": 1065,
+   "kind": "place",
+   "ids": [],
+   "place": "Saltburn-by-the-Sea, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1066,
+   "kind": "place",
+   "ids": [],
+   "place": "Saltfleet, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1067,
+   "kind": "place",
+   "ids": [],
+   "place": "Scarborough, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1075,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Snook, Hartlepool, County Durham",
+   "note": null
+  },
+  {
+   "n": 1076,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Carew, County Durham",
+   "note": null
+  },
+  {
+   "n": 1077,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Snook, Hartlepool, County Durham",
+   "note": null
+  },
+  {
+   "n": 1078,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Carew, County Durham",
+   "note": null
+  },
+  {
+   "n": 1079,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Carew, County Durham",
+   "note": null
+  },
+  {
+   "n": 1090,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1091,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1092,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1093,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1094,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1095,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1096,
+   "kind": "station",
+   "ids": [
+    "shipwash-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1098,
+   "kind": "place",
+   "ids": [],
+   "place": "Silksworth, Sunderland, County Durham",
+   "note": null
+  },
+  {
+   "n": 1103,
+   "kind": "place",
+   "ids": [],
+   "place": "Skegness, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1112,
+   "kind": "place",
+   "ids": [],
+   "place": "East Halton Skitter (Skitter Haven), Lincolnshire",
+   "note": "Read as Skitter Haven on the Humber shore at East Halton."
+  },
+  {
+   "n": 1113,
+   "kind": "place",
+   "ids": [],
+   "place": "County Sligo, Ireland",
+   "note": null
+  },
+  {
+   "n": 1137,
+   "kind": "place",
+   "ids": [],
+   "place": "Somercotes, Lincolnshire",
+   "note": "North or South Somercotes."
+  },
+  {
+   "n": 1138,
+   "kind": "place",
+   "ids": [],
+   "place": "Somerton, Norfolk",
+   "note": "Read as Norfolk because the same observer, G. Hunt, is at 'Somerton, Norfolk' in the 1886 item."
+  },
+  {
+   "n": 1139,
+   "kind": "place",
+   "ids": [],
+   "place": "Somerton, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1151,
+   "kind": "station",
+   "ids": [
+    "south-gare"
+   ],
+   "place": null,
+   "note": "'South Gar Light' is the Tees breakwater light. Used in 1887, but the station is listed only in 1885 and 1886."
+  },
+  {
+   "n": 1152,
+   "kind": "place",
+   "ids": [],
+   "place": "South Gare, Redcar, North Yorkshire",
+   "note": "1881, before the lighthouse was built and listed; the breakwater as a place."
+  },
+  {
+   "n": 1153,
+   "kind": "place",
+   "ids": [],
+   "place": "South Gare, Redcar, North Yorkshire",
+   "note": "'Gore' is a misreading of Gare (1881)."
+  },
+  {
+   "n": 1159,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1160,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1161,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1162,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1163,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1174,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": "'South Tees L.V.' is taken as the Tees No. 5 Buoy light-vessel."
+  },
+  {
+   "n": 1179,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": "388 observations. Some are probably naturalists' records from the Spurn peninsula, and a few may be from the Spurn light-vessel."
+  },
+  {
+   "n": 1180,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1181,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1182,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1183,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1184,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": "'t..' could be L.H. or L.V. 'Struck and killed' fits either."
+  },
+  {
+   "n": 1185,
+   "kind": "station",
+   "ids": [
+    "spurn-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1186,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1187,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1188,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1189,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1223,
+   "kind": "station",
+   "ids": [
+    "stevns"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1229,
+   "kind": "place",
+   "ids": [],
+   "place": "Stourmouth (River Stour mouth), Kent",
+   "note": "Could be the village of Stourmouth or the mouth of the Stour at Pegwell Bay (Thanet observer). Check."
+  },
+  {
+   "n": 1234,
+   "kind": "place",
+   "ids": [],
+   "place": "Suffolk",
+   "note": null
+  },
+  {
+   "n": 1235,
+   "kind": "place",
+   "ids": [],
+   "place": "Suffolk coast",
+   "note": null
+  },
+  {
+   "n": 1242,
+   "kind": "place",
+   "ids": [],
+   "place": "Sunk Island, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1244,
+   "kind": "station",
+   "ids": [
+    "swin-middle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1245,
+   "kind": "station",
+   "ids": [
+    "swin-middle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1246,
+   "kind": "station",
+   "ids": [
+    "swin-middle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1247,
+   "kind": "station",
+   "ids": [
+    "swin-middle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1248,
+   "kind": "station",
+   "ids": [
+    "swin-middle-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1249,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Unresolvable garble ('Kinatshee TE L.H.': 'Kingfisher' plus a lighthouse name lost in OCR). It is a station, but which one is unknown. Check the source."
+  },
+  {
+   "n": 1250,
+   "kind": "place",
+   "ids": [],
+   "place": "Tamworth, Staffordshire",
+   "note": null
+  },
+  {
+   "n": 1255,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1256,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1257,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1258,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1259,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1260,
+   "kind": "stations",
+   "ids": [
+    "tees-lv",
+    "south-gare"
+   ],
+   "place": null,
+   "note": "1886, in a run of station names; Teesmouth then had the light-vessel and the breakwater light. It may mean only one of them."
+  },
+  {
+   "n": 1261,
+   "kind": "station",
+   "ids": [
+    "teesmouth-1880"
+   ],
+   "place": null,
+   "note": "Mixed years (1879–85). The 1879 uses probably mean the Tees light-vessel ('Teesmouth, Lightvessel' in the 1879 list). The land station is listed only in 1880. Consider splitting by year."
+  },
+  {
+   "n": 1262,
+   "kind": "station",
+   "ids": [
+    "teesmouth-1880"
+   ],
+   "place": null,
+   "note": "Land observer at Redcar/Teesmouth; listed only in 1880. Likely the same source as the 'Redcar' items."
+  },
+  {
+   "n": 1263,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1264,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1265,
+   "kind": "station",
+   "ids": [
+    "teesmouth-1880"
+   ],
+   "place": null,
+   "note": "Same observer as 'Redcar' (place)."
+  },
+  {
+   "n": 1266,
+   "kind": "place",
+   "ids": [],
+   "place": "Tetney, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1267,
+   "kind": "place",
+   "ids": [],
+   "place": "Tetney Haven, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1268,
+   "kind": "place",
+   "ids": [],
+   "place": "Tetney fitties (salt marsh), Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1269,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Thanet, Kent",
+   "note": null
+  },
+  {
+   "n": 1271,
+   "kind": "place",
+   "ids": [],
+   "place": "Thornton Curtis (Thornton College/Abbey), Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1284,
+   "kind": "place",
+   "ids": [],
+   "place": "Trent Lock, Nottinghamshire/Derbyshire border",
+   "note": null
+  },
+  {
+   "n": 1285,
+   "kind": "place",
+   "ids": [],
+   "place": "Trent Lock, Nottinghamshire/Derbyshire border",
+   "note": null
+  },
+  {
+   "n": 1288,
+   "kind": "place",
+   "ids": [],
+   "place": "Twigmoor, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1289,
+   "kind": "place",
+   "ids": [],
+   "place": "Twigmoor, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1303,
+   "kind": "station",
+   "ids": [
+    "varne-lv"
+   ],
+   "place": null,
+   "note": "The plural is shared with East Side."
+  },
+  {
+   "n": 1304,
+   "kind": "station",
+   "ids": [
+    "varne-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1308,
+   "kind": "place",
+   "ids": [],
+   "place": "Waplington Manor, near Pocklington, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1309,
+   "kind": "place",
+   "ids": [],
+   "place": "Wells-next-the-Sea, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1310,
+   "kind": "place",
+   "ids": [],
+   "place": "Wells-next-the-Sea, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1311,
+   "kind": "place",
+   "ids": [],
+   "place": "Wells-next-the-Sea, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1312,
+   "kind": "place",
+   "ids": [],
+   "place": "Welwick, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1317,
+   "kind": "place",
+   "ids": [],
+   "place": "Westwood, Beverley, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1318,
+   "kind": "place",
+   "ids": [],
+   "place": "Weybourne, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1322,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": "Some of the 47 may be town or naturalist records from Whitby, not the lighthouse."
+  },
+  {
+   "n": 1323,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1324,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1325,
+   "kind": "place",
+   "ids": [],
+   "place": "Whitby, North Yorkshire",
+   "note": "A grebe in the harbour; not the lighthouse."
+  },
+  {
+   "n": 1326,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1327,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Whitby light-vessel."
+  },
+  {
+   "n": 1328,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1329,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1330,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1331,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": "'Lv.' is a misreading; there is no Whitby light-vessel."
+  },
+  {
+   "n": 1332,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1333,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1334,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1335,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1336,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1337,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1338,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1339,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1340,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1341,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1343,
+   "kind": "place",
+   "ids": [],
+   "place": "Whitley Sands, Whitley Bay, Northumberland",
+   "note": "'Whiteley Sands' read as Whitley Sands. Check."
+  },
+  {
+   "n": 1344,
+   "kind": "place",
+   "ids": [],
+   "place": "Whittlesey, Cambridgeshire",
+   "note": null
+  },
+  {
+   "n": 1348,
+   "kind": "station",
+   "ids": [
+    "winterton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1349,
+   "kind": "station",
+   "ids": [
+    "winterton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1350,
+   "kind": "station",
+   "ids": [
+    "winterton"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1351,
+   "kind": "place",
+   "ids": [],
+   "place": "Withernsea, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1358,
+   "kind": "place",
+   "ids": [],
+   "place": "Woodham Mortimer, Essex",
+   "note": null
+  },
+  {
+   "n": 1359,
+   "kind": "place",
+   "ids": [],
+   "place": "Woodham Mortimer, Essex",
+   "note": null
+  },
+  {
+   "n": 1360,
+   "kind": "place",
+   "ids": [],
+   "place": "Wragby, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1364,
+   "kind": "place",
+   "ids": [],
+   "place": "Great Yarmouth, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1365,
+   "kind": "place",
+   "ids": [],
+   "place": "Great Yarmouth, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1366,
+   "kind": "place",
+   "ids": [],
+   "place": "Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1375,
+   "kind": "place",
+   "ids": [],
+   "place": "Cley next the Sea and Blakeney, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1376,
+   "kind": "place",
+   "ids": [],
+   "place": "Cley next the Sea and Blakeney, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1380,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1381,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1382,
+   "kind": "station",
+   "ids": [
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1383,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1384,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1385,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1386,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1387,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1388,
+   "kind": "station",
+   "ids": [
+    "flamborough-head"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1390,
+   "kind": "station",
+   "ids": [
+    "hanois"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1392,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Thanet, Kent",
+   "note": null
+  },
+  {
+   "n": 1395,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1405,
+   "kind": "place",
+   "ids": [],
+   "place": "Redcar, North Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1406,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1407,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1408,
+   "kind": "station",
+   "ids": [
+    "south-sand-head-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1409,
+   "kind": "place",
+   "ids": [],
+   "place": "Seaton Carew, County Durham",
+   "note": null
+  },
+  {
+   "n": 1412,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1413,
+   "kind": "place",
+   "ids": [],
+   "place": "Tetney, Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1414,
+   "kind": "place",
+   "ids": [],
+   "place": "Isle of Thanet, Kent",
+   "note": null
+  },
+  {
+   "n": 1415,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1416,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1417,
+   "kind": "station",
+   "ids": [
+    "whitby-high"
+   ],
+   "place": null,
+   "note": "Printed L.V., but there is no Whitby light-vessel and the example says 'close to lighthouse'."
+  },
+  {
+   "n": 1419,
+   "kind": "place",
+   "ids": [],
+   "place": "Great Yarmouth, Norfolk",
+   "note": null
+  },
+  {
+   "n": 1423,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Refers back to an earlier place: 'the adjacent islands', probably the Farnes. Resolve from context."
+  },
+  {
+   "n": 1424,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "Means the station network as a group."
+  },
+  {
+   "n": 1429,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 1430,
+   "kind": "place",
+   "ids": [],
+   "place": "Suffolk coast",
+   "note": null
+  },
+  {
+   "n": 1431,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "Means the coast stations as a group."
+  },
+  {
+   "n": 1432,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 1433,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 1435,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 1437,
+   "kind": "place",
+   "ids": [],
+   "place": "Eastern counties of England (East Anglia)",
+   "note": null
+  },
+  {
+   "n": 1453,
+   "kind": "station",
+   "ids": [
+    "landguard-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1459,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Refers back to an earlier place: 'the main shore' opposite some island station."
+  },
+  {
+   "n": 1460,
+   "kind": "place",
+   "ids": [],
+   "place": "Deben estuary (Felixstowe Ferry), Suffolk",
+   "note": null
+  },
+  {
+   "n": 1461,
+   "kind": "place",
+   "ids": [],
+   "place": "Thames Estuary",
+   "note": null
+  },
+  {
+   "n": 1464,
+   "kind": "place",
+   "ids": [],
+   "place": "London",
+   "note": null
+  },
+  {
+   "n": 1466,
+   "kind": "place",
+   "ids": [],
+   "place": "North-East Lincolnshire",
+   "note": null
+  },
+  {
+   "n": 1468,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "'our coast'"
+  },
+  {
+   "n": 1469,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 1470,
+   "kind": "place",
+   "ids": [],
+   "place": "Northern coasts of Britain",
+   "note": "Vague. It may mean Northumberland/Durham or Scotland."
+  },
+  {
+   "n": 1471,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "On board the steamship 'Aycliffe'; position not given."
+  },
+  {
+   "n": 1474,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Unreadable OCR ('seettie'). Probably a station name, but it can't be resolved. Check the source."
+  },
+  {
+   "n": 1476,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England (Farne Islands to Great Yarmouth)",
+   "note": "A range of stations; could be expanded to every station from Inner Farne south to Yarmouth if wanted."
+  },
+  {
+   "n": 1477,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "Means the whole east-coast station network."
+  },
+  {
+   "n": 1481,
+   "kind": "place",
+   "ids": [],
+   "place": "Channel Islands",
+   "note": null
+  },
+  {
+   "n": 1483,
+   "kind": "place",
+   "ids": [],
+   "place": "Eastern counties of England (East Anglia)",
+   "note": null
+  },
+  {
+   "n": 1486,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": "'the English coast'"
+  },
+  {
+   "n": 1488,
+   "kind": "place",
+   "ids": [],
+   "place": "Essex coast",
+   "note": null
+  },
+  {
+   "n": 1489,
+   "kind": "stations",
+   "ids": [
+    "inner-farne",
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1490,
+   "kind": "station",
+   "ids": [
+    "inner-farne"
+   ],
+   "place": null,
+   "note": "Used as an end of a range. Could mean both Farne lights (inner-farne and longstone)."
+  },
+  {
+   "n": 1491,
+   "kind": "place",
+   "ids": [],
+   "place": "Faroe Islands",
+   "note": "An 1882 range limit ('northward to the Faroes'). The faroe station is listed only for 1885m and 1887m."
+  },
+  {
+   "n": 1493,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1495,
+   "kind": "place",
+   "ids": [],
+   "place": "Holderness coast, East Riding of Yorkshire",
+   "note": null
+  },
+  {
+   "n": 1496,
+   "kind": "place",
+   "ids": [],
+   "place": "Humber Estuary",
+   "note": null
+  },
+  {
+   "n": 1498,
+   "kind": "place",
+   "ids": [],
+   "place": "Lincolnshire coast",
+   "note": null
+  },
+  {
+   "n": 1501,
+   "kind": "place",
+   "ids": [],
+   "place": "North Sea",
+   "note": "53 observations in 1885, probably from vessels. Check whether these are a table column for ships."
+  },
+  {
+   "n": 1502,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Refers back to an earlier place: 'the Park' (1886), probably Grainsby Park, Lincolnshire."
+  },
+  {
+   "n": 1506,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1509,
+   "kind": "place",
+   "ids": [],
+   "place": "Tees Bay, North Yorkshire/County Durham",
+   "note": null
+  },
+  {
+   "n": 1510,
+   "kind": "station",
+   "ids": [
+    "tees-lv"
+   ],
+   "place": null,
+   "note": "1879: the only Teesmouth station that year was 'Teesmouth, Lightvessel'."
+  },
+  {
+   "n": 1513,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk coast",
+   "note": null
+  },
+  {
+   "n": 1514,
+   "kind": "place",
+   "ids": [],
+   "place": "East coast of England",
+   "note": null
+  },
+  {
+   "n": 1515,
+   "kind": "place",
+   "ids": [],
+   "place": "Mouth of the Humber",
+   "note": null
+  },
+  {
+   "n": 1516,
+   "kind": "stations",
+   "ids": [
+    "north-sand-head-lv",
+    "gull-lv",
+    "south-sand-head-lv",
+    "east-goodwin-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1518,
+   "kind": "station",
+   "ids": [
+    "galloper-lv"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1519,
+   "kind": "station",
+   "ids": [
+    "teesmouth-1880"
+   ],
+   "place": null,
+   "note": "1882, as one end of a range ('from the mouth of the Tees to Spurn'). Could be the Tees light-vessel or simply the place."
+  },
+  {
+   "n": 1521,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Refers back to an earlier place: 'the same islands', probably the Farne Islands."
+  },
+  {
+   "n": 1522,
+   "kind": "place",
+   "ids": [],
+   "place": "Essex and Kent coasts",
+   "note": "Means the light-vessels off Essex and Kent as a group; could be expanded to station ids."
+  },
+  {
+   "n": 1525,
+   "kind": "stations",
+   "ids": [
+    "inner-farne",
+    "longstone"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1529,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1530,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Unreadable ('= mouth'): probably Teesmouth or Yarmouth. Check the source."
+  }
+ ],
+ "notes": "To check first: (1) Heligoland (items 570, 571, 585, 830): you listed Heligoland as an example of a place, but stations.json has a 'heligoland' station, so I used the station. Change it if you meant a place. Malmo, Stevns, Northrepps and Great Cotes are also matched to their 'other' stations, even in years they aren't listed. (2) Teesmouth vs Redcar: 'Teesmouth', 'Teesmouth (Redcar)' and 'the mouth of the Tees' go to teesmouth-1880, which is only listed in 1880. 'Redcar' (about 270 observations across items) is a place, as you said. These are probably the same land observer, so pick one. The 1879 'the Teesmouth' went to tees-lv; item 1261 mixes years and should be split. (3) How I read the garbled type words: u.u./uu/t.u./u.H./u.n./u.a./u.x./u.z. = L.H.; u.v./t.v./L.v./Ly./LvV. = L.V. This only matters for Hasbro', which has both a lighthouse and a light-vessel (items 554, 557, 560, 562 and 563 are the judgement calls). Where a station has no light-vessel (Farne, Coquet, Cromer, Whitby, Hunstanton, Hanois), an L.V. reading is treated as the lighthouse. (4) 'Farn' and 'Farne Islands' go to inner-farne, which the lists print as 'Farn Islands'. Range uses like 'the Farne Islands' (1490) could mean both Farne lights; 'Farns', 'two Farn Island lighthouses' and 'Farn Island stations' are given as both. (5) Low-confidence guesses: 1029 'Resin L.v.' as Dowsing; 307 'Dowsing u.v.' and 971 'Outer' as Outer Dowsing; 814 'Longstone lighthouses' as Longstone plus Inner Farne; 160 'Breakwater' as South Gare; 1260 'Tees-mouth' 1886 as the light-vessel plus South Gare. (6) Unresolved and marked none: 1249 'TE L.H.', 1474 'seettie', 1530 '= mouth'. These need the source page. (7) Place calls worth a look: 377 read as Fårö (Sweden), not Faroe; 191 Buxby = Buxey Sand; 117 Beesby; 192 Cadeby near Grainsby; 1343 Whitley Sands; 872 and 1229 Kent Stour or Harwich Stour; 118 printed as Beccles (Norfolk), but Beccles is in Suffolk. (8) Group phrases ('East Coast stations', 'stations off the Essex and Kent coasts', 'stations between the Farn Islands and Yarmouth') are given as coastal places rather than expanded into station lists.",
+ "_meta": {
+  "run": 1,
+  "coast": "EAST COAST OF ENGLAND",
+  "gen": 0,
+  "cost_usd": 2.2035476,
+  "n_items": 593
+ }
+}

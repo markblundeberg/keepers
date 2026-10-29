@@ -1,0 +1,1578 @@
+{
+"source": "tools/film_roll.py",
+"stations": [
+{
+"station": "Muckle Flugga (North Unst)",
+"keepers": [
+"Robert Burnett, 1879–1881",
+"J. Edgar, 1883",
+"T. Edgar, 1884"
+],
+"line": null
+},
+{
+"station": "Sumburgh Head",
+"keepers": [
+"William Anderson, 1879–1880",
+"John Wilson, 1880–1882",
+"D. M. Scott, 1883–1884",
+"James Youngclause, 1887"
+],
+"line": "A very short single schedule. Birds very scarce."
+},
+{
+"station": "North Ronaldsay",
+"keepers": [
+"John Tulloch, 1879–1882, 1887"
+],
+"line": null
+},
+{
+"station": "Auskerry",
+"keepers": [
+"Charles C. Irvine, 1879",
+"John MacDonald, 1880–1883"
+],
+"line": null
+},
+{
+"station": "Hoy Low (Hoy Sound Low)",
+"keepers": [
+"Alexander Harp, 1879–1881"
+],
+"line": null
+},
+{
+"station": "Hoy High (Hoy Sound High)",
+"keepers": [
+"W. Gordon, 1879"
+],
+"line": null
+},
+{
+"station": "Pentland Skerries",
+"keepers": [
+"Donald Macdonald, 1879–1883",
+"John Gilmour, 1883–1884, 1887"
+],
+"line": null
+},
+{
+"station": "Dunnet Head",
+"keepers": [
+"George M'Lachlan, 1879",
+"David Laidlaw, 1881–1883, 1887",
+"James Carson, 1887"
+],
+"line": null
+},
+{
+"station": "Holborn Head",
+"keepers": [
+"David Charleson, 1879, 1881",
+"D. Laidlaw, 1883"
+],
+"line": null
+},
+{
+"station": "Noss Head",
+"keepers": [
+"Alex. Creig, 1879",
+"A. Greig, 1883",
+"James Ferrier, 1887"
+],
+"line": null
+},
+{
+"station": "Tarbat Ness",
+"keepers": [
+"William Davidson, 1879–1881, 1883",
+"R. S. Ritson, 1884"
+],
+"line": null
+},
+{
+"station": "Cromarty",
+"keepers": [
+"Robert S. Ritson, 1879, 1881–1883",
+"John McGill, 1884"
+],
+"line": null
+},
+{
+"station": "Kinnaird Head",
+"keepers": [
+"F. Harvey, 1879",
+"D. M Scott, 1882"
+],
+"line": null
+},
+{
+"station": "Buchan Ness",
+"keepers": [
+"Thomas Gallie, 1879",
+"William Ross, 1887"
+],
+"line": null
+},
+{
+"station": "Girdle Ness",
+"keepers": [
+"Wm. Gulcher, 1879",
+"John McGill, 1881"
+],
+"line": null
+},
+{
+"station": "Scurdie Ness (Montrose)",
+"keepers": [
+"Patrick E. Reid, 1879"
+],
+"line": null
+},
+{
+"station": "Bell Rock",
+"keepers": [
+"James Jack, 1879–1884, 1887"
+],
+"line": null
+},
+{
+"station": "Isle of May",
+"keepers": [
+"Joseph Agnew, 1879–1884"
+],
+"line": null
+},
+{
+"station": "Inchkeith",
+"keepers": [
+"Robert Grierson, 1879–1884, 1887"
+],
+"line": null
+},
+{
+"station": "St Abb's Head",
+"keepers": [
+"Robert Seater, 1879"
+],
+"line": null
+},
+{
+"station": "Cape Wrath",
+"keepers": [
+"John M'Gill, 1879–1880",
+"D. Sinclair, 1881",
+"W. Wither & H. Morrison, 1884"
+],
+"line": null
+},
+{
+"station": "Stoer Head (Rhu Stoir)",
+"keepers": [
+"William Wither, 1879–1881, 1883–1884"
+],
+"line": null
+},
+{
+"station": "Butt of Lewis",
+"keepers": [
+"George Edgar, 1879–1881",
+"Alex. Thompson, 1881–1884",
+"T. Edgar, 1884",
+"Robert Agnew, 1887"
+],
+"line": null
+},
+{
+"station": "Arnish Point (Stornoway)",
+"keepers": [
+"R. Murray, 1879",
+"John Grierson, 1880–1881, 1883–1884"
+],
+"line": null
+},
+{
+"station": "Eilean Glas",
+"keepers": [
+"William Lines, 1879",
+"William Innes, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Monach Isles",
+"keepers": [
+"James Youngclause, 1879–1884",
+"Joseph Agnew, 1887"
+],
+"line": null
+},
+{
+"station": "Rona (South Rona)",
+"keepers": [
+"David Dunnett, 1879",
+"Frazer, 1884",
+"D. Dunnet, 1887",
+"J. A. M'Gaw, 1887"
+],
+"line": null
+},
+{
+"station": "Kyleakin",
+"keepers": [
+"David M'Culloch, 1879–1884, 1887",
+"John Clyne, 1887"
+],
+"line": "send three well-filled schedules."
+},
+{
+"station": "Isle Ornsay",
+"keepers": [
+"David Ross, 1879",
+"James Loughten, 1880",
+"J. Loughton, 1881"
+],
+"line": null
+},
+{
+"station": "Ardnamurchan",
+"keepers": [
+"David Laidlaw, 1879–1880"
+],
+"line": null
+},
+{
+"station": "Hynish Signal Tower",
+"keepers": [
+"William Crow, 1879–1881, 1883",
+"Alx. McEachern, 1882",
+"T. Dawson, 1884"
+],
+"line": null
+},
+{
+"station": "Skerryvore",
+"keepers": [
+"William Crow, 1879, 1883",
+"Thomas Dawson, 1884, 1887"
+],
+"line": null
+},
+{
+"station": "Dubh Artach",
+"keepers": [
+"James Ewing, 1879–1883",
+"Wm. Davidson, 1884, 1887",
+"J. W. M'Guffie, 1887"
+],
+"line": null
+},
+{
+"station": "Rubha nan Gall (Sound of Mull)",
+"keepers": [
+"William M'Lellan, 1879–1884"
+],
+"line": null
+},
+{
+"station": "Corran Point (Corran Ferry)",
+"keepers": [
+"Thomas Tulloch, 1879"
+],
+"line": null
+},
+{
+"station": "Fladda",
+"keepers": [
+"James Langton, 1879"
+],
+"line": null
+},
+{
+"station": "Rhuvaal (Rubh' a' Mhàil)",
+"keepers": [
+"David Spink, 1879–1881",
+"G. Boreham, 1884"
+],
+"line": null
+},
+{
+"station": "McArthur's Head",
+"keepers": [
+"Thos. Sutherland, 1879",
+"Wm. Maill, 1881–1884"
+],
+"line": null
+},
+{
+"station": "Skervuile",
+"keepers": [
+"John Ewing, 1879–1884, 1887"
+],
+"line": null
+},
+{
+"station": "Rhinns of Islay",
+"keepers": [
+"Andrew Lyall, 1879–1883",
+"Peter Anderson, 1884, 1887",
+"James Ducat, 1887"
+],
+"line": "send nine carefully filled sheets, and write nearly each time at length."
+},
+{
+"station": "Loch Indaal",
+"keepers": [
+"William Mail, 1879",
+"William Maill, 1880",
+"James Edgar, 1887"
+],
+"line": null
+},
+{
+"station": "Mull of Kintyre",
+"keepers": [
+"James Thompson, 1879"
+],
+"line": null
+},
+{
+"station": "Davaar",
+"keepers": [
+"Charles Black, 1879"
+],
+"line": null
+},
+{
+"station": "Pladda",
+"keepers": [
+"Thomas Grierson, 1879"
+],
+"line": null
+},
+{
+"station": "Holy Isle (Lamlash)",
+"keepers": [
+"David Waters, 1879, 1881, 1883",
+"D. M. Scott, 1884",
+"unsigned, 1887"
+],
+"line": null
+},
+{
+"station": "Turnberry",
+"keepers": [
+"Charles Black, 1879",
+"Andrew Nisbet, 1880–1881, 1884"
+],
+"line": null
+},
+{
+"station": "Corsewall",
+"keepers": [
+"Robert Laidlaw, 1879–1881, 1883–1884, 1887"
+],
+"line": null
+},
+{
+"station": "Loch Ryan (Cairn Point)",
+"keepers": [
+"Ralph Ewing, 1879–1883"
+],
+"line": null
+},
+{
+"station": "Portpatrick",
+"keepers": [
+"James Beggs, 1879–1882",
+"James Begg, 1883"
+],
+"line": null
+},
+{
+"station": "Mull of Galloway",
+"keepers": [
+"M. Morrison, 1879",
+"N. Morrison, 1880–1881",
+"H. Morrison, 1882",
+"Alexander Murray, 1884, 1887",
+"John M'Quarrie, 1887"
+],
+"line": null
+},
+{
+"station": "Little Ross",
+"keepers": [
+"W. A. Mackay, 1879, 1881",
+"Jas. Ferrier, 1884",
+"Neil M'Donald, 1887",
+"Robert Macintosh, 1887"
+],
+"line": null
+},
+{
+"station": "Point of Ayre (Isle of Man)",
+"keepers": [
+"James Blythe, 1879–1881"
+],
+"line": null
+},
+{
+"station": "Douglas Head",
+"keepers": [
+"Alexander M'Donald, 1879–1880",
+"A. Irvine Grant, 1881"
+],
+"line": null
+},
+{
+"station": "Out Skerries (Whalsey Skerries)",
+"keepers": [
+"Neven Kerr, 1880–1882"
+],
+"line": null
+},
+{
+"station": "Landguard Point",
+"keepers": [
+"Major Russell, 1880",
+"Owen Boyle, 1882–1887"
+],
+"line": null
+},
+{
+"station": "Ushenish",
+"keepers": [
+"Peter Carrie, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Lismore",
+"keepers": [
+"Alexander Murray, 1880–1883"
+],
+"line": null
+},
+{
+"station": "Bahama Bank L.V.",
+"keepers": [
+"Johns, 1880",
+"Charles Johns, 1881, 1886",
+"John West, 1884, 1887"
+],
+"line": null
+},
+{
+"station": "St Bees",
+"keepers": [
+"Robert Pizey, 1880–1881",
+"Henry Nott, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Morecambe Bay L.V.",
+"keepers": [
+"Henry Clavell, 1880–1881, 1884, 1886–1887",
+"Dl. Kneale, 1881"
+],
+"line": null
+},
+{
+"station": "Point of Ayr (Flintshire)",
+"keepers": [
+"C. H. Aveston, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Skerries",
+"keepers": [
+"J. Garrett, 1880–1881",
+"H. Knott, 1881",
+"Wm. Jno. Rees, 1885–1886",
+"Messrs Rees, Smith, Tomkinson, and Williams, 1887"
+],
+"line": null
+},
+{
+"station": "Holyhead Breakwater",
+"keepers": [
+"Richard Prichard, 1880–1881",
+"Messrs Prichard, Roberts, and Hughes, 1885–1887"
+],
+"line": null
+},
+{
+"station": "North Stack",
+"keepers": [
+"John Harvey, 1880–1881"
+],
+"line": null
+},
+{
+"station": "South Stack",
+"keepers": [
+"William R. Burgess, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "St Tudwal's",
+"keepers": [
+"William Davies, 1880–1881, 1885",
+"W. Monk, 1884",
+"Messrs Davies and Parsons, 1887"
+],
+"line": null
+},
+{
+"station": "Caernarfon Bay L.V.",
+"keepers": [
+"W. Bowen, 1880–1881",
+"Henry Hughes, 1884",
+"Messrs Thomas and Hughes, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Bardsey",
+"keepers": [
+"Thomas Bowen, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Bull Point",
+"keepers": [
+"George Knott, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "South Bishop",
+"keepers": [
+"John White, 1880–1881",
+"A. Hills, 1884",
+"Alfred Frost, 1885–1886",
+"Messrs Nicholas and Pell, 1887"
+],
+"line": null
+},
+{
+"station": "Smalls",
+"keepers": [
+"W. Boulton, 1880–1881",
+"Richard Evans, 1884",
+"George Baker, 1885–1887"
+],
+"line": null
+},
+{
+"station": "St Ann's Head Low (Milford Low)",
+"keepers": [
+"G. Baker, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Caldey",
+"keepers": [
+"William Ebben, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Helwick L.V.",
+"keepers": [
+"Thomas Cornell, 1880–1881, 1884",
+"Messrs Webber and Howells, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Scarweather L.V.",
+"keepers": [
+"Henry Jenkins, 1880–1881",
+"P. Frost, 1884",
+"Messrs Havells and Wynen, 1886",
+"Messrs Havells and Wyness, 1887"
+],
+"line": null
+},
+{
+"station": "Nash Point Low (West)",
+"keepers": [
+"John Richards, 1880",
+"Wilson, 1881"
+],
+"line": null
+},
+{
+"station": "Nash Point High (East)",
+"keepers": [
+"H. T. Nicholas, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Flat Holm",
+"keepers": [
+"W. Dale, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "West Usk",
+"keepers": [
+"Amos Russell, 1880–1881, 1884–1886"
+],
+"line": null
+},
+{
+"station": "Avonmouth (Avon)",
+"keepers": [
+"William Taylor, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Burnham",
+"keepers": [
+"William Lewis, 1880–1881, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Bideford Bar (Instow)",
+"keepers": [
+"Edward Roberts, 1880–1881",
+"Thomas Gilpin, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Lundy Fog Gun Station",
+"keepers": [
+"John Morgan, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Lundy",
+"keepers": [
+"James Parsons, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Hartland Point",
+"keepers": [
+"John Griffiths, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Trevose Head",
+"keepers": [
+"W. Bowen, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Godrevy",
+"keepers": [
+"Richard Trahair, 1880–1881, 1884–1887"
+],
+"line": null
+},
+{
+"station": "St Agnes (Scilly)",
+"keepers": [
+"E. L. Davis, 1880–1881"
+],
+"line": null
+},
+{
+"station": "Sevenstones L.V.",
+"keepers": [
+"Daniel Norton, 1880–1881, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Longships",
+"keepers": [
+"William Jones, 1880–1881",
+"Jno. W. Watson, 1884–1887",
+"Wm. Davies, 1884"
+],
+"line": null
+},
+{
+"station": "Wolf Rock",
+"keepers": [
+"W. D. Crask, 1880–1881",
+"J. J. Channer, 1885",
+"J. J. Chavner, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Fair Isle",
+"keepers": [
+"--Lawrence, 1881"
+],
+"line": null
+},
+{
+"station": "Inner Farne",
+"keepers": [
+"Thomas H. Cutting, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Coquet",
+"keepers": [
+"William Evans, 1881–1882, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Tees No. 5 Buoy L.V.",
+"keepers": [
+"Henry Harbord, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Whitby High",
+"keepers": [
+"John Odgers, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Flamborough Head",
+"keepers": [
+"Charles Hood, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Spurn Point",
+"keepers": [
+"James B. Smith, 1881–1887",
+"Annie Rose Smith, 1887"
+],
+"line": null
+},
+{
+"station": "Outer Dowsing L.V.",
+"keepers": [
+"Samuel Sheet, 1881",
+"William Stock, 1882, 1884–1887",
+"William Stock & J. N. Utting, 1883",
+"J.N.Utting, 1884",
+"A. Bearling, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Inner Dowsing L.V.",
+"keepers": [
+"William King, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Dudgeon L.V.",
+"keepers": [
+"Thomas Dale, 1881–1882",
+"John F. Warder, 1884–1887",
+"J. H. Harrison, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Lynn Well L.V.",
+"keepers": [
+"George Rees, 1881, 1883, 1885",
+"T. Ditcham, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Hunstanton",
+"keepers": [
+"William Westmoreland, 1881–1887"
+],
+"line": null
+},
+{
+"station": "Cromer",
+"keepers": [
+"Richard Comben, 1881–1883",
+"C. H. Overton, 1884–1885",
+"C. B. Comber, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Leman and Ower L.V.",
+"keepers": [
+"Charles Perfrement, 1881",
+"John Artis, 1883–1885",
+"John Bowen, 1884–1887",
+"R. Cook, 1887"
+],
+"line": null
+},
+{
+"station": "Happisburgh L.V.",
+"keepers": [
+"John Nicholas, 1881–1882, 1884–1887",
+"B. V. Darnell, 1882, 1884–1887",
+"J. Nicholas & B. Darnell, 1883"
+],
+"line": null
+},
+{
+"station": "Cockle L.V.",
+"keepers": [
+"Samuel Pender, 1881–1882",
+"Charles Perfrement, 1882, 1884–1887",
+"Samuel Pender & C. Prefrement, 1883",
+"E. Cole, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Corton L.V.",
+"keepers": [
+"William John Cotton, 1881–1882",
+"Isaac H. Johnson, 1884–1885",
+"W. Bowen, 1885",
+"J. Dove, 1887",
+"J. H. Johnson, 1887"
+],
+"line": null
+},
+{
+"station": "Shipwash L.V.",
+"keepers": [
+"Thomas Randule, 1881",
+"William Bonken, 1882",
+"The Principal, 1883",
+"Thos. Rundell Martin, 1884",
+"David Dale, 1885–1887",
+"William Barker, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Galloper L.V.",
+"keepers": [
+"John Quested, 1881",
+"William Littlewood, 1882",
+"The Principal, 1883",
+"P. Frost, 1885",
+"Francis H. Page, 1886–1887",
+"P. Page, 1887",
+"C. Rafe, 1887"
+],
+"line": null
+},
+{
+"station": "Swin Middle L.V.",
+"keepers": [
+"Thomas Barrett, 1881–1882, 1886",
+"Samuel Pender, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Tongue L.V.",
+"keepers": [
+"Robert Crancher, 1881",
+"John Webber, 1882–1883, 1885"
+],
+"line": null
+},
+{
+"station": "Nore L.V.",
+"keepers": [
+"George Ladd, 1881",
+"R. Littlewood, 1886",
+"Wm. Little wood, 1887"
+],
+"line": null
+},
+{
+"station": "Gull (Gull Stream) L.V.",
+"keepers": [
+"Francis Harvey, 1881–1882, 1884–1887",
+"Anthony Collins, 1881",
+"Joseph Jenkins, 1882, 1884–1887",
+"Francis Harvey & Joseph Jenkins, 1883"
+],
+"line": null
+},
+{
+"station": "South Sand Head L.V.",
+"keepers": [
+"J. C. Leggett, 1881–1882",
+"J. G. Fornman, 1881",
+"George Woodward, 1882",
+"Joseph Ditcham, 1883",
+"F. G. Foreman, 1885–1887"
+],
+"line": null
+},
+{
+"station": "East Goodwin (East Side) L.V.",
+"keepers": [
+"Thomas Rees, 1881–1882",
+"Edward le Gallais, 1882–1885, 1887",
+"W. Nicholls, 1884–1885, 1887"
+],
+"line": null
+},
+{
+"station": "Hanois",
+"keepers": [
+"Charles Williams, 1881–1887",
+"Geo. Freeman, 1884, 1886",
+"F. G. Cutting, 1884"
+],
+"line": null
+},
+{
+"station": "Allonby",
+"keepers": [
+"C. Donald Thompson, 1881"
+],
+"line": null
+},
+{
+"station": "Trwyn Du (Menai / Penmon)",
+"keepers": [
+"Joseph Steer, 1881, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Great Castle Head",
+"keepers": [
+"W. S. Spicer, 1881",
+"W. L. Davis, 1886–1887"
+],
+"line": null
+},
+{
+"station": "St Ann's Head High (Milford High)",
+"keepers": [
+"G. Baker, 1881"
+],
+"line": null
+},
+{
+"station": "Chanonry Point",
+"keepers": [
+"John McGill, 1882–1883"
+],
+"line": null
+},
+{
+"station": "Longstone",
+"keepers": [
+"Thomas O. Hall, 1882–1887",
+"James W. Parsons, 1882"
+],
+"line": null
+},
+{
+"station": "Spurn (Newsand) L.V.",
+"keepers": [
+"W. Edwards, 1882"
+],
+"line": null
+},
+{
+"station": "Newarp L.V.",
+"keepers": [
+"Cornelius Campbell, 1882, 1884–1885",
+"William Rees, 1882, 1884–1885",
+"C. Campbell & W. Rees, 1883",
+"Charles Cook, 1887",
+"George Hall, 1887"
+],
+"line": null
+},
+{
+"station": "Winterton",
+"keepers": [
+"John Watson, 1882–1887",
+"John Leggett, 1885"
+],
+"line": null
+},
+{
+"station": "Orfordness",
+"keepers": [
+"Wm. Wilby Woodruff, 1882",
+"W. Willey Woodruffe, 1884",
+"J. Garrett, 1885"
+],
+"line": null
+},
+{
+"station": "Galley Head",
+"keepers": [
+"John Whelan, 1882–1883",
+"John Kelly, 1883, 1885"
+],
+"line": null
+},
+{
+"station": "Old Head of Kinsale",
+"keepers": [
+"George Dunleavy, 1882",
+"Martin Kennedy, 1882–1884",
+"Robert Tyrrell, 1887"
+],
+"line": null
+},
+{
+"station": "Mine Head",
+"keepers": [
+"Joseph Hammond, 1882",
+"Hugh J. Dugan, 1885",
+"Edward M'Carron, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Ballinacourty (Dungarvan)",
+"keepers": [
+"Wm. Higginbotham, 1882–1886"
+],
+"line": null
+},
+{
+"station": "Coningbeg L.V.",
+"keepers": [
+"Patrick Cullen, 1882–1887",
+"William Clydesdale, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Barrels Rock L.V.",
+"keepers": [
+"Michael Doyle, 1882–1885",
+"Charles H. M'Cabe, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Tuskar Rock",
+"keepers": [
+"Richard Hamilton, 1882–1886",
+"Patrick D'Arcy, 1884–1885",
+"Peter Page, 1886–1887",
+"E. M‘Kenna, 1886–1887",
+"J. M. Leary, 1887",
+"Patrick Corish, 1887"
+],
+"line": null
+},
+{
+"station": "Arklow South L.V.",
+"keepers": [
+"William O'Shea, 1882",
+"Patrick Clancy, 1883–1887",
+"Alfred B. Wall, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Kish Bank L.V.",
+"keepers": [
+"William Daly, 1882",
+"Michael Cunniam, 1883–1884, 1886",
+"John Pinston, 1883, 1885",
+"Thomas Cooney, 1885"
+],
+"line": null
+},
+{
+"station": "Baily (Howth)",
+"keepers": [
+"William Dunne, 1882, 1884",
+"James Higginbotham, 1882",
+"R. Armstrong, 1887"
+],
+"line": null
+},
+{
+"station": "Rockabill",
+"keepers": [
+"Joseph Hammond, 1882–1886",
+"Henry Kelly, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Copeland / Mew Island",
+"keepers": [
+"John Walsh, 1882–1884",
+"John O'Donnell, 1885–1886"
+],
+"line": null
+},
+{
+"station": "Maidens North",
+"keepers": [
+"Patrick Keenan, 1882–1883",
+"Michael Barry, 1883–1886",
+"Richard Hamilton, 1887"
+],
+"line": null
+},
+{
+"station": "Rathlin (Altacarry)",
+"keepers": [
+"John A. Murray, 1882–1886",
+"Patrick Keenan, 1887"
+],
+"line": null
+},
+{
+"station": "Inishtrahull",
+"keepers": [
+"W. H. James, 1882–1884",
+"R. Phelan, 1885",
+"M. S. Kennedy, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Dunree Head",
+"keepers": [
+"John Stapleton, 1882–1885",
+"Jervis Brownell, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Fanad Head (Lough Swilly)",
+"keepers": [
+"Henry Redmond, 1882–1883",
+"James Keenan, 1885"
+],
+"line": null
+},
+{
+"station": "Tory Island",
+"keepers": [
+"Thomas Sweeny, 1882–1884",
+"Henry Stocker, 1885–1886",
+"Henry Kelly, 1887"
+],
+"line": null
+},
+{
+"station": "Arranmore",
+"keepers": [
+"Henry Williams, 1882–1887",
+"Thomas Fortune, 1887"
+],
+"line": null
+},
+{
+"station": "Rathlin O'Birne",
+"keepers": [
+"Joseph Hill, 1882–1883",
+"John Scallan, 1883–1885",
+"J. C. Macginley, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Rotten Island (Killybegs)",
+"keepers": [
+"Daniel Hawkins, 1882–1883",
+"Joseph Hill, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Oyster Island",
+"keepers": [
+"John Young, 1882–1883",
+"Joseph Hill, 1883–1884"
+],
+"line": null
+},
+{
+"station": "Broadhaven",
+"keepers": [
+"Joseph Williams, 1882",
+"Michael Duffy, 1882",
+"Patrick Keenan, 1883–1885",
+"John A. Murray, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Eagle Island East",
+"keepers": [
+"Robert W. Redmond, 1882",
+"Henry Stocker, 1883",
+"Daniel Hawkins, 1884–1886"
+],
+"line": null
+},
+{
+"station": "Eagle Island West",
+"keepers": [
+"Matthew Healy, 1882–1883",
+"Hugh Keeney, 1887"
+],
+"line": null
+},
+{
+"station": "Blackrock (Mayo)",
+"keepers": [
+"Martin Kennedy, 1882",
+"John Redmond, 1883–1885",
+"John Young, 1883–1885",
+"R. Lyons, 1884–1885",
+"Edward Rohu, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Blacksod Point",
+"keepers": [
+"J. Williams, 1882",
+"Robt. W. Redmond, 1883–1885"
+],
+"line": null
+},
+{
+"station": "Clare Island",
+"keepers": [
+"J. Reilly, 1882",
+"G. H. Brownell, 1882–1885"
+],
+"line": null
+},
+{
+"station": "Slyne Head North",
+"keepers": [
+"John Gillan, 1882",
+"Robert Tyrrell, 1882–1884",
+"Robert Tyrell, 1885"
+],
+"line": null
+},
+{
+"station": "Slyne Head South",
+"keepers": [
+"William Callaghan, 1882",
+"Richd. Widdicombe, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Eeragh (Aran North)",
+"keepers": [
+"John Kelly, 1882",
+"Thomas Fortune, 1883–1887",
+"Henry Williams, 1887"
+],
+"line": null
+},
+{
+"station": "Straw Island",
+"keepers": [
+"Charles Boyle, 1882–1885"
+],
+"line": null
+},
+{
+"station": "Inisheer (Aran South)",
+"keepers": [
+"John O'Donnell, 1882–1883",
+"Charles P. Page, 1887"
+],
+"line": null
+},
+{
+"station": "Samphire Island",
+"keepers": [
+"Michael O'Donnell, 1882",
+"J. Williams, 1882",
+"R. Phelan, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Inishtearaght",
+"keepers": [
+"Edward McCarron, 1882–1885",
+"Francis Ryan, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Valentia",
+"keepers": [
+"Thomas McKenna, 1882",
+"Joseph Williams, 1882–1886"
+],
+"line": null
+},
+{
+"station": "Skelligs",
+"keepers": [
+"Henry Gardiner, 1882",
+"Thomas Kerley, 1883–1885",
+"James Walshe, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Dursey Island",
+"keepers": [
+"James Keenan, 1882–1884"
+],
+"line": null
+},
+{
+"station": "Happisburgh",
+"keepers": [
+"G. H. Dunsford, 1883"
+],
+"line": null
+},
+{
+"station": "Barra Head",
+"keepers": [
+"Wm. Irvine, 1883–1884",
+"Chas. M'Fadzen, 1887"
+],
+"line": null
+},
+{
+"station": "Fastnet",
+"keepers": [
+"James Walsh, 1883–1885",
+"George Dunleavy, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Arklow North L.V.",
+"keepers": [
+"William Daly, 1883–1887"
+],
+"line": null
+},
+{
+"station": "Kentish Knock L.V.",
+"keepers": [
+"Samuel Pender, 1884",
+"W, Elsdon, 1884",
+"W. R. Carter, 1885–1887",
+"W. Dorney, 1885–1886",
+"William Ross, 1887"
+],
+"line": null
+},
+{
+"station": "North Sand Head (Goodwin) L.V.",
+"keepers": [
+"J. Rees, 1884",
+"David Johns, 1885",
+"Thomas Rees, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Varne L.V.",
+"keepers": [
+"J. Jacobs, 1884, 1886",
+"William Kingsford, 1887"
+],
+"line": null
+},
+{
+"station": "Langness",
+"keepers": [
+"Robert Clyne, 1884–1887"
+],
+"line": null
+},
+{
+"station": "Selker L.V.",
+"keepers": [
+"Daniel Kneale, 1884, 1886",
+"— Cumming, 1884",
+"George Cumming, 1885–1886",
+"Messrs Daniel Kneale and George Cumming, 1887"
+],
+"line": null
+},
+{
+"station": "Dee L.V.",
+"keepers": [
+"S. Woek, 1884",
+"J. Clague, 1884, 1886",
+"Messrs Work and Clague, 1885",
+"S. Work, 1886–1887"
+],
+"line": null
+},
+{
+"station": "St Ann's Head (Milford), single row",
+"keepers": [
+"George Baker, 1884",
+"Mr James F. Spicer, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Bishop Rock",
+"keepers": [
+"John W. Froth, 1884",
+"Jno. W. Troth, 1885–1887"
+],
+"line": null
+},
+{
+"station": "Eddystone",
+"keepers": [
+"William Ainger, 1884–1886",
+"Messrs Ainger and Gaudion, 1887"
+],
+"line": null
+},
+{
+"station": "Start Point (Devon)",
+"keepers": [
+"William Jones, 1884–1887"
+],
+"line": null
+},
+{
+"station": "South Gare (Tees Breakwater)",
+"keepers": [
+"M. Grant, 1885"
+],
+"line": null
+},
+{
+"station": "Chicken Rock",
+"keepers": [
+"James Black, 1885–1886",
+"Messrs Black and Beggs, 1887"
+],
+"line": null
+},
+{
+"station": "Breaksea L.V.",
+"keepers": [
+"Thomas Walters, 1885",
+"Messrs Walters and Johnson, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Nab L.V.",
+"keepers": [
+"F. Conconi, 1886"
+],
+"line": null
+},
+{
+"station": "Cardigan Bay L.V.",
+"keepers": [
+"Messrs Rees and Comben, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Plymouth Breakwater",
+"keepers": [
+"Arthur Ebgar, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Portland Bill",
+"keepers": [
+"William Frost, 1886",
+"Messrs Frost and Counter, 1887"
+],
+"line": null
+},
+{
+"station": "Shambles L.V.",
+"keepers": [
+"William Clark, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Hurst Castle",
+"keepers": [
+"G. G. Appleton, 1886–1887"
+],
+"line": null
+},
+{
+"station": "Hook Head (Hook Tower)",
+"keepers": [
+"Richard Hamilton, 1887"
+],
+"line": null
+},
+{
+"station": "Lucifer Shoals L.V.",
+"keepers": [
+"James Byrne, 1887",
+"Michael Ansel, 1887"
+],
+"line": null
+},
+{
+"station": "South Rock L.V.",
+"keepers": [
+"Thomas Cooney, 1887",
+"Henry Thompson, 1887"
+],
+"line": null
+},
+{
+"station": "Maidens South",
+"keepers": [
+"B. Sole, 1887",
+"J. Corish, 1887"
+],
+"line": null
+},
+{
+"station": "Ailsa Craig",
+"keepers": [
+"William J. Dawson, 1887"
+],
+"line": "Our first returns sent from the “Old Rock” are very full in interest"
+}
+]
+}

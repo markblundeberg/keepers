@@ -1,0 +1,37 @@
+{
+ "items": [
+  {
+   "n": 742,
+   "kind": "station",
+   "ids": [
+    "leman-and-ower-lv"
+   ],
+   "place": null,
+   "note": "'t.v.' is an OCR misreading of 'L.V.'; the example's 'off Cromer' fits the Leman and Ower light-vessel. Applies to 24 observations, so it's worth checking against the page."
+  },
+  {
+   "n": 926,
+   "kind": "place",
+   "ids": [],
+   "place": "Norfolk, England",
+   "note": "The whole county, not a station. The source isn't given ('observed in Norfolk on the 9th')."
+  },
+  {
+   "n": 1178,
+   "kind": "station",
+   "ids": [
+    "spurn-point"
+   ],
+   "place": null,
+   "note": "Not certain. 'Spurn' alone could mean Spurn Point L.H. (spurn-point) or the Spurn (Newsand) L.V. (spurn-lv), and both are in the 1884 list. I chose the lighthouse because it is paired with 'Flamborough', a lighthouse, and the lists print the bare 'Spurn L.H.' for it. If the appendix used both stations' returns, it could be ['spurn-point','spurn-lv']."
+  }
+ ],
+ "notes": "Check: (1) item 1178 'Spurn': lighthouse or light-vessel? Look in the 1884 Spurn returns for both stations to see which recorded great numbers in the first week of May. If both did, use both ids. (2) item 742: confirm on the page image that 't.v.' is 'L.V.', since it covers 24 observations. (3) item 926 'Norfolk' is a county-wide place with no observer named. You may want to tag it as general and not tied to one site. I read stations.json only up to line 2916 (England, Isle of Man and part of Ireland). The rest is the other Irish and Scottish stations, which none of these three English east-coast names could match.",
+ "_meta": {
+  "run": 1,
+  "coast": "APPENDIX",
+  "gen": 0,
+  "cost_usd": 0.3006976,
+  "n_items": 3
+ }
+}

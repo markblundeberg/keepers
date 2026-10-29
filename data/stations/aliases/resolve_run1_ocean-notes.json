@@ -1,0 +1,166 @@
+{
+ "items": [
+  {
+   "n": 12,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 18°03′N 17°36′W (Atlantic off Mauritania)",
+   "note": "Ship position, about 170 km off the Mauritanian coast, on the West African leg of the outbound route (probably the Marathon's)."
+  },
+  {
+   "n": 13,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 1°43′S 9°30′W (equatorial Atlantic)",
+   "note": "The '-' before 9° is probably OCR noise. West longitude assumed, matching the neighbouring positions."
+  },
+  {
+   "n": 14,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 22°56′N 16°56′W (Atlantic off Western Sahara)",
+   "note": "Off the coast between Dakhla and Cape Barbas."
+  },
+  {
+   "n": 15,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 2°31′N 12°16′W (equatorial Atlantic, SW of Liberia)",
+   "note": null
+  },
+  {
+   "n": 16,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 3°54′N 13°18′W (Atlantic, SW of Liberia / Sierra Leone)",
+   "note": null
+  },
+  {
+   "n": 20,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 4°54′S 6°44′W (South Atlantic, NE of Ascension)",
+   "note": null
+  },
+  {
+   "n": 29,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 6°45′N 15°16′W (Atlantic off Sierra Leone)",
+   "note": "About 300 km SW of Freetown. A Hoopoe came about the ship."
+  },
+  {
+   "n": 44,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 9°23′S 3°22′W (South Atlantic, between Ascension and St Helena)",
+   "note": null
+  },
+  {
+   "n": 120,
+   "kind": "place",
+   "ids": [],
+   "place": "Bijagós (Bissagos) Islands, Guinea-Bissau",
+   "note": "'Bejouga' is read as 'Bijuga', an old name for the Bissagos, which fits the West African leg of the voyage. Fairly confident, but check the context."
+  },
+  {
+   "n": 207,
+   "kind": "place",
+   "ids": [],
+   "place": "Cape Point, Western Cape, South Africa",
+   "note": "Shearwaters were seen from here on to Algoa Bay (Eastern Cape)."
+  },
+  {
+   "n": 208,
+   "kind": "place",
+   "ids": [],
+   "place": "Cape St Vincent, Algarve, Portugal",
+   "note": null
+  },
+  {
+   "n": 733,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 1°S 13°W (equatorial Atlantic)",
+   "note": "'§.' is OCR for 'S.'"
+  },
+  {
+   "n": 734,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 34°N 16°W (Atlantic, just north of Madeira / Porto Santo)",
+   "note": "Bulwer's Petrels fit the Madeira area."
+  },
+  {
+   "n": 735,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 46°N 8°W (Bay of Biscay / Western Approaches)",
+   "note": "A Wheatear came aboard. This is about 350 km N of Cape Finisterre."
+  },
+  {
+   "n": 1073,
+   "kind": "place",
+   "ids": [],
+   "place": "Terschelling (Terschellinger Bank) light-vessel, off Terschelling, Friesland, Netherlands",
+   "note": "'Schelling' is Terschelling. This is a Dutch light-vessel, not a station of the scheme, and was probably noted as a ship went past it."
+  },
+  {
+   "n": 1177,
+   "kind": "place",
+   "ids": [],
+   "place": "Spitsbergen, Svalbard, Norway",
+   "note": "The note probably refers to the seas around Spitsbergen."
+  },
+  {
+   "n": 1221,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Ship name (SS Marathon), not a place. The position has to come from the date or the lat/long given with each note. Same as n=1222."
+  },
+  {
+   "n": 1222,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Ship name (SS Marathon), not a place. Same as n=1221. Its 33 observations could be placed along the voyage by date."
+  },
+  {
+   "n": 1251,
+   "kind": "place",
+   "ids": [],
+   "place": "Tarifa, Cádiz, Spain (Strait of Gibraltar)",
+   "note": "'off Tarifa', so seen from a ship in the Strait."
+  },
+  {
+   "n": 1457,
+   "kind": "place",
+   "ids": [],
+   "place": "approx. 53°N 9°E, lower Weser–Elbe area, Lower Saxony, Germany",
+   "note": "As printed, this falls on land near Bremen. The positions are rounded to whole degrees, so it is probably a ship in the Elbe/Weser approaches, or the longitude is misprinted. The land birds (Crested Lark, Yellowhammer) suggest a coast close by. It shares its example text with n=1458 and may be one entry 'between' the two positions."
+  },
+  {
+   "n": 1458,
+   "kind": "place",
+   "ids": [],
+   "place": "approx. 54°N 10°E, Schleswig-Holstein (Kiel / Eckernförde Bay), Germany",
+   "note": "As printed, this is on or just off the Kiel Bay coast. Same caveats as n=1457. Check whether the two positions belong to one entry."
+  },
+  {
+   "n": 1473,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, position garbled (probably tropical South Atlantic)",
+   "note": "The OCR 'se? 43°.8. | 92350\" W.' can't be recovered. It could be something like 3°43′S 9°23′50″W, which would fit the Sooty Tern sightings at 1°S 13°W and 9°23′S 3°22′W. Read the page scan."
+  }
+ ],
+ "notes": "None of the 22 Ocean Notes names (1884) is a station of the scheme. 19 are places: 16 ship positions, plus Bijagós, Tarifa and the Terschelling light-vessel. Cape Point, Cape St Vincent and Spitsbergen are also on their own lines but are not counted in those 19, which covers 22. The 2 ship-name items (Marathon) are none. Things to check: (1) n=1473: the position is garbled OCR; read the scan. (2) n=1457/1458 (53°N 9°E, 54°N 10°E): both fall on land in north Germany as printed and share their example text. Check whether they are one entry 'between' two positions, a ship going up the Elbe, or a misprinted longitude. (3) n=120 'Bejouga Islands' is read as the Bijagós/Bissagos (old 'Bijugas'); confirm. (4) n=1073 'Schelling light-vessel' is the Dutch Terschelling light-vessel, not a station of the scheme; check that it was a passing ship's sighting. (5) n=1221/1222 'Steamship Marathon' (33 observations) are typed none. If you want them placed, give each a position from its date or a nearby lat/long. The 1884 route (Biscay → Cape St Vincent → Madeira → West Africa → equator → South Atlantic → Cape Point → Algoa Bay) fits a voyage to the Cape. (6) The minus sign before 9° in n=13 is assumed to be OCR noise.",
+ "_meta": {
+  "run": 1,
+  "coast": "OCEAN NOTES",
+  "gen": 0,
+  "cost_usd": 0.609871,
+  "n_items": 22
+ }
+}

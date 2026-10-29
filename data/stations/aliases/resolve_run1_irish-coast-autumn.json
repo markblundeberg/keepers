@@ -1,0 +1,138 @@
+{
+ "items": [
+  {
+   "n": 71,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": "Arran Island North = Eeragh, Aran Islands, Galway (printed 'Arran Island N.'). Not Arranmore, Donegal. The line break is only layout."
+  },
+  {
+   "n": 72,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": "Arran Island South = Inisheer, Aran Islands (printed 'Arran Island S.'). The line break is only layout."
+  },
+  {
+   "n": 73,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 75,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 79,
+   "kind": "station",
+   "ids": [
+    "eeragh"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 81,
+   "kind": "station",
+   "ids": [
+    "inisheer"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 145,
+   "kind": "station",
+   "ids": [
+    "blackrock-mayo"
+   ],
+   "place": null,
+   "note": "Blackrock, Mayo. The report's '(Mayo)' rules out Blackrock, Sligo, which isn't in the station list anyway."
+  },
+  {
+   "n": 601,
+   "kind": "station",
+   "ids": [
+    "baily"
+   ],
+   "place": null,
+   "note": "OCR error for 'Howth Baily' (B read as D)."
+  },
+  {
+   "n": 846,
+   "kind": "station",
+   "ids": [
+    "copeland"
+   ],
+   "place": null,
+   "note": "Uncertain. In 1881 the Copeland light was still on Lighthouse (Copeland) Island. The light moved to Mew Island in 1884. The example ('Terns breed on Mew Island, come in May') looks like the Copeland keeper describing the next island, so it's given to copeland. If it is only a breeding-site remark, mark it place 'Mew Island, Copeland Islands, Co. Down'."
+  },
+  {
+   "n": 980,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": "Printed 'Oyster Island N.' The list has only one Oyster Island station (Sligo)."
+  },
+  {
+   "n": 982,
+   "kind": "station",
+   "ids": [
+    "oyster-island"
+   ],
+   "place": null,
+   "note": null
+  },
+  {
+   "n": 1015,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": "Rathlin Island, Antrim. In 1881 its only light was Altacarry (East). Not Rathlin O'Birne. The line break is only layout."
+  },
+  {
+   "n": 1018,
+   "kind": "station",
+   "ids": [
+    "rathlin-east"
+   ],
+   "place": null,
+   "note": "Not Rathlin O'Birne (Donegal), which is listed separately."
+  },
+  {
+   "n": 1154,
+   "kind": "station",
+   "ids": [
+    "maidens-south"
+   ],
+   "place": null,
+   "note": "Uncertain. maidens-south is 'seen' only in 1887, but both Maidens lights were working in 1881. The 1881 list has 'Maidens' (maidens-north). This may be the North Maiden keeper's remark about the South light ('hundreds of Starlings… strike… in one night'). If so, use maidens-north."
+  }
+ ],
+ "notes": "Check: (1) n=1154 'South Maiden lighthouse' in 1881. Find out whether the entry sits under the single 'Maidens' station of that year. If it does, either give it maidens-north or add 1881 to the seen years of maidens-south. (2) n=846 'Mew Island' in 1881. The Copeland light was not moved to Mew Island until 1884, so read the source to decide between copeland and the place 'Mew Island, Co. Down'. (3) n=601 'Howth Daily' is an OCR error for 'Howth Baily'. You might add it to the alias list. (4) Add the unpunctuated forms 'Arran Island North/South' and 'Oyster Island North' as aliases of eeragh/inisheer/oyster-island. (5) The odd printed alias 'Straw Island, S.,' under inisheer looks like an earlier mismatch. Check it against Straw Island (straw-island).",
+ "_meta": {
+  "run": 1,
+  "coast": "IRISH COAST: AUTUMN",
+  "gen": 0,
+  "cost_usd": 0.4085312,
+  "n_items": 14
+ }
+}

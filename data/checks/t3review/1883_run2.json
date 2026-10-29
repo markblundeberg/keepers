@@ -1,0 +1,292 @@
+{
+ "flags": [
+  {
+   "id": "1:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The heading in the OCR reads \"Hooprep Crow.\", a garble of HOODED CROW; the value copies it exactly."
+  },
+  {
+   "id": "2:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text has \"a gale from §8.W.\" and the value copies it; § and 8 are OCR garbles of S."
+  },
+  {
+   "id": "3:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Neither the chunk nor the context names a station (only \"Night to—.\"), so null is right. The checker took Stevns Fyr from outside the text."
+  },
+  {
+   "id": "3:species",
+   "kind": "extraction",
+   "right_value": "nanins COUULIO",
+   "why": "The line \"Pe nanins COUULIO ... 1 young male\" names the bird, garbled. It should be copied as printed, not left null."
+  },
+  {
+   "id": "3:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Nothing in the chunk or context says these birds were killed or taken. The list is just names and counts, so 'seen' is right; the checker read that from a heading outside the text."
+  },
+  {
+   "id": "3:at_light",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The text never mentions a lantern for this list, so at_light false is right."
+  },
+  {
+   "id": "4:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"At the Farn and Longstone lighthouses\" covers two stations, and the rules give one observation per station with its own words, so \"Farn\" is right."
+  },
+  {
+   "id": "13:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind §., fresh\"; § is the OCR's S."
+  },
+  {
+   "id": "14:station",
+   "kind": "judgement",
+   "right_value": "Auskerry",
+   "why": "\"Sparrows at Auskerry, from the 14th to 81st; one Brambling, one Chaffinch...\": it is unclear whether Auskerry carries past the semicolon."
+  },
+  {
+   "id": "15:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "No species is named for \"Dec. 20th, Isle of May, large numbers\" in the chunk or context. The checker's \"Guillemots and Razorbills\" comes from a later sentence outside the text."
+  },
+  {
+   "id": "16:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Tringe@\" for Tringæ; the value copies it exactly."
+  },
+  {
+   "id": "23:count",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"twenty\" is only in the context (\"Nov. 4th, twenty\"), and a count may not be taken from the context, so null is right."
+  },
+  {
+   "id": "23:direction",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"passed over island to §.K.\"; this is OCR garbling of S.E."
+  },
+  {
+   "id": "25:time",
+   "kind": "extraction",
+   "right_value": "during the day",
+   "why": "\"Linnets and \"other small yellow birds\" during the day\": the time covers the Linnets too."
+  },
+  {
+   "id": "28:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind strong §8.E.\"; this is OCR garbling."
+  },
+  {
+   "id": "39:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Galloper x.v.\" for L.V."
+  },
+  {
+   "id": "40:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind fresh §.E.\"; § is the OCR's S."
+  },
+  {
+   "id": "42:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"diving about the rock\" is feeding, not flying round. The rules say birds feeding nearby are 'seen'."
+  },
+  {
+   "id": "48:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"AtaupIpm™\" for ALAUDIDÆ; the value copies it exactly."
+  },
+  {
+   "id": "52:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Cockle u.v.\" for L.V."
+  },
+  {
+   "id": "56:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"Wind 8.E., light\"; this is the 8-for-S garble."
+  },
+  {
+   "id": "58:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind §., fresh\"."
+  },
+  {
+   "id": "60:direction",
+   "kind": "extraction",
+   "right_value": "from §., S.E., and E. to N.W., N.N.W., and W.",
+   "why": "\"these birds were travelling from §., S.E., and E. to N.W....\" gives a direction for the listed birds. It should be copied as in the OCR, with the §."
+  },
+  {
+   "id": "68:species",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"60 Larks and Chaffinches\" is one joint count. Splitting it into two kinds with count_shared or keeping it as one entry are both defensible."
+  },
+  {
+   "id": "69:direction",
+   "kind": "extraction",
+   "right_value": "from §., S.E., and E. to N.W., N.N.W., and W.",
+   "why": "\"these birds were travelling from §., S.E., and E. to N.W., N.N.W., and W.\" covers the Larks too."
+  },
+  {
+   "id": "71:date_iso",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Sept. 18th\", the 8-for-3 garble of 13th; the date follows the text."
+  },
+  {
+   "id": "72:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind light §.E.\"."
+  },
+  {
+   "id": "74:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"CypsrLip“\" for CYPSELIDÆ."
+  },
+  {
+   "id": "76:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR heading reads \"Woopcocx\" for WOODCOCK."
+  },
+  {
+   "id": "77:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Llyn Wells u.v.\" for L.V."
+  },
+  {
+   "id": "78:time",
+   "kind": "extraction",
+   "right_value": "11 a.m.",
+   "why": "\"thirty \"Stares,\" 11 a.m.; wind §., blue sky, five struck\": the struck birds are those Stares and share the time."
+  },
+  {
+   "id": "78:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind §., blue sky\"."
+  },
+  {
+   "id": "80:wind",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The chunk ends at \"one killed, 9 p.m.;\" and the wind comes in the next chunk. Wind is taken from the chunk only, so null is right."
+  },
+  {
+   "id": "80:force",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The force \"gale\" is not in this chunk, which ends at \"9 p.m.;\", so null is right."
+  },
+  {
+   "id": "81:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"Wind 8.E., light\"."
+  },
+  {
+   "id": "82:species",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"AtaupIpm™\" for ALAUDIDÆ."
+  },
+  {
+   "id": "82:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"strong §.W.\"."
+  },
+  {
+   "id": "83:date_iso",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Nov. 18th\", the 8-for-3 garble of 13th."
+  },
+  {
+   "id": "89:count",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"‘‘Tmmense numbers killed\"; the T is the OCR's I."
+  },
+  {
+   "id": "89:at_light",
+   "kind": "extraction",
+   "right_value": "true",
+   "why": "The killed birds are those \"flying within the influence of the rays of light ... continually striking hard all night\"."
+  },
+  {
+   "id": "90:station",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"Whitby u.u.\" for L.H."
+  },
+  {
+   "id": "92:force",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The OCR reads \"wind N., lght\" for light."
+  },
+  {
+   "id": "95:time",
+   "kind": "extraction",
+   "right_value": "9 p.m., until midnight",
+   "why": "\"28th, flocks, 9 p.m., until midnight, about the ship ... twenty killed\": the killed birds share that time."
+  },
+  {
+   "id": "95:wind",
+   "kind": "ocr_copy",
+   "right_value": null,
+   "why": "The text reads \"wind light 8.\"."
+  },
+  {
+   "id": "97:station",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "The position is split between the context (\"about 67° 41’ north,\") and the chunk (\"14° 34’ west)\"). Whether the station is the context part or the whole pair is a call on wording."
+  },
+  {
+   "id": "97:species",
+   "kind": "checker",
+   "right_value": null,
+   "why": "\"Wheatears and Water Wagtails\" are two kinds, so the rules give two observations with a shared count. \"Wheatears\" alone is right for this one."
+  },
+  {
+   "id": "98:direction",
+   "kind": "judgement",
+   "right_value": "flying W.",
+   "why": "\"on 9th; fresh E., showers, and \"flying W.\"; on 20th\": \"flying W.\" could go with the 9th or with the 20th."
+  }
+ ],
+ "_meta": {
+  "year": 1883,
+  "run": 2,
+  "cost_usd": 0.7117720000000001,
+  "n_flags": 48
+ }
+}

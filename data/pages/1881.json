@@ -1,0 +1,827 @@
+{
+ "year": 1881,
+ "source": "sources/gutenberg/1881_pg65471.txt",
+ "image_pattern": "https://archive.org/download/reportonmigratio31881harv/page/n{index}.jpg",
+ "markers": [
+  {
+   "page": "i",
+   "txt_offset": null,
+   "anchor": null,
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "ii",
+   "txt_offset": 2187,
+   "anchor": "after:60",
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "iii",
+   "txt_offset": 2253,
+   "anchor": "after:60",
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "v",
+   "txt_offset": 3314,
+   "anchor": "after:60",
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "1",
+   "txt_offset": 3640,
+   "anchor": "after:60",
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "2",
+   "txt_offset": 5137,
+   "anchor": "after:60",
+   "leaf": 10,
+   "image_index": 9,
+   "image_index_ia": 9
+  },
+  {
+   "page": "3",
+   "txt_offset": 7416,
+   "anchor": "after:60",
+   "leaf": 11,
+   "image_index": 10,
+   "image_index_ia": 10
+  },
+  {
+   "page": "4",
+   "txt_offset": 9794,
+   "anchor": "after:60",
+   "leaf": 12,
+   "image_index": 11,
+   "image_index_ia": 11
+  },
+  {
+   "page": "5",
+   "txt_offset": 12125,
+   "anchor": "after:60",
+   "leaf": 13,
+   "image_index": 12,
+   "image_index_ia": 12
+  },
+  {
+   "page": "6",
+   "txt_offset": 14528,
+   "anchor": "after:60",
+   "leaf": 14,
+   "image_index": 13,
+   "image_index_ia": 13
+  },
+  {
+   "page": "7",
+   "txt_offset": 16902,
+   "anchor": "after:60",
+   "leaf": 15,
+   "image_index": 14,
+   "image_index_ia": 14
+  },
+  {
+   "page": "8",
+   "txt_offset": 19271,
+   "anchor": "after:60",
+   "leaf": 16,
+   "image_index": 15,
+   "image_index_ia": 15
+  },
+  {
+   "page": "9",
+   "txt_offset": 21652,
+   "anchor": "after:60",
+   "leaf": 17,
+   "image_index": 16,
+   "image_index_ia": 16
+  },
+  {
+   "page": "10",
+   "txt_offset": 24018,
+   "anchor": "after:60",
+   "leaf": 18,
+   "image_index": 17,
+   "image_index_ia": 17
+  },
+  {
+   "page": "11",
+   "txt_offset": 26369,
+   "anchor": "after:60",
+   "leaf": 19,
+   "image_index": 18,
+   "image_index_ia": 18
+  },
+  {
+   "page": "12",
+   "txt_offset": 28755,
+   "anchor": "after:60",
+   "leaf": 20,
+   "image_index": 19,
+   "image_index_ia": 19
+  },
+  {
+   "page": "13",
+   "txt_offset": 31151,
+   "anchor": "after:60",
+   "leaf": 21,
+   "image_index": 20,
+   "image_index_ia": 20
+  },
+  {
+   "page": "14",
+   "txt_offset": 33527,
+   "anchor": "after:60",
+   "leaf": 22,
+   "image_index": 21,
+   "image_index_ia": 21
+  },
+  {
+   "page": "15",
+   "txt_offset": 35957,
+   "anchor": "after:60",
+   "leaf": 23,
+   "image_index": 22,
+   "image_index_ia": 22
+  },
+  {
+   "page": "16",
+   "txt_offset": 37892,
+   "anchor": "after:60",
+   "leaf": 24,
+   "image_index": 23,
+   "image_index_ia": 23
+  },
+  {
+   "page": "17",
+   "txt_offset": 39707,
+   "anchor": "after:60",
+   "leaf": 25,
+   "image_index": 24,
+   "image_index_ia": 24
+  },
+  {
+   "page": "18",
+   "txt_offset": 41471,
+   "anchor": "after:60",
+   "leaf": 26,
+   "image_index": 25,
+   "image_index_ia": 25
+  },
+  {
+   "page": "19",
+   "txt_offset": 43731,
+   "anchor": "after:60",
+   "leaf": 27,
+   "image_index": 26,
+   "image_index_ia": 26
+  },
+  {
+   "page": "20",
+   "txt_offset": 46059,
+   "anchor": "after:60",
+   "leaf": 28,
+   "image_index": 27,
+   "image_index_ia": 27
+  },
+  {
+   "page": "21",
+   "txt_offset": 48342,
+   "anchor": "after:60",
+   "leaf": 29,
+   "image_index": 28,
+   "image_index_ia": 28
+  },
+  {
+   "page": "22",
+   "txt_offset": 50548,
+   "anchor": "after:60",
+   "leaf": 30,
+   "image_index": 29,
+   "image_index_ia": 29
+  },
+  {
+   "page": "23",
+   "txt_offset": 52855,
+   "anchor": "after:60",
+   "leaf": 31,
+   "image_index": 30,
+   "image_index_ia": 30
+  },
+  {
+   "page": "24",
+   "txt_offset": 55145,
+   "anchor": "after:60",
+   "leaf": 32,
+   "image_index": 31,
+   "image_index_ia": 31
+  },
+  {
+   "page": "25",
+   "txt_offset": 57485,
+   "anchor": "after:60",
+   "leaf": 33,
+   "image_index": 32,
+   "image_index_ia": 32
+  },
+  {
+   "page": "26",
+   "txt_offset": 59833,
+   "anchor": "after:60",
+   "leaf": 34,
+   "image_index": 33,
+   "image_index_ia": 33
+  },
+  {
+   "page": "27",
+   "txt_offset": 62214,
+   "anchor": "after:60",
+   "leaf": 35,
+   "image_index": 34,
+   "image_index_ia": 34
+  },
+  {
+   "page": "28",
+   "txt_offset": 64489,
+   "anchor": "after:60",
+   "leaf": 36,
+   "image_index": 35,
+   "image_index_ia": 35
+  },
+  {
+   "page": "29",
+   "txt_offset": 66596,
+   "anchor": "after:60",
+   "leaf": 37,
+   "image_index": 36,
+   "image_index_ia": 36
+  },
+  {
+   "page": "30",
+   "txt_offset": 68852,
+   "anchor": "after:60",
+   "leaf": 38,
+   "image_index": 37,
+   "image_index_ia": 37
+  },
+  {
+   "page": "31",
+   "txt_offset": 71185,
+   "anchor": "after:60",
+   "leaf": 39,
+   "image_index": 38,
+   "image_index_ia": 38
+  },
+  {
+   "page": "32",
+   "txt_offset": 73392,
+   "anchor": "after:60",
+   "leaf": 40,
+   "image_index": 39,
+   "image_index_ia": 39
+  },
+  {
+   "page": "33",
+   "txt_offset": 75650,
+   "anchor": "after:60",
+   "leaf": 41,
+   "image_index": 40,
+   "image_index_ia": 40
+  },
+  {
+   "page": "34",
+   "txt_offset": 77971,
+   "anchor": "after:60",
+   "leaf": 42,
+   "image_index": 41,
+   "image_index_ia": 41
+  },
+  {
+   "page": "35",
+   "txt_offset": 80094,
+   "anchor": "after:60",
+   "leaf": 43,
+   "image_index": 42,
+   "image_index_ia": 42
+  },
+  {
+   "page": "36",
+   "txt_offset": 82357,
+   "anchor": "after:60",
+   "leaf": 44,
+   "image_index": 43,
+   "image_index_ia": 43
+  },
+  {
+   "page": "37",
+   "txt_offset": 84723,
+   "anchor": "after:60",
+   "leaf": 45,
+   "image_index": 44,
+   "image_index_ia": 44
+  },
+  {
+   "page": "38",
+   "txt_offset": 86971,
+   "anchor": "after:60",
+   "leaf": 46,
+   "image_index": 45,
+   "image_index_ia": 45
+  },
+  {
+   "page": "39",
+   "txt_offset": 89441,
+   "anchor": "after:60",
+   "leaf": 47,
+   "image_index": 46,
+   "image_index_ia": 46
+  },
+  {
+   "page": "40",
+   "txt_offset": 91888,
+   "anchor": "after:60",
+   "leaf": 48,
+   "image_index": 47,
+   "image_index_ia": 47
+  },
+  {
+   "page": "41",
+   "txt_offset": 94199,
+   "anchor": "after:60",
+   "leaf": 49,
+   "image_index": 48,
+   "image_index_ia": 48
+  },
+  {
+   "page": "42",
+   "txt_offset": 96571,
+   "anchor": "after:60",
+   "leaf": 50,
+   "image_index": 49,
+   "image_index_ia": 49
+  },
+  {
+   "page": "43",
+   "txt_offset": 97272,
+   "anchor": "after:60",
+   "leaf": 51,
+   "image_index": 50,
+   "image_index_ia": 50
+  },
+  {
+   "page": "44",
+   "txt_offset": 99131,
+   "anchor": "after:25",
+   "leaf": 52,
+   "image_index": 51,
+   "image_index_ia": 51
+  },
+  {
+   "page": "45",
+   "txt_offset": 101622,
+   "anchor": "after:60",
+   "leaf": 53,
+   "image_index": 52,
+   "image_index_ia": 52
+  },
+  {
+   "page": "46",
+   "txt_offset": 103798,
+   "anchor": "after:60",
+   "leaf": 54,
+   "image_index": 53,
+   "image_index_ia": 53
+  },
+  {
+   "page": "47",
+   "txt_offset": 106261,
+   "anchor": "after:60",
+   "leaf": 55,
+   "image_index": 54,
+   "image_index_ia": 54
+  },
+  {
+   "page": "48",
+   "txt_offset": 108534,
+   "anchor": "after:60",
+   "leaf": 56,
+   "image_index": 55,
+   "image_index_ia": 55
+  },
+  {
+   "page": "49",
+   "txt_offset": 110640,
+   "anchor": "after:60",
+   "leaf": 57,
+   "image_index": 56,
+   "image_index_ia": 56
+  },
+  {
+   "page": "50",
+   "txt_offset": 112766,
+   "anchor": "after:60",
+   "leaf": 58,
+   "image_index": 57,
+   "image_index_ia": 57
+  },
+  {
+   "page": "51",
+   "txt_offset": 115099,
+   "anchor": "after:60",
+   "leaf": 59,
+   "image_index": 58,
+   "image_index_ia": 58
+  },
+  {
+   "page": "52",
+   "txt_offset": 117398,
+   "anchor": "after:60",
+   "leaf": 60,
+   "image_index": 59,
+   "image_index_ia": 59
+  },
+  {
+   "page": "53",
+   "txt_offset": 119449,
+   "anchor": "after:60",
+   "leaf": 61,
+   "image_index": 60,
+   "image_index_ia": 60
+  },
+  {
+   "page": "54",
+   "txt_offset": 121629,
+   "anchor": "after:60",
+   "leaf": 62,
+   "image_index": 61,
+   "image_index_ia": 61
+  },
+  {
+   "page": "55",
+   "txt_offset": 123485,
+   "anchor": "after:60",
+   "leaf": 63,
+   "image_index": 62,
+   "image_index_ia": 62
+  },
+  {
+   "page": "56",
+   "txt_offset": 126645,
+   "anchor": "after:60",
+   "leaf": 64,
+   "image_index": 63,
+   "image_index_ia": 63
+  },
+  {
+   "page": "57",
+   "txt_offset": 129032,
+   "anchor": "after:60",
+   "leaf": 65,
+   "image_index": 64,
+   "image_index_ia": 64
+  },
+  {
+   "page": "58",
+   "txt_offset": 131161,
+   "anchor": "after:60",
+   "leaf": 66,
+   "image_index": 65,
+   "image_index_ia": 65
+  },
+  {
+   "page": "59",
+   "txt_offset": 133290,
+   "anchor": "after:60",
+   "leaf": 67,
+   "image_index": 66,
+   "image_index_ia": 66
+  },
+  {
+   "page": "60",
+   "txt_offset": 135449,
+   "anchor": "after:60",
+   "leaf": 68,
+   "image_index": 67,
+   "image_index_ia": 67
+  },
+  {
+   "page": "61",
+   "txt_offset": 137483,
+   "anchor": "after:60",
+   "leaf": 69,
+   "image_index": 68,
+   "image_index_ia": 68
+  },
+  {
+   "page": "62",
+   "txt_offset": 139742,
+   "anchor": "after:60",
+   "leaf": 70,
+   "image_index": 69,
+   "image_index_ia": 69
+  },
+  {
+   "page": "63",
+   "txt_offset": 142196,
+   "anchor": "after:60",
+   "leaf": 71,
+   "image_index": 70,
+   "image_index_ia": 70
+  },
+  {
+   "page": "64",
+   "txt_offset": 144532,
+   "anchor": "after:60",
+   "leaf": 72,
+   "image_index": 71,
+   "image_index_ia": 71
+  },
+  {
+   "page": "65",
+   "txt_offset": 146844,
+   "anchor": "after:60",
+   "leaf": 73,
+   "image_index": 72,
+   "image_index_ia": 72
+  },
+  {
+   "page": "66",
+   "txt_offset": 149205,
+   "anchor": "after:60",
+   "leaf": 74,
+   "image_index": 73,
+   "image_index_ia": 73
+  },
+  {
+   "page": "67",
+   "txt_offset": 151617,
+   "anchor": "after:60",
+   "leaf": 75,
+   "image_index": 74,
+   "image_index_ia": 74
+  },
+  {
+   "page": "68",
+   "txt_offset": 153982,
+   "anchor": "after:60",
+   "leaf": 76,
+   "image_index": 75,
+   "image_index_ia": 75
+  },
+  {
+   "page": "69",
+   "txt_offset": 156239,
+   "anchor": "after:60",
+   "leaf": 77,
+   "image_index": 76,
+   "image_index_ia": 76
+  },
+  {
+   "page": "70",
+   "txt_offset": 158668,
+   "anchor": "after:60",
+   "leaf": 78,
+   "image_index": 77,
+   "image_index_ia": 77
+  },
+  {
+   "page": "71",
+   "txt_offset": 160969,
+   "anchor": "after:60",
+   "leaf": 79,
+   "image_index": 78,
+   "image_index_ia": 78
+  },
+  {
+   "page": "72",
+   "txt_offset": 163336,
+   "anchor": "after:60",
+   "leaf": 80,
+   "image_index": 79,
+   "image_index_ia": 79
+  },
+  {
+   "page": "73",
+   "txt_offset": 165695,
+   "anchor": "after:60",
+   "leaf": 81,
+   "image_index": 80,
+   "image_index_ia": 80
+  },
+  {
+   "page": "74",
+   "txt_offset": 168109,
+   "anchor": "after:60",
+   "leaf": 82,
+   "image_index": 81,
+   "image_index_ia": 81
+  },
+  {
+   "page": "75",
+   "txt_offset": 170383,
+   "anchor": "after:60",
+   "leaf": 83,
+   "image_index": 82,
+   "image_index_ia": 82
+  },
+  {
+   "page": "76",
+   "txt_offset": 172828,
+   "anchor": "after:60",
+   "leaf": 84,
+   "image_index": 83,
+   "image_index_ia": 83
+  },
+  {
+   "page": "77",
+   "txt_offset": 175075,
+   "anchor": "after:60",
+   "leaf": 85,
+   "image_index": 84,
+   "image_index_ia": 84
+  },
+  {
+   "page": "78",
+   "txt_offset": 176900,
+   "anchor": "after:60",
+   "leaf": 86,
+   "image_index": 85,
+   "image_index_ia": 85
+  },
+  {
+   "page": "79",
+   "txt_offset": 178778,
+   "anchor": "after:60",
+   "leaf": 87,
+   "image_index": 86,
+   "image_index_ia": 86
+  },
+  {
+   "page": "80",
+   "txt_offset": 180303,
+   "anchor": "after:60",
+   "leaf": 88,
+   "image_index": 87,
+   "image_index_ia": 87
+  },
+  {
+   "page": "81",
+   "txt_offset": 183605,
+   "anchor": "after:60",
+   "leaf": 89,
+   "image_index": 88,
+   "image_index_ia": 88
+  },
+  {
+   "page": "82",
+   "txt_offset": 187134,
+   "anchor": "after:60",
+   "leaf": 90,
+   "image_index": 89,
+   "image_index_ia": 89
+  },
+  {
+   "page": "83",
+   "txt_offset": 189074,
+   "anchor": "after:60",
+   "leaf": 91,
+   "image_index": 90,
+   "image_index_ia": 90
+  },
+  {
+   "page": "84",
+   "txt_offset": 191208,
+   "anchor": "after:60",
+   "leaf": 92,
+   "image_index": 91,
+   "image_index_ia": 91
+  },
+  {
+   "page": "85",
+   "txt_offset": 193515,
+   "anchor": "after:60",
+   "leaf": 93,
+   "image_index": 92,
+   "image_index_ia": 92
+  },
+  {
+   "page": "86",
+   "txt_offset": 195811,
+   "anchor": "after:60",
+   "leaf": 94,
+   "image_index": 93,
+   "image_index_ia": 93
+  },
+  {
+   "page": "87",
+   "txt_offset": 198102,
+   "anchor": "after:60",
+   "leaf": 95,
+   "image_index": 94,
+   "image_index_ia": 94
+  },
+  {
+   "page": "88",
+   "txt_offset": 200316,
+   "anchor": "after:60",
+   "leaf": 96,
+   "image_index": 95,
+   "image_index_ia": 95
+  },
+  {
+   "page": "89",
+   "txt_offset": 202332,
+   "anchor": "after:60",
+   "leaf": 97,
+   "image_index": 96,
+   "image_index_ia": 96
+  },
+  {
+   "page": "90",
+   "txt_offset": 204622,
+   "anchor": "after:60",
+   "leaf": 98,
+   "image_index": 97,
+   "image_index_ia": 97
+  },
+  {
+   "page": "91",
+   "txt_offset": 206904,
+   "anchor": "after:60",
+   "leaf": 99,
+   "image_index": 98,
+   "image_index_ia": 98
+  },
+  {
+   "page": "92",
+   "txt_offset": 209069,
+   "anchor": "after:60",
+   "leaf": 100,
+   "image_index": 99,
+   "image_index_ia": 99
+  },
+  {
+   "page": "93",
+   "txt_offset": 211261,
+   "anchor": "after:60",
+   "leaf": 101,
+   "image_index": 100,
+   "image_index_ia": 100
+  },
+  {
+   "page": "94",
+   "txt_offset": 213489,
+   "anchor": "after:60",
+   "leaf": 102,
+   "image_index": 101,
+   "image_index_ia": 101
+  },
+  {
+   "page": "95",
+   "txt_offset": 215802,
+   "anchor": "after:60",
+   "leaf": 103,
+   "image_index": 102,
+   "image_index_ia": 102
+  },
+  {
+   "page": "96",
+   "txt_offset": 218136,
+   "anchor": "after:60",
+   "leaf": 104,
+   "image_index": 103,
+   "image_index_ia": 103
+  },
+  {
+   "page": "97",
+   "txt_offset": 220158,
+   "anchor": "after:60",
+   "leaf": 105,
+   "image_index": 104,
+   "image_index_ia": 104
+  },
+  {
+   "page": "98",
+   "txt_offset": 222246,
+   "anchor": "after:60",
+   "leaf": 106,
+   "image_index": 105,
+   "image_index_ia": 105
+  },
+  {
+   "page": "99",
+   "txt_offset": 224159,
+   "anchor": "after:60",
+   "leaf": 107,
+   "image_index": 106,
+   "image_index_ia": 106
+  }
+ ],
+ "image_index_note": "image_index from data/pages/<year>_leaves.json (running heads in the IA per-leaf OCR; scandata access copy); image_index_ia is the earlier guess from page_numbers.json"
+}

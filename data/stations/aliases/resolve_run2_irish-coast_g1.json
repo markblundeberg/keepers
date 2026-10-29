@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "n": 1533,
+   "kind": "station",
+   "ids": [
+    "inishtearaght"
+   ],
+   "place": null,
+   "note": "'Tearaght Rock' is Inishtearaght, the Blasket lighthouse off Co. Kerry. The 1882 Irish list prints it as 'Tearaght'."
+  }
+ ],
+ "notes": "This batch had only one item (n=1533), and it resolves cleanly to a single station. 'Tearaght Rock' → inishtearaght. The words match that station's printed name 'Tearaght' plus 'Rock', it is on the Irish coast, and it is in the 1882 list. No other station in stations.json comes close. Nothing to check, unless you want to confirm that the 1882 observation (about the cry of the 'Night-bird', Manx Shearwater) really came from the keeper at Tearaght and isn't a mention of Tearaght inside another station's report. The example text is consistent with Tearaght: Manx Shearwaters breed on the Blaskets.",
+ "_meta": {
+  "run": 2,
+  "coast": "IRISH COAST",
+  "gen": 1,
+  "cost_usd": 0.48171739999999996,
+  "n_items": 1
+ }
+}

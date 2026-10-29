@@ -1,0 +1,166 @@
+{
+ "items": [
+  {
+   "n": 12,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 18°03′N 17°36′W, North Atlantic about 170 km off Mauritania",
+   "note": "Ship's position, not a named place."
+  },
+  {
+   "n": 13,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 1°43′S 9°30′W, equatorial Atlantic",
+   "note": "The leading '-' before 9° 30’ is OCR noise. Read as W, as printed."
+  },
+  {
+   "n": 14,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 22°56′N 16°56′W, Atlantic off Western Sahara (near Cap Barbas)",
+   "note": "Ship's position."
+  },
+  {
+   "n": 15,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 2°31′N 12°16′W, equatorial Atlantic south-west of Liberia",
+   "note": "Ship's position."
+  },
+  {
+   "n": 16,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 3°54′N 13°18′W, Atlantic off Liberia / Sierra Leone",
+   "note": "Ship's position."
+  },
+  {
+   "n": 20,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 4°54′S 6°44′W, South Atlantic",
+   "note": "Ship's position. It fits a south-eastward track with n13 (1°43′S 9°30′W) and n44 (9°23′S 3°22′W)."
+  },
+  {
+   "n": 29,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 6°45′N 15°16′W, Atlantic about 250 km south-west of Freetown, Sierra Leone",
+   "note": "Ship's position. The example's 'Hoodpoe' is a misprint of Hoopoe."
+  },
+  {
+   "n": 44,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, 9°23′S 3°22′W, South Atlantic",
+   "note": "Ship's position."
+  },
+  {
+   "n": 120,
+   "kind": "place",
+   "ids": [],
+   "place": "Bijagós (Bissagos) Islands, Guinea-Bissau",
+   "note": "'Bejouga' is taken to be the old form 'Bijuga/Bijouga' of the Bijagós, which fits the West African coastal route of the other notes. Moderate confidence: check the scan in case it is an OCR garble of something else."
+  },
+  {
+   "n": 207,
+   "kind": "place",
+   "ids": [],
+   "place": "Cape Point, Western Cape, South Africa",
+   "note": "The sightings continue 'up to Algoa Bay' (Eastern Cape), so the observations cover the stretch of sea from Cape Point to Algoa Bay."
+  },
+  {
+   "n": 208,
+   "kind": "place",
+   "ids": [],
+   "place": "Cape St. Vincent, Algarve, Portugal",
+   "note": "At sea off the cape."
+  },
+  {
+   "n": 733,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, about 1°S 13°W, equatorial Atlantic",
+   "note": "'§.' is read as an OCR form of 'S.'. If it is really N the position moves about 220 km north, still in the equatorial Atlantic."
+  },
+  {
+   "n": 734,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, about 34°N 16°W, Atlantic north-east of Porto Santo / Madeira, Portugal",
+   "note": "Bulwer's Petrels fit the Madeira area."
+  },
+  {
+   "n": 735,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, about 46°N 8°W, western Bay of Biscay (about 250 km north of Cape Ortegal, Spain)",
+   "note": "Ship's position."
+  },
+  {
+   "n": 1073,
+   "kind": "place",
+   "ids": [],
+   "place": "Terschelling light-vessel, off Terschelling, Friesland, Netherlands",
+   "note": "Not a station of the scheme. 'Schelling' is taken as (Ter)Schelling. I have not checked whether the Terschelling Bank light-vessel was on station in 1884, or whether this is another Dutch or German light-vessel."
+  },
+  {
+   "n": 1177,
+   "kind": "place",
+   "ids": [],
+   "place": "Spitsbergen, Svalbard, Norway",
+   "note": "'Mallemauks' means Fulmars. This is a far-north note."
+  },
+  {
+   "n": 1221,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Names a ship ('on board' the steamship Marathon), not a place. Take the position from the lat/long or named place in each entry. Same vessel as n1222."
+  },
+  {
+   "n": 1222,
+   "kind": "none",
+   "ids": [],
+   "place": null,
+   "note": "Names a ship, not a place. Same vessel as n1221 (the only difference is the punctuation of the quote marks)."
+  },
+  {
+   "n": 1251,
+   "kind": "place",
+   "ids": [],
+   "place": "Tarifa, Cádiz, Spain",
+   "note": "'off Tarifa': at sea in the Strait of Gibraltar."
+  },
+  {
+   "n": 1457,
+   "kind": "place",
+   "ids": [],
+   "place": "About 53°N 9°E, Lower Elbe, Lower Saxony / Schleswig-Holstein, Germany",
+   "note": "53°N 9°E taken literally is inland, between Bremen and Hamburg. Whole degrees probably means 53°xx′N 9°xx′E, which takes in the Lower Elbe (Stade–Brunsbüttel). The birds are land birds, including Crested Lark, a species absent from Ireland, which rules out reading E as W (western Ireland). The examples show a voyage from here to n1458 between 7 a.m. and 2 p.m."
+  },
+  {
+   "n": 1458,
+   "kind": "place",
+   "ids": [],
+   "place": "About 54°N 10°E, Schleswig-Holstein, Germany (Kiel Bay / Neumünster area)",
+   "note": "Taken literally, 54°N 10°E is near Neumünster, inland. With truncated degrees it could be Kiel Bay (about 54°20′N). It ends the same 7 a.m.–2 p.m. passage as n1457. How the route went (Eider Canal or overland) is unknown."
+  },
+  {
+   "n": 1473,
+   "kind": "place",
+   "ids": [],
+   "place": "At sea, tropical Atlantic (position garbled)",
+   "note": "'se? 43°.8. | 92350\" W.' is badly garbled. One reading is 4°3′S 9°35′W, or it may be a misread of 1°43′S 9°30′W (n13). Sooty Terns place it in the tropical Atlantic. The exact position must be read from the page scan."
+  }
+ ],
+ "notes": "None of the 22 items is a station of the scheme. They are all positions at sea or foreign places from the 1884 Ocean Notes. Things to check: (1) Kind for bare lat/long positions: I classed them as 'place' with the coordinates and an ocean description in place. If you would rather keep ship positions out of 'place', send them to a separate category. (2) n1473: the position is garbled, so read it from the scan. (3) n733: check whether '§.' is S or N. (4) n13: the '-' before the longitude is noise; confirm W. (5) n1457/n1458: whole-degree positions in north Germany that fall on land if taken literally. Crested Lark supports E rather than W, and the shared 7 a.m.–2 p.m. passage links them. Check the full text for the route (Elbe, Kiel). (6) n120 'Bejouga Islands' is taken as the Bijagós, Guinea-Bissau. Confirm from the scan. (7) n1073 'Schelling light-vessel' is taken as Terschelling, Netherlands. Confirm a light-vessel was there in 1884. (8) n1221/n1222 name the steamship Marathon and are classed 'none'. Each observation's position should come from its own lat/long or named place. (9) n207 covers the stretch from Cape Point to Algoa Bay, not one point.",
+ "_meta": {
+  "run": 2,
+  "coast": "OCEAN NOTES",
+  "gen": 0,
+  "cost_usd": 0.5947537999999999,
+  "n_items": 22
+ }
+}

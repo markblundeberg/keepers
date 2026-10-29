@@ -1,0 +1,167 @@
+{
+ "1879:5:behaviour": {
+  "kind": "extraction",
+  "why": "\"numbers struck, along with Blackbirds\": the Blackbirds struck too; the record has round_station",
+  "by": "the main agent, reading the chunk"
+ },
+ "1879:5:at_light": {
+  "kind": "extraction",
+  "why": "goes with the strike: \"numbers struck\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1879:30:at_light": {
+  "kind": "extraction",
+  "why": "North Foreland is given as an instance of \"immolating itself against the lanterns\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1879:45:species": {
+  "kind": "extraction",
+  "why": "the Linnet heading's flock labelled with its companions (\"invariably mixed with Larks\")",
+  "by": "the main agent, reading the chunk"
+ },
+ "1879:67:direction": {
+  "kind": "judgement",
+  "why": "the rule shares a time with a continuing clause; it says nothing of direction",
+  "by": "the main agent, reading the chunk"
+ },
+ "1879:83:time": {
+  "kind": "checker",
+  "why": "the hovering \"on foggy, thick nights\" contrasts with the usual passage \"very early in the morning\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1880:83:time": {
+  "kind": "judgement",
+  "why": "\"Great numbers struck\" opens a new sentence after \"8 p.m.\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1881:10:behaviour": {
+  "kind": "judgement",
+  "why": "\"the first ever captured or seen here\": either/or",
+  "by": "the main agent, reading the chunk"
+ },
+ "1881:12:behaviour": {
+  "kind": "checker",
+  "why": "\"came from north\" is passing; the separate \"stopped on island\" (settled) was not extracted: a recall miss, not this field",
+  "by": "the main agent, reading the chunk"
+ },
+ "1881:17:station": {
+  "kind": "extraction",
+  "why": "\"During the first two weeks of October Wild Ducks are reported as passing\" names no station; \"At Morecambe\" belongs to the sentence before",
+  "by": "the main agent, reading the chunk"
+ },
+ "1881:98:time": {
+  "kind": "judgement",
+  "why": "\"each day\" is how often, not a time of day",
+  "by": "the main agent, reading the chunk"
+ },
+ "1882:39:behaviour": {
+  "kind": "judgement",
+  "why": "\"species of birds remaining on the island at this date\": a winter census of Rathlin, settled or seen",
+  "by": "the main agent, reading the chunk"
+ },
+ "1882:57:species": {
+  "kind": "extraction",
+  "why": "the Gutenberg text has the heading \"Tits.\" directly above \"_Tuskar Rock._--March 18th, 10 p.m. to 5 a.m., continually striking\"; \"Linnet\" is the heading before (both helpers misplaced the entry)",
+  "by": "the main agent, reading the chunk"
+ },
+ "1883:63:wind": {
+  "kind": "ocr_copy",
+  "why": "the OCR has \"wind light §.E.\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1883:68:species": {
+  "kind": "checker",
+  "why": "\"60 Larks and Chaffinches\": the rules give one observation per kind with a shared count",
+  "by": "the main agent, reading the chunk"
+ },
+ "1884:1:behaviour": {
+  "kind": "judgement",
+  "why": "\"Immense numbers covered the island\": settled or seen",
+  "by": "the main agent, reading the chunk"
+ },
+ "1884:35:species": {
+  "kind": "judgement",
+  "why": "the entry names no bird; the ROOK heading is beyond the context; the section also says \"Crows\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:1:time": {
+  "kind": "ocr_copy",
+  "why": "the OCR has \"SOCAN day.\" for the print's \"All day,\": no time can be copied",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:8:at_light": {
+  "kind": "extraction",
+  "why": "\"a great many Larks flying round the light at 10 p.m.; six Larks killed\": the same birds, at the light",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:46:station": {
+  "kind": "ocr_copy",
+  "why": "the OCR breaks the table into columns; no station lines up with \"Killed striking, Oct. 21.\"",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:46:species": {
+  "kind": "ocr_copy",
+  "why": "ditto marks under \"Skylark\" in the print; the OCR's broken columns lose them",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:52:wind": {
+  "kind": "judgement",
+  "why": "\"12 to 1 A.M., wind shifted to N.E., and birds left\": a change of wind, arguably the wind",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:55:station": {
+  "kind": "ocr_copy",
+  "why": "broken table columns in the OCR (p. 124)",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:58:station": {
+  "kind": "ocr_copy",
+  "why": "broken table columns in the OCR (p. 124)",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:62:station": {
+  "kind": "ocr_copy",
+  "why": "broken table columns in the OCR",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:63:direction": {
+  "kind": "judgement",
+  "why": "\"then left and flew N.E.\" follows the resting; a separate passing observation or this one",
+  "by": "the main agent, reading the chunk"
+ },
+ "1886:77:at_light": {
+  "kind": "judgement",
+  "why": "\"about ship at night ... Some killed striking\": striking usually means the lantern; not said",
+  "by": "the main agent, reading the chunk"
+ },
+ "1885:1:behaviour": {
+  "kind": "checker",
+  "why": "\"two on rock, killed\": the extraction has both, a settled and a dead observation",
+  "by": "the main agent, reading the chunk"
+ },
+ "1885:35:weather": {
+  "kind": "judgement",
+  "why": "\"threatening\" copied from \"heavy threatening cumuli at W. and N.\": how much to take",
+  "by": "the main agent, reading the chunk"
+ },
+ "1885:88:date_iso": {
+  "kind": "checker",
+  "why": "the \"November 9th.\" heading is beyond the context; records.py carries it forward in diaries",
+  "by": "the main agent, reading the chunk"
+ },
+ "1887:3:wind": {
+  "kind": "judgement",
+  "why": "\"(E.S.E, 4, to E.N.E., 7\": a shifting wind split by its force; the first point is what the rules keep",
+  "by": "the main agent, reading the chunk"
+ },
+ "1887:3:force": {
+  "kind": "judgement",
+  "why": "\"4, to E.N.E., 7\": no unbroken \"4 to 7\" to copy; the first force",
+  "by": "the main agent, reading the chunk"
+ },
+ "1887:27:behaviour": {
+  "kind": "checker",
+  "why": "the eighty were \"going N.E.\": passing; the second flock's rest is its own (missed) settled observation, a recall miss",
+  "by": "the main agent, reading the chunk"
+ }
+}

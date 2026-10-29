@@ -1,0 +1,393 @@
+{
+ "sections": [
+  {
+   "coast": "",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 1,
+   "last_line": 34,
+   "head_examples": [
+    "The Project Gutenberg eBook of Report on the Migration of Birds in the Autumn of 1879. [First Report]",
+    "*** START OF THE PROJECT GUTENBERG EBOOK REPORT ON THE MIGRATION OF BIRDS IN THE AUTUMN OF 1879. [FIRST REPORT] ***",
+    "Transcriber Note"
+   ],
+   "observations": "none",
+   "note": "Gutenberg header (1-28) and the transcriber's note on italics (30-32). Not part of the printed report."
+  },
+  {
+   "coast": "",
+   "title": "REPORT ON THE MIGRATION OF BIRDS IN THE AUTUMN OF 1879.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 35,
+   "last_line": 83,
+   "head_examples": [
+    "THE ZOOLOGIST.",
+    "REPORT ON THE MIGRATION OF BIRDS IN THE",
+    "CONTENTS"
+   ],
+   "observations": "none",
+   "note": "Zoologist masthead (Vol. IV, May 1880, No. 41), title split over 45-47, authors (50), Footnote 1 by Harvie-Brown about his Glasgow paper (53-61), and CONTENTS (67-80). The transcriber says at 1859 that the contents table was added, so its page numbers (161, 162, 172, 173, 189, 190) may not be printed text. There is no committee preamble: this first report was a Zoologist paper."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 84,
+   "last_line": 94,
+   "head_examples": [
+    "_EAST COAST OF SCOTLAND._",
+    "Printed forms of enquiry and letters of instructions were sent to"
+   ],
+   "observations": "none",
+   "note": "Coast heading at 84 (italic underscores and a final period: `_EAST COAST OF SCOTLAND._`). The introduction gives 26 stations asked and 13 returns, and explains the * mark."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "station_list",
+   "first_line": 95,
+   "last_line": 121,
+   "head_examples": [
+    "*North Unst, Shetland; white and red sectors, fixed. Robert Burnett.",
+    "Whalsey Skerries, Shetland; white, revolving every minute.",
+    "\"     (High) Orkney; red and white sectors, fixed. W. Gordon."
+   ],
+   "observations": "none",
+   "note": "One station per line, 26 entries. Each line has 2 leading spaces, then '*' or a space. Order: name, county; character. keeper (optional). Line 103 is a ditto line (`\"     (High)`) for Hoy Sound (High). 13 asterisks, which matches the stated count."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 122,
+   "last_line": 129,
+   "head_examples": [
+    "A general scarcity of birds is reported by a great majority of the"
+   ],
+   "observations": "summary",
+   "note": "One short paragraph on general scarcity: about 28 species noted. No dated records."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "SEPARATE REPORT OF EACH SPECIES OBSERVED.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 130,
+   "last_line": 432,
+   "head_examples": [
+    "Swift, _Cypselus apus_.--Only one at Sumburgh Head on May 25th,",
+    "Titmice.--At only one station were Titmice observed on our east coast,",
+    "Ring Ouzel (or \"Mountain Blackbird\"), _Turdus torquatus_.--Reported"
+   ],
+   "observations": "primary",
+   "note": "Sub-heading at 130. These are the compiler's digests of each station's schedule, and the only place those records appear. The keepers' wording is not given. The entries do not all start the same way. (a) The first entries have no 'Name.--' head: Owl at 132 ('At North Ronaldshay, an Owl--species unknown...'), hawks at 137 ('From Pentland Skerries we have all the records of hawks.'), and Hobbies and Eagles at 143-153. (b) Some paragraphs without a head continue the species before them: 252-259 'Besides the above, \"large Thrushes,\"' (Fieldfares at Auskerry and Bell Rock), 264-271 (Thrush scarcity), 303-308 (Lark), 429-431 (Terns, Stirlingshire). Attach these to the previous species. (c) Footnotes are inline at 155-157 and 261-262 ('[Footnote N: ...]'). Some records are not from lighthouses: J. Hardy in Berwickshire (180, 185), D. Dewar at Loch Tay (148-153), and the author's own notes from Perthshire, Stirlingshire and Loch Tay (325-328, 341-342, 375-376, 393-395). Spring and summer records sit among the autumn ones: Swift on May 25 (159), Swallow on June 12 (168), Guillemot on June 25 (412), Curlew on June 29 (333), Puffin on April 24 (416), Skua in April (419). Some records have no date: Ring Ouzel at Sumburgh (245), Sandpiper (344), Dunnet Head Plover (322), Rook at Dunnet Head (277), first Swans record (397). Typo 'Sumburgli' at 145. Bell Rock large thrushes are given as 'Sept. 7th' at 257, but the remarks at 467 say 'Oct. 7th'."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 433,
+   "last_line": 505,
+   "head_examples": [
+    "The unusual scarcity of migrants is very generally reported upon at",
+    "Besides the records under the various species which have been",
+    "Almost all records of birds caught or killed, or striking at the"
+   ],
+   "observations": "summary",
+   "note": "General remarks by Harvie-Brown. Mostly a retelling, but some station remarks appear nowhere else. These are undated or long-term statements: North Unst on Snow Buntings and Iceland Gulls (437-441), Anderson at Sumburgh Head ('In twenty-one years...', 442-443), Tulloch at North Ronaldshay (444-445), and the Cromarty keeper (452-455). Unmarked stations appear here: Hoy Sound (High), Holborn Head and Cromarty. 'Ness Head' at 447 is Noss Head. The Bell Rock 'Oct. 7th' at 467 conflicts with 'Sept. 7th' at 257. The claim at 477-478 that Rooks occur only at North Unst contradicts the Rook entry (273-278: Sumburgh Head, Dunnet Head)."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": null,
+   "season": "spring",
+   "layout": "prose",
+   "first_line": 506,
+   "last_line": 531,
+   "head_examples": [
+    "A great northward rush appears to have taken place at Bell Rock",
+    "On the 11th March great numbers of Lapwings, Curlews, Blackbirds,"
+   ],
+   "observations": "primary",
+   "note": "Bell Rock, March 2-11, 1880. This is a spring record outside the autumn-1879 scope, from James Jack's duplicate schedule. Dated sub-entries run on inside one paragraph: 'On the\\n2nd March' (508-509), 'On the 9th,' (mid-line 513), 'On the 11th March' (mid-line 519). Lines 523-527 are inland notes by the author."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 532,
+   "last_line": 541,
+   "head_examples": [
+    "_EAST COAST OF ENGLAND._",
+    "Printed forms of enquiry and letters of instruction were sent to"
+   ],
+   "observations": "none",
+   "note": "Coast heading at 532. The introduction gives 37 stations asked and 25 returns."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "station_list",
+   "first_line": 542,
+   "last_line": 593,
+   "head_examples": [
+    "Berwick.",
+    "*Longstone, on the most easterly of the Farn Islands; white light,",
+    "*Teesmouth, No. 5 Buoy Lightvessel; one white light, fixed."
+   ],
+   "observations": "none",
+   "note": "37 entries, with no keepers' names. Entries wrap onto continuation lines indented 5 spaces with no '*' (e.g. 544, 547, 552), so join them to the line above. Some entries are a bare name ('Berwick.', 'Souter Point.', 'Spurn Point.'). 25 asterisks, which matches the stated count. Typos: 'while' (550), 'red fight' (572)."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 594,
+   "last_line": 601,
+   "head_examples": [
+    "Great credit is due to the observers of the various stations for"
+   ],
+   "observations": "none",
+   "note": "Thanks to observers; about 32 species noted."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "SEPARATE REPORT OF EACH SPECIES OBSERVED.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 602,
+   "last_line": 1091,
+   "head_examples": [
+    "Flycatcher, _Muscicapa grisola_.--At the Galloper on Sept. 13th,",
+    "Wheatear.--At Hunstanton, May 24th, 11 p.m. to 2 a.m., drizzly",
+    "Charadriidæ.--The burst of severe weather during the early days in"
+   ],
+   "observations": "primary",
+   "note": "Sub-heading at 602. These are Cordeaux's digests, run on as 'At the X, date, ...; date, ...' inside one paragraph per species. There is no line break per station. (a) The first entry, at 604, has no 'Name.--' head: 'Of _Raptores_ two only are mentioned' (Sparrowhawk, Short-eared Owl). 615-618 continues it with Cordeaux's own observation. (b) Some heads cover groups: 'Song Thrush, Redwing, Fieldfare, Blackbird, and Ring Ouzel.--' (637), 'Redbreast, Whitethroat, Wren.--' (696). Three are family names: 'Charadriidæ.--', 'Anatidæ.--', 'Procellaridæ.--'. The crow head spans two lines: 'Hooded Crow, _Corvus cornix_; Rook, _C. frugilegus_; Daw, _C.\\nmonedula_.--' (927-928). 'Titlark, _Anthus sp.?_--' (732) has no period before '--'. (c) Footnotes 4-14 are inline as '[Footnote N: ...]'. Some contain new records: Spurn and Lincolnshire in Jan-Feb 1880 (681-694), Shore Larks at Spurn on March 18 1880 (744-747), the Galloper in Nov (811-814). (d) Many records are not from lighthouses: Heligoland/Gätke (e.g. 672-679, 740-742, 825-826, 1008-1009, 1073-1083, 1089-1090), W. Eagle Clarke at Spurn Point, J. H. Gurney at Lowestoft, and Cordeaux in Lincolnshire. Spring and early-summer records: Cromer on May 23/27 (700-703), Hunstanton on May 24 (728), Spurn on May 25 (732), Cockle on June 8 and July 1 and South-sand Head on July 6 (968-971), Cromer Starlings on June 10 (905). 'Teesmouth' at 646 is the lightvessel; 'Teesmouth lighthouse' (648) is a different place. 'Spurn' can mean the Lightvessel or Spurn Point. Typos: '2:2nd' (957), 'Crowds' (934), 'nmnbers' (914)."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1092,
+   "last_line": 1106,
+   "head_examples": [
+    "Independent of the notes of each species, as already given,"
+   ],
+   "observations": "primary",
+   "note": "Starts with an asterisk divider (1092: `       *       *       *       *       *`). Unidentified flocks at Spurn (Dec 3 and 8), Cockle (Oct 9), South-sand Head (Sept 20) and Kentish Knock (Nov 20), plus an unnamed lightvessel on Sept 20. None of these is in the species entries."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1107,
+   "last_line": 1139,
+   "head_examples": [
+    "No rare migrants have been noticed, but this was scarcely to be"
+   ],
+   "observations": "primary",
+   "note": "All records are Heligoland rarities from Gätke's letter of Dec 22, not British stations. The dates run on in one paragraph ('on Sept. 17th, _Sylvia fuscata_', '27th, E.N.E., _Anthus Richardi_', ...). Bare day numbers ('26th', '28th') carry the month forward. The text goes from 'Oct. 1st' to 'Nov. 2nd'; the later 'Nov.' dates may be an error for Oct."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1140,
+   "last_line": 1202,
+   "head_examples": [
+    "A summary of the various returns show that four species, Larks,",
+    "There is one remarkable exception to the general rule of an east to",
+    "The \"great rush\" of immigrants was from the 12th to the 23rd of"
+   ],
+   "observations": "summary",
+   "note": "Cordeaux's general remarks. Mostly a retelling, with two new details: East-side 'Crows' passing S. to N. on Nov 2-5 (1163-1165), which is not in the species entries; and the Shipwash Oct 16 wind and direction by hour (1194-1197), which adds to the crow entry at 941-943."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1203,
+   "last_line": 1232,
+   "head_examples": [
+    "Subsequent to the writing of this report I have received several"
+   ],
+   "observations": "primary",
+   "note": "A postscript on the Jan-Feb 1880 influx. It is winter, but the authors call it a third 'rush' of the autumn immigration, so it is marked autumn here. None of it is from lighthouses (Spurn Point area, NE Lincolnshire, Heligoland). It repeats Footnotes 5-6 (681-694) and adds Short-eared Owls and Snow Buntings at Spurn."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1233,
+   "last_line": 1243,
+   "head_examples": [
+    "_WEST COAST OF SCOTLAND._",
+    "Printed forms of enquiry and letters of instruction were forwarded to"
+   ],
+   "observations": "none",
+   "note": "Coast heading at 1233. The introduction gives 38 stations asked and 24 returns. It ends with ':--'."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "station_list",
+   "first_line": 1244,
+   "last_line": 1289,
+   "head_examples": [
+    "*Cape Wrath, Sutherland; white and red alt., rev. every minute.",
+    "*{Hynish, Skerryvore Signal Tower, Tyree; no lights.† William Crow.",
+    "Stornoway, Lewis; 2 lights, white, rev. ½ m., & white, fixed. R. Murray."
+   ],
+   "observations": "none",
+   "note": "38 entries. The keeper's name sometimes wraps onto a continuation line indented 5 spaces (1245, 1252, 1261, 1263). '{' brackets Hynish and Skerryvore (1258-1259), which share one '*'. Skerryvore's keeper is the ditto '\"' (William Crow). The dagger note at 1287-1288 belongs to the list. There are 23 printed asterisks against the stated 24, or 24 if the bracket counts twice. Unmarked stations are still quoted with records in the species entries: Kyleakin, Lochindaul, Turnberry, Point of Ayr, Douglas Head, Chickens Rock."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1290,
+   "last_line": 1294,
+   "head_examples": [
+    "Thanks are due to the various observers for the careful way in which"
+   ],
+   "observations": "none",
+   "note": null
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "SEPARATE REPORT OF EACH SPECIES OBSERVED.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 1295,
+   "last_line": 1733,
+   "head_examples": [
+    "Hawk.--At Dhuheartach on Oct. 5th, two struck lantern at 8 a.m., light",
+    "Swallow, _Hirundo rustica_, L.--The most northerly station noted this",
+    "Sandpiper (sp.?)--At Rhinns of Islay on Aug. 22nd, one struck at 1"
+   ],
+   "observations": "primary",
+   "note": "Sub-heading at 1295. Each paragraph starts with 'Name[, _Latin_][, L.].--'. Most heads are English names only. Some head variants have no period before '--': 'Sandpiper (sp.?)--' (1582). Others: 'Wild Geese (sp.?).--', 'Whimbrels (\"Small Curlews\"), _Numenius phæopus_.--', 'Sea-fowl.--', 'Sea Gulls.--', 'Birds unknown.--'. Footnotes 15-16 are inline. The Solan Goose entry starts at 1722 and runs into the table at 1734; it resumes at 1750. Many records have no station or date, e.g. 1406 'Nov. 24th' (no station), Wren 1340-1343 (no station), Kyleakin geese (1630, no date). Cape Wrath on Aug 16 (1681) and Aug 10 (1697) may be the same departure. Other records: Wild Swan at Rhuvaal on Jan 4 (1880) (1644), and the author at the Shiant Isles (1693-1695). Spring and summer records: Owl on May 30 (1303), Rhu Stoir Swallows on June 6/10 (1309), Corn Crake in June (1623-1625), Sheldrake on May 23 (1660), Eider on June 30 (1664), Kittiwake on May 31 (1702), Rhu Stoir sea-fowl on June 12-15 (1691). Internal conflicts: Dhuheartach Swallow on 29 July (1313) vs July 26 (1325); Point of Ayr Oct 21 at '1.80 p.m.' (1410) vs '1.30 p.m.' (1437); 'December 18th, 14th and 15th' (1636). Spellings: 'Lochindahl' (1579) for Lochindaul; 'Point of Ayre' (1401) for Point of Ayr."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "SEPARATE REPORT OF EACH SPECIES OBSERVED.",
+   "season": "autumn",
+   "layout": "table",
+   "first_line": 1734,
+   "last_line": 1749,
+   "head_examples": [
+    "July 14th.  600 to 700.   9 a.m. to 8 p.m.   Wind E. Clear.",
+    "\"  15th.   200.          9 a.m. to 8 p.m.    \"   E. Haze.",
+    "Aug. 1st.   100 to 300.   8 a.m. to 6 p.m.    \"   W. Haze, rain."
+   ],
+   "observations": "primary",
+   "note": "M'Gill's Cape Wrath Solan Geese counts, all passing west, July 14 to Aug 9: 15 rows with columns for date, number, hours, wind and weather. The month cell is the ditto '\"' except on the first July and August rows. The 'Wind' cell is the ditto '\"' after the first row. Rows have a 2-3 space indent. The rows are part of the Solan Goose species entry (1722-1770)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "SEPARATE REPORT OF EACH SPECIES OBSERVED.",
+   "season": "autumn",
+   "layout": "species",
+   "first_line": 1750,
+   "last_line": 1770,
+   "head_examples": [
+    "Thus it will be seen that from 2150 to 3080 were estimated to pass",
+    "From the Butt of Lewis Mr. Edgar supplies the",
+    "At Mull of Galloway Solan Geese"
+   ],
+   "observations": "primary",
+   "note": "The end of the Solan Goose entry after the table, with no head of its own. The Butt of Lewis (1754) and Mull of Galloway (1757) records start mid-line. The second Mull of Galloway passage ('Again at same station', 1764) has no printed date. The 8th-10th weather follows it."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1771,
+   "last_line": 1784,
+   "head_examples": [
+    "On the west coast of Scotland, also, many observers make particular"
+   ],
+   "observations": "summary",
+   "note": "Starts with an asterisk divider (1771). General remarks on scarcity, and on stations badly placed for observing (Kyleakin, Sound of Mull, Corran Ferry)."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1785,
+   "last_line": 1800,
+   "head_examples": [
+    "Many birds are killed at the lanterns of the more isolated lighthouses"
+   ],
+   "observations": "primary",
+   "note": "Skerryvore, Oct 1-6, **1877**, from W. Crow. This is a station record from a different year, not in the species entries. Also: Dhuheartach 'two Hawks are seen every morning' (no date), and a flight 'about Oct. 7th'."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "autumn",
+   "layout": "prose",
+   "first_line": 1801,
+   "last_line": 1852,
+   "head_examples": [
+    "The direction of the flight of migrants appears to be from east to",
+    "The above remarks upon the direction of the flights upon our west"
+   ],
+   "observations": "summary",
+   "note": "Lines of flight. It quotes W. Boyd's 1878 letter (Loch Assapol, Mull, October; Tyree, Dec 1878) at 1809-1826. These are inland, non-lighthouse records from 1878. Bramblings and Gray are discussed at 1844-1850. 'Rose of Mull' (1815) is the Ross of Mull. This is the end of the printed report."
+  },
+  {
+   "coast": "",
+   "title": "Transcriber Note",
+   "season": "none",
+   "layout": "other",
+   "first_line": 1853,
+   "last_line": 1862,
+   "head_examples": [
+    "Transcriber Note",
+    "Minor typos were corrected."
+   ],
+   "observations": "none",
+   "note": "Starts with an asterisk divider (1853). The transcriber says typos were corrected, closing quotation marks were added, and the contents table was added."
+  },
+  {
+   "coast": "",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 1863,
+   "last_line": 2214,
+   "head_examples": [
+    "*** END OF THE PROJECT GUTENBERG EBOOK REPORT ON THE MIGRATION OF BIRDS IN THE AUTUMN OF 1879. [FIRST REPORT] ***",
+    "START: FULL LICENSE",
+    "THE FULL PROJECT GUTENBERG™ LICENSE"
+   ],
+   "observations": "none",
+   "note": "Gutenberg end marker and licence."
+  }
+ ],
+ "notes": "The 1879 report splits into 29 sections that cover lines 1-2214 with no gaps or overlaps. Each section runs from its own first line to the line before the next one starts, so blank lines belong to the section above them. I read all of the text.\n\n1. **Only three coasts.** East Coast of Scotland (84-531), East Coast of England (532-1232) and West Coast of Scotland (1233-1852). There is no Irish coast, no Heligoland heading, no station or diary layout, and no committee preamble. This was a paper in the Zoologist, not yet a British Association report.\n\n2. **Each coast has the same order:** introduction, station list, a short remark, 'SEPARATE REPORT OF EACH SPECIES OBSERVED.', then general remarks. Heligoland material (Gätke) sits inside the East Coast of England, so its coast is given as EAST COAST OF ENGLAND.\n\n3. **Where the observations are.** The keepers' records appear only as the compilers' digests, inside the species paragraphs. I marked these 'primary' because they are the only place each record appears, but the wording is Harvie-Brown's or Cordeaux's, not the keepers'. One record can be spread over a grouped entry, such as the Larks/Starlings/Chaffinches entries at the Galloper. Some stations are named in a list with no date, e.g. 'Recorded from a number of stations...'.\n\n4. **How species entries start.** Each starts a paragraph as 'Name[, _Latin_].--'. Several are exceptions:\n   - The first entry on each English and Scottish east coast has no such head (132, 137, 604).\n   - Some paragraphs with no head carry on the previous species (252, 264, 303, 429, 615, 1750).\n   - Some heads cover groups or families (637, 696, 927-928 across two lines, 995, 1035, 1085).\n   - A few have no period before '--' (732, 1582).\n   - Footnotes '[Footnote N: ...]' are inline and sometimes hold new records.\n\n5. **Sections that hold observations but are not species entries:**\n   - Bell Rock, March 1880 (506-531, spring).\n   - Unidentified birds at English stations (1092-1106).\n   - Heligoland rarities (1107-1139).\n   - The Jan-Feb 1880 postscript (1203-1232).\n   - Skerryvore, 1877 (1785-1800).\n   - The Cape Wrath Solan Geese table (1734-1749).\n\n6. **Seasons.** I marked the three species sections 'both' because they mix in spring and early-summer records, sometimes saying 'referable to the spring migration'. Each section's note lists those records by line. Records from July to August (e.g. Solan Geese, Curlews) are treated by the authors as autumn.\n\n7. **Points for the station table and keeper roll:**\n   - Several stations with no '*' in the West Coast list are still quoted with records: Kyleakin, Lochindaul, Turnberry, Point of Ayr, Douglas Head and Chickens Rock.\n   - The West Coast list has 23 printed asterisks against the stated 24. Hynish and Skerryvore share one bracketed '*'.\n   - The station lists print the keepers' names only for Scotland. The English list has characters but no names.\n\n8. **Conflicts in the printed text.** I left all of these as printed:\n   - Bell Rock: 'Sept. 7th' (257) vs 'Oct. 7th' (467).\n   - Rooks 'only at North Unst' (477) vs the Rook entry (273).\n   - Dhuheartach Swallow: 29 July (1313) vs July 26 (1325).\n   - Point of Ayr: '1.80' (1410) vs '1.30' (1437).\n   - Heligoland dates switch from Oct. to 'Nov.' at 1120.\n   - Misspellings: 'Sumburgli' (145), 'Ness Head' (447), 'Lochindahl' (1579), 'Rose of Mull' (1815), '2:2nd' (957).",
+ "_meta": {
+  "year": 1879,
+  "source": "sources/gutenberg/1879_pg65621.txt",
+  "cost_usd": 0.9246378000000001
+ }
+}

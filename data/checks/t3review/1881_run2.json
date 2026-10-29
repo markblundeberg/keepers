@@ -1,0 +1,136 @@
+{
+ "flags": [
+  {
+   "id": "10:behaviour",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"the first ever captured or seen here\" is an either/or; \"sent to me\" suggests it was captured but doesn't say so. Either seen or caught can stand. \"sent to me\" also belongs in specimen."
+  },
+  {
+   "id": "10:weather",
+   "kind": "extraction",
+   "right_value": "thick haze, approaching to fog, with a continuous downpour of rain",
+   "why": "The text's weather runs on: \"approaching to fog, with a continuous downpour of rain\". The rain was cut off."
+  },
+  {
+   "id": "12:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The text also has \"stopped on island\", so a separate settled observation is due. \"came from north\" still counts as passing with a direction: one observation per behaviour."
+  },
+  {
+   "id": "17:station",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"During the first two weeks of October Wild Ducks are reported\" names no station. It could be a general summary or carry on \"At Morecambe\"."
+  },
+  {
+   "id": "31:behaviour",
+   "kind": "checker",
+   "right_value": null,
+   "why": "Same as Example 1: \"Great numbers of Larks ... from 2 to 5 a.m.\" is a seen observation, and \"great numbers struck\" is its own struck observation."
+  },
+  {
+   "id": "35:time",
+   "kind": "gutenberg",
+   "right_value": null,
+   "why": "The transcription reads \"11.80\na.m.\" and the print reads 11.30. The record copies the text exactly."
+  },
+  {
+   "id": "44:wind",
+   "kind": "extraction",
+   "right_value": "N. by E.",
+   "why": "In \"mod. N. by E. breeze\", the force word \"mod.\" goes in force; the wind is \"N. by E.\"."
+  },
+  {
+   "id": "44:force",
+   "kind": "extraction",
+   "right_value": "mod.",
+   "why": "\"mod. N. by E. breeze\" states the force, so null leaves it out."
+  },
+  {
+   "id": "51:station",
+   "kind": "checker",
+   "right_value": null,
+   "why": "The text says only \"From the same station\". \"Skerries\" is in neither the chunk nor its context, so it can't be copied; null is right."
+  },
+  {
+   "id": "57:at_light",
+   "kind": "extraction",
+   "right_value": "false",
+   "why": "\"caught at lighthouse\" names the lighthouse, not the lantern or light."
+  },
+  {
+   "id": "58:time",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "\"2 p.m.\" goes with the flocks. It's unclear whether it reaches \"two young ones struck lantern\", which comes after the weather."
+  },
+  {
+   "id": "60:wind",
+   "kind": "extraction",
+   "right_value": "E.S.E.",
+   "why": "In \"strong E.S.E. breeze\", \"strong\" is the force; the wind is \"E.S.E.\"."
+  },
+  {
+   "id": "60:force",
+   "kind": "extraction",
+   "right_value": "strong",
+   "why": "\"strong E.S.E. breeze\" states the force."
+  },
+  {
+   "id": "67:force",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "In \"mod. W.N.W. gale\", \"mod. gale\" isn't one unbroken stretch of text that can be copied. \"mod.\" alone drops \"gale\"; how to split it is open."
+  },
+  {
+   "id": "69:force",
+   "kind": "judgement",
+   "right_value": null,
+   "why": "In \"fresh E.S.E. gale\", \"fresh gale\" can't be copied as one unbroken stretch. \"fresh\" alone drops \"gale\"; how to split it is open."
+  },
+  {
+   "id": "80:wind",
+   "kind": "extraction",
+   "right_value": "N.",
+   "why": "In \"fresh N. breeze\", \"fresh\" is the force; the wind is \"N.\"."
+  },
+  {
+   "id": "80:force",
+   "kind": "extraction",
+   "right_value": "fresh",
+   "why": "\"fresh N. breeze\" states the force."
+  },
+  {
+   "id": "82:force",
+   "kind": "extraction",
+   "right_value": "fresh",
+   "why": "\"fresh E.S.E. breeze\" states the force. The wind should also be just \"E.S.E.\"."
+  },
+  {
+   "id": "90:at_light",
+   "kind": "extraction",
+   "right_value": "false",
+   "why": "\"a monster pie ... contained two hundred Larks\" doesn't tie them to the lantern. Don't infer it."
+  },
+  {
+   "id": "94:count",
+   "kind": "extraction",
+   "right_value": "large flights",
+   "why": "\"large flights of\nRooks\" is the quantity, and it is in the quote."
+  },
+  {
+   "id": "98:time",
+   "kind": "extraction",
+   "right_value": null,
+   "why": "\"each day\" says how often, not a time of day."
+  }
+ ],
+ "_meta": {
+  "year": 1881,
+  "run": 2,
+  "cost_usd": 0.2913112,
+  "n_flags": 21
+ }
+}

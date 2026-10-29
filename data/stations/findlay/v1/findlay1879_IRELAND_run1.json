@@ -1,0 +1,435 @@
+{
+ "matches": [
+  {
+   "id": "fastnet",
+   "row": 293,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints FASTNET twice: row 293 (South Coast) and again as FASTNET ROCK, row 373 (end of West Coast), with the same character, position and description. 373 is a repeat of the same light, not a second light, so it is left out of extra_rows.",
+   "row_id": "p52r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "galley-head",
+   "row": 294,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p52r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "old-head-of-kinsale",
+   "row": 295,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints it as KINSALE OLD HEAD. Row 296 (Kinsale Harbour, Charles Fort) is a different light.",
+   "row_id": "p52r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "mine-head",
+   "row": 304,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints MINEHEAD.",
+   "row_id": "p52r14",
+   "extra_row_ids": []
+  },
+  {
+   "id": "ballinacourty",
+   "row": 305,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints 'Dungarvan', and the description reads 'On Ballinacourty Pt.'",
+   "row_id": "p52r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "hook-head",
+   "row": 306,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "HOOK TOWER",
+   "row_id": "p52r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "coningbeg-lv",
+   "row": 310,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints SALTEES LIGHT-VES. at 52°2.4'N 6°40'W, established 1824 and altered 1878. This is the light-vessel off the Coningbeg Rock (south of the Saltees), which later took the Coningbeg name. Findlay puts it at the head of the East Coast, right after Hook Tower, which fits the reports' coast order.",
+   "row_id": "p53r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "barrels-lv",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "There is no Barrels light-vessel between the Saltees and Tuskar in Findlay 1879. The Barrels vessel was placed about 1880, and the reports begin in 1881.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "tuskar-rock",
+   "row": 311,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "TUSKAR. In some years the reports print it as 'Tuskar Rock Lt.-ship', but it is the rock lighthouse.",
+   "row_id": "p53r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "lucifer-shoals-lv",
+   "row": 312,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p53r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "arklow-south-lv",
+   "row": 314,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "ARKLOW BANK S. LT.-VESSEL",
+   "row_id": "p53r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "arklow-north-lv",
+   "row": 315,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "ARKLOW BANK N. LT.-VESSEL. Findlay notes that its character was to be altered in spring 1879 (two fixed lights to revolving), so the 1879 character may already be out of date by the report years.",
+   "row_id": "p53r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "wicklow-head",
+   "row": 316,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay gives one light in a single row.",
+   "row_id": "p53r6",
+   "extra_row_ids": []
+  },
+  {
+   "id": "kish-bank-lv",
+   "row": 318,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "KISH LIGHTVESSEL. Row 319 (Vanguard Wreck) is a different vessel.",
+   "row_id": "p53r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "baily",
+   "row": 322,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "HOWTH-BAILEY. Row 323 (Howth, East Pier) is a different light.",
+   "row_id": "p53r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rockabill",
+   "row": 325,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p53r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "south-rock-lv",
+   "row": 330,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "SOUTH ROCK LT.-VES., placed 1877 to replace the South Rock lighthouse.",
+   "row_id": "p54r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "copeland",
+   "row": 332,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "Findlay 1879 describes the old Copeland light, established 1796. Mew Island lighthouse replaced it in 1884, so the 1879 position and character apply to the early report years. They do not describe the Mew Island light that the reports' 'Copeland (Mew) Island' refers to later.",
+   "row_id": "p54r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "maidens-north",
+   "row": 334,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "MAIDENS: one row covering both towers ('Two fixed bright lights', 800 yds apart). The same row is given to maidens-south.",
+   "row_id": "p54r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "maidens-south",
+   "row": 334,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The same row as maidens-north: Findlay prints the pair together. The position given (54°55.8'N 5°45.3'W) is a single point for both.",
+   "row_id": "p54r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rathlin-east",
+   "row": 335,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "RATHLIN, 'on Altacarry or N.E. point'",
+   "row_id": "p54r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inishtrahull",
+   "row": 342,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "INNISTRAHULL",
+   "row_id": "p55r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dunree-head",
+   "row": 343,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r5",
+   "extra_row_ids": []
+  },
+  {
+   "id": "fanad-head",
+   "row": 345,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints 'Fannet Point'. The reports print 'Lough Swilly'. It comes between Dunree and Tory in both.",
+   "row_id": "p55r7",
+   "extra_row_ids": []
+  },
+  {
+   "id": "tory-island",
+   "row": 346,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r8",
+   "extra_row_ids": []
+  },
+  {
+   "id": "arranmore",
+   "row": 347,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "ARANMORE ISLAND. Upper and lower lights are given in a single row.",
+   "row_id": "p55r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rathlin-obirne",
+   "row": 348,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "RATHLIN-O-BIRNE",
+   "row_id": "p55r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "rotten-island",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "medium",
+   "note": "No Rotten Island or Killybegs harbour entry. The only light in Findlay between Rathlin O'Birne and Sligo is St. John's Point (row 349, 54°34.1'N 8°27.6'W, established 1831). That is a separate light about 3 miles south of Rotten Island (about 54°37'N 8°26'W, 1838). Row 349 would be the match only if the reports' 'Killybegs' keeper was in fact at St. John's Point.",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "oyster-island",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "low",
+   "note": "Findlay has a single Sligo-area row, 350 'Black Rock' (54°18'N 8°37'W, 1835). That position and year fit the Black Rock (Sligo) tower, not the Oyster Island leading lights (about 54°18.1'N 8°34'W, 1837). The row looks garbled, though: its character copies row 353 (Black Rock, Mayo), and the description 'One fixed bright light in the bay' reads like a character. Check the scan. If row 350 really covers the Sligo harbour lights, it is the match (low confidence).",
+   "row_id": null,
+   "extra_row_ids": []
+  },
+  {
+   "id": "broadhaven",
+   "row": 351,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "On Gubacashel Point",
+   "row_id": "p55r15",
+   "extra_row_ids": []
+  },
+  {
+   "id": "eagle-island-east",
+   "row": 352,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "EAGLE ISLAND: one row covering both towers (87 and 64 ft, 132 yds apart). The same row is given to eagle-island-west.",
+   "row_id": "p55r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "eagle-island-west",
+   "row": 352,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The same row as eagle-island-east: Findlay prints the pair together.",
+   "row_id": "p55r16",
+   "extra_row_ids": []
+  },
+  {
+   "id": "blackrock-mayo",
+   "row": 353,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "BLACK ROCK (54°4.2'N 10°19.3'W) on the Mayo coast, between Eagle Island and Black Sod. Do not confuse it with row 350 'Black Rock' (Sligo).",
+   "row_id": "p55r17",
+   "extra_row_ids": []
+  },
+  {
+   "id": "blacksod-point",
+   "row": 354,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints 'Black Sod Quay', and the description reads 'On Blacksod Point'.",
+   "row_id": "p55r18",
+   "extra_row_ids": []
+  },
+  {
+   "id": "clare-island",
+   "row": 355,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p55r19",
+   "extra_row_ids": []
+  },
+  {
+   "id": "slyne-head-north",
+   "row": 356,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "SLYNE HEAD: one row covering the N (revolving) and S (fixed) towers, 142 yds apart. The same row is given to slyne-head-south.",
+   "row_id": "p55r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "slyne-head-south",
+   "row": 356,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "The same row as slyne-head-north: Findlay prints the pair together. The S tower has the fixed light.",
+   "row_id": "p55r21",
+   "extra_row_ids": []
+  },
+  {
+   "id": "eeragh",
+   "row": 357,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "EERAGH ISLAND. The reports print 'Arran Island N.'",
+   "row_id": "p56r0",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inisheer",
+   "row": 359,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Inisheer. The reports print 'Arran Island S.', and once 'Straw Island, S.'",
+   "row_id": "p56r2",
+   "extra_row_ids": []
+  },
+  {
+   "id": "straw-island",
+   "row": 358,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Established 1878",
+   "row_id": "p56r1",
+   "extra_row_ids": []
+  },
+  {
+   "id": "loop-head",
+   "row": 361,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r4",
+   "extra_row_ids": []
+  },
+  {
+   "id": "samphire-island",
+   "row": 366,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Findlay prints 'Tralee', and the description reads 'On Little Samphire Island'.",
+   "row_id": "p56r9",
+   "extra_row_ids": []
+  },
+  {
+   "id": "inishtearaght",
+   "row": 367,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "TEARAGHT ISLAND. Findlay gives no year established (it was 1870).",
+   "row_id": "p56r10",
+   "extra_row_ids": []
+  },
+  {
+   "id": "valentia",
+   "row": 368,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r11",
+   "extra_row_ids": []
+  },
+  {
+   "id": "skellig-michael",
+   "row": 369,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "SKELLIGS. One row: the light is shown from the lower tower, and the upper tower is not lit.",
+   "row_id": "p56r12",
+   "extra_row_ids": []
+  },
+  {
+   "id": "calf-rock",
+   "row": 370,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": null,
+   "row_id": "p56r13",
+   "extra_row_ids": []
+  },
+  {
+   "id": "dursey-island",
+   "row": null,
+   "extra_rows": [],
+   "confidence": "high",
+   "note": "Not in Findlay 1879. The Dursey Island light was the temporary one put up after the Calf Rock tower was wrecked in 1881. That fits the reports: Calf Rock appears in 1881 only, and Dursey from 1882 on.",
+   "row_id": null,
+   "extra_row_ids": []
+  }
+ ],
+ "notes": "Things to check: (1) Oyster Island and row 350, the Sligo entry: its character looks copied from row 353 (Black Rock, Mayo), and its description reads like a character. Check the scan. Whether row 350 is Black Rock (Sligo) only, or also covers the Oyster Island lights, decides that match. (2) Rotten Island ('Killybegs') has no Findlay row. St. John's Point (row 349) is the nearest light, but it is a different one. (3) Copeland: Findlay 1879 describes the old light, which Mew Island replaced in 1884, so the position and character differ between report years. (4) Arklow North L.V.: Findlay notes its character was to change in spring 1879. (5) Coningbeg = SALTEES LIGHT-VES. (row 310), matched by position (52°2.4'N 6°40'W) and coast order. (6) Barrels L.V. (placed about 1880) and Dursey Island (temporary light after the 1881 Calf Rock damage) are given null because they postdate the 1879 edition. (7) Fastnet appears twice in Findlay (rows 293 and 373); I used 293. (8) Rows printed as a pair and given to both stations: Maidens 334, Eagle Island 352, Slyne Head 356. No Irish station needed extra_rows. (9) Transcription slips in rows not used here: Daunt's Rock (297) has lat 54 43, which should be 51 43; Inishowen (336) has lat 53 13.6, which should be 55 13.6; Crookhaven (372) has lat '51 28 6'; Arklow N (315) has a garbled name 'ARK[?]OW'.",
+ "_meta": {
+  "edition": "findlay1879",
+  "country": "IRELAND",
+  "run": 1,
+  "cost_usd": 0.3131838,
+  "converted": "row -> row_id added 28 Oct 2026, after the merge fix (tools/merge_lights.py: pairing by order, rows with only a description kept); row indexes refer to the pre-fix CSV"
+ }
+}

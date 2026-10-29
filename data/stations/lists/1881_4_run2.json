@@ -1,0 +1,617 @@
+{
+ "rows": [
+  {
+   "line": 3267,
+   "fragments": [
+    "1. Fastnet, Co. Cork               9        10       5        148 ft.      8"
+   ],
+   "number": "1",
+   "marks": null,
+   "name": "Fastnet,",
+   "type": null,
+   "place": "Co. Cork",
+   "keepers": [],
+   "character": null,
+   "other": "9        10       5        148 ft.      8",
+   "coast": null
+  },
+  {
+   "line": 3268,
+   "fragments": [
+    "2. Galley Head, do.               --         6       4        174         --"
+   ],
+   "number": "2",
+   "marks": null,
+   "name": "Galley Head,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--         6       4        174         --",
+   "coast": null
+  },
+  {
+   "line": 3269,
+   "fragments": [
+    "3. Old Head, Kinsale, do.          5         2       2        236         --"
+   ],
+   "number": "3",
+   "marks": null,
+   "name": "Old Head, Kinsale,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "5         2       2        236         --",
+   "coast": null
+  },
+  {
+   "line": 3270,
+   "fragments": [
+    "4. Mine Head, Waterford           --         3       4        285         --"
+   ],
+   "number": "4",
+   "marks": null,
+   "name": "Mine Head,",
+   "type": null,
+   "place": "Waterford",
+   "keepers": [],
+   "character": null,
+   "other": "--         3       4        285         --",
+   "coast": null
+  },
+  {
+   "line": 3271,
+   "fragments": [
+    "5. Coningbeg Lt.-ship, Wexford     2         3       2         38         10"
+   ],
+   "number": "5",
+   "marks": null,
+   "name": "Coningbeg",
+   "type": "Lt.-ship",
+   "place": "Wexford",
+   "keepers": [],
+   "character": null,
+   "other": "2         3       2         38         10",
+   "coast": null
+  },
+  {
+   "line": 3272,
+   "fragments": [
+    "6. Barrels Rock, do.               1        26      11          ?          4"
+   ],
+   "number": "6",
+   "marks": null,
+   "name": "Barrels Rock,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "1        26      11          ?          4",
+   "coast": null
+  },
+  {
+   "line": 3273,
+   "fragments": [
+    "7. Tuskar, do.                   large",
+    "numbers     12      18        101          7"
+   ],
+   "number": "7",
+   "marks": null,
+   "name": "Tuskar,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "large numbers     12      18        101          7",
+   "coast": null
+  },
+  {
+   "line": 3275,
+   "fragments": [
+    "8. Arklow S. Lt.-ship, Wicklow    --        17       4         39          7"
+   ],
+   "number": "8",
+   "marks": null,
+   "name": "Arklow S.",
+   "type": "Lt.-ship",
+   "place": "Wicklow",
+   "keepers": [],
+   "character": null,
+   "other": "--        17       4         39          7",
+   "coast": null
+  },
+  {
+   "line": 3276,
+   "fragments": [
+    "9. Wicklow Head, do             No reply."
+   ],
+   "number": "9",
+   "marks": null,
+   "name": "Wicklow Head,",
+   "type": null,
+   "place": "do",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3277,
+   "fragments": [
+    "10. Kish Bank Lt.-ship, Dublin     --        18       5         36          7"
+   ],
+   "number": "10",
+   "marks": null,
+   "name": "Kish Bank",
+   "type": "Lt.-ship",
+   "place": "Dublin",
+   "keepers": [],
+   "character": null,
+   "other": "--        18       5         36          7",
+   "coast": null
+  },
+  {
+   "line": 3278,
+   "fragments": [
+    "11. Howth Baily, do.               --        12       6        134         --"
+   ],
+   "number": "11",
+   "marks": null,
+   "name": "Howth Baily,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        12       6        134         --",
+   "coast": null
+  },
+  {
+   "line": 3279,
+   "fragments": [
+    "12. Rockabill, do.                 13         8      10        148          5"
+   ],
+   "number": "12",
+   "marks": null,
+   "name": "Rockabill,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "13         8      10        148          5",
+   "coast": null
+  },
+  {
+   "line": 3280,
+   "fragments": [
+    "13. Copeland Island, Down          --        18      24        131          3"
+   ],
+   "number": "13",
+   "marks": null,
+   "name": "Copeland Island,",
+   "type": null,
+   "place": "Down",
+   "keepers": [],
+   "character": null,
+   "other": "--        18      24        131          3",
+   "coast": null
+  },
+  {
+   "line": 3281,
+   "fragments": [
+    "14. Maidens, Antrim              No reply."
+   ],
+   "number": "14",
+   "marks": null,
+   "name": "Maidens,",
+   "type": null,
+   "place": "Antrim",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3282,
+   "fragments": [
+    "15. Rathlin, do.                   --        35      11        243          6"
+   ],
+   "number": "15",
+   "marks": null,
+   "name": "Rathlin,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        35      11        243          6",
+   "coast": null
+  },
+  {
+   "line": 3283,
+   "fragments": [
+    "16. Innishtrahull, Donegal          3         7      12        181          6"
+   ],
+   "number": "16",
+   "marks": null,
+   "name": "Innishtrahull,",
+   "type": null,
+   "place": "Donegal",
+   "keepers": [],
+   "character": null,
+   "other": "3         7      12        181          6",
+   "coast": null
+  },
+  {
+   "line": 3284,
+   "fragments": [
+    "17. Dunree Head, do.               --        --      --        150          1"
+   ],
+   "number": "17",
+   "marks": null,
+   "name": "Dunree Head,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        --      --        150          1",
+   "coast": null
+  },
+  {
+   "line": 3285,
+   "fragments": [
+    "18. Lough Swilly, do.            No reply."
+   ],
+   "number": "18",
+   "marks": null,
+   "name": "Lough Swilly,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3286,
+   "fragments": [
+    "19. Tory Island, do.               --         1       1        130          9"
+   ],
+   "number": "19",
+   "marks": null,
+   "name": "Tory Island,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--         1       1        130          9",
+   "coast": null
+  },
+  {
+   "line": 3287,
+   "fragments": [
+    "20. Arranmore, do.                 --        16       2        233          5"
+   ],
+   "number": "20",
+   "marks": null,
+   "name": "Arranmore,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        16       2        233          5",
+   "coast": null
+  },
+  {
+   "line": 3288,
+   "fragments": [
+    "21. Rathlin O'Birne, do.            1        17       6        116          2"
+   ],
+   "number": "21",
+   "marks": null,
+   "name": "Rathlin O'Birne,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "1        17       6        116          2",
+   "coast": null
+  },
+  {
+   "line": 3289,
+   "fragments": [
+    "22. Killybegs, do.               No reply."
+   ],
+   "number": "22",
+   "marks": null,
+   "name": "Killybegs,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3290,
+   "fragments": [
+    "23. Oyster Island, N., Sligo       --        15       5         40          1"
+   ],
+   "number": "23",
+   "marks": null,
+   "name": "Oyster Island, N.,",
+   "type": null,
+   "place": "Sligo",
+   "keepers": [],
+   "character": null,
+   "other": "--        15       5         40          1",
+   "coast": null
+  },
+  {
+   "line": 3291,
+   "fragments": [
+    "24. Broadhaven, Mayo               --        18       3         87         --"
+   ],
+   "number": "24",
+   "marks": null,
+   "name": "Broadhaven,",
+   "type": null,
+   "place": "Mayo",
+   "keepers": [],
+   "character": null,
+   "other": "--        18       3         87         --",
+   "coast": null
+  },
+  {
+   "line": 3292,
+   "fragments": [
+    "25. Eagle Island E., do.           --        --      --        220          2"
+   ],
+   "number": "25",
+   "marks": null,
+   "name": "Eagle Island E.,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        --      --        220          2",
+   "coast": null
+  },
+  {
+   "line": 3293,
+   "fragments": [
+    "26. Eagle Island W., do.           --        --      --        220          2"
+   ],
+   "number": "26",
+   "marks": null,
+   "name": "Eagle Island W.,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--        --      --        220          2",
+   "coast": null
+  },
+  {
+   "line": 3294,
+   "fragments": [
+    "27. Blackrock, do.                Numbers    --      --        283          9"
+   ],
+   "number": "27",
+   "marks": null,
+   "name": "Blackrock,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Numbers    --      --        283          9",
+   "coast": null
+  },
+  {
+   "line": 3295,
+   "fragments": [
+    "28. Blacksod Point, do.           No reply."
+   ],
+   "number": "28",
+   "marks": null,
+   "name": "Blacksod Point,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3296,
+   "fragments": [
+    "29. Clare Island, do.               --       17       7        341          4"
+   ],
+   "number": "29",
+   "marks": null,
+   "name": "Clare Island,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--       17       7        341          4",
+   "coast": null
+  },
+  {
+   "line": 3297,
+   "fragments": [
+    "30. Slyne Head N., Galway           12       12       9        115          8"
+   ],
+   "number": "30",
+   "marks": null,
+   "name": "Slyne Head N.,",
+   "type": null,
+   "place": "Galway",
+   "keepers": [],
+   "character": null,
+   "other": "12       12       9        115          8",
+   "coast": null
+  },
+  {
+   "line": 3298,
+   "fragments": [
+    "31. Slyne Head S., do.               4        5       5        104          3"
+   ],
+   "number": "31",
+   "marks": null,
+   "name": "Slyne Head S.,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "4        5       5        104          3",
+   "coast": null
+  },
+  {
+   "line": 3299,
+   "fragments": [
+    "32. Arran Island N., do.            --       17       4        115          9"
+   ],
+   "number": "32",
+   "marks": null,
+   "name": "Arran Island N.,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--       17       4        115          9",
+   "coast": null
+  },
+  {
+   "line": 3300,
+   "fragments": [
+    "33. Straw Island, do.             No reply."
+   ],
+   "number": "33",
+   "marks": null,
+   "name": "Straw Island,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3301,
+   "fragments": [
+    "34. Arran Island S., do.             6        7       6        110          6"
+   ],
+   "number": "34",
+   "marks": null,
+   "name": "Arran Island S.,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "6        7       6        110          6",
+   "coast": null
+  },
+  {
+   "line": 3302,
+   "fragments": [
+    "35. Loop Head, Clare              No reply."
+   ],
+   "number": "35",
+   "marks": null,
+   "name": "Loop Head,",
+   "type": null,
+   "place": "Clare",
+   "keepers": [],
+   "character": null,
+   "other": "No reply.",
+   "coast": null
+  },
+  {
+   "line": 3303,
+   "fragments": [
+    "36. Samphire Island, Kerry           Do."
+   ],
+   "number": "36",
+   "marks": null,
+   "name": "Samphire Island,",
+   "type": null,
+   "place": "Kerry",
+   "keepers": [],
+   "character": null,
+   "other": "Do.",
+   "coast": null
+  },
+  {
+   "line": 3304,
+   "fragments": [
+    "37. Tearaght, do.                    Do."
+   ],
+   "number": "37",
+   "marks": null,
+   "name": "Tearaght,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "Do.",
+   "coast": null
+  },
+  {
+   "line": 3305,
+   "fragments": [
+    "38. Valentia, do.                    --       --     --         54         --"
+   ],
+   "number": "38",
+   "marks": null,
+   "name": "Valentia,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--       --     --         54         --",
+   "coast": null
+  },
+  {
+   "line": 3306,
+   "fragments": [
+    "39. Skelligs, do.                    --       --     --        175          9"
+   ],
+   "number": "39",
+   "marks": null,
+   "name": "Skelligs,",
+   "type": null,
+   "place": "do.",
+   "keepers": [],
+   "character": null,
+   "other": "--       --     --        175          9",
+   "coast": null
+  },
+  {
+   "line": 3307,
+   "fragments": [
+    "40. Calf Rock, Cork               Destroyed in storm, Nov. 1881."
+   ],
+   "number": "40",
+   "marks": null,
+   "name": "Calf Rock,",
+   "type": null,
+   "place": "Cork",
+   "keepers": [],
+   "character": null,
+   "other": "Destroyed in storm, Nov. 1881.",
+   "coast": null
+  }
+ ],
+ "notes": "I read 40 stations, numbered 1–40, from lines 3267–3307. None has a keeper's name, a mark or a light character.\n\n**How the fields were filled**\n- **Fragments** are copied from each line with the leading indent removed. Spacing inside the line is kept.\n- **Other** holds the five data columns in printed order (birds striking lantern / daily entries / species in entries / height / miles from shore), with their original spacing. It also holds the printed note instead of numbers: 'No reply.', 'Do.' or 'Destroyed in storm, Nov. 1881.'.\n- **Names** keep the comma printed straight after them (e.g. 'Fastnet,', 'Oyster Island, N.,'), following your example 'Farn, Inner,'. For the three light-ships the comma comes after the type, so the name has no comma and the type is 'Lt.-ship'.\n- **Place** is given as printed, so most rows show 'do.' (ditto = the county last named). Wicklow Head (no. 9) prints 'do' with no full stop. The counties these stand for: Galley Head, Old Head, Kinsale = Co. Cork; Barrels Rock, Tuskar = Wexford; Wicklow Head = Wicklow; Howth Baily, Rockabill = Dublin; Rathlin = Antrim; Dunree Head through Killybegs = Donegal; Eagle Island E./W. through Clare Island = Mayo; Slyne Head S., the Arran Islands and Straw Island = Galway; Tearaght through Skelligs = Kerry.\n- **Coast** is null for every row. The list has no sub-headings; it sits under the section heading 'IRISH COAST: AUTUMN.', which is the obvious value if you want one.\n\n**Rows to know about**\n- **No. 7 Tuskar** spans two lines. 'large' is on line 3273 and 'numbers' starts line 3274 in the birds-striking column. I joined them in other as 'large numbers     12 …'.\n- **No. 27 Blackrock** gives 'Numbers' rather than a count in the birds-striking column.\n- **No. 6 Barrels Rock** has '?' in the height column.\n- **No. 1 Fastnet** is the only row whose height says 'ft.'.\n- **No-reply rows:** 'Do.' at nos. 36–37 repeats 'No reply.' from no. 35. Nos. 9, 14, 18, 22, 28, 33, 35, 36 and 37 sent no return.\n- **No. 40 Calf Rock** has 'Destroyed in storm, Nov. 1881.' instead of data.\n- **Dashes:** nos. 17, 25, 26, 38 and 39 show '--' for birds, entries and species but give a height and/or distance. They did not say 'No reply.', so I can't tell from this table whether they sent an empty return or none.\n\n**Spellings and types kept as printed**\n- 'Innishtrahull' (usually Inishtrahull), 'Arran Island N./S.' and 'Arranmore' (Aran, Aranmore), 'Howth Baily', 'Valentia' (the usual 19th-century spelling).\n- 'Oyster Island, N.' has a comma before 'N.', unlike 'Eagle Island E.' and 'Slyne Head N.'.\n- Barrels Rock (no. 6) has no 'Lt.-ship' in its row, although Barrels was a light-vessel station. Only Coningbeg, Arklow S. and Kish Bank carry 'Lt.-ship'.\n- 'Old Head, Kinsale,' is kept as one name (Old Head of Kinsale), not split into name and place.",
+ "_meta": {
+  "year": 1881,
+  "list": 4,
+  "run": 2,
+  "source": "sources/gutenberg/1881_pg65471.txt",
+  "first_line": 3267,
+  "last_line": 3307,
+  "section": "IRISH COAST: AUTUMN.",
+  "kind": "section",
+  "cost_usd": 0.372197
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "page": "42",
+ "country": "ENGLAND",
+ "coast": "West Coast",
+ "long_hemisphere": "W",
+ "rows": [
+  {
+   "name": "St. Mary Port",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "One bright light on pier-head",
+   "apparatus": "●",
+   "height_ft": "25",
+   "visible_miles": "9",
+   "year": "1812",
+   "continued": false
+  },
+  {
+   "name": "Castletown Harbour",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "One red lt. on new pier-head. Visible seaward between the entrance points of the bay",
+   "apparatus": null,
+   "height_ft": "22",
+   "visible_miles": "8",
+   "year": "1849",
+   "continued": false
+  },
+  {
+   "name": "Langness Point",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "Light proposed",
+   "apparatus": null,
+   "height_ft": null,
+   "visible_miles": null,
+   "year": null,
+   "continued": false
+  },
+  {
+   "name": "Derby Haven",
+   "character": "Two bright fixed lights",
+   "lat": "54 5.",
+   "long": "4 36.",
+   "description": "On Fort Island (Aug. 12 to Oct. 10); and S.W. end of breakwater",
+   "apparatus": null,
+   "height_ft": "50 / 14",
+   "visible_miles": "6 / 2",
+   "year": "1850",
+   "continued": false
+  },
+  {
+   "name": "DOUGLAS",
+   "character": "One bright fixed light",
+   "lat": "54 9.",
+   "long": "4 28.",
+   "description": "A brown stone tower, 65 ft., on Douglas Head; not visible from Lang Ness",
+   "apparatus": null,
+   "height_ft": "104",
+   "visible_miles": "15",
+   "year": "1832",
+   "continued": false
+  },
+  {
+   "name": "Douglas Harbour",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "One fixed light on the North pier-head",
+   "apparatus": null,
+   "height_ft": "34",
+   "visible_miles": "6",
+   "year": "1796",
+   "continued": false
+  },
+  {
+   "name": "Douglas Bay",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "A blue light on end of Promenade pier; red light on S. pier-head; green light on new landing pier",
+   "apparatus": null,
+   "height_ft": "20",
+   "visible_miles": "2",
+   "year": "1869",
+   "continued": false
+  },
+  {
+   "name": "Ramsey Harbour",
+   "character": null,
+   "lat": null,
+   "long": null,
+   "description": "One fixed red light on S. pier-head. One fixed bright light on N. pier-head",
+   "apparatus": "● / ..",
+   "height_ft": "28 / 34",
+   "visible_miles": "4 / 9",
+   "year": "1845 / 1868",
+   "continued": false
+  },
+  {
+   "name": "BAHAMA BANK LT.-V.",
+   "character": "Two bright fixed lights",
+   "lat": "54 20.",
+   "long": "4 12.",
+   "description": "In 11 fms., on S.W. part of bank. Powerful Fog-trumpet; Warning Gun. To be altered in May, 1879, to revolving br. lt., showing 2 flashes once in every ½ minute",
+   "apparatus": "● / ..",
+   "height_ft": "23 / 20",
+   "visible_miles": "10",
+   "year": "1848",
+   "continued": false
+  }
+ ],
+ "_meta": {
+  "book": "findlay1879",
+  "kind": "ia",
+  "source": "adescriptionand00unkngoog",
+  "page_arg": 42,
+  "image": "cache/scans/findlay1879/n54.jpg",
+  "run": 2,
+  "cost_usd": 0.0717172
+ }
+}

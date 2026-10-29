@@ -1,0 +1,357 @@
+{
+ "year": 1879,
+ "source": "sources/gutenberg/1879_pg65621.txt",
+ "image_pattern": "https://archive.org/download/reportonmigratio11879harv/page/n{index}.jpg",
+ "markers": [
+  {
+   "page": "161",
+   "txt_offset": 1193,
+   "anchor": "after:25",
+   "leaf": null,
+   "image_index": null
+  },
+  {
+   "page": "162",
+   "txt_offset": 3401,
+   "anchor": "after:60",
+   "leaf": 6,
+   "image_index": 5
+  },
+  {
+   "page": "163",
+   "txt_offset": 5743,
+   "anchor": "after:60",
+   "leaf": 7,
+   "image_index": 6,
+   "image_index_ia": 6
+  },
+  {
+   "page": "164",
+   "txt_offset": 8159,
+   "anchor": "after:60",
+   "leaf": 8,
+   "image_index": 7,
+   "image_index_ia": 7
+  },
+  {
+   "page": "165",
+   "txt_offset": 10464,
+   "anchor": "after:60",
+   "leaf": 9,
+   "image_index": 8,
+   "image_index_ia": 8
+  },
+  {
+   "page": "166",
+   "txt_offset": 12908,
+   "anchor": "after:60",
+   "leaf": 10,
+   "image_index": 9,
+   "image_index_ia": 9
+  },
+  {
+   "page": "167",
+   "txt_offset": 15298,
+   "anchor": "after:60",
+   "leaf": 11,
+   "image_index": 10,
+   "image_index_ia": 10
+  },
+  {
+   "page": "168",
+   "txt_offset": 17716,
+   "anchor": "after:60",
+   "leaf": 12,
+   "image_index": 11,
+   "image_index_ia": 11
+  },
+  {
+   "page": "169",
+   "txt_offset": 20077,
+   "anchor": "after:60",
+   "leaf": 13,
+   "image_index": 12,
+   "image_index_ia": 12
+  },
+  {
+   "page": "170",
+   "txt_offset": 22305,
+   "anchor": "after:60",
+   "leaf": 14,
+   "image_index": 13,
+   "image_index_ia": 13
+  },
+  {
+   "page": "171",
+   "txt_offset": 24779,
+   "anchor": "after:60",
+   "leaf": 15,
+   "image_index": 14,
+   "image_index_ia": 14
+  },
+  {
+   "page": "172",
+   "txt_offset": 27238,
+   "anchor": "after:60",
+   "leaf": 16,
+   "image_index": 15,
+   "image_index_ia": 15
+  },
+  {
+   "page": "173",
+   "txt_offset": 29405,
+   "anchor": "after:60",
+   "leaf": 17,
+   "image_index": 16,
+   "image_index_ia": 16
+  },
+  {
+   "page": "174",
+   "txt_offset": 31642,
+   "anchor": "after:60",
+   "leaf": 18,
+   "image_index": 17,
+   "image_index_ia": 17
+  },
+  {
+   "page": "175",
+   "txt_offset": 34195,
+   "anchor": "after:60",
+   "leaf": 19,
+   "image_index": 18,
+   "image_index_ia": 18
+  },
+  {
+   "page": "176",
+   "txt_offset": 37063,
+   "anchor": "after:60",
+   "leaf": 20,
+   "image_index": 19,
+   "image_index_ia": 19
+  },
+  {
+   "page": "177",
+   "txt_offset": 39643,
+   "anchor": "after:60",
+   "leaf": 21,
+   "image_index": 20,
+   "image_index_ia": 20
+  },
+  {
+   "page": "178",
+   "txt_offset": 41987,
+   "anchor": "after:60",
+   "leaf": 22,
+   "image_index": 21,
+   "image_index_ia": 21
+  },
+  {
+   "page": "179",
+   "txt_offset": 44742,
+   "anchor": "after:60",
+   "leaf": 23,
+   "image_index": 22,
+   "image_index_ia": 22
+  },
+  {
+   "page": "180",
+   "txt_offset": 47067,
+   "anchor": "after:60",
+   "leaf": 24,
+   "image_index": 23,
+   "image_index_ia": 23
+  },
+  {
+   "page": "181",
+   "txt_offset": 49620,
+   "anchor": "after:60",
+   "leaf": 25,
+   "image_index": 24,
+   "image_index_ia": 24
+  },
+  {
+   "page": "182",
+   "txt_offset": 52391,
+   "anchor": "after:60",
+   "leaf": 26,
+   "image_index": 25,
+   "image_index_ia": 25
+  },
+  {
+   "page": "183",
+   "txt_offset": 54852,
+   "anchor": "after:60",
+   "leaf": 27,
+   "image_index": 26,
+   "image_index_ia": 26
+  },
+  {
+   "page": "184",
+   "txt_offset": 57243,
+   "anchor": "after:60",
+   "leaf": 28,
+   "image_index": 27,
+   "image_index_ia": 27
+  },
+  {
+   "page": "185",
+   "txt_offset": 59829,
+   "anchor": "after:60",
+   "leaf": 29,
+   "image_index": 28,
+   "image_index_ia": 28
+  },
+  {
+   "page": "186",
+   "txt_offset": 62304,
+   "anchor": "after:60",
+   "leaf": 30,
+   "image_index": 29,
+   "image_index_ia": 29
+  },
+  {
+   "page": "187",
+   "txt_offset": 64869,
+   "anchor": "after:60",
+   "leaf": 31,
+   "image_index": 30,
+   "image_index_ia": 30
+  },
+  {
+   "page": "188",
+   "txt_offset": 67300,
+   "anchor": "after:60",
+   "leaf": 32,
+   "image_index": 31,
+   "image_index_ia": 31
+  },
+  {
+   "page": "189",
+   "txt_offset": 69358,
+   "anchor": "after:60",
+   "leaf": 33,
+   "image_index": 32,
+   "image_index_ia": 32
+  },
+  {
+   "page": "190",
+   "txt_offset": 71736,
+   "anchor": "after:60",
+   "leaf": 34,
+   "image_index": 33,
+   "image_index_ia": 33
+  },
+  {
+   "page": "191",
+   "txt_offset": 74059,
+   "anchor": "after:60",
+   "leaf": 35,
+   "image_index": 34,
+   "image_index_ia": 34
+  },
+  {
+   "page": "192",
+   "txt_offset": 76460,
+   "anchor": "after:60",
+   "leaf": 36,
+   "image_index": 35,
+   "image_index_ia": 35
+  },
+  {
+   "page": "193",
+   "txt_offset": 78781,
+   "anchor": "after:60",
+   "leaf": 37,
+   "image_index": 36,
+   "image_index_ia": 36
+  },
+  {
+   "page": "194",
+   "txt_offset": 81206,
+   "anchor": "after:60",
+   "leaf": 38,
+   "image_index": 37,
+   "image_index_ia": 37
+  },
+  {
+   "page": "195",
+   "txt_offset": 83641,
+   "anchor": "after:60",
+   "leaf": 39,
+   "image_index": 38,
+   "image_index_ia": 38
+  },
+  {
+   "page": "196",
+   "txt_offset": 85940,
+   "anchor": "after:60",
+   "leaf": 40,
+   "image_index": 39,
+   "image_index_ia": 39
+  },
+  {
+   "page": "197",
+   "txt_offset": 88383,
+   "anchor": "after:60",
+   "leaf": 41,
+   "image_index": 40,
+   "image_index_ia": 40
+  },
+  {
+   "page": "198",
+   "txt_offset": 90554,
+   "anchor": "after:60",
+   "leaf": 42,
+   "image_index": 41,
+   "image_index_ia": 41
+  },
+  {
+   "page": "199",
+   "txt_offset": 93021,
+   "anchor": "after:60",
+   "leaf": 43,
+   "image_index": 42,
+   "image_index_ia": 42
+  },
+  {
+   "page": "200",
+   "txt_offset": 95354,
+   "anchor": "after:60",
+   "leaf": 44,
+   "image_index": 43,
+   "image_index_ia": 43
+  },
+  {
+   "page": "201",
+   "txt_offset": 97660,
+   "anchor": "after:60",
+   "leaf": 45,
+   "image_index": 44,
+   "image_index_ia": 44
+  },
+  {
+   "page": "202",
+   "txt_offset": 100183,
+   "anchor": "after:60",
+   "leaf": 46,
+   "image_index": 45,
+   "image_index_ia": 45
+  },
+  {
+   "page": "203",
+   "txt_offset": 102535,
+   "anchor": "after:60",
+   "leaf": 47,
+   "image_index": 46,
+   "image_index_ia": 46
+  },
+  {
+   "page": "204",
+   "txt_offset": 105003,
+   "anchor": "after:60",
+   "leaf": null,
+   "image_index": null
+  }
+ ],
+ "image_index_note": "image_index from data/pages/<year>_leaves.json (running heads in the IA per-leaf OCR; scandata access copy); image_index_ia is the earlier guess from page_numbers.json"
+}

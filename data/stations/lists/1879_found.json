@@ -1,0 +1,49 @@
+{
+ "lists": [
+  {
+   "section": "EAST COAST OF SCOTLAND",
+   "kind": "section",
+   "first_line": 95,
+   "last_line": 120,
+   "lead_quote": "The stations from which co-operation was asked are the following, commencing with the most northerly.",
+   "legend_quotes": [
+    "Those from which returns have been received are marked with a *."
+   ],
+   "printed_count_quote": "Printed forms of enquiry and letters of instructions were sent to twenty-six lighthouses on the east coast of Scotland.",
+   "rows_counted": 26,
+   "columns": "* return mark; station, county/islands; light character; keeper's name (on 18 of 26 rows). One row per line; line 103 is a ditto row (\" (High) Orkney) for Hoy Sound High. 13 starred."
+  },
+  {
+   "section": "EAST COAST OF ENGLAND",
+   "kind": "section",
+   "first_line": 542,
+   "last_line": 592,
+   "lead_quote": "The stations from which co-operation was asked are as follows, commencing with the most northerly.",
+   "legend_quotes": [
+    "Those from which returns have been received are marked with a *."
+   ],
+   "printed_count_quote": "Printed forms of enquiry and letters of instruction were sent to thirty-seven lighthouses and lightvessels on the east coast of England.",
+   "rows_counted": 37,
+   "columns": "* return mark; station; lighthouse/lightvessel and position; light character (left out for Berwick, Souter Point, Spurn Point, Bull, Languard Point, Cork). No keepers' names. Some entries run onto an indented second line. 25 starred."
+  },
+  {
+   "section": "WEST COAST OF SCOTLAND",
+   "kind": "section",
+   "first_line": 1244,
+   "last_line": 1285,
+   "lead_quote": "The stations from which co-operation was asked are as follows, commencing with the most northerly and those from which returns have been received are marked with a *:--",
+   "legend_quotes": [
+    "The stations from which co-operation was asked are as follows, commencing with the most northerly and those from which returns have been received are marked with a *:--",
+    "† This station included by mistake, but retained for convenience, bracketed with the next."
+   ],
+   "printed_count_quote": "Printed forms of enquiry and letters of instruction were forwarded to thirty-eight lighthouses on the west coast of Scotland and the Isles.",
+   "rows_counted": 38,
+   "columns": "* return mark; station, county/island; light character; keeper's name (on most rows). Hynish and Skerryvore are joined by a { bracket under one * and share a keeper by a ditto mark. Some entries run onto a second line. The † footnote is at lines 1287-1288. 23 asterisks, 24 stations with returns."
+  }
+ ],
+ "_meta": {
+  "year": 1879,
+  "source": "sources/gutenberg/1879_pg65621.txt",
+  "cost_usd": 0.5563864000000001
+ }
+}

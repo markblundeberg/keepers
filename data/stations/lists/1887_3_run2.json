@@ -1,0 +1,543 @@
+{
+ "rows": [
+  {
+   "line": 2807,
+   "fragments": [
+    "0          4            81. Cape Wrath,             III.    400"
+   ],
+   "number": "81",
+   "marks": null,
+   "name": "Cape Wrath,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 4; III.; 400",
+   "coast": "Sutherland"
+  },
+  {
+   "line": 2808,
+   "fragments": [
+    "0          4            82. Rhu Stoir,               II.    195"
+   ],
+   "number": "82",
+   "marks": null,
+   "name": "Rhu Stoir,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 4; II.; 195",
+   "coast": "Sutherland"
+  },
+  {
+   "line": 2812,
+   "fragments": [
+    "3          8         *  83. Butt of Lewis,            I.    170"
+   ],
+   "number": "83",
+   "marks": "*",
+   "name": "Butt of Lewis,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "3; 8; I.; 170",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2813,
+   "fragments": [
+    "0          3            84. Stornoway (2 Lights),  { II. }   56",
+    "{  I. }"
+   ],
+   "number": "84",
+   "marks": null,
+   "name": "Stornoway (2 Lights),",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 3; { II. } {  I. }; 56",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2815,
+   "fragments": [
+    "0          3            85. Island Ghlais,            I.    130"
+   ],
+   "number": "85",
+   "marks": null,
+   "name": "Island Ghlais,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 3; I.; 130",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2816,
+   "fragments": [
+    "8          8         *  86. Monach Islands,        {  I.    150"
+   ],
+   "number": "86",
+   "marks": "*",
+   "name": "Monach Islands,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "8; 8; {  I.; 150",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2817,
+   "fragments": [
+    "0          2            87. Ushenish, N. Uist,       VI.    176"
+   ],
+   "number": "87",
+   "marks": null,
+   "name": "Ushenish,",
+   "type": null,
+   "place": "N. Uist,",
+   "keepers": [],
+   "character": null,
+   "other": "0; 2; VI.; 176",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2818,
+   "fragments": [
+    "2          5            88. Barra Head,              II.    683"
+   ],
+   "number": "88",
+   "marks": null,
+   "name": "Barra Head,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "2; 5; II.; 683",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2819,
+   "fragments": [
+    "1          4         *  89. Rona, Skye,              IV.    222"
+   ],
+   "number": "89",
+   "marks": "*",
+   "name": "Rona,",
+   "type": null,
+   "place": "Skye,",
+   "keepers": [],
+   "character": null,
+   "other": "1; 4; IV.; 222",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2820,
+   "fragments": [
+    "3          8         *  90. Kyleakin, W. Ross,       IV.     53"
+   ],
+   "number": "90",
+   "marks": "*",
+   "name": "Kyleakin,",
+   "type": null,
+   "place": "W. Ross,",
+   "keepers": [],
+   "character": null,
+   "other": "3; 8; IV.; 53",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2821,
+   "fragments": [
+    "0          2            91. Isle Ornsay,              I.     58"
+   ],
+   "number": "91",
+   "marks": null,
+   "name": "Isle Ornsay,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 2; I.; 58",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2822,
+   "fragments": [
+    "0          2            92. Ardnamurchan,             I."
+   ],
+   "number": "92",
+   "marks": null,
+   "name": "Ardnamurchan,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 2; I.",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2823,
+   "fragments": [
+    "4          9         *  93. Skerryvore and Hynish",
+    "Signal Tower, Tiree,   II.    150"
+   ],
+   "number": "93",
+   "marks": "*",
+   "name": "Skerryvore and Hynish Signal Tower,",
+   "type": null,
+   "place": "Tiree,",
+   "keepers": [],
+   "character": null,
+   "other": "4; 9; II.; 150",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2825,
+   "fragments": [
+    "4          9         *  94. Dhuheartach,              I.    146"
+   ],
+   "number": "94",
+   "marks": "*",
+   "name": "Dhuheartach,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "4; 9; I.; 146",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2826,
+   "fragments": [
+    "0          6            95. Sound of Mull,            V.     55"
+   ],
+   "number": "95",
+   "marks": null,
+   "name": "Sound of Mull,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 6; V.; 55",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2827,
+   "fragments": [
+    "0          0            96. Corran Ferry,            IV.     38"
+   ],
+   "number": "96",
+   "marks": null,
+   "name": "Corran Ferry,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 0; IV.; 38",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2828,
+   "fragments": [
+    "0          4            97. Lismore, Oban,            I.    103"
+   ],
+   "number": "97",
+   "marks": null,
+   "name": "Lismore,",
+   "type": null,
+   "place": "Oban,",
+   "keepers": [],
+   "character": null,
+   "other": "0; 4; I.; 103",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2829,
+   "fragments": [
+    "0          2            98. Fladda, Easdale,         VI.     42"
+   ],
+   "number": "98",
+   "marks": null,
+   "name": "Fladda,",
+   "type": null,
+   "place": "Easdale,",
+   "keepers": [],
+   "character": null,
+   "other": "0; 2; VI.; 42",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2830,
+   "fragments": [
+    "0          4            99. Rhuvaal,                 IV.    147"
+   ],
+   "number": "99",
+   "marks": null,
+   "name": "Rhuvaal,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 4; IV.; 147",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2831,
+   "fragments": [
+    "0          7           100. M'Arthur's Head,         IV.    128"
+   ],
+   "number": "100",
+   "marks": null,
+   "name": "M'Arthur's Head,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 7; IV.; 128",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2832,
+   "fragments": [
+    "3          9         * 101. Skervuile,               II.     73"
+   ],
+   "number": "101",
+   "marks": "*",
+   "name": "Skervuile,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "3; 9; II.; 73",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2833,
+   "fragments": [
+    "9          9         * 102. Rhinns of Islay,         IV.    159"
+   ],
+   "number": "102",
+   "marks": "*",
+   "name": "Rhinns of Islay,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "9; 9; IV.; 159",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2834,
+   "fragments": [
+    "8          4         * 103. Lochindaul,              IV.     50"
+   ],
+   "number": "103",
+   "marks": "*",
+   "name": "Lochindaul,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "8; 4; IV.; 50",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2835,
+   "fragments": [
+    "0          0           104. Mull of Cantyre,         VI.    297"
+   ],
+   "number": "104",
+   "marks": null,
+   "name": "Mull of Cantyre,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 0; VI.; 297",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2836,
+   "fragments": [
+    "0          0           105. Sanda,"
+   ],
+   "number": "105",
+   "marks": null,
+   "name": "Sanda,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 0",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2837,
+   "fragments": [
+    "0          0           106. Devaar,                  II.    120"
+   ],
+   "number": "106",
+   "marks": null,
+   "name": "Devaar,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 0; II.; 120",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2838,
+   "fragments": [
+    "0          0           107. Pladda, Arran,           II.    130"
+   ],
+   "number": "107",
+   "marks": null,
+   "name": "Pladda,",
+   "type": null,
+   "place": "Arran,",
+   "keepers": [],
+   "character": null,
+   "other": "0; 0; II.; 130",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2839,
+   "fragments": [
+    "1          6         * 108. Lamlash, Arran,          IV.     46"
+   ],
+   "number": "108",
+   "marks": "*",
+   "name": "Lamlash,",
+   "type": null,
+   "place": "Arran,",
+   "keepers": [],
+   "character": null,
+   "other": "1; 6; IV.; 46",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2840,
+   "fragments": [
+    "0          4         * 109. Turnberry, Ayrshire,     IV.     96"
+   ],
+   "number": "109",
+   "marks": "*",
+   "name": "Turnberry,",
+   "type": null,
+   "place": "Ayrshire,",
+   "keepers": [],
+   "character": null,
+   "other": "0; 4; IV.; 96",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2841,
+   "fragments": [
+    "3          1           109B. Ailsa Craig, 1885"
+   ],
+   "number": "109B",
+   "marks": null,
+   "name": "Ailsa Craig,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "3; 1; 1885",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2842,
+   "fragments": [
+    "1          8         * 110. Corsewall,               IV.    112"
+   ],
+   "number": "110",
+   "marks": "*",
+   "name": "Corsewall,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "1; 8; IV.; 112",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2843,
+   "fragments": [
+    "0          0           111. Loch Ryan,                I.     46"
+   ],
+   "number": "111",
+   "marks": null,
+   "name": "Loch Ryan,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 0; I.; 46",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2844,
+   "fragments": [
+    "0          7         * 112. Portpatrick,              I.     37"
+   ],
+   "number": "112",
+   "marks": "*",
+   "name": "Portpatrick,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "0; 7; I.; 37",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2845,
+   "fragments": [
+    "1          8         * 113. Mull of Galloway,        II.    325"
+   ],
+   "number": "113",
+   "marks": "*",
+   "name": "Mull of Galloway,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "1; 8; II.; 325",
+   "coast": "Outer Hebrides"
+  },
+  {
+   "line": 2846,
+   "fragments": [
+    "4          5         * 114. Little Ross,             IV.    176"
+   ],
+   "number": "114",
+   "marks": "*",
+   "name": "Little Ross,",
+   "type": null,
+   "place": null,
+   "keepers": [],
+   "character": null,
+   "other": "4; 5; IV.; 176",
+   "coast": "Outer Hebrides"
+  }
+ ],
+ "notes": "The list has 35 stations, nos. 81-114 plus 109B. It names no keepers: line 2798 points to the \"Diary from the Stations\" for the reporters. It prints no light characters and no types (L.H./L.V.). The 'other' field gives the columns in order, separated by '; ': schedules filled in 1887, returns in 9 years, Values (roman numeral), Feet. The '*' goes in marks.\n\nFragments: I left off the leading indentation and kept the spacing inside each line exactly as printed. Trailing commas stay on the names as printed (\"Cape Wrath,\"). Where a place follows the name, I split it into place (\"Rona,\" / \"Skye,\"; \"Ushenish,\" / \"N. Uist,\"; \"Kyleakin,\" / \"W. Ross,\"; \"Lismore,\" / \"Oban,\"; \"Fladda,\" / \"Easdale,\"; \"Skerryvore and Hynish Signal Tower,\" / \"Tiree,\"; \"Pladda,\" and \"Lamlash,\" / \"Arran,\"; \"Turnberry,\" / \"Ayrshire,\"). Some of these could be read as part of the name rather than a place. I kept \"(2 Lights)\" in the Stornoway name.\n\nSub-headings: only two are printed, \"Sutherland\" (81-82) and \"Outer Hebrides\" (83 onward). So every row from 83 to 114 sits under \"Outer Hebrides\", even though most of them (Skye, Mull, Islay, Kintyre, the Clyde, Galloway) are not in the Outer Hebrides. The real heading for the whole section is \"West Coast of Scotland\". The scan probably dropped further sub-headings, or there never were any.\n\nBraces: Stornoway (84) has two Values, \"{ II. }\" over \"{  I. }\", one for each light; it wraps onto line 2814. Monach Islands (86) has an unpaired \"{  I.\" with no second line. It may be a brace for two lights whose second line was lost, or a stray mark. I kept it in other as printed.\n\nGaps and oddities:\n- Ardnamurchan (92) has Values I. but no Feet.\n- Sanda (105) has neither Values nor Feet.\n- Ailsa Craig (109B) has \"1885\" where Values/Feet would go, probably the year the station was added. Its counts are odd: 3 schedules in 1887 but returns in only 1 year, and no '*' even though it filled schedules in 1887. The two count columns may be swapped, or the '*' dropped.\n- Turnberry (109) has a '*' (returned in 1887) but 0 schedules filled.\n- Lochindaul (103) has 8 schedules but returns in only 4 of 9 years. That is not impossible, since one column counts schedules and the other years.\n- Lochindaul (103) and Rhinns of Islay (102) are in the order printed.\n\nSpellings kept as printed: Dhuheartach (Dubh Artach), Lochindaul (Loch Indaal), Mull of Cantyre (Kintyre), Rhuvaal (Rubh' a' Mhail), Skervuile, M'Arthur's Head, Island Ghlais (Eilean Glas), Rhu Stoir, Isle Ornsay, Devaar. The diary that follows calls 86 \"Monach Isles\", but the list prints \"Monach Islands\".",
+ "_meta": {
+  "year": 1887,
+  "list": 3,
+  "run": 2,
+  "source": "sources/gutenberg/1887_pg66152.txt",
+  "first_line": 2807,
+  "last_line": 2846,
+  "section": "WEST COAST OF SCOTLAND.",
+  "kind": "section",
+  "cost_usd": 0.13859260000000004
+ }
+}

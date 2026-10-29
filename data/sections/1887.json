@@ -1,0 +1,494 @@
+{
+ "sections": [
+  {
+   "coast": "PROJECT GUTENBERG HEADER",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 1,
+   "last_line": 32,
+   "head_examples": [
+    "The Project Gutenberg eBook of Report on the Migration of Birds",
+    "Title: Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report",
+    "*** START OF THE PROJECT GUTENBERG EBOOK"
+   ],
+   "observations": "none",
+   "note": "Gutenberg header, not part of the printed report."
+  },
+  {
+   "coast": "FRONT MATTER",
+   "title": "PREFACE. / CONTENTS. / MAP OF THE British Islands",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 33,
+   "last_line": 131,
+   "head_examples": [
+    "REPORT",
+    "PREFACE.",
+    "CONTENTS."
+   ],
+   "observations": "none",
+   "note": "Title page (33-68), preface naming who arranged each coast (73-99), contents with page numbers (102-115), then the map caption inside '[Illustration: ... ]' (118-130)."
+  },
+  {
+   "coast": "LIST OF STATIONS",
+   "title": "LIST OF STATIONS.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 132,
+   "last_line": 255,
+   "head_examples": [
+    "1. Iceland.",
+    "=Scotland--East Coast.=",
+    "30. Longstone L.H."
+   ],
+   "observations": "none",
+   "note": "The general list of map numbers, printed in two columns. Each line holds two stations (e.g. Scotland East on the left, England East on the right). Group headings are in =...= and also run two to a line (173: '=Scotland--West Coast.=      =England--West Coast.', missing its closing '='). Some names wrap onto the next line ('93. Skerryvore and Hynish' / 'Signal Tower, Tiree.'; '143. English and Welsh' / 'Grounds L.V.'). Irish numbers start again at 1, with '5*.' and '8*.' and no number 9 or 35. '=Outlying Stations.=' (245-251) are unnumbered. No keepers or return marks."
+  },
+  {
+   "coast": "FRONT MATTER",
+   "title": "NINTH REPORT ON THE MIGRATION OF BIRDS IN THE SPRING AND AUTUMN OF 1887.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 256,
+   "last_line": 268,
+   "head_examples": [
+    "NINTH REPORT",
+    "THE MIGRATION OF BIRDS",
+    "SPRING AND AUTUMN OF 1887."
+   ],
+   "observations": "none",
+   "note": "Half-title before the first coast."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "EAST OF SCOTLAND.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 269,
+   "last_line": 323,
+   "head_examples": [
+    "Shetland.",
+    "4. N. Unst,",
+    "14. Pentland Skerries,"
+   ],
+   "observations": "none",
+   "note": "Opens with the coast heading (269) and one line of prose (271: 'We repeat the List of Stations with Returns up to date.'), then the sub-heading 'EAST OF SCOTLAND.' (274). It is a table: schedules filled in 1887, returns in 9 years, a '*' for an actual return in 1887, map number and name, light value (roman numeral), and height in feet. The left columns are often blank. Grouped under Shetland / Orkney / Mainland. Entries 26B (Carr Rock Lightship) and 28B (Fidra) wrap onto a second line. There are no keepers here: the note at 276 says they are given under the Diary."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "_Extracts from Diary from the Stations._",
+   "season": "both",
+   "layout": "station",
+   "first_line": 324,
+   "last_line": 443,
+   "head_examples": [
+    "_N. Unst._--John Nichol (principal) says:",
+    "_Sumburgh Head._--Mr James Youngclause.--A very short single schedule.",
+    "_North Ronaldshay._--John Tulloch.--Great numbers of Gulls"
+   ],
+   "observations": "primary",
+   "note": "Begins with two lines of prose (326-328). Each entry is '_Station._--Keeper name(s).--' followed by notes and quotes. Most give keepers' names, so they matter for the roll. One station's entry can run over several paragraphs that do not repeat the station name (N. Unst 330-371; Pentland Skerries 386-417). Bracketed editorial notes end '--J. A. H.-B.]'. Some entries are only a name ('_Buchan Ness._--William Ross.'). A few records (e.g. the Pentland Skerries rush of 1-3 November) are also in the following species report."
+  },
+  {
+   "coast": "EAST COAST OF SCOTLAND",
+   "title": "Separate Report under Genera and Species.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 444,
+   "last_line": 969,
+   "head_examples": [
+    "Turdidæ.--_Thrushes._--Returns commence in _January_,",
+    "Saxicolinæ.--_January._--6th, one \"Stonechat\" (Wheatear?),",
+    "_February._--A single record of Blackbird at Pentland Skerries on 24th."
+   ],
+   "observations": "primary",
+   "note": "Ordered by family, not species. Each family opens mid-line ('Family.--' and then the first month in the same paragraph). The months follow as their own paragraphs ('_Month._--') and never repeat the family name, so a cutter has to carry the family forward. Month order is sometimes broken (Fringillidæ goes back to _August_ after _December_, 638-643), and some months are written without italics ('Hirundinidæ.--May.--'). There are runs of pure prose with no records: Pelecanidæ on Gannets (775-789), the Ardeidæ introduction (791-801, then '_Report._--_March._--'), and the Charadriidæ and Scolopacidæ remarks. Procellariidæ appears twice (857, 932). Lines 966-969 are blank."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 970,
+   "last_line": 983,
+   "head_examples": [
+    "EAST COAST OF ENGLAND.",
+    "Schedules were issued to thirty-four stations, lighthouses, and",
+    "Wings and legs have also been forwarded"
+   ],
+   "observations": "none",
+   "note": "Coast heading and how many schedules were issued and returned."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "East Coast stations included in this report are:--",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 984,
+   "last_line": 1019,
+   "head_examples": [
+    "Longstone L.H.",
+    "Spurn L.V.",
+    "Hanois L.H., Guernsey Charles Williams."
+   ],
+   "observations": "none",
+   "note": "Two columns: station, then keeper(s). '_Nil._' means no return. There are no map numbers. The 'Leman and Ower L.H.' at 1003 is a light-vessel elsewhere in the report. In the last row there is only one space between the station and the keeper ('Hanois L.H., Guernsey Charles Williams.'). 'Nore L.V.             Wm. Little wood (wings).' is split oddly."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 1020,
+   "last_line": 1036,
+   "head_examples": [
+    "In addition to the observations supplied by the light-keepers,",
+    "Notes also bearing on migration have been utilised from the"
+   ],
+   "observations": "none",
+   "note": "Names the observers who are not light-keepers (Redcar, Yarmouth, Tetney, Thanet, etc.). Their notes appear in the diary under place names."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "Diary of Migratory Movements on East Coast of England, 1887.",
+   "season": "both",
+   "layout": "diary",
+   "first_line": 1037,
+   "last_line": 2607,
+   "head_examples": [
+    "January 1st.--[1]_Flambro'_L.H., several flocks of Guillemot about the",
+    "January 4th.--_Tees_ L.V., large flocks Dunlin, Whimbrel, Curlew, one",
+    "March 26th--_Tees_ L.V., five Wagtails."
+   ],
+   "observations": "primary",
+   "note": "Runs January to December under capital month headings (DECEMBER at 2533 has no period). Each entry is 'Month Nth.--' followed by several stations in one paragraph, one after another: '_Name_ L.H.,' / '_Name_ L.V.,', each followed by its wind and weather in parentheses. The station has to be split out mid-line. Not every place is a light: Redcar, Yarmouth, Thanet, Great Cotes, Tetney, Seaton-Carew, Cley and Blakeney, Northrepps and Spurn appear as well. Some are not italicised ('Thanet,' 1257; 'Yarmouth,' 1358; 'Redcar,' 2553). At 1042 '[1]' sits before '_Flambro'_L.H.' with no space. '_S. S. Head_ L.V.' is South Sand Head. Footnotes sit between entries at 1045-1048, 1364-1366 and 1943-1945. 1235 has 'March 26th--' with no period. Lines 1339 and 2602 begin with a month name but continue the entry before them: split only on 'Month Nth.--'. Bracketed asides like 1338 '[A pair nested ...]' fall inside entries. There is no break between spring and autumn."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "List of Wings sent from Lighthouses and Light-vessels, East Coast of England.",
+   "season": "autumn",
+   "layout": "table",
+   "first_line": 2608,
+   "last_line": 2646,
+   "head_examples": [
+    "Spurn L.H.",
+    "Leman and Ower L.V.   Aug.   5.",
+    "Hanois L.H., Guernsey Oct.   6."
+   ],
+   "observations": "summary",
+   "note": "Columns are station, date and species. Ditto marks (\") stand for the station and the month, and the indentation of the ditto rows is uneven. The heading wraps over two lines (2608-2609). Footnotes 4-6 follow at 2636-2644. The dates (Aug-Nov) are not in order under each station. These are specimens, mostly also entered in the diary."
+  },
+  {
+   "coast": "EAST COAST OF ENGLAND",
+   "title": "Summary and General Remarks.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 2647,
+   "last_line": 2787,
+   "head_examples": [
+    "Summary and General Remarks.",
+    "In January depressions of very considerable size passed by our",
+    "In the latter part of February and throughout March there are"
+   ],
+   "observations": "summary",
+   "note": "Retells the diary month by month, with stations and dates. Lines 2784-2787 are blank."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 2788,
+   "last_line": 2795,
+   "head_examples": [
+    "WEST COAST OF SCOTLAND.",
+    "In the same way as we treated of the East Coast returns, we treat the"
+   ],
+   "observations": "none",
+   "note": null
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "LIST OF STATIONS.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 2796,
+   "last_line": 2848,
+   "head_examples": [
+    "81. Cape Wrath,",
+    "83. Butt of Lewis,",
+    "109B. Ailsa Craig, 1885"
+   ],
+   "observations": "none",
+   "note": "Same columns as the East list (schedules 1887, returns in 9 years, '*' for 1887, number and name, value, feet), grouped under Sutherland / Outer Hebrides. After that there are no further group headings. Brace '{' marks span two values (Stornoway; Monach). 93 wraps onto a second line. The names differ from the general list in places ('102. Rhinns of Islay'; '104. Mull of Cantyre'). Keepers are given under the Diary that follows."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "_Diary from the Stations._",
+   "season": "both",
+   "layout": "station",
+   "first_line": 2849,
+   "last_line": 3001,
+   "head_examples": [
+    "_Butt of Lewis._--Mr Robert Agnew, son of Mr Joseph Agnew (now at",
+    "_Monach Isles._--Mr Joseph Agnew (late of Isle of May) sends eight",
+    "_Lochindaul: Islay._--Mr James Edgar sends eight carefully filled"
+   ],
+   "observations": "primary",
+   "note": "Each entry is '_Station._--Mr/Messrs names sends N schedules', then notes and quotes. Entries run over several paragraphs: Monach 2855-2894, including footnote 7 at 2884-2885; Rhinns of Islay 2925-2957; Ailsa Craig 2970-2987. Bracketed editorial notes end '--J. A. H.-B.]'. '_Lamlash._--Unsigned:' has no keeper."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "Remarks.",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 3002,
+   "last_line": 3012,
+   "head_examples": [
+    "Remarks.",
+    "Pelecanidæ.--Of Gannets, by request, we have had a number of schedules"
+   ],
+   "observations": "none",
+   "note": "A single paragraph saying the Gannet schedules are held back. It starts 'Pelecanidæ.--' like a species entry but has no records."
+  },
+  {
+   "coast": "WEST COAST OF SCOTLAND",
+   "title": "Separate Report under Genera and Species.",
+   "season": "both",
+   "layout": "species",
+   "first_line": 3013,
+   "last_line": 3340,
+   "head_examples": [
+    "Turdidæ.--Appears to have been the most numerous migrants in 1887.",
+    "Saxicolinæ.--_February._--8th, one \"Stonechat\" at Little Ross.",
+    "_January._--A rush marked at Ailsa (1886 Report, _q.v._), and a few"
+   ],
+   "observations": "primary",
+   "note": "Built like the East Scotland report: 'Family.--' opens mid-line, and the '_Month._--' paragraphs that follow inherit the family. Months repeat out of order: Phylloscopinæ goes back to _March_ at 3120 for Goldcrests, and Hirundinidæ goes back to _April_ at 3200. Some families are one paragraph with no month headings (Troglodytidæ, Alaudidæ, Corvidæ, Strigidæ, Scolopacidæ). 'Sturninæ and Laridæ.--' and 'Alcidæ, Colymbidæ.--' each cover two families. Some paragraphs only remark and give no records (Accipitinæ, Pelecanidæ, Ardeidæ). Lines 3337-3340 are blank."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 3341,
+   "last_line": 3348,
+   "head_examples": [
+    "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN.",
+    "Schedules and letters of instruction, with stamped envelopes for"
+   ],
+   "observations": "none",
+   "note": "Says that '*' marks the stations that sent returns."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": "The following is an enumeration of the stations included in this section of the Report:--",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 3349,
+   "last_line": 3427,
+   "head_examples": [
+    "115. L.H. Point of Ayre.",
+    "*117. L.H. Langness,            Mr Robert Clyne.",
+    "*121. L.V. Selker,              Messrs Daniel Kneale"
+   ],
+   "observations": "none",
+   "note": "Rows read '[*]No. L.H./L.V. Name, keeper(s)'. A leading '*' means returns were received. The column header is 'No. on Map.' (3352-3353), and groups are Isle of Man / N. W. England / North Wales / South Wales / Bristol Channel / South-Western England. Keeper names wrap onto an indented line (121, 126). 130 St Tudwal's has keepers but no '*'. 144 Usk has a '*' but no keeper. Numbers 119 and 163-167 differ from the general list."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 3428,
+   "last_line": 3437,
+   "head_examples": [
+    "Our best thanks are due to the observers above named for their"
+   ],
+   "observations": "none",
+   "note": "Thanks keepers by surname and station, which can confirm the roll."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": null,
+   "season": "both",
+   "layout": "table",
+   "first_line": 3438,
+   "last_line": 3502,
+   "head_examples": [
+    "Date.       Species.           Station.                      Remarks.",
+    "Mar.  11,   Lapwing,           Sevenstones L.V.,    1 caught.",
+    "April 24,   Willow Warbler,    Eddystone L.H.,       ...."
+   ],
+   "observations": "summary",
+   "note": "Wings sent, with columns date, species, station and remarks (number killed or caught). Ditto marks (\") repeat the month, day, station and 'killed'. Braces '{ }' group several species on one station row (3443-3449, 3497-3499). The counts can go beyond what the diary gives. Species marked '*' in the diary were checked against these wings."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": null,
+   "season": "none",
+   "layout": "prose",
+   "first_line": 3503,
+   "last_line": 3515,
+   "head_examples": [
+    "In addition to the observations furnished by the various Light-keepers,"
+   ],
+   "observations": "none",
+   "note": "Non-keeper sources: Cumberland and Merioneth."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": "Summary of Observations.",
+   "season": "both",
+   "layout": "prose",
+   "first_line": 3516,
+   "last_line": 3643,
+   "head_examples": [
+    "_January._--On several occasions during the month a few Thrushes,",
+    "_March._--The month commenced with a spell of anticyclonic",
+    "_October_ commenced with an anticyclonic stage--cold, dry, and fine,"
+   ],
+   "observations": "summary",
+   "note": "Weather and movements month by month, retold from the diary. Months open as '_Month._--' except October, which runs into the sentence ('_October_ commenced'). There is no July."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": "Diary of the Migratory Movements as Observed at the various Stations.",
+   "season": "none",
+   "layout": "prose",
+   "first_line": 3644,
+   "last_line": 3661,
+   "head_examples": [
+    "Diary of the Migratory Movements as Observed at the various Stations.",
+    "The sequence of the stations is from north to south."
+   ],
+   "observations": "none",
+   "note": "Introduction to the diary, with the Beaufort key in footnote 8 (3651-3655). It explains that '*' marks species verified by wings."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": "Diary of the Migratory Movements as Observed at the various Stations.",
+   "season": "both",
+   "layout": "diary",
+   "first_line": 3662,
+   "last_line": 4996,
+   "head_examples": [
+    "January 1st.--_Bahama Bank_ L.V., large number of Starlings and",
+    "February 7th.--Cumberland, a Grey Phalarope at Silloth.",
+    "November 28th.--_Cumberland_, a female Great Grey Shrike, var."
+   ],
+   "observations": "primary",
+   "note": "Capital month headings (NOVEMBER at 4629 has no period). JULY is missing: JUNE 4051 is followed by AUGUST 4086. Entries are 'Month Nth.--' with several stations running on: '_Name_ L.H./L.V.,' with the wind in parentheses, sometimes the force before the direction ('(4, S.W.; B. C. M.)'). Some station names have italic parts inside them ('_Nash_ (_E._) L.H.', '_Portland_ (_Low_) L.H.'). Non-light places are Cumberland and Merionethshire, and the first is not italicised at 3688. A '*' before a species name (e.g. 'A *Wren') means a wing was sent. Footnote markers like '[9]' and '[10]' sit mid-line; the footnotes themselves are at 4619-4621 and 4948-4950. Lines that look like headings at 3778, 4059 and 4185 are weather symbols wrapped onto their own line."
+  },
+  {
+   "coast": "WEST COAST OF ENGLAND AND WALES, AND THE ISLE OF MAN",
+   "title": null,
+   "season": "none",
+   "layout": "other",
+   "first_line": 4997,
+   "last_line": 5003,
+   "head_examples": [
+    "W. Eagle Clarke.",
+    "Museum of Science and Art, Edinburgh."
+   ],
+   "observations": "none",
+   "note": "Signature ending the section."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": null,
+   "season": "both",
+   "layout": "prose",
+   "first_line": 5004,
+   "last_line": 5186,
+   "head_examples": [
+    "The Report for 1887 on the Irish coast is satisfactory.",
+    "As to rarities, 1887 stands ahead of any other year on the Irish",
+    "Richard M. Barrington. Alexander G. More."
+   ],
+   "observations": "summary",
+   "note": "General remarks. They retell the rarities and the big movements (with stations, dates and keepers' names) that are given in full in the species entries. Some keepers are credited here (5019-5020) and nowhere else. Signed at 5185."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "List of Light Stations.",
+   "season": "none",
+   "layout": "station_list",
+   "first_line": 5187,
+   "last_line": 5248,
+   "head_examples": [
+    "1.  Fastnet, Co. Cork,        5 15 excellent, x  x  8 George Dunleavy.",
+    "5_a_. Hook Tower, Wexford,    1  3 fair.      x  o -- Richard Hamilton.",
+    "12_b_. South Rock Lt.-ship,    1  0 good.      o  x  3 Thomas Cooney and"
+   ],
+   "observations": "none",
+   "note": "Opens with a key of abbreviations (5187-5190). Columns are No., name and county, SF (schedules filled), LW (legs and wings), remarks, Sp and Au (x = returned, o = no reply), MS (miles from shore, '--' for none) and observers. Keeper names wrap onto indented lines (5199-5200, 5202-5204, etc.), and 12_b_ wraps its county ('Down,'). Numbering is odd: '5.*' Coningbeg, '8.*' Arklow North, '14.*' Maidens South against '14.' Maidens North, and new numbers 5_a_, 7_a_, 12_b_. A prose note (5236-5244) lists the stations left out and those added, and the key follows at 5246-5247."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "Legs, Wings, etc., Received.",
+   "season": "both",
+   "layout": "table",
+   "first_line": 5249,
+   "last_line": 5443,
+   "head_examples": [
+    "Greenland Falcon, Rec'd. in flesh, Shot,       28/ 9 mo., Great Skellig.",
+    "Ring Ouzel,      Rec'd. in flesh,  Killed st.,  21/ 9 mo.,  Tuskar.",
+    "Jack Snipe,      Leg and wing,    Killed st., 10/10 mo., Arklow S. Lt.-sh."
+   ],
+   "observations": "summary",
+   "note": "Four blocks, each under its own header and column titles: 5250, then '--continued.' at 5307, 5369 and 5423. Columns are species, how received, how procured, date as 'DD/ M mo.' and station. Ditto marks fill the species and method columns. Species names wrap ('Spotted' / 'Flycatcher,'), and so do stations ('Barrels Rock' / 'Lt.-ship.'). Footnote 11 is at 5304. These are the '[Leg and wing received.]' records in the species entries."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": "List of Birds Noticed.",
+   "season": "none",
+   "layout": "front_matter",
+   "first_line": 5444,
+   "last_line": 5499,
+   "head_examples": [
+    "Eagles,                       122 |",
+    "\"Greenshank,\"                 163 | Puffin,                       169"
+   ],
+   "observations": "none",
+   "note": "Two-column index of the Irish species, with printed page numbers, in two blocks (5444, and '--continued.' at 5485). It is the contents of the species section that follows, not observations."
+  },
+  {
+   "coast": "IRISH COAST",
+   "title": null,
+   "season": "both",
+   "layout": "species",
+   "first_line": 5500,
+   "last_line": 8161,
+   "head_examples": [
+    "Eagles.",
+    "Greenland Falcon (_Falco candicans_, Gmel.).",
+    "_Skelligs._--September 28th, one \"Jer Falcon,\" 4.30 P.M.; wind strong"
+   ],
+   "observations": "primary",
+   "note": "Each species heading is a line of its own, with blank lines around it: an English name, usually followed by '(_Latin_, Authority).', or a quoted name ('\"Stonechat.\"', '\"Tits.\"', '\"Geese.\"'). Two headings span two lines (7459-7460 Common Snipe and Jack Snipe; 7904-7905 Cormorant and Shag). 7004 has its Latin name without underscores. Under each heading there is one paragraph per station, '_Station._--Month Nth, ...', running round the coast from Fastnet. A cutter can split into species × station. Exceptions: 6302 'Tory Island.--' has no underscores, and 7534 (\"Greenshank.\") has no station at all. Station names include light-ship forms ('_Coningbeg Light-ship._', '_Arklow South Light-ship._') and '_South Maidens._'/'_North Maidens._'. Some entries carry dates from January 1888. Editorial brackets ('[Leg and wing received.]', '--R. M. B.]') fall mid-entry and can begin a line (5764, 6553), and some entries just point elsewhere ('(See under Starling.)'). Ends with 'Birds not Identified.' (8151-8159) and a row of asterisks at 8162 that is not part of it."
+  },
+  {
+   "coast": "PROJECT GUTENBERG LICENCE",
+   "title": "Transcriber Note / FULL LICENSE",
+   "season": "none",
+   "layout": "other",
+   "first_line": 8162,
+   "last_line": 8524,
+   "head_examples": [
+    "Transcriber Note",
+    "*** END OF THE PROJECT GUTENBERG EBOOK",
+    "START: FULL LICENSE"
+   ],
+   "observations": "none",
+   "note": "Asterisk divider (8162), transcriber's note that tables were rearranged and abbreviated (8165-8169), then the Gutenberg end marker and licence."
+  }
+ ],
+ "notes": "The file has CRLF line endings, so a regex anchored with '$' needs '\\r?$'. Line numbers are the Read tool's. The 33 sections cover lines 1-8524 with no gaps or overlaps.\n\nWhere the observations are, by coast:\n- East and West Scotland have no diary. Their records are in the station extracts and the species reports, which are ordered by family. In both reports the family name opens mid-line ('Turdidæ.--', 'Saxicolinæ.--_January._--') and is not repeated on the '_Month._--' paragraphs that follow, so a cutter has to carry it forward.\n- The two English coasts have diaries: 'Month Nth.--' entries in which several stations run on in one paragraph, each followed by its weather in parentheses.\n- Ireland is ordered by species, with one '_Station._--' paragraph per station under each species heading.\n\nSections marked 'summary' repeat records that are given in full elsewhere: the general remarks, and the wing and leg tables, which also confirm identifications. Station lists are marked station_list with observations none.\n\nThings I left as printed rather than splitting further:\n- The diaries are marked season 'both', because the report never divides them into spring and autumn; only month headings mark the time.\n- The West England diary has no July.\n- The East Scotland species report contains prose with no records (Gannets 775-789; Herons 791-801), and so does the West Scotland 'Remarks.' at 3002-3012.\n\nKeeper names, which matter for the roll, are in five places:\n- the East England list, 984-1019;\n- the West England list, 3349-3427, plus surnames in the thanks at 3428-3437;\n- the Irish list, 5187-5248, plus names in the Irish preface (e.g. 5019-5020, 5037-5042);\n- the station entries for East Scotland (324-443) and West Scotland (2849-3001), which are not in a list at all.",
+ "_meta": {
+  "year": 1887,
+  "source": "sources/gutenberg/1887_pg66152.txt",
+  "cost_usd": 1.7309350000000001
+ }
+}
